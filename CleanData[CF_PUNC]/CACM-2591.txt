@@ -1,0 +1,1 @@
+numerical inversion of laplace transform algorithm a486 cacm October, 1974 Veillon, F. laplace transform inversion 5.16 ca741007 jb january 16, 1978 11:17 am

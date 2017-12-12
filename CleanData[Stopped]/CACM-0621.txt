@@ -1,0 +1,1 @@
+romberg integration algorithm 60 cacm March, 1962 thacher jr H. C. ca620311 jb march 20, 1978 3:01 pm

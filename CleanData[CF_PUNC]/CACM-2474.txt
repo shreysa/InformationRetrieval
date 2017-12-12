@@ -1,0 +1,1 @@
+difsub for solution of ordinary differential equations algorithm c407 cacm July, 1973 Nikolai, P. J. differential equations stiff differential equations boundary value problems 5.17 ca730712 jb january 23, 1978 11:16 am

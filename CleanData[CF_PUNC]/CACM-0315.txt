@@ -1,0 +1,1 @@
+solution of tridiagonal matrices cacm July, 1961 Wenrick, R. C. ca610702 jb march 16, 1978 10:28 pm

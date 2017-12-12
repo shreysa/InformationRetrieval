@@ -1,0 +1,1 @@
+character manipulation in fortran cacm February, 1963 Lewis, T. S. ca630205 jb march 14, 1978 2:20 pm

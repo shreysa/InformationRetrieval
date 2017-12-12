@@ -1,0 +1,900 @@
+
+<document>
+<qid>3<\qid>
+<rank>1<\rank>
+<doc>CACM-0929<\doc>
+<snippet>
+ConstructionCACM February, 1963Grems, <b>M.CA630204<\b> JB March 14, 
+<\snippet>
+<\document>
+
+<document>
+<qid>3<\qid>
+<rank>2<\rank>
+<doc>CACM-0249<\doc>
+<snippet>
+Languages for Mechanical Languagesand Their Processors*-A <b>Baker's<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>3<\qid>
+<rank>3<\rank>
+<doc>CACM-2316<\doc>
+<snippet>
+<b>Languages:<\b> History and FutureThis paper discusses both 
+<\snippet>
+<\document>
+
+<document>
+<qid>3<\qid>
+<rank>4<\rank>
+<doc>CACM-2603<\doc>
+<snippet>
+Equivalence of Reducing TransitionLanguages and Deterministic LanguagesThe 
+<\snippet>
+<\document>
+
+<document>
+<qid>3<\qid>
+<rank>5<\rank>
+<doc>CACM-1138<\doc>
+<snippet>
+in Programming Languages*CACM February, 1964Iverson, K. E.CA640205 
+<\snippet>
+<\document>
+
+<document>
+<qid>3<\qid>
+<rank>6<\rank>
+<doc>CACM-0077<\doc>
+<snippet>
+GAT and the Construction of TranslatorsCACM <b>July,<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>3<\qid>
+<rank>7<\rank>
+<doc>CACM-1313<\doc>
+<snippet>
+of Nonlinear Programming Test ProblemsCACM February, 1965Rosen, 
+<\snippet>
+<\document>
+
+<document>
+<qid>3<\qid>
+<rank>8<\rank>
+<doc>CACM-0100<\doc>
+<snippet>
+Subscripting Compilers and List-Types MemoriesCACM <b>February,<\b> 1959Carr 
+<\snippet>
+<\document>
+
+<document>
+<qid>3<\qid>
+<rank>9<\rank>
+<doc>CACM-0463<\doc>
+<snippet>
+Ambiguity in Phrase Structure LanguagesCACM October, <b>1962Floyd,<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>3<\qid>
+<rank>10<\rank>
+<doc>CACM-1466<\doc>
+<snippet>
+Summary on Graphical LanguagesCACM March, 1966CA660306 JB 
+<\snippet>
+<\document>
+
+<document>
+<qid>3<\qid>
+<rank>11<\rank>
+<doc>CACM-0051<\doc>
+<snippet>
+<b>the<\b> <b>Construction<\b> <b>of<\b> <b>Micro-FlowchartsCACM<\b> <b>October,<\b> <b>1959Gorn,<\b> <b>S.Ingerman,<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>3<\qid>
+<rank>12<\rank>
+<doc>CACM-1142<\doc>
+<snippet>
+Extension of ALGOL-Like LanguagesCACM February, 1964 Rose, 
+<\snippet>
+<\document>
+
+<document>
+<qid>3<\qid>
+<rank>13<\rank>
+<doc>CACM-2587<\doc>
+<snippet>
+the Construction of <b>a<\b> Representative Synthetic Workload 
+<\snippet>
+<\document>
+
+<document>
+<qid>3<\qid>
+<rank>14<\rank>
+<doc>CACM-2411<\doc>
+<snippet>
+ProgramsCACM November, 1973Wegner, E.control <b>structures,<\b> flowcharts, goto 
+<\snippet>
+<\document>
+
+<document>
+<qid>3<\qid>
+<rank>15<\rank>
+<doc>CACM-1496<\doc>
+<snippet>
+<b>Formal<\b> Semantics for Computer Languagesand its Application 
+<\snippet>
+<\document>
+
+<document>
+<qid>3<\qid>
+<rank>16<\rank>
+<doc>CACM-2814<\doc>
+<snippet>
+of Programming Languages for 1974-75 CACM December, 
+<\snippet>
+<\document>
+
+<document>
+<qid>3<\qid>
+<rank>17<\rank>
+<doc>CACM-2295<\doc>
+<snippet>
+on the Composition of Semantics <b>in<\b> <b>Algol<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>3<\qid>
+<rank>18<\rank>
+<doc>CACM-1098<\doc>
+<snippet>
+Comparison of <b>List-Processing<\b> Computer Languages(Including a Detailed 
+<\snippet>
+<\document>
+
+<document>
+<qid>3<\qid>
+<rank>19<\rank>
+<doc>CACM-2551<\doc>
+<snippet>
+Recursion in <b>Algol<\b> 60 Using Restricted CompilersCACM 
+<\snippet>
+<\document>
+
+<document>
+<qid>3<\qid>
+<rank>20<\rank>
+<doc>CACM-1102<\doc>
+<snippet>
+Languages: A Course SpecificationCACM April, 1964Gorn, <b>S.CA640406<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>3<\qid>
+<rank>21<\rank>
+<doc>CACM-0651<\doc>
+<snippet>
+Survey <b>of<\b> Languages and Systems for Information 
+<\snippet>
+<\document>
+
+<document>
+<qid>3<\qid>
+<rank>22<\rank>
+<doc>CACM-0205<\doc>
+<snippet>
+<b>Instruction<\b> Extensions of Compiler LanguagesMacroinstruction compilers constructed 
+<\snippet>
+<\document>
+
+<document>
+<qid>3<\qid>
+<rank>23<\rank>
+<doc>CACM-2066<\doc>
+<snippet>
+Algol Construction for Procedures <b>as<\b> <b>Parameters<\b> <b>of<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>3<\qid>
+<rank>24<\rank>
+<doc>CACM-1366<\doc>
+<snippet>
+Simulation-Discussion of theTechnique and Comparison of Languages 
+<\snippet>
+<\document>
+
+<document>
+<qid>3<\qid>
+<rank>25<\rank>
+<doc>CACM-0762<\doc>
+<snippet>
+Remarks on the <b>Syntax<\b> of Symbolic Programming 
+<\snippet>
+<\document>
+
+<document>
+<qid>3<\qid>
+<rank>26<\rank>
+<doc>CACM-0920<\doc>
+<snippet>
+Better Documentation <b>of<\b> Programming LanguagesCACM March, 1963Yngve, 
+<\snippet>
+<\document>
+
+<document>
+<qid>3<\qid>
+<rank>27<\rank>
+<doc>CACM-2658<\doc>
+<snippet>
+Alternative Approach to Mutual Recursionin Algol <b>60<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>3<\qid>
+<rank>28<\rank>
+<doc>CACM-2659<\doc>
+<snippet>
+Remarks on Lookup of Structured VariablesCACM April, 
+<\snippet>
+<\document>
+
+<document>
+<qid>3<\qid>
+<rank>29<\rank>
+<doc>CACM-0857<\doc>
+<snippet>
+Nonredundant Files-Techniques Used in the FACT CompilerSome 
+<\snippet>
+<\document>
+
+<document>
+<qid>3<\qid>
+<rank>30<\rank>
+<doc>CACM-1459<\doc>
+<snippet>
+for Real-Time LanguagesReal-time languages <b>have<\b> different requirementsfrom 
+<\snippet>
+<\document>
+
+<document>
+<qid>3<\qid>
+<rank>31<\rank>
+<doc>CACM-0070<\doc>
+<snippet>
+of a Set <b>of<\b> Test MatricesThis paper 
+<\snippet>
+<\document>
+
+<document>
+<qid>3<\qid>
+<rank>32<\rank>
+<doc>CACM-1703<\doc>
+<snippet>
+Standards and Identification of Programming LanguagesThe user 
+<\snippet>
+<\document>
+
+<document>
+<qid>3<\qid>
+<rank>33<\rank>
+<doc>CACM-2061<\doc>
+<snippet>
+Algorithm <b>for<\b> the Construction Of Bounded-Context ParsersAn 
+<\snippet>
+<\document>
+
+<document>
+<qid>3<\qid>
+<rank>34<\rank>
+<doc>CACM-1306<\doc>
+<snippet>
+Class <b>of<\b> Unambiguous Computer LanguagesDiscussed in this 
+<\snippet>
+<\document>
+
+<document>
+<qid>3<\qid>
+<rank>35<\rank>
+<doc>CACM-0799<\doc>
+<snippet>
+of a Separable <b>Transition-Diagram<\b> Compiler*A COBOL compiler 
+<\snippet>
+<\document>
+
+<document>
+<qid>3<\qid>
+<rank>36<\rank>
+<doc>CACM-1723<\doc>
+<snippet>
+Construction of Project NetworksProject networks <b>are<\b> used 
+<\snippet>
+<\document>
+
+<document>
+<qid>3<\qid>
+<rank>37<\rank>
+<doc>CACM-1387<\doc>
+<snippet>
+the explosive growth in the intermediate equations and the hazardswhich 
+<\snippet>
+<\document>
+
+<document>
+<qid>3<\qid>
+<rank>38<\rank>
+<doc>CACM-2317<\doc>
+<snippet>
+Systems and Languages 1965-1975In spite of impressive 
+<\snippet>
+<\document>
+
+<document>
+<qid>3<\qid>
+<rank>39<\rank>
+<doc>CACM-1360<\doc>
+<snippet>
+of Systems <b>Used<\b> for Data Transmission* (An 
+<\snippet>
+<\document>
+
+<document>
+<qid>3<\qid>
+<rank>40<\rank>
+<doc>CACM-1787<\doc>
+<snippet>
+of Transition <b>Matrices<\b> in CompilingAn algorithms is 
+<\snippet>
+<\document>
+
+<document>
+<qid>3<\qid>
+<rank>41<\rank>
+<doc>CACM-0303<\doc>
+<snippet>
+<b>Basic<\b> Terminology Connected WithMechanical Languages and Their 
+<\snippet>
+<\document>
+
+<document>
+<qid>3<\qid>
+<rank>42<\rank>
+<doc>CACM-2939<\doc>
+<snippet>
+Mechanisms <b>in<\b> CLUCLU is a new programming 
+<\snippet>
+<\document>
+
+<document>
+<qid>3<\qid>
+<rank>43<\rank>
+<doc>CACM-1007<\doc>
+<snippet>
+of Existing Compilers By Sophisticated Use <b>of<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>3<\qid>
+<rank>44<\rank>
+<doc>CACM-1565<\doc>
+<snippet>
+Language-Independent <b>Macro<\b> ProcessorA macro processor is described 
+<\snippet>
+<\document>
+
+<document>
+<qid>3<\qid>
+<rank>45<\rank>
+<doc>CACM-2867<\doc>
+<snippet>
+and Hierarchy in a Family of Operating 
+<\snippet>
+<\document>
+
+<document>
+<qid>3<\qid>
+<rank>46<\rank>
+<doc>CACM-0628<\doc>
+<snippet>
+a Floating-Point Number RepresentationFor Use with Algorithmic 
+<\snippet>
+<\document>
+
+<document>
+<qid>3<\qid>
+<rank>47<\rank>
+<doc>CACM-1134<\doc>
+<snippet>
+codesprompted the development of <b>an<\b> intermediate language reflecting the structure 
+<\snippet>
+<\document>
+
+<document>
+<qid>3<\qid>
+<rank>48<\rank>
+<doc>CACM-2112<\doc>
+<snippet>
+EquationsInput limited transduction expressions, or translation equations,are 
+<\snippet>
+<\document>
+
+<document>
+<qid>3<\qid>
+<rank>49<\rank>
+<doc>CACM-0637<\doc>
+<snippet>
+<b>NELIAC-Generated<\b> 7090-1401 CompilerNELIAC systems for several different 
+<\snippet>
+<\document>
+
+<document>
+<qid>3<\qid>
+<rank>50<\rank>
+<doc>CACM-1852<\doc>
+<snippet>
+Base for a <b>Mobile<\b> Programming SystemAn algorithm 
+<\snippet>
+<\document>
+
+<document>
+<qid>3<\qid>
+<rank>51<\rank>
+<doc>CACM-2782<\doc>
+<snippet>
+Reply to Gentleman and MarovichCACM March, <b>1975Karp,<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>3<\qid>
+<rank>52<\rank>
+<doc>CACM-3099<\doc>
+<snippet>
+Sufficient Optimality <b>Conditions<\b> forInteger Programming and their 
+<\snippet>
+<\document>
+
+<document>
+<qid>3<\qid>
+<rank>53<\rank>
+<doc>CACM-1457<\doc>
+<snippet>
+Manipulation <b>and<\b> Programming Problemsin Automatic Information RetrievalAutomatic 
+<\snippet>
+<\document>
+
+<document>
+<qid>3<\qid>
+<rank>54<\rank>
+<doc>CACM-1533<\doc>
+<snippet>
+Marovian Model of the <b>University<\b> of Michigan 
+<\snippet>
+<\document>
+
+<document>
+<qid>3<\qid>
+<rank>55<\rank>
+<doc>CACM-1678<\doc>
+<snippet>
+Formal Languages, Abstract Switching,and Computability in a 
+<\snippet>
+<\document>
+
+<document>
+<qid>3<\qid>
+<rank>56<\rank>
+<doc>CACM-1467<\doc>
+<snippet>
+Graphical ServiceSystem <b>With<\b> <b>Variable<\b> <b>SyntaxMan-machine<\b> <b>interaction<\b> <b>in<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>3<\qid>
+<rank>57<\rank>
+<doc>CACM-1402<\doc>
+<snippet>
+obtaining functional values at points intermediate to the integration points 
+<\snippet>
+<\document>
+
+<document>
+<qid>3<\qid>
+<rank>58<\rank>
+<doc>CACM-2886<\doc>
+<snippet>
+Evaluation from <b>Left<\b> <b>to<\b> <b>RightThis<\b> <b>paper<\b> <b>describes<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>3<\qid>
+<rank>59<\rank>
+<doc>CACM-3148<\doc>
+<snippet>
+Level Programming for Distributed ComputingProgramming for <b>distributed<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>3<\qid>
+<rank>60<\rank>
+<doc>CACM-0252<\doc>
+<snippet>
+a Duplex Computer SystemThis paper describes a 
+<\snippet>
+<\document>
+
+<document>
+<qid>3<\qid>
+<rank>61<\rank>
+<doc>CACM-1484<\doc>
+<snippet>
+Language for Describing the Functions of <b>Synchronous<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>3<\qid>
+<rank>62<\rank>
+<doc>CACM-2254<\doc>
+<snippet>
+Partitioning for Array LanguagesThe classical process of 
+<\snippet>
+<\document>
+
+<document>
+<qid>3<\qid>
+<rank>63<\rank>
+<doc>CACM-3102<\doc>
+<snippet>
+of Units into Programming LanguagesThe issues <b>of<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>3<\qid>
+<rank>64<\rank>
+<doc>CACM-3030<\doc>
+<snippet>
+Example of Hierarchical Design and ProofHierarchical programming 
+<\snippet>
+<\document>
+
+<document>
+<qid>3<\qid>
+<rank>65<\rank>
+<doc>CACM-1835<\doc>
+<snippet>
+IITRAN Programming LanguageThe IITRAN language, developed to 
+<\snippet>
+<\document>
+
+<document>
+<qid>3<\qid>
+<rank>66<\rank>
+<doc>CACM-2705<\doc>
+<snippet>
+Languages, Natural Languages, <b>and<\b> MathematicsSome social aspects 
+<\snippet>
+<\document>
+
+<document>
+<qid>3<\qid>
+<rank>67<\rank>
+<doc>CACM-0689<\doc>
+<snippet>
+<b>of<\b> a Visit to Discuss Common ProgrammingLanguages 
+<\snippet>
+<\document>
+
+<document>
+<qid>3<\qid>
+<rank>68<\rank>
+<doc>CACM-3171<\doc>
+<snippet>
+Numbers <b>Made<\b> CheapA technique is described for 
+<\snippet>
+<\document>
+
+<document>
+<qid>3<\qid>
+<rank>69<\rank>
+<doc>CACM-3150<\doc>
+<snippet>
+Programming LanguagesAs computer technology matures, our growing 
+<\snippet>
+<\document>
+
+<document>
+<qid>3<\qid>
+<rank>70<\rank>
+<doc>CACM-2652<\doc>
+<snippet>
+of Compilation <b>Costs<\b> Through Language ContractionProgramming languages 
+<\snippet>
+<\document>
+
+<document>
+<qid>3<\qid>
+<rank>71<\rank>
+<doc>CACM-2111<\doc>
+<snippet>
+Correction in <b>Systems<\b> ProgramsSeveral specialized techniques are 
+<\snippet>
+<\document>
+
+<document>
+<qid>3<\qid>
+<rank>72<\rank>
+<doc>CACM-3115<\doc>
+<snippet>
+natural number corresponds to two intermediate vectors.  These vectors 
+<\snippet>
+<\document>
+
+<document>
+<qid>3<\qid>
+<rank>73<\rank>
+<doc>CACM-0596<\doc>
+<snippet>
+Arithmetic in COBOLIn this <b>paper<\b> <b>the<\b> <b>basic<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>3<\qid>
+<rank>74<\rank>
+<doc>CACM-3056<\doc>
+<snippet>
+Large Numbers <b>of<\b> Events in Small RegistersIt 
+<\snippet>
+<\document>
+
+<document>
+<qid>3<\qid>
+<rank>75<\rank>
+<doc>CACM-1314<\doc>
+<snippet>
+Organization of Symbol TablesAn efficient <b>symbol<\b> table 
+<\snippet>
+<\document>
+
+<document>
+<qid>3<\qid>
+<rank>76<\rank>
+<doc>CACM-2647<\doc>
+<snippet>
+on Algorithms <b>that<\b> Reveal Propertiesof Floating Point 
+<\snippet>
+<\document>
+
+<document>
+<qid>3<\qid>
+<rank>77<\rank>
+<doc>CACM-0464<\doc>
+<snippet>
+Analysis by Digital ComputerThis paper <b>provides<\b> <b>an<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>3<\qid>
+<rank>78<\rank>
+<doc>CACM-2645<\doc>
+<snippet>
+Languages for Estimating Program EfficiencyTwo languages enabling 
+<\snippet>
+<\document>
+
+<document>
+<qid>3<\qid>
+<rank>79<\rank>
+<doc>CACM-2406<\doc>
+<snippet>
+<b>Data<\b> Definition and Mapping LanguageA data definition 
+<\snippet>
+<\document>
+
+<document>
+<qid>3<\qid>
+<rank>80<\rank>
+<doc>CACM-1485<\doc>
+<snippet>
+Structure of Programming <b>LanguagesIn<\b> this paper the 
+<\snippet>
+<\document>
+
+<document>
+<qid>3<\qid>
+<rank>81<\rank>
+<doc>CACM-2305<\doc>
+<snippet>
+"Plankalkul" of Konrad Zuse: A Forerunnerof <b>Today's<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>3<\qid>
+<rank>82<\rank>
+<doc>CACM-1788<\doc>
+<snippet>
+a General Processor for <b>Programming<\b> LanguagesMany efforts 
+<\snippet>
+<\document>
+
+<document>
+<qid>3<\qid>
+<rank>83<\rank>
+<doc>CACM-1807<\doc>
+<snippet>
+of Expressions <b>in<\b> FortranA method of optimizing 
+<\snippet>
+<\document>
+
+<document>
+<qid>3<\qid>
+<rank>84<\rank>
+<doc>CACM-2684<\doc>
+<snippet>
+Systems: or Can We Do Better <b>than<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>3<\qid>
+<rank>85<\rank>
+<doc>CACM-1572<\doc>
+<snippet>
+Simulation of Time sharing SystemsThe <b>development<\b> of 
+<\snippet>
+<\document>
+
+<document>
+<qid>3<\qid>
+<rank>86<\rank>
+<doc>CACM-2572<\doc>
+<snippet>
+for <b>a<\b> Moratorium on the Constructionof a 
+<\snippet>
+<\document>
+
+<document>
+<qid>3<\qid>
+<rank>87<\rank>
+<doc>CACM-1365<\doc>
+<snippet>
+Monotonous <b>Mathematics<\b> with FORMACThe <b>FORMAC<\b> (FORmula MAnipulation 
+<\snippet>
+<\document>
+
+<document>
+<qid>3<\qid>
+<rank>88<\rank>
+<doc>CACM-2495<\doc>
+<snippet>
+Optimal Code Generation for <b>ArithmeticExpressions<\b> to the 
+<\snippet>
+<\document>
+
+<document>
+<qid>3<\qid>
+<rank>89<\rank>
+<doc>CACM-3105<\doc>
+<snippet>
+Language Extension for Expressing Constraints <b>on<\b> Data 
+<\snippet>
+<\document>
+
+<document>
+<qid>3<\qid>
+<rank>90<\rank>
+<doc>CACM-1916<\doc>
+<snippet>
+of Boolean <b>Program<\b> Models for Time-Shared, Paged 
+<\snippet>
+<\document>
+
+<document>
+<qid>3<\qid>
+<rank>91<\rank>
+<doc>CACM-3124<\doc>
+<snippet>
+Data Structures in <b>APLA<\b> mathematical study of 
+<\snippet>
+<\document>
+
+<document>
+<qid>3<\qid>
+<rank>92<\rank>
+<doc>CACM-1783<\doc>
+<snippet>
+ConversionsByan in-and-out conversion we mean that a 
+<\snippet>
+<\document>
+
+<document>
+<qid>3<\qid>
+<rank>93<\rank>
+<doc>CACM-1251<\doc>
+<snippet>
+Standard and <b>IFIP/ICC<\b> Vocabularies comparedThe "Proposed American 
+<\snippet>
+<\document>
+
+<document>
+<qid>3<\qid>
+<rank>94<\rank>
+<doc>CACM-1185<\doc>
+<snippet>
+program to Solve <b>the<\b> Pentomino Problem by 
+<\snippet>
+<\document>
+
+<document>
+<qid>3<\qid>
+<rank>95<\rank>
+<doc>CACM-1029<\doc>
+<snippet>
+given function, by introduction of intermediate variables,into a series of 
+<\snippet>
+<\document>
+
+<document>
+<qid>3<\qid>
+<rank>96<\rank>
+<doc>CACM-2579<\doc>
+<snippet>
+Allocation Via Usage CountsThis <b>paper<\b> introduces the 
+<\snippet>
+<\document>
+
+<document>
+<qid>3<\qid>
+<rank>97<\rank>
+<doc>CACM-2558<\doc>
+<snippet>
+in Programming LanguagesLinguistic mechanisms which can <b>be<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>3<\qid>
+<rank>98<\rank>
+<doc>CACM-3093<\doc>
+<snippet>
+Error Recovery for <b>LR<\b> <b>ParsersIn<\b> <b>this<\b> <b>paper<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>3<\qid>
+<rank>99<\rank>
+<doc>CACM-1383<\doc>
+<snippet>
+of the Digital Computerfor Education In <b>the<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>3<\qid>
+<rank>100<\rank>
+<doc>CACM-1392<\doc>
+<snippet>
+with FORMAC Algorithm DesignVarious <b>facets<\b> of the 
+<\snippet>
+<\document>

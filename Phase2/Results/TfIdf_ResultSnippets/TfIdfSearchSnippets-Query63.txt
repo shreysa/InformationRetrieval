@@ -1,0 +1,900 @@
+
+<document>
+<qid>63<\qid>
+<rank>1<\rank>
+<doc>CACM-0371<\doc>
+<snippet>
+on Algorithms 2 and <b>3,<\b> Algorithm 15 
+<\snippet>
+<\document>
+
+<document>
+<qid>63<\qid>
+<rank>2<\rank>
+<doc>CACM-3061<\doc>
+<snippet>
+of Dynamic Sequential Search AlgorithmsNoneCACM September, 1978Tenenbaum, 
+<\snippet>
+<\document>
+
+<document>
+<qid>63<\qid>
+<rank>3<\rank>
+<doc>CACM-2973<\doc>
+<snippet>
+on a Mesh-Connected Parallel ComputerTwo algorithms are presented for sorting 
+<\snippet>
+<\document>
+
+<document>
+<qid>63<\qid>
+<rank>4<\rank>
+<doc>CACM-1795<\doc>
+<snippet>
+Code for <b>Serial<\b> and Parallel ComputationCACM December, 
+<\snippet>
+<\document>
+
+<document>
+<qid>63<\qid>
+<rank>5<\rank>
+<doc>CACM-1158<\doc>
+<snippet>
+Structures for <b>Parallel<\b> ProcessingConstructs for organizing and 
+<\snippet>
+<\document>
+
+<document>
+<qid>63<\qid>
+<rank>6<\rank>
+<doc>CACM-0141<\doc>
+<snippet>
+Thoughts <b>on<\b> <b>Parallel<\b> <b>ProcessingCACM<\b> <b>October,<\b> <b>1960Yarbrough,<\b> <b>L.<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>63<\qid>
+<rank>7<\rank>
+<doc>CACM-2714<\doc>
+<snippet>
+with <b>Parallel<\b> ProcessorsConsider two linearly ordered sets 
+<\snippet>
+<\document>
+
+<document>
+<qid>63<\qid>
+<rank>8<\rank>
+<doc>CACM-1302<\doc>
+<snippet>
+Signaling Speeds for <b>Data<\b> Transmission(Proposed American <b>Stand<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>63<\qid>
+<rank>9<\rank>
+<doc>CACM-2685<\doc>
+<snippet>
+Parallel Execution of DO <b>LoopsMethods<\b> are developed 
+<\snippet>
+<\document>
+
+<document>
+<qid>63<\qid>
+<rank>10<\rank>
+<doc>CACM-2325<\doc>
+<snippet>
+Mathematics and Computer ScienceNumerical <b>mathematics<\b> is viewed 
+<\snippet>
+<\document>
+
+<document>
+<qid>63<\qid>
+<rank>11<\rank>
+<doc>CACM-2896<\doc>
+<snippet>
+Exercise in Proving Parallel Programs CorrectA parallel 
+<\snippet>
+<\document>
+
+<document>
+<qid>63<\qid>
+<rank>12<\rank>
+<doc>CACM-2007<\doc>
+<snippet>
+Policy/Revised August 1970CACM August, 1970CA700814 <b>JB<\b> February 
+<\snippet>
+<\document>
+
+<document>
+<qid>63<\qid>
+<rank>13<\rank>
+<doc>CACM-0392<\doc>
+<snippet>
+on A Paper on Parallel <b>ProcessingCACM<\b> February, 
+<\snippet>
+<\document>
+
+<document>
+<qid>63<\qid>
+<rank>14<\rank>
+<doc>CACM-2781<\doc>
+<snippet>
+Algorithm Sequential <b>Access<\b> Method:An Alternative to Index 
+<\snippet>
+<\document>
+
+<document>
+<qid>63<\qid>
+<rank>15<\rank>
+<doc>CACM-2884<\doc>
+<snippet>
+New Permutation <b>AlgorithmsClassical<\b> permutation enumeration algorithms encounterspecial cases requiring additional 
+<\snippet>
+<\document>
+
+<document>
+<qid>63<\qid>
+<rank>16<\rank>
+<doc>CACM-3075<\doc>
+<snippet>
+Parallel Sorting AlgorithmsA parallel <b>bucket-sort<\b> algorithm is 
+<\snippet>
+<\document>
+
+<document>
+<qid>63<\qid>
+<rank>17<\rank>
+<doc>CACM-1262<\doc>
+<snippet>
+Language Statements <b>to<\b> Facilitate Parallel ProcessingTwo statements 
+<\snippet>
+<\document>
+
+<document>
+<qid>63<\qid>
+<rank>18<\rank>
+<doc>CACM-2266<\doc>
+<snippet>
+Highly Parallel Algorithm <b>for<\b> ApproximatingAll Zeros of 
+<\snippet>
+<\document>
+
+<document>
+<qid>63<\qid>
+<rank>19<\rank>
+<doc>CACM-1660<\doc>
+<snippet>
+By Subject <b>To<\b> algorithms, 1960-1968CACM December, 1968CA681206 
+<\snippet>
+<\document>
+
+<document>
+<qid>63<\qid>
+<rank>20<\rank>
+<doc>CACM-2700<\doc>
+<snippet>
+A Method of Proving Properties of Parallel 
+<\snippet>
+<\document>
+
+<document>
+<qid>63<\qid>
+<rank>21<\rank>
+<doc>CACM-0270<\doc>
+<snippet>
+for Storage Allocation Algorithms <b>CACM<\b> October, 1961Kelley 
+<\snippet>
+<\document>
+
+<document>
+<qid>63<\qid>
+<rank>22<\rank>
+<doc>CACM-3166<\doc>
+<snippet>
+Standard Deviations: AccuracyFour <b>algorithms<\b> for the numerical computationof 
+<\snippet>
+<\document>
+
+<document>
+<qid>63<\qid>
+<rank>23<\rank>
+<doc>CACM-1342<\doc>
+<snippet>
+Problem (Algorithms 293 [H])CACM December, <b>1966Bayer,<\b> G.CA661207a 
+<\snippet>
+<\document>
+
+<document>
+<qid>63<\qid>
+<rank>24<\rank>
+<doc>CACM-2417<\doc>
+<snippet>
+Combinatorial Algorithms [G6] (Algorithm <b>A466)CACM<\b> November, 1973Ehrlich, 
+<\snippet>
+<\document>
+
+<document>
+<qid>63<\qid>
+<rank>25<\rank>
+<doc>CACM-2226<\doc>
+<snippet>
+Gue et al, with two algorithms for thezero-one linear programming 
+<\snippet>
+<\document>
+
+<document>
+<qid>63<\qid>
+<rank>26<\rank>
+<doc>CACM-2785<\doc>
+<snippet>
+Programming Language for Illiac <b>IVGLYPNIR<\b> is one 
+<\snippet>
+<\document>
+
+<document>
+<qid>63<\qid>
+<rank>27<\rank>
+<doc>CACM-1551<\doc>
+<snippet>
+Arithmetic ExpressionsThis paper deals with algorithms concerning <b>arithmeticexpressions<\b> used in 
+<\snippet>
+<\document>
+
+<document>
+<qid>63<\qid>
+<rank>28<\rank>
+<doc>CACM-2182<\doc>
+<snippet>
+Driven ProgrammingCACM <b>July,<\b> 1971Zelkowitz, M.interrupts, supervisors, monitors, 
+<\snippet>
+<\document>
+
+<document>
+<qid>63<\qid>
+<rank>29<\rank>
+<doc>CACM-0804<\doc>
+<snippet>
+<b>of<\b> Series (Algorithms 134)CACM July, 1963Thacher Jr., 
+<\snippet>
+<\document>
+
+<document>
+<qid>63<\qid>
+<rank>30<\rank>
+<doc>CACM-2950<\doc>
+<snippet>
+presents a scheme for classifyingscheduling algorithms based on an abstract 
+<\snippet>
+<\document>
+
+<document>
+<qid>63<\qid>
+<rank>31<\rank>
+<doc>CACM-1601<\doc>
+<snippet>
+Numerical Methods for the Solution of EquationsClassical 
+<\snippet>
+<\document>
+
+<document>
+<qid>63<\qid>
+<rank>32<\rank>
+<doc>CACM-0121<\doc>
+<snippet>
+Computation Control and LabellingCACM <b>November,<\b> 1960Holt, A.CA601114 
+<\snippet>
+<\document>
+
+<document>
+<qid>63<\qid>
+<rank>33<\rank>
+<doc>CACM-2679<\doc>
+<snippet>
+Performance Tests <b>of<\b> "quicksort" and DescendantsDetailed performance 
+<\snippet>
+<\document>
+
+<document>
+<qid>63<\qid>
+<rank>34<\rank>
+<doc>CACM-2895<\doc>
+<snippet>
+Language for Formal <b>Problem<\b> SpecificationA language for 
+<\snippet>
+<\document>
+
+<document>
+<qid>63<\qid>
+<rank>35<\rank>
+<doc>CACM-1374<\doc>
+<snippet>
+of Determinant; <b>DeterminantEvaluation<\b> (Algorithms 41[F3]; 269[F3])CACM September, 
+<\snippet>
+<\document>
+
+<document>
+<qid>63<\qid>
+<rank>36<\rank>
+<doc>CACM-3059<\doc>
+<snippet>
+for Parallel Processing WIthin <b>Programs:Application<\b> <b>to<\b> <b>CPU:I/O<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>63<\qid>
+<rank>37<\rank>
+<doc>CACM-1658<\doc>
+<snippet>
+review <b>and<\b> examinationof several existing algorithms for the zero-one programming 
+<\snippet>
+<\document>
+
+<document>
+<qid>63<\qid>
+<rank>38<\rank>
+<doc>CACM-3156<\doc>
+<snippet>
+Connected Components on Parallel ComputersWe <b>present<\b> a 
+<\snippet>
+<\document>
+
+<document>
+<qid>63<\qid>
+<rank>39<\rank>
+<doc>CACM-3073<\doc>
+<snippet>
+<b>Sequential<\b> ProcessesThis paper suggests that input and 
+<\snippet>
+<\document>
+
+<document>
+<qid>63<\qid>
+<rank>40<\rank>
+<doc>CACM-2630<\doc>
+<snippet>
+<b>Shortest<\b> Paths in a GraphTwo algorithms are presented that constructthe 
+<\snippet>
+<\document>
+
+<document>
+<qid>63<\qid>
+<rank>41<\rank>
+<doc>CACM-2283<\doc>
+<snippet>
+ArraysIn this report three thinning algorithms aredeveloped: one each for 
+<\snippet>
+<\document>
+
+<document>
+<qid>63<\qid>
+<rank>42<\rank>
+<doc>CACM-2557<\doc>
+<snippet>
+<b>the<\b> Time Required for a Sequence of 
+<\snippet>
+<\document>
+
+<document>
+<qid>63<\qid>
+<rank>43<\rank>
+<doc>CACM-3006<\doc>
+<snippet>
+with <b>Variable<\b> Partition Paging AlgorithmsFive types of 
+<\snippet>
+<\document>
+
+<document>
+<qid>63<\qid>
+<rank>44<\rank>
+<doc>CACM-2490<\doc>
+<snippet>
+Graph Manipulation [H] (Algorithm A447)Efficient algorithms are presented for partitioninga 
+<\snippet>
+<\document>
+
+<document>
+<qid>63<\qid>
+<rank>45<\rank>
+<doc>CACM-0950<\doc>
+<snippet>
+<b>Methods<\b> for Integrating Ordinary Differential EquationsThis paper 
+<\snippet>
+<\document>
+
+<document>
+<qid>63<\qid>
+<rank>46<\rank>
+<doc>CACM-2337<\doc>
+<snippet>
+Sorting Problem and Its ComplexityA technique for 
+<\snippet>
+<\document>
+
+<document>
+<qid>63<\qid>
+<rank>47<\rank>
+<doc>CACM-2342<\doc>
+<snippet>
+Between <b>Communicating<\b> Parallel ProcessesVarious kinds of interference 
+<\snippet>
+<\document>
+
+<document>
+<qid>63<\qid>
+<rank>48<\rank>
+<doc>CACM-2426<\doc>
+<snippet>
+SCALE1, SCALE2, and SCALE3 for <b>Determinationof<\b> <b>Scales<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>63<\qid>
+<rank>49<\rank>
+<doc>CACM-2505<\doc>
+<snippet>
+Permutations, Rosary <b>Permutations,and<\b> Adjacent Transposition AlgorithmsCACM May, 
+<\snippet>
+<\document>
+
+<document>
+<qid>63<\qid>
+<rank>50<\rank>
+<doc>CACM-2863<\doc>
+<snippet>
+for comparing variable space pagereplacement algorithms is presented.  An 
+<\snippet>
+<\document>
+
+<document>
+<qid>63<\qid>
+<rank>51<\rank>
+<doc>CACM-2289<\doc>
+<snippet>
+types of networks.  These algorithms exhibit a computation time 
+<\snippet>
+<\document>
+
+<document>
+<qid>63<\qid>
+<rank>52<\rank>
+<doc>CACM-1569<\doc>
+<snippet>
+Phrase-Structure Productions in PL/IA method is described 
+<\snippet>
+<\document>
+
+<document>
+<qid>63<\qid>
+<rank>53<\rank>
+<doc>CACM-0034<\doc>
+<snippet>
+for <b>Automatic<\b> ComputationCACM January, 1958Wilf, H. S.CA580102 
+<\snippet>
+<\document>
+
+<document>
+<qid>63<\qid>
+<rank>54<\rank>
+<doc>CACM-2725<\doc>
+<snippet>
+Comparison of Simulation Event List Algorithms (Corrigendum)CACM 
+<\snippet>
+<\document>
+
+<document>
+<qid>63<\qid>
+<rank>55<\rank>
+<doc>CACM-2830<\doc>
+<snippet>
+Practitioner's Guide to Addressing Algorithms (Corrigendum)CACM <b>September,<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>63<\qid>
+<rank>56<\rank>
+<doc>CACM-1828<\doc>
+<snippet>
+<b>in<\b> a Parallel-Accessed Data BaseThe following problem 
+<\snippet>
+<\document>
+
+<document>
+<qid>63<\qid>
+<rank>57<\rank>
+<doc>CACM-0409<\doc>
+<snippet>
+data sets, as well as algorithms defined on these data 
+<\snippet>
+<\document>
+
+<document>
+<qid>63<\qid>
+<rank>58<\rank>
+<doc>CACM-2272<\doc>
+<snippet>
+Natural SelectionA <b>family<\b> <b>of<\b> <b>sorting<\b> <b>algorithms<\b> <b>is<\b> <b>proposed,the<\b> <b>members<\b> <b>of<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>63<\qid>
+<rank>59<\rank>
+<doc>CACM-1468<\doc>
+<snippet>
+Interpretation of Classes of PicturesA descriptive scheme 
+<\snippet>
+<\document>
+
+<document>
+<qid>63<\qid>
+<rank>60<\rank>
+<doc>CACM-2819<\doc>
+<snippet>
+and a decoder.  Two algorithms for encoding a string 
+<\snippet>
+<\document>
+
+<document>
+<qid>63<\qid>
+<rank>61<\rank>
+<doc>CACM-1873<\doc>
+<snippet>
+LP AlgorithmsIt is shown how a <b>novel<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>63<\qid>
+<rank>62<\rank>
+<doc>CACM-2146<\doc>
+<snippet>
+the Polyphase SortVarious dispersion algorithms for the polyphasesorting procedure 
+<\snippet>
+<\document>
+
+<document>
+<qid>63<\qid>
+<rank>63<\rank>
+<doc>CACM-1953<\doc>
+<snippet>
+Integral Ei(x) (Algorithms 385 $S13))CACM December, 1970Redish, 
+<\snippet>
+<\document>
+
+<document>
+<qid>63<\qid>
+<rank>64<\rank>
+<doc>CACM-2902<\doc>
+<snippet>
+performance of35 dynamic memory allocation algorithms when used to service 
+<\snippet>
+<\document>
+
+<document>
+<qid>63<\qid>
+<rank>65<\rank>
+<doc>CACM-2273<\doc>
+<snippet>
+Mask Method Without Rule <b>MaskTwo<\b> algorithms for generating computer programsfrom 
+<\snippet>
+<\document>
+
+<document>
+<qid>63<\qid>
+<rank>66<\rank>
+<doc>CACM-2903<\doc>
+<snippet>
+described and applied to two algorithms which solve pattern matching 
+<\snippet>
+<\document>
+
+<document>
+<qid>63<\qid>
+<rank>67<\rank>
+<doc>CACM-2767<\doc>
+<snippet>
+of Simulation Event List AlgorithmsFour algorithms are considered which <b>can<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>63<\qid>
+<rank>68<\rank>
+<doc>CACM-1851<\doc>
+<snippet>
+of Spanning Trees (Algorithms 354 [H])CACM <b>September,<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>63<\qid>
+<rank>69<\rank>
+<doc>CACM-0035<\doc>
+<snippet>
+Machine Method for Square-Root ComputationCACM January, 1958Bemer, 
+<\snippet>
+<\document>
+
+<document>
+<qid>63<\qid>
+<rank>70<\rank>
+<doc>CACM-2433<\doc>
+<snippet>
+storage method and express parallel algorithms are described.CACM October, 1973Millstein, 
+<\snippet>
+<\document>
+
+<document>
+<qid>63<\qid>
+<rank>71<\rank>
+<doc>CACM-2236<\doc>
+<snippet>
+on Characteristic Values and AssociatedSolutions of Mathieus 
+<\snippet>
+<\document>
+
+<document>
+<qid>63<\qid>
+<rank>72<\rank>
+<doc>CACM-1392<\doc>
+<snippet>
+and implementationof mathematical expression manipulation algorithms <b>are<\b> discussed.  Concrete 
+<\snippet>
+<\document>
+
+<document>
+<qid>63<\qid>
+<rank>73<\rank>
+<doc>CACM-2627<\doc>
+<snippet>
+which <b>extend<\b> and generalize the algorithms known forminimizing mean finishing 
+<\snippet>
+<\document>
+
+<document>
+<qid>63<\qid>
+<rank>74<\rank>
+<doc>CACM-0320<\doc>
+<snippet>
+TablesLogic <b>tables<\b> are an excellent way of 
+<\snippet>
+<\document>
+
+<document>
+<qid>63<\qid>
+<rank>75<\rank>
+<doc>CACM-0860<\doc>
+<snippet>
+Comparison Between the Polyphase <b>and<\b> Oscillating Sort 
+<\snippet>
+<\document>
+
+<document>
+<qid>63<\qid>
+<rank>76<\rank>
+<doc>CACM-1924<\doc>
+<snippet>
+is shown thatcarefully designed matrix algorithms can lead to enormous 
+<\snippet>
+<\document>
+
+<document>
+<qid>63<\qid>
+<rank>77<\rank>
+<doc>CACM-2401<\doc>
+<snippet>
+Shrinking Binary <b>Picture<\b> PatternsA parallel processing algorithm 
+<\snippet>
+<\document>
+
+<document>
+<qid>63<\qid>
+<rank>78<\rank>
+<doc>CACM-2570<\doc>
+<snippet>
+It is shown that different algorithms suggested in the literature 
+<\snippet>
+<\document>
+
+<document>
+<qid>63<\qid>
+<rank>79<\rank>
+<doc>CACM-1536<\doc>
+<snippet>
+<b>Computation<\b> of DerivativesIt is shown how Wengert's 
+<\snippet>
+<\document>
+
+<document>
+<qid>63<\qid>
+<rank>80<\rank>
+<doc>CACM-2263<\doc>
+<snippet>
+Flowcharts: <b>Two<\b> New AlgorithmsTwo new algorithms for deriving optimal andnear-optimal 
+<\snippet>
+<\document>
+
+<document>
+<qid>63<\qid>
+<rank>81<\rank>
+<doc>CACM-2898<\doc>
+<snippet>
+Conceptual Framework for <b>a<\b> Nonprocedural Programming LanguageA 
+<\snippet>
+<\document>
+
+<document>
+<qid>63<\qid>
+<rank>82<\rank>
+<doc>CACM-2865<\doc>
+<snippet>
+Properties of Parallel <b>Programs:<\b> An Axiomatic ApproachAn 
+<\snippet>
+<\document>
+
+<document>
+<qid>63<\qid>
+<rank>83<\rank>
+<doc>CACM-3058<\doc>
+<snippet>
+Searching: A Fast Sequential <b>Search<\b> TechniqueWhen sequential 
+<\snippet>
+<\document>
+
+<document>
+<qid>63<\qid>
+<rank>84<\rank>
+<doc>CACM-2997<\doc>
+<snippet>
+n) operations.  The presented algorithms use the "divideand conquer" 
+<\snippet>
+<\document>
+
+<document>
+<qid>63<\qid>
+<rank>85<\rank>
+<doc>CACM-0210<\doc>
+<snippet>
+Functions of Symbolic Expressionsand Their Computation by 
+<\snippet>
+<\document>
+
+<document>
+<qid>63<\qid>
+<rank>86<\rank>
+<doc>CACM-2932<\doc>
+<snippet>
+<b>of<\b> ComputationsThe framework for research in the 
+<\snippet>
+<\document>
+
+<document>
+<qid>63<\qid>
+<rank>87<\rank>
+<doc>CACM-3131<\doc>
+<snippet>
+Microcomputer Number SystemFOCUS is a number <b>system<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>63<\qid>
+<rank>88<\rank>
+<doc>CACM-1529<\doc>
+<snippet>
+relative <b>performance<\b> of the two algorithms and to theirabsolute performance 
+<\snippet>
+<\document>
+
+<document>
+<qid>63<\qid>
+<rank>89<\rank>
+<doc>CACM-0119<\doc>
+<snippet>
+on Eigenvalue ComputationCACM November, 1960Andrus, J. F.CA601116 
+<\snippet>
+<\document>
+
+<document>
+<qid>63<\qid>
+<rank>90<\rank>
+<doc>CACM-1411<\doc>
+<snippet>
+Standard Deviations and Correlation CoefficientsSeveral algorithms for computation of basicstatistics 
+<\snippet>
+<\document>
+
+<document>
+<qid>63<\qid>
+<rank>91<\rank>
+<doc>CACM-2135<\doc>
+<snippet>
+<b>Computation<\b> of General InterpolationFormulas and Mechanical Quadrature 
+<\snippet>
+<\document>
+
+<document>
+<qid>63<\qid>
+<rank>92<\rank>
+<doc>CACM-2129<\doc>
+<snippet>
+Computation of Certain Derivatives-AStudy of Error PropagationA 
+<\snippet>
+<\document>
+
+<document>
+<qid>63<\qid>
+<rank>93<\rank>
+<doc>CACM-0785<\doc>
+<snippet>
+Between <b>Calendar<\b> Date And Julian day Number 
+<\snippet>
+<\document>
+
+<document>
+<qid>63<\qid>
+<rank>94<\rank>
+<doc>CACM-1303<\doc>
+<snippet>
+Correspondence Between ALGOL 60 and Church's <b>Lambda-Notation:<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>63<\qid>
+<rank>95<\rank>
+<doc>CACM-1471<\doc>
+<snippet>
+Semantics for Multiprogrammed computationsThe semantics are defined 
+<\snippet>
+<\document>
+
+<document>
+<qid>63<\qid>
+<rank>96<\rank>
+<doc>CACM-2080<\doc>
+<snippet>
+Nucleus of a Multiprogramming SystemThis paper describes 
+<\snippet>
+<\document>
+
+<document>
+<qid>63<\qid>
+<rank>97<\rank>
+<doc>CACM-2936<\doc>
+<snippet>
+<b>for<\b> the Simulation Event SetRecently algorithms have been presented for 
+<\snippet>
+<\document>
+
+<document>
+<qid>63<\qid>
+<rank>98<\rank>
+<doc>CACM-2276<\doc>
+<snippet>
+a choice between slower andshorter algorithms and faster but space 
+<\snippet>
+<\document>
+
+<document>
+<qid>63<\qid>
+<rank>99<\rank>
+<doc>CACM-1269<\doc>
+<snippet>
+of <b>Fourier<\b> Coefficients (Algorithm [C6])CACM May, 1965Teijelo, 
+<\snippet>
+<\document>
+
+<document>
+<qid>63<\qid>
+<rank>100<\rank>
+<doc>CACM-2389<\doc>
+<snippet>
+Both the languageand the search algorithms are detailed.CACM February, 1972Eastman, 
+<\snippet>
+<\document>

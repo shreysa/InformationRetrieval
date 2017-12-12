@@ -1,0 +1,1 @@
+symbol manipulation by threaded lists cacm April, 1960 Perlis, A. J. Thornton, C. ca600402 jb march 22, 1978 1:56 pm

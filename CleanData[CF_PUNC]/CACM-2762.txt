@@ -1,0 +1,1 @@
+ten subroutines for the manipulation of chebyshev series algorithm r446 c446 cacm May, 1975 Piessens, R. Mertens, I. ca750505 jb january 9, 1978 2:37 pm

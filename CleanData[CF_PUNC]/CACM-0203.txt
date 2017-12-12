@@ -1,0 +1,1 @@
+decoding combinations of the first n integers taken k at a time cacm April, 1960 Brown, R. M. ca600408 jb march 22, 1978 1:46 pm

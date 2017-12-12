@@ -1,0 +1,1 @@
+fresnel integrals algorithm 213 cacm October, 1963 Gray, M. D. ca631015 jb march 13, 1978 5:47 pm

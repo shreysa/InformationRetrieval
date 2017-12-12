@@ -1,0 +1,1 @@
+mullers method finding roots arbitrary function algorithm 196 cacm August, 1963 Roman, R. D. ca630810 jb march 13, 1978 8:38 pm

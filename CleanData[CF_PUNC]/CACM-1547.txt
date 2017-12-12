@@ -1,0 +1,1 @@
+gamma function with arbitrary precision algorithm 309 s14 cacm August, 1967 Filho, A. M. Schwachheim, G. ca670808 jb february 27, 1978 4:10 pm

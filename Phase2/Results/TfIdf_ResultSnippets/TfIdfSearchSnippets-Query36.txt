@@ -1,0 +1,900 @@
+
+<document>
+<qid>36<\qid>
+<rank>1<\rank>
+<doc>CACM-2084<\doc>
+<snippet>
+Note on <b>the<\b> Complement of Inherently Ambiguous 
+<\snippet>
+<\document>
+
+<document>
+<qid>36<\qid>
+<rank>2<\rank>
+<doc>CACM-2476<\doc>
+<snippet>
+Between AND/OR Graphs and Context-Free <b>GrammarsCACM<\b> July, 
+<\snippet>
+<\document>
+
+<document>
+<qid>36<\qid>
+<rank>3<\rank>
+<doc>CACM-2982<\doc>
+<snippet>
+Storage Requirement in <b>Precedence<\b> ParsingCACM March, <b>1977Bertsch,<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>36<\qid>
+<rank>4<\rank>
+<doc>CACM-2110<\doc>
+<snippet>
+Efficient Context-free Parsing <b>AlgorithmA<\b> parsing algorithm which 
+<\snippet>
+<\document>
+
+<document>
+<qid>36<\qid>
+<rank>5<\rank>
+<doc>CACM-1265<\doc>
+<snippet>
+the Relative Efficiencies of Context-Free Grammar RecognizersA 
+<\snippet>
+<\document>
+
+<document>
+<qid>36<\qid>
+<rank>6<\rank>
+<doc>CACM-1399<\doc>
+<snippet>
+Top-to-Bottom <b>Recognition<\b> and Left RecursionA procedure is 
+<\snippet>
+<\document>
+
+<document>
+<qid>36<\qid>
+<rank>7<\rank>
+<doc>CACM-1737<\doc>
+<snippet>
+<b>Global<\b> Parser for Context-Free Phrase Structure GrammarsCACM 
+<\snippet>
+<\document>
+
+<document>
+<qid>36<\qid>
+<rank>8<\rank>
+<doc>CACM-1335<\doc>
+<snippet>
+Set for Optical CharacterRecognition (Proposed <b>American<\b> Stand 
+<\snippet>
+<\document>
+
+<document>
+<qid>36<\qid>
+<rank>9<\rank>
+<doc>CACM-2030<\doc>
+<snippet>
+ParsingThis paper presents a canonical <b>form<\b> for 
+<\snippet>
+<\document>
+
+<document>
+<qid>36<\qid>
+<rank>10<\rank>
+<doc>CACM-2112<\doc>
+<snippet>
+EquationsInput limited transduction expressions, or translation equations,are 
+<\snippet>
+<\document>
+
+<document>
+<qid>36<\qid>
+<rank>11<\rank>
+<doc>CACM-2698<\doc>
+<snippet>
+Least-Errors Analysis <b>forContext-Free<\b> <b>Languages:<\b> <b>A<\b> <b>Practical<\b> <b>ApproachA<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>36<\qid>
+<rank>12<\rank>
+<doc>CACM-0204<\doc>
+<snippet>
+Theorems by Pattern <b>Recognition<\b> ICACM April, 1960Wang, 
+<\snippet>
+<\document>
+
+<document>
+<qid>36<\qid>
+<rank>13<\rank>
+<doc>CACM-1073<\doc>
+<snippet>
+Generating Exponential Random <b>VariablesA<\b> very fast method for generating exponentialrandom 
+<\snippet>
+<\document>
+
+<document>
+<qid>36<\qid>
+<rank>14<\rank>
+<doc>CACM-1131<\doc>
+<snippet>
+<b>Context<\b> and Ambiguity in Parsing*CACM February, 1964Ross, 
+<\snippet>
+<\document>
+
+<document>
+<qid>36<\qid>
+<rank>15<\rank>
+<doc>CACM-2739<\doc>
+<snippet>
+Restriction Language for Computer Grammars of <b>Natural<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>36<\qid>
+<rank>16<\rank>
+<doc>CACM-2811<\doc>
+<snippet>
+Pattern <b>Recognition<\b> Of Carotid PulseWaves Using A 
+<\snippet>
+<\document>
+
+<document>
+<qid>36<\qid>
+<rank>17<\rank>
+<doc>CACM-2492<\doc>
+<snippet>
+Development of Decision Tables viaParsing of <b>Complex<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>36<\qid>
+<rank>18<\rank>
+<doc>CACM-1162<\doc>
+<snippet>
+Assembly Language for ReprogrammingComplete reprogramming of compiler 
+<\snippet>
+<\document>
+
+<document>
+<qid>36<\qid>
+<rank>19<\rank>
+<doc>CACM-2733<\doc>
+<snippet>
+Parsing of Ambiguous GrammarsMethods <b>of<\b> describing the 
+<\snippet>
+<\document>
+
+<document>
+<qid>36<\qid>
+<rank>20<\rank>
+<doc>CACM-1787<\doc>
+<snippet>
+of Transition Matrices in CompilingAn <b>algorithms<\b> is 
+<\snippet>
+<\document>
+
+<document>
+<qid>36<\qid>
+<rank>21<\rank>
+<doc>CACM-1669<\doc>
+<snippet>
+Procedures for the Fast Fourier Transform (Algorithm 
+<\snippet>
+<\document>
+
+<document>
+<qid>36<\qid>
+<rank>22<\rank>
+<doc>CACM-1548<\doc>
+<snippet>
+of Decision TablesReduction in the size of 
+<\snippet>
+<\document>
+
+<document>
+<qid>36<\qid>
+<rank>23<\rank>
+<doc>CACM-2350<\doc>
+<snippet>
+W.quadrature, Chebyshev series, cosine transform, fast Fourier transform5.1CA720510 <b>JB<\b> January 
+<\snippet>
+<\document>
+
+<document>
+<qid>36<\qid>
+<rank>24<\rank>
+<doc>CACM-1668<\doc>
+<snippet>
+Algol Procedure for the Fast <b>Fourier<\b> Transformwith 
+<\snippet>
+<\document>
+
+<document>
+<qid>36<\qid>
+<rank>25<\rank>
+<doc>CACM-1527<\doc>
+<snippet>
+Grammar Base Question Answering ProcedureThe subject <b>of<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>36<\qid>
+<rank>26<\rank>
+<doc>CACM-2061<\doc>
+<snippet>
+Algorithm for the Construction Of Bounded-Context <b>ParsersAn<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>36<\qid>
+<rank>27<\rank>
+<doc>CACM-1350<\doc>
+<snippet>
+Augmented Predictive Analyzer for Context-FreeLanguages-Its <b>Relative<\b> EfficiencyIt 
+<\snippet>
+<\document>
+
+<document>
+<qid>36<\qid>
+<rank>28<\rank>
+<doc>CACM-2581<\doc>
+<snippet>
+Locally-Organized Parser for Spoken InputThis paper describes 
+<\snippet>
+<\document>
+
+<document>
+<qid>36<\qid>
+<rank>29<\rank>
+<doc>CACM-1989<\doc>
+<snippet>
+<b>Network<\b> Grammars for Natural Language AnalysisThe use 
+<\snippet>
+<\document>
+
+<document>
+<qid>36<\qid>
+<rank>30<\rank>
+<doc>CACM-1917<\doc>
+<snippet>
+Algol Procedure for the Fast Fourier Transformwith 
+<\snippet>
+<\document>
+
+<document>
+<qid>36<\qid>
+<rank>31<\rank>
+<doc>CACM-0344<\doc>
+<snippet>
+or Bei Function (Algorithm 57)CACM April, 1961Herndon, 
+<\snippet>
+<\document>
+
+<document>
+<qid>36<\qid>
+<rank>32<\rank>
+<doc>CACM-0544<\doc>
+<snippet>
+<b>Ber<\b> or Bei <b>Function<\b> (Algorithm 57)CACM <b>July,<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>36<\qid>
+<rank>33<\rank>
+<doc>CACM-2754<\doc>
+<snippet>
+Syntactic Algorithm for Peak Detectionin Waveforms with 
+<\snippet>
+<\document>
+
+<document>
+<qid>36<\qid>
+<rank>34<\rank>
+<doc>CACM-3184<\doc>
+<snippet>
+<b><\b>  Revised Report on the Algorithmic 
+<\snippet>
+<\document>
+
+<document>
+<qid>36<\qid>
+<rank>35<\rank>
+<doc>CACM-2703<\doc>
+<snippet>
+Intrinsically Exponential <b>Complexity<\b> ofthe Circularity Problem for 
+<\snippet>
+<\document>
+
+<document>
+<qid>36<\qid>
+<rank>36<\rank>
+<doc>CACM-1012<\doc>
+<snippet>
+Parsing SystemsAutomatic syntactic <b>analysis<\b> has recently becomeimportant 
+<\snippet>
+<\document>
+
+<document>
+<qid>36<\qid>
+<rank>37<\rank>
+<doc>CACM-1818<\doc>
+<snippet>
+Legendre Functions of the First <b>Kindfor<\b> Real 
+<\snippet>
+<\document>
+
+<document>
+<qid>36<\qid>
+<rank>38<\rank>
+<doc>CACM-2301<\doc>
+<snippet>
+Parsers for Affix GrammarsAffix grammars <b>are<\b> two-level 
+<\snippet>
+<\document>
+
+<document>
+<qid>36<\qid>
+<rank>39<\rank>
+<doc>CACM-3198<\doc>
+<snippet>
+ <b><\b> Microprogramming, Emulators <b>and<\b> Programming Languages 
+<\snippet>
+<\document>
+
+<document>
+<qid>36<\qid>
+<rank>40<\rank>
+<doc>CACM-2481<\doc>
+<snippet>
+cost-time integral of primary and fast buffer storage are obtained 
+<\snippet>
+<\document>
+
+<document>
+<qid>36<\qid>
+<rank>41<\rank>
+<doc>CACM-0510<\doc>
+<snippet>
+or Bei <b>Function<\b> (Algorithm 57)CACM August, 1962Thacher 
+<\snippet>
+<\document>
+
+<document>
+<qid>36<\qid>
+<rank>42<\rank>
+<doc>CACM-2246<\doc>
+<snippet>
+of Language for Portable SoftwareAn <b>increasing<\b> amount 
+<\snippet>
+<\document>
+
+<document>
+<qid>36<\qid>
+<rank>43<\rank>
+<doc>CACM-1454<\doc>
+<snippet>
+Simple User-Oriented Compiler Source Languagefor Programming Automatic 
+<\snippet>
+<\document>
+
+<document>
+<qid>36<\qid>
+<rank>44<\rank>
+<doc>CACM-1149<\doc>
+<snippet>
+, A Language for Compiler Writing*CACM January, 
+<\snippet>
+<\document>
+
+<document>
+<qid>36<\qid>
+<rank>45<\rank>
+<doc>CACM-0028<\doc>
+<snippet>
+for Methods or <b>ProgramsCACM<\b> April, 1958Corley, H. 
+<\snippet>
+<\document>
+
+<document>
+<qid>36<\qid>
+<rank>46<\rank>
+<doc>CACM-2641<\doc>
+<snippet>
+Minimal Spanning Tree clustering Method [Z] <b>(Algorithm<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>36<\qid>
+<rank>47<\rank>
+<doc>CACM-1767<\doc>
+<snippet>
+General Purpose Graphic LanguageInteractive use of computers 
+<\snippet>
+<\document>
+
+<document>
+<qid>36<\qid>
+<rank>48<\rank>
+<doc>CACM-2836<\doc>
+<snippet>
+Derivation TreesThe <b>nodes<\b> of a weighted derivation 
+<\snippet>
+<\document>
+
+<document>
+<qid>36<\qid>
+<rank>49<\rank>
+<doc>CACM-1178<\doc>
+<snippet>
+<b>60<\b> Reference Language <b>Editor<\b> (Algorithm 268 <b>[R2])CACM<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>36<\qid>
+<rank>50<\rank>
+<doc>CACM-1837<\doc>
+<snippet>
+<b>Algol<\b> Convolution Procedure Based on theFast Fourier 
+<\snippet>
+<\document>
+
+<document>
+<qid>36<\qid>
+<rank>51<\rank>
+<doc>CACM-1921<\doc>
+<snippet>
+Algol Convolution Procedure Based <b>on<\b> theFast Fourier 
+<\snippet>
+<\document>
+
+<document>
+<qid>36<\qid>
+<rank>52<\rank>
+<doc>CACM-1287<\doc>
+<snippet>
+Coupling or <b>Clebsch-Gordan<\b> Coefficients (Algorithm 252 [Z])CACM 
+<\snippet>
+<\document>
+
+<document>
+<qid>36<\qid>
+<rank>53<\rank>
+<doc>CACM-0778<\doc>
+<snippet>
+Legendre Functions <b>of<\b> the First <b>Kindfor<\b> Real 
+<\snippet>
+<\document>
+
+<document>
+<qid>36<\qid>
+<rank>54<\rank>
+<doc>CACM-1455<\doc>
+<snippet>
+A Procedure-Describing Language <b>for<\b> the Reactive TypewriterA 
+<\snippet>
+<\document>
+
+<document>
+<qid>36<\qid>
+<rank>55<\rank>
+<doc>CACM-3045<\doc>
+<snippet>
+Simple Recovery-Only Procedure For SImple Precedence <b>ParsersA<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>36<\qid>
+<rank>56<\rank>
+<doc>CACM-1612<\doc>
+<snippet>
+Parsing Rehabilitated?This note is concerned <b>with<\b> the 
+<\snippet>
+<\document>
+
+<document>
+<qid>36<\qid>
+<rank>57<\rank>
+<doc>CACM-1860<\doc>
+<snippet>
+Algol-Based Associative LanguageA high <b>level<\b> programming language 
+<\snippet>
+<\document>
+
+<document>
+<qid>36<\qid>
+<rank>58<\rank>
+<doc>CACM-0354<\doc>
+<snippet>
+Legendre <b>Functions<\b> of the <b>First<\b> Kindfor Real 
+<\snippet>
+<\document>
+
+<document>
+<qid>36<\qid>
+<rank>59<\rank>
+<doc>CACM-0082<\doc>
+<snippet>
+Identifiers as Internal Symbols in Language <b>ProcessorsSubstitution<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>36<\qid>
+<rank>60<\rank>
+<doc>CACM-2509<\doc>
+<snippet>
+Algorithm <b>for<\b> Linear Programming (Algorithm R333)CACM May, 
+<\snippet>
+<\document>
+
+<document>
+<qid>36<\qid>
+<rank>61<\rank>
+<doc>CACM-2880<\doc>
+<snippet>
+Division Technique for Constant DivisorsA fast algorithm for division by 
+<\snippet>
+<\document>
+
+<document>
+<qid>36<\qid>
+<rank>62<\rank>
+<doc>CACM-2126<\doc>
+<snippet>
+with an Extensible LanguageAn operational extensible language 
+<\snippet>
+<\document>
+
+<document>
+<qid>36<\qid>
+<rank>63<\rank>
+<doc>CACM-1137<\doc>
+<snippet>
+Format Language*CACM February, 1964Perlis, A. J.CA640206 JB 
+<\snippet>
+<\document>
+
+<document>
+<qid>36<\qid>
+<rank>64<\rank>
+<doc>CACM-1794<\doc>
+<snippet>
+Fast Random Number <b>Generator<\b> for IBM 360CACM 
+<\snippet>
+<\document>
+
+<document>
+<qid>36<\qid>
+<rank>65<\rank>
+<doc>CACM-1865<\doc>
+<snippet>
+<b>60<\b> Reference Language Editor (Algorithm 268 [R2])CACM 
+<\snippet>
+<\document>
+
+<document>
+<qid>36<\qid>
+<rank>66<\rank>
+<doc>CACM-2794<\doc>
+<snippet>
+Problem-Reduction, and <b>Theorem<\b> Proving-Some RelationshipsThis paper suggests 
+<\snippet>
+<\document>
+
+<document>
+<qid>36<\qid>
+<rank>67<\rank>
+<doc>CACM-1768<\doc>
+<snippet>
+Global Parser for Context-Free Phrase Structure <b>GrammarsAn<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>36<\qid>
+<rank>68<\rank>
+<doc>CACM-1184<\doc>
+<snippet>
+Fast Storage AllocatorA fast <b>storage<\b> bookkeeping method is 
+<\snippet>
+<\document>
+
+<document>
+<qid>36<\qid>
+<rank>69<\rank>
+<doc>CACM-2059<\doc>
+<snippet>
+Language for Treating GraphsA language for the 
+<\snippet>
+<\document>
+
+<document>
+<qid>36<\qid>
+<rank>70<\rank>
+<doc>CACM-2906<\doc>
+<snippet>
+Very High <b>Level<\b> Programming Language for Data 
+<\snippet>
+<\document>
+
+<document>
+<qid>36<\qid>
+<rank>71<\rank>
+<doc>CACM-1395<\doc>
+<snippet>
+the Implementation of AMBIT, <b>A<\b> Language for 
+<\snippet>
+<\document>
+
+<document>
+<qid>36<\qid>
+<rank>72<\rank>
+<doc>CACM-2050<\doc>
+<snippet>
+Parsing <b>for<\b> Content AnalysisAlthough automatic syntactic and 
+<\snippet>
+<\document>
+
+<document>
+<qid>36<\qid>
+<rank>73<\rank>
+<doc>CACM-0633<\doc>
+<snippet>
+and Analysis of <b>Biochemical<\b> Systems(III. Analysis and 
+<\snippet>
+<\document>
+
+<document>
+<qid>36<\qid>
+<rank>74<\rank>
+<doc>CACM-2788<\doc>
+<snippet>
+Circles <b>by<\b> an Array of AccumulatorsCACM February, 
+<\snippet>
+<\document>
+
+<document>
+<qid>36<\qid>
+<rank>75<\rank>
+<doc>CACM-1836<\doc>
+<snippet>
+New Method for Determining Linear <b>PrecedenceFunctions<\b> for 
+<\snippet>
+<\document>
+
+<document>
+<qid>36<\qid>
+<rank>76<\rank>
+<doc>CACM-2971<\doc>
+<snippet>
+A System <b>for<\b> Teaching Computer ProgrammingSP/k is 
+<\snippet>
+<\document>
+
+<document>
+<qid>36<\qid>
+<rank>77<\rank>
+<doc>CACM-2179<\doc>
+<snippet>
+<b>LR(k)<\b> GrammarsA class of context-free grammars, called 
+<\snippet>
+<\document>
+
+<document>
+<qid>36<\qid>
+<rank>78<\rank>
+<doc>CACM-0407<\doc>
+<snippet>
+A <b>Scientific<\b> Compiler for a Displayed Formula 
+<\snippet>
+<\document>
+
+<document>
+<qid>36<\qid>
+<rank>79<\rank>
+<doc>CACM-0829<\doc>
+<snippet>
+<b>External<\b> Language KLIPA <b>For<\b> the URAL-2 <b>Digital<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>36<\qid>
+<rank>80<\rank>
+<doc>CACM-1525<\doc>
+<snippet>
+and Tukey have proposed a fast algorithmfor computing complex Fourier 
+<\snippet>
+<\document>
+
+<document>
+<qid>36<\qid>
+<rank>81<\rank>
+<doc>CACM-0617<\doc>
+<snippet>
+its calculations or data processing fast enough <b>for<\b> the results 
+<\snippet>
+<\document>
+
+<document>
+<qid>36<\qid>
+<rank>82<\rank>
+<doc>CACM-2546<\doc>
+<snippet>
+Use of Grammatical Inference for <b>Designing<\b> Programming 
+<\snippet>
+<\document>
+
+<document>
+<qid>36<\qid>
+<rank>83<\rank>
+<doc>CACM-2910<\doc>
+<snippet>
+of Hough Curve Detection to Template MatchingCACM 
+<\snippet>
+<\document>
+
+<document>
+<qid>36<\qid>
+<rank>84<\rank>
+<doc>CACM-1679<\doc>
+<snippet>
+and symmetry of the Cooley-Turkey fast Fourier transform algorithm while 
+<\snippet>
+<\document>
+
+<document>
+<qid>36<\qid>
+<rank>85<\rank>
+<doc>CACM-0001<\doc>
+<snippet>
+Report-International Algebraic LanguageCACM December, <b>1958Perlis,<\b> A. J.Samelson,K.CA581203 
+<\snippet>
+<\document>
+
+<document>
+<qid>36<\qid>
+<rank>86<\rank>
+<doc>CACM-1140<\doc>
+<snippet>
+<b>Connections"<\b> in Formal Language*CACM February, 1964Irons, E. 
+<\snippet>
+<\document>
+
+<document>
+<qid>36<\qid>
+<rank>87<\rank>
+<doc>CACM-1244<\doc>
+<snippet>
+Manipulation in Fortran LanguageCACM June, 1965Tobey, G. 
+<\snippet>
+<\document>
+
+<document>
+<qid>36<\qid>
+<rank>88<\rank>
+<doc>CACM-2230<\doc>
+<snippet>
+Language for Treating Geometric Patterns in a 
+<\snippet>
+<\document>
+
+<document>
+<qid>36<\qid>
+<rank>89<\rank>
+<doc>CACM-3079<\doc>
+<snippet>
+for reasoning about equalitiesthat is fast and complete for ground 
+<\snippet>
+<\document>
+
+<document>
+<qid>36<\qid>
+<rank>90<\rank>
+<doc>CACM-1835<\doc>
+<snippet>
+IITRAN Programming LanguageThe <b>IITRAN<\b> language, developed to 
+<\snippet>
+<\document>
+
+<document>
+<qid>36<\qid>
+<rank>91<\rank>
+<doc>CACM-2091<\doc>
+<snippet>
+Language for <b>Partial<\b> Differential EquationsConventional computer methods 
+<\snippet>
+<\document>
+
+<document>
+<qid>36<\qid>
+<rank>92<\rank>
+<doc>CACM-1825<\doc>
+<snippet>
+Practical Method for Constructing <b>LR(k)<\b> ProcessorsA practical 
+<\snippet>
+<\document>
+
+<document>
+<qid>36<\qid>
+<rank>93<\rank>
+<doc>CACM-0199<\doc>
+<snippet>
+Algorithm (Algorithm 7)CACM April, 1960Claussen, R.CA600412 <b>JB<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>36<\qid>
+<rank>94<\rank>
+<doc>CACM-0644<\doc>
+<snippet>
+String Language for <b>Symbol<\b> <b>Manipulation<\b> <b>Based<\b> <b>on<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>36<\qid>
+<rank>95<\rank>
+<doc>CACM-2652<\doc>
+<snippet>
+of Compilation Costs Through <b>Language<\b> ContractionProgramming languages 
+<\snippet>
+<\document>
+
+<document>
+<qid>36<\qid>
+<rank>96<\rank>
+<doc>CACM-1253<\doc>
+<snippet>
+SIMSCRIPT- Like Language for the G-20QUIKSCRIPT <b>is<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>36<\qid>
+<rank>97<\rank>
+<doc>CACM-0987<\doc>
+<snippet>
+vs. Basic FORTRAN (A Programming Languagefor Information 
+<\snippet>
+<\document>
+
+<document>
+<qid>36<\qid>
+<rank>98<\rank>
+<doc>CACM-2310<\doc>
+<snippet>
+Analysis in <b>the<\b> HumanitiesThe use of the 
+<\snippet>
+<\document>
+
+<document>
+<qid>36<\qid>
+<rank>99<\rank>
+<doc>CACM-0099<\doc>
+<snippet>
+Modifications to the International Algebraic <b>LanguageCACM<\b> February, 
+<\snippet>
+<\document>
+
+<document>
+<qid>36<\qid>
+<rank>100<\rank>
+<doc>CACM-1139<\doc>
+<snippet>
+IV as a Syntax Language*CACM February, 1964Leavenworth, 
+<\snippet>
+<\document>

@@ -1,0 +1,1 @@
+fortran subroutines cobol main programs proper cobol coding techniques accounting differences storage allocation library routines languages write fortran iv subroutines called cobol main programs technique enables programmer take advantage properties language minimizing respective disadvantages cacm April, 1965 Shavell, Z. A. ca650409 jb march 7, 1978 3:52 pm

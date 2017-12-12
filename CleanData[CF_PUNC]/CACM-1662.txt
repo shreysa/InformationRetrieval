@@ -1,0 +1,1 @@
+eigenvalues and eigenvectors of a real general matrix f2 cacm December, 1968 Grad, J. Brebner, M. A. eigenvalues eigenvectors latent roots latent vectors householders method qr algorithm inverse iteration 5.14 ca681204 jb february 21, 1978 1:42 pm

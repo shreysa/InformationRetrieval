@@ -1,0 +1,900 @@
+
+<document>
+<qid>48<\qid>
+<rank>1<\rank>
+<doc>CACM-2325<\doc>
+<snippet>
+ScienceNumerical <b>mathematics<\b> is viewed as the analysisof continuous algorithms.  
+<\snippet>
+<\document>
+
+<document>
+<qid>48<\qid>
+<rank>2<\rank>
+<doc>CACM-2932<\doc>
+<snippet>
+<b>ComputationsThe<\b> framework for research in the theory of complexityof computations 
+<\snippet>
+<\document>
+
+<document>
+<qid>48<\qid>
+<rank>3<\rank>
+<doc>CACM-1771<\doc>
+<snippet>
+Science <b>--<\b> A Report of the ACM Curriculum Committee on 
+<\snippet>
+<\document>
+
+<document>
+<qid>48<\qid>
+<rank>4<\rank>
+<doc>CACM-1353<\doc>
+<snippet>
+Linear ProgrammingIn this technical note, the numerical <b>stepsfor<\b> the simplex 
+<\snippet>
+<\document>
+
+<document>
+<qid>48<\qid>
+<rank>5<\rank>
+<doc>CACM-2226<\doc>
+<snippet>
+Evidence for <b>the<\b> Analysis of Algorithmsfor the 
+<\snippet>
+<\document>
+
+<document>
+<qid>48<\qid>
+<rank>6<\rank>
+<doc>CACM-1990<\doc>
+<snippet>
+Constants (Algorithm)CACM September, 1970Dunham, <b>C.<\b> B.numerical algorithm, 
+<\snippet>
+<\document>
+
+<document>
+<qid>48<\qid>
+<rank>7<\rank>
+<doc>CACM-3130<\doc>
+<snippet>
+ScienceContained in <b>this<\b> report are <b>the<\b> recommendations forthe <b>undergraduate<\b> degree 
+<\snippet>
+<\document>
+
+<document>
+<qid>48<\qid>
+<rank>8<\rank>
+<doc>CACM-0371<\doc>
+<snippet>
+on Algorithms 2 and 3, <b>Algorithm<\b> 15 
+<\snippet>
+<\document>
+
+<document>
+<qid>48<\qid>
+<rank>9<\rank>
+<doc>CACM-2553<\doc>
+<snippet>
+Practical Aspect of <b>Computer<\b> Science Education-DiscussionCACM January, 
+<\snippet>
+<\document>
+
+<document>
+<qid>48<\qid>
+<rank>10<\rank>
+<doc>CACM-2884<\doc>
+<snippet>
+every nth permutation when generating the n! permutationson <b>n<\b> marks. 
+<\snippet>
+<\document>
+
+<document>
+<qid>48<\qid>
+<rank>11<\rank>
+<doc>CACM-2899<\doc>
+<snippet>
+topics in computer science beyond the usual programmingcourses have encouraged 
+<\snippet>
+<\document>
+
+<document>
+<qid>48<\qid>
+<rank>12<\rank>
+<doc>CACM-1809<\doc>
+<snippet>
+Computer Science ProgramNumerical Analysis is the study of methods andprocedures 
+<\snippet>
+<\document>
+
+<document>
+<qid>48<\qid>
+<rank>13<\rank>
+<doc>CACM-1658<\doc>
+<snippet>
+of Algorithms for the Zero-One Programming ProblemThis <b>paper<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>48<\qid>
+<rank>14<\rank>
+<doc>CACM-2310<\doc>
+<snippet>
+Analysis in the <b>HumanitiesThe<\b> use of the 
+<\snippet>
+<\document>
+
+<document>
+<qid>48<\qid>
+<rank>15<\rank>
+<doc>CACM-1654<\doc>
+<snippet>
+Computer ScienceAfter a review of the power of contemporary computers,computer 
+<\snippet>
+<\document>
+
+<document>
+<qid>48<\qid>
+<rank>16<\rank>
+<doc>CACM-2475<\doc>
+<snippet>
+of Linear <b>Programming<\b> Problemsin 0-1 <b>Variables<\b> [H1] 
+<\snippet>
+<\document>
+
+<document>
+<qid>48<\qid>
+<rank>17<\rank>
+<doc>CACM-2930<\doc>
+<snippet>
+in Computer ScienceThis report describes the Advanced Test inComputer Science 
+<\snippet>
+<\document>
+
+<document>
+<qid>48<\qid>
+<rank>18<\rank>
+<doc>CACM-2464<\doc>
+<snippet>
+Complex Method for Constrained <b>Optimization<\b> [E4] (Algorithm 
+<\snippet>
+<\document>
+
+<document>
+<qid>48<\qid>
+<rank>19<\rank>
+<doc>CACM-3010<\doc>
+<snippet>
+investigated with special attention to the complexity of value structures. 
+<\snippet>
+<\document>
+
+<document>
+<qid>48<\qid>
+<rank>20<\rank>
+<doc>CACM-2324<\doc>
+<snippet>
+is presented as well as <b>the<\b> current obstacles to practical 
+<\snippet>
+<\document>
+
+<document>
+<qid>48<\qid>
+<rank>21<\rank>
+<doc>CACM-3122<\doc>
+<snippet>
+and <b>Employment<\b> of Ph.'s in Computer Science 
+<\snippet>
+<\document>
+
+<document>
+<qid>48<\qid>
+<rank>22<\rank>
+<doc>CACM-2155<\doc>
+<snippet>
+a notation and formalismfor <b>describing<\b> the semantics of data structures. 
+<\snippet>
+<\document>
+
+<document>
+<qid>48<\qid>
+<rank>23<\rank>
+<doc>CACM-1066<\doc>
+<snippet>
+soextensively in recent <b>years<\b> that the whole concept for organizing 
+<\snippet>
+<\document>
+
+<document>
+<qid>48<\qid>
+<rank>24<\rank>
+<doc>CACM-2813<\doc>
+<snippet>
+ For possible further reference, the subject area panel chairmen 
+<\snippet>
+<\document>
+
+<document>
+<qid>48<\qid>
+<rank>25<\rank>
+<doc>CACM-2950<\doc>
+<snippet>
+a scheduling system which formalizes the notion ofpriority.  Various 
+<\snippet>
+<\document>
+
+<document>
+<qid>48<\qid>
+<rank>26<\rank>
+<doc>CACM-2406<\doc>
+<snippet>
+data definition languages concentrate on the declarationof logical data structures 
+<\snippet>
+<\document>
+
+<document>
+<qid>48<\qid>
+<rank>27<\rank>
+<doc>CACM-1551<\doc>
+<snippet>
+frequency of storing and recovering the partial resultsof the arithmetic 
+<\snippet>
+<\document>
+
+<document>
+<qid>48<\qid>
+<rank>28<\rank>
+<doc>CACM-1171<\doc>
+<snippet>
+Comparison of <b>the<\b> Primal-Simplex and Primal-DualAlgorithms for 
+<\snippet>
+<\document>
+
+<document>
+<qid>48<\qid>
+<rank>29<\rank>
+<doc>CACM-3166<\doc>
+<snippet>
+Standard Deviations: AccuracyFour algorithms for the numerical computationof the standard 
+<\snippet>
+<\document>
+
+<document>
+<qid>48<\qid>
+<rank>30<\rank>
+<doc>CACM-2283<\doc>
+<snippet>
+thedevelopment of each <b>algorithm<\b> is the same.  Pictorial results 
+<\snippet>
+<\document>
+
+<document>
+<qid>48<\qid>
+<rank>31<\rank>
+<doc>CACM-3003<\doc>
+<snippet>
+Survey of the Literature in ComputerScience Education 
+<\snippet>
+<\document>
+
+<document>
+<qid>48<\qid>
+<rank>32<\rank>
+<doc>CACM-0086<\doc>
+<snippet>
+and Management Control Systems of the Federal Government, as of 
+<\snippet>
+<\document>
+
+<document>
+<qid>48<\qid>
+<rank>33<\rank>
+<doc>CACM-2968<\doc>
+<snippet>
+compiler-independent.  The quality of the resultingtrees and the overhead 
+<\snippet>
+<\document>
+
+<document>
+<qid>48<\qid>
+<rank>34<\rank>
+<doc>CACM-1196<\doc>
+<snippet>
+be formulated in terms of the numerical solution of systems 
+<\snippet>
+<\document>
+
+<document>
+<qid>48<\qid>
+<rank>35<\rank>
+<doc>CACM-2975<\doc>
+<snippet>
+on Uniform Insertion in Structured Data StructuresCACM 
+<\snippet>
+<\document>
+
+<document>
+<qid>48<\qid>
+<rank>36<\rank>
+<doc>CACM-2592<\doc>
+<snippet>
+linear programming computer codes haverealized the necessity <b>of<\b> evaluating the 
+<\snippet>
+<\document>
+
+<document>
+<qid>48<\qid>
+<rank>37<\rank>
+<doc>CACM-3019<\doc>
+<snippet>
+GRE Advanced Test in Computer ScienceCACM February, 
+<\snippet>
+<\document>
+
+<document>
+<qid>48<\qid>
+<rank>38<\rank>
+<doc>CACM-2187<\doc>
+<snippet>
+to <b>capture<\b> broad characteristics of the field and its relationships 
+<\snippet>
+<\document>
+
+<document>
+<qid>48<\qid>
+<rank>39<\rank>
+<doc>CACM-2273<\doc>
+<snippet>
+The algorithms are based on the rule mask method but 
+<\snippet>
+<\document>
+
+<document>
+<qid>48<\qid>
+<rank>40<\rank>
+<doc>CACM-2594<\doc>
+<snippet>
+permit arbitrarylinked list <b>structures<\b> enable the user to create complicated 
+<\snippet>
+<\document>
+
+<document>
+<qid>48<\qid>
+<rank>41<\rank>
+<doc>CACM-2997<\doc>
+<snippet>
+ The presented algorithms use the "divideand conquer" technique and 
+<\snippet>
+<\document>
+
+<document>
+<qid>48<\qid>
+<rank>42<\rank>
+<doc>CACM-0059<\doc>
+<snippet>
+Businessand Management control Systems of the FederalGovernment, as of December 
+<\snippet>
+<\document>
+
+<document>
+<qid>48<\qid>
+<rank>43<\rank>
+<doc>CACM-2146<\doc>
+<snippet>
+the Polyphase SortVarious dispersion algorithms 
+<\snippet>
+<\document>
+
+<document>
+<qid>48<\qid>
+<rank>44<\rank>
+<doc>CACM-1927<\doc>
+<snippet>
+on a sample coursecurriculum in <b>the<\b> general area of information 
+<\snippet>
+<\document>
+
+<document>
+<qid>48<\qid>
+<rank>45<\rank>
+<doc>CACM-3124<\doc>
+<snippet>
+is presented.  Theorems exhibiting the relationshipsbetween the definitional systems 
+<\snippet>
+<\document>
+
+<document>
+<qid>48<\qid>
+<rank>46<\rank>
+<doc>CACM-1977<\doc>
+<snippet>
+display has been developed for the <b>approximation<\b> ofdata by means 
+<\snippet>
+<\document>
+
+<document>
+<qid>48<\qid>
+<rank>47<\rank>
+<doc>CACM-1392<\doc>
+<snippet>
+FORMAC Algorithm DesignVarious facets of the design and implementationof mathematical 
+<\snippet>
+<\document>
+
+<document>
+<qid>48<\qid>
+<rank>48<\rank>
+<doc>CACM-1457<\doc>
+<snippet>
+various processing languages areoutlined in the light of the procedures 
+<\snippet>
+<\document>
+
+<document>
+<qid>48<\qid>
+<rank>49<\rank>
+<doc>CACM-1863<\doc>
+<snippet>
+Algorithm for Linear Programming (Algorithm <b>333<\b> [H])CACM 
+<\snippet>
+<\document>
+
+<document>
+<qid>48<\qid>
+<rank>50<\rank>
+<doc>CACM-1612<\doc>
+<snippet>
+Rehabilitated?This note is concerned with the <b>efficiencyof<\b> the Top-to-Bottom parsing 
+<\snippet>
+<\document>
+
+<document>
+<qid>48<\qid>
+<rank>51<\rank>
+<doc>CACM-2699<\doc>
+<snippet>
+mappings.  This paper describes the structure of an optimizer 
+<\snippet>
+<\document>
+
+<document>
+<qid>48<\qid>
+<rank>52<\rank>
+<doc>CACM-2142<\doc>
+<snippet>
+Their ProjectionsThere are situations in the natural sciencesand medicine (e.g. 
+<\snippet>
+<\document>
+
+<document>
+<qid>48<\qid>
+<rank>53<\rank>
+<doc>CACM-1274<\doc>
+<snippet>
+the Numerical Solution of an 
+<\snippet>
+<\document>
+
+<document>
+<qid>48<\qid>
+<rank>54<\rank>
+<doc>CACM-3086<\doc>
+<snippet>
+the Complexity of Computing <b>the<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>48<\qid>
+<rank>55<\rank>
+<doc>CACM-1797<\doc>
+<snippet>
+<b>of<\b> Linear programs in 0-1 (Algorithm 341 
+<\snippet>
+<\document>
+
+<document>
+<qid>48<\qid>
+<rank>56<\rank>
+<doc>CACM-1601<\doc>
+<snippet>
+Numerical Methods for the Solution <b>of<\b> EquationsClassical iterative 
+<\snippet>
+<\document>
+
+<document>
+<qid>48<\qid>
+<rank>57<\rank>
+<doc>CACM-2646<\doc>
+<snippet>
+Dynamic <b>Disk<\b> AllocationThis paper presents the background and algorithmsfor masking 
+<\snippet>
+<\document>
+
+<document>
+<qid>48<\qid>
+<rank>58<\rank>
+<doc>CACM-2007<\doc>
+<snippet>
+Policy/Revised August 1970CACM August, 1970CA700814 JB February 
+<\snippet>
+<\document>
+
+<document>
+<qid>48<\qid>
+<rank>59<\rank>
+<doc>CACM-2936<\doc>
+<snippet>
+Efficient Data Structure for the Simulation Event SetRecently algorithms 
+<\snippet>
+<\document>
+
+<document>
+<qid>48<\qid>
+<rank>60<\rank>
+<doc>CACM-3012<\doc>
+<snippet>
+in Medical ResearchThis paper presents the results of <b>a<\b> studyof 
+<\snippet>
+<\document>
+
+<document>
+<qid>48<\qid>
+<rank>61<\rank>
+<doc>CACM-1147<\doc>
+<snippet>
+the Numerical Solution of <b>Boundary<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>48<\qid>
+<rank>62<\rank>
+<doc>CACM-1722<\doc>
+<snippet>
+Improvement for <b>Some<\b> <b>Improper<\b> <b>IntegralsIn<\b> <b>the<\b> <b>numerical<\b> <b>integration<\b> <b>of<\b> <b>an<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>48<\qid>
+<rank>63<\rank>
+<doc>CACM-1729<\doc>
+<snippet>
+Algorithm for Linear <b>Programming<\b> (Algorithm 333 [H])CACM 
+<\snippet>
+<\document>
+
+<document>
+<qid>48<\qid>
+<rank>64<\rank>
+<doc>CACM-2223<\doc>
+<snippet>
+Algorithm <b>For<\b> Linear Programming (Algorithm 222 [H])CACM 
+<\snippet>
+<\document>
+
+<document>
+<qid>48<\qid>
+<rank>65<\rank>
+<doc>CACM-2198<\doc>
+<snippet>
+<b>a<\b> main report which analyzes the features of generalized data 
+<\snippet>
+<\document>
+
+<document>
+<qid>48<\qid>
+<rank>66<\rank>
+<doc>CACM-2362<\doc>
+<snippet>
+Equation <b>Solver<\b> [F4] (Algorithm A423)CACM April, 1972Moler, 
+<\snippet>
+<\document>
+
+<document>
+<qid>48<\qid>
+<rank>67<\rank>
+<doc>CACM-0409<\doc>
+<snippet>
+flexible, large-scale programming system tofacilitate <b>the<\b> solution of information processing 
+<\snippet>
+<\document>
+
+<document>
+<qid>48<\qid>
+<rank>68<\rank>
+<doc>CACM-2267<\doc>
+<snippet>
+ArithmeticTwo algorithms are presented in the form ofFortran subroutines.  
+<\snippet>
+<\document>
+
+<document>
+<qid>48<\qid>
+<rank>69<\rank>
+<doc>CACM-2819<\doc>
+<snippet>
+Text File CompressionA system for the compression of data files,viewed 
+<\snippet>
+<\document>
+
+<document>
+<qid>48<\qid>
+<rank>70<\rank>
+<doc>CACM-0558<\doc>
+<snippet>
+Inversion Procedure for ProductForm of the Inverse Linear Programming CodesThis 
+<\snippet>
+<\document>
+
+<document>
+<qid>48<\qid>
+<rank>71<\rank>
+<doc>CACM-2314<\doc>
+<snippet>
+feels are important to improve the productivityof programmers working in 
+<\snippet>
+<\document>
+
+<document>
+<qid>48<\qid>
+<rank>72<\rank>
+<doc>CACM-2509<\doc>
+<snippet>
+<b>Algorithm<\b> for Linear Programming (Algorithm R333)CACM May, 
+<\snippet>
+<\document>
+
+<document>
+<qid>48<\qid>
+<rank>73<\rank>
+<doc>CACM-1183<\doc>
+<snippet>
+Note on the Use of <b>a<\b> Digital 
+<\snippet>
+<\document>
+
+<document>
+<qid>48<\qid>
+<rank>74<\rank>
+<doc>CACM-2879<\doc>
+<snippet>
+Science as Empirical Inquiry: Symbols <b>and<\b> <b>SearchCACM<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>48<\qid>
+<rank>75<\rank>
+<doc>CACM-1473<\doc>
+<snippet>
+<b>Stability<\b> of the Fourth Order Runge-KuttaMethod for 
+<\snippet>
+<\document>
+
+<document>
+<qid>48<\qid>
+<rank>76<\rank>
+<doc>CACM-2877<\doc>
+<snippet>
+be exposed and codified by the static analysis methods described 
+<\snippet>
+<\document>
+
+<document>
+<qid>48<\qid>
+<rank>77<\rank>
+<doc>CACM-2904<\doc>
+<snippet>
+Algorithm for Reduction <b>of<\b> Operator StrengthA simple 
+<\snippet>
+<\document>
+
+<document>
+<qid>48<\qid>
+<rank>78<\rank>
+<doc>CACM-3160<\doc>
+<snippet>
+ScienceThis report is based on the results of an NSF 
+<\snippet>
+<\document>
+
+<document>
+<qid>48<\qid>
+<rank>79<\rank>
+<doc>CACM-2295<\doc>
+<snippet>
+on the Composition <b>of<\b> Semantics in 
+<\snippet>
+<\document>
+
+<document>
+<qid>48<\qid>
+<rank>80<\rank>
+<doc>CACM-2675<\doc>
+<snippet>
+Computer Routine for Quadratic and LinearProgramming Problems 
+<\snippet>
+<\document>
+
+<document>
+<qid>48<\qid>
+<rank>81<\rank>
+<doc>CACM-2766<\doc>
+<snippet>
+ The only restriction on the algorithm given here is 
+<\snippet>
+<\document>
+
+<document>
+<qid>48<\qid>
+<rank>82<\rank>
+<doc>CACM-2903<\doc>
+<snippet>
+Programs by the Introduction of RecursionA <b>new<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>48<\qid>
+<rank>83<\rank>
+<doc>CACM-2953<\doc>
+<snippet>
+of recursion elimination areapplied to the schematic recursive procedure: proc 
+<\snippet>
+<\document>
+
+<document>
+<qid>48<\qid>
+<rank>84<\rank>
+<doc>CACM-2630<\doc>
+<snippet>
+graph.  These algorithms generalize the Floydalgorithm and the Dantzig 
+<\snippet>
+<\document>
+
+<document>
+<qid>48<\qid>
+<rank>85<\rank>
+<doc>CACM-0084<\doc>
+<snippet>
+Businessand Management Control Systems of the Federal Government,as of December 
+<\snippet>
+<\document>
+
+<document>
+<qid>48<\qid>
+<rank>86<\rank>
+<doc>CACM-2337<\doc>
+<snippet>
+One new algorithm for finding <b>the<\b> minimum and maximum elements 
+<\snippet>
+<\document>
+
+<document>
+<qid>48<\qid>
+<rank>87<\rank>
+<doc>CACM-1873<\doc>
+<snippet>
+computing(related) inner <b>products<\b> can accelerate the pricing phase of LP 
+<\snippet>
+<\document>
+
+<document>
+<qid>48<\qid>
+<rank>88<\rank>
+<doc>CACM-1529<\doc>
+<snippet>
+was analyzed in orderto compare the primal and primal-dual <b>decomposition<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>48<\qid>
+<rank>89<\rank>
+<doc>CACM-1009<\doc>
+<snippet>
+of <b>Combinatorial<\b> Problems Using GeneratingFunctions on a 
+<\snippet>
+<\document>
+
+<document>
+<qid>48<\qid>
+<rank>90<\rank>
+<doc>CACM-0303<\doc>
+<snippet>
+theterminology used in work for the University of Pennsylvania's Office 
+<\snippet>
+<\document>
+
+<document>
+<qid>48<\qid>
+<rank>91<\rank>
+<doc>CACM-2823<\doc>
+<snippet>
+faculty in <b>computer<\b> science during the years 1971 to 1975 
+<\snippet>
+<\document>
+
+<document>
+<qid>48<\qid>
+<rank>92<\rank>
+<doc>CACM-2958<\doc>
+<snippet>
+Data Types and the Development of Data <b>StructuresAbstract<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>48<\qid>
+<rank>93<\rank>
+<doc>CACM-2861<\doc>
+<snippet>
+and Employment of Ph.'s in Computer <b>ScienceCACM<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>48<\qid>
+<rank>94<\rank>
+<doc>CACM-1463<\doc>
+<snippet>
+on Extensible MachinesOne of the most salient <b>characteristics<\b> of 
+<\snippet>
+<\document>
+
+<document>
+<qid>48<\qid>
+<rank>95<\rank>
+<doc>CACM-3200<\doc>
+<snippet>
+ <b>A<\b> FORMAC Program for the Solution of Linear Boundary 
+<\snippet>
+<\document>
+
+<document>
+<qid>48<\qid>
+<rank>96<\rank>
+<doc>CACM-1860<\doc>
+<snippet>
+workand examples of applications of the language.CACM August, 1969Feldman, J. 
+<\snippet>
+<\document>
+
+<document>
+<qid>48<\qid>
+<rank>97<\rank>
+<doc>CACM-3022<\doc>
+<snippet>
+of a survey conducted in the fallof 1975 to determine 
+<\snippet>
+<\document>
+
+<document>
+<qid>48<\qid>
+<rank>98<\rank>
+<doc>CACM-2538<\doc>
+<snippet>
+Subcommittee <b>on<\b> Small College Programsof the Committee on Curriculum in 
+<\snippet>
+<\document>
+
+<document>
+<qid>48<\qid>
+<rank>99<\rank>
+<doc>CACM-3150<\doc>
+<snippet>
+leading to basic changes in the nature of programming.  
+<\snippet>
+<\document>
+
+<document>
+<qid>48<\qid>
+<rank>100<\rank>
+<doc>CACM-1834<\doc>
+<snippet>
+of mathematics.  This involves the elucidationof sets of axioms 
+<\snippet>
+<\document>

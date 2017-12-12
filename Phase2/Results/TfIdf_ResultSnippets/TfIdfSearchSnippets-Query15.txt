@@ -1,0 +1,900 @@
+
+<document>
+<qid>15<\qid>
+<rank>1<\rank>
+<doc>CACM-2464<\doc>
+<snippet>
+Complex <b>Method<\b> for Constrained Optimization [E4] (Algorithm 
+<\snippet>
+<\document>
+
+<document>
+<qid>15<\qid>
+<rank>2<\rank>
+<doc>CACM-1231<\doc>
+<snippet>
+OptimizationRedundant instructions may be discarded duringthe final 
+<\snippet>
+<\document>
+
+<document>
+<qid>15<\qid>
+<rank>3<\rank>
+<doc>CACM-2611<\doc>
+<snippet>
+Complex Method for Constrained <b>Optimization<\b> (Algorithm R454)CACM 
+<\snippet>
+<\document>
+
+<document>
+<qid>15<\qid>
+<rank>4<\rank>
+<doc>CACM-2835<\doc>
+<snippet>
+Analysis <b>for<\b> Compiler OptimizationA relatively simple method 
+<\snippet>
+<\document>
+
+<document>
+<qid>15<\qid>
+<rank>5<\rank>
+<doc>CACM-1795<\doc>
+<snippet>
+Code for Serial and <b>Parallel<\b> ComputationCACM December, 
+<\snippet>
+<\document>
+
+<document>
+<qid>15<\qid>
+<rank>6<\rank>
+<doc>CACM-2616<\doc>
+<snippet>
+the Conversion of Programs <b>to<\b> Decision Tables: 
+<\snippet>
+<\document>
+
+<document>
+<qid>15<\qid>
+<rank>7<\rank>
+<doc>CACM-2964<\doc>
+<snippet>
+Approach to <b>Optimal<\b> Design of Storage Parameters 
+<\snippet>
+<\document>
+
+<document>
+<qid>15<\qid>
+<rank>8<\rank>
+<doc>CACM-2904<\doc>
+<snippet>
+Algorithm for Reduction of Operator <b>StrengthA<\b> simple 
+<\snippet>
+<\document>
+
+<document>
+<qid>15<\qid>
+<rank>9<\rank>
+<doc>CACM-1947<\doc>
+<snippet>
+code OptimizationMethods of analyzing <b>the<\b> control flow 
+<\snippet>
+<\document>
+
+<document>
+<qid>15<\qid>
+<rank>10<\rank>
+<doc>CACM-2133<\doc>
+<snippet>
+for the <b>Assignment<\b> Problem(Rectangular Matrices) [H] (Algorithm 
+<\snippet>
+<\document>
+
+<document>
+<qid>15<\qid>
+<rank>11<\rank>
+<doc>CACM-2929<\doc>
+<snippet>
+Analysis of Inline Substitution for a Structured 
+<\snippet>
+<\document>
+
+<document>
+<qid>15<\qid>
+<rank>12<\rank>
+<doc>CACM-2344<\doc>
+<snippet>
+the Optimization of Performance <b>of<\b> Time-Sharing Systems 
+<\snippet>
+<\document>
+
+<document>
+<qid>15<\qid>
+<rank>13<\rank>
+<doc>CACM-2495<\doc>
+<snippet>
+Optimal Code Generation for ArithmeticExpressions to <b>the<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>15<\qid>
+<rank>14<\rank>
+<doc>CACM-2836<\doc>
+<snippet>
+Derivation TreesThe nodes of a <b>weighted<\b> <b>derivation<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>15<\qid>
+<rank>15<\rank>
+<doc>CACM-3054<\doc>
+<snippet>
+Quicksort <b>ProgramsThis<\b> paper is a practical study 
+<\snippet>
+<\document>
+
+<document>
+<qid>15<\qid>
+<rank>16<\rank>
+<doc>CACM-3080<\doc>
+<snippet>
+the <b>Correctness<\b> of Heuristically Optimized Code A 
+<\snippet>
+<\document>
+
+<document>
+<qid>15<\qid>
+<rank>17<\rank>
+<doc>CACM-3125<\doc>
+<snippet>
+Optimization by Suppression of Partial RedundanciesThe elimination 
+<\snippet>
+<\document>
+
+<document>
+<qid>15<\qid>
+<rank>18<\rank>
+<doc>CACM-1807<\doc>
+<snippet>
+of Expressions in FortranA method <b>of<\b> optimizing 
+<\snippet>
+<\document>
+
+<document>
+<qid>15<\qid>
+<rank>19<\rank>
+<doc>CACM-0820<\doc>
+<snippet>
+<b>for<\b> Loops in NetworksCACM July, 1963Gordon, R. 
+<\snippet>
+<\document>
+
+<document>
+<qid>15<\qid>
+<rank>20<\rank>
+<doc>CACM-2411<\doc>
+<snippet>
+ProgramsCACM November, 1973Wegner, E.control structures, flowcharts, <b>goto<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>15<\qid>
+<rank>21<\rank>
+<doc>CACM-2877<\doc>
+<snippet>
+Program <b>Data<\b> Flow Analysis <b>ProcedureThe<\b> global data 
+<\snippet>
+<\document>
+
+<document>
+<qid>15<\qid>
+<rank>22<\rank>
+<doc>CACM-1676<\doc>
+<snippet>
+LRLTRAN CompilerExtensive software problems confront an organizationwhich 
+<\snippet>
+<\document>
+
+<document>
+<qid>15<\qid>
+<rank>23<\rank>
+<doc>CACM-2290<\doc>
+<snippet>
+Predominators in <b>a<\b> Directed Graph [H] (Algorithm 
+<\snippet>
+<\document>
+
+<document>
+<qid>15<\qid>
+<rank>24<\rank>
+<doc>CACM-0307<\doc>
+<snippet>
+(Algorithm 65)CACM July, 1961Hoare, C. A. <b>R.CA610710<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>15<\qid>
+<rank>25<\rank>
+<doc>CACM-3029<\doc>
+<snippet>
+to the <b>Special<\b> <b>Issue<\b> <b>on<\b> <b>Computer<\b> <b>ArchitectureCACM<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>15<\qid>
+<rank>26<\rank>
+<doc>CACM-1191<\doc>
+<snippet>
+<b>Precedence<\b> Functions (Algorithm 265 [L2])CACM October, 1965Wirth, 
+<\snippet>
+<\document>
+
+<document>
+<qid>15<\qid>
+<rank>27<\rank>
+<doc>CACM-2195<\doc>
+<snippet>
+<b>the<\b> Optimal Detection of Curves in Noisy 
+<\snippet>
+<\document>
+
+<document>
+<qid>15<\qid>
+<rank>28<\rank>
+<doc>CACM-1737<\doc>
+<snippet>
+Global Parser for Context-Free Phrase <b>Structure<\b> GrammarsCACM 
+<\snippet>
+<\document>
+
+<document>
+<qid>15<\qid>
+<rank>29<\rank>
+<doc>CACM-1755<\doc>
+<snippet>
+of the ACM Symposium <b>on<\b> Operating system 
+<\snippet>
+<\document>
+
+<document>
+<qid>15<\qid>
+<rank>30<\rank>
+<doc>CACM-2953<\doc>
+<snippet>
+on Recursion EliminationVarious methods of <b>recursion<\b> elimination 
+<\snippet>
+<\document>
+
+<document>
+<qid>15<\qid>
+<rank>31<\rank>
+<doc>CACM-2701<\doc>
+<snippet>
+<b>Fast<\b> and Usually Linear Algorithm for GlobalFlow 
+<\snippet>
+<\document>
+
+<document>
+<qid>15<\qid>
+<rank>32<\rank>
+<doc>CACM-1658<\doc>
+<snippet>
+of Algorithms for the <b>Zero-One<\b> Programming ProblemThis 
+<\snippet>
+<\document>
+
+<document>
+<qid>15<\qid>
+<rank>33<\rank>
+<doc>CACM-0089<\doc>
+<snippet>
+Routine to <b>Find<\b> the Solution of SimultaneousLinear 
+<\snippet>
+<\document>
+
+<document>
+<qid>15<\qid>
+<rank>34<\rank>
+<doc>CACM-2944<\doc>
+<snippet>
+This information is used to find actions that cancel when 
+<\snippet>
+<\document>
+
+<document>
+<qid>15<\qid>
+<rank>35<\rank>
+<doc>CACM-3069<\doc>
+<snippet>
+Practical Interprocedural Data Flow Analysis <b>AlgorithmA<\b> new 
+<\snippet>
+<\document>
+
+<document>
+<qid>15<\qid>
+<rank>36<\rank>
+<doc>CACM-0776<\doc>
+<snippet>
+Quicksort, and <b>Find<\b> (Algorithm 62, 64, & 
+<\snippet>
+<\document>
+
+<document>
+<qid>15<\qid>
+<rank>37<\rank>
+<doc>CACM-0507<\doc>
+<snippet>
+<b>Quicksort,<\b> Find (Algorithm 63, 64, 65)CACM August, 
+<\snippet>
+<\document>
+
+<document>
+<qid>15<\qid>
+<rank>38<\rank>
+<doc>CACM-2685<\doc>
+<snippet>
+Parallel Execution of DO LoopsMethods are developed 
+<\snippet>
+<\document>
+
+<document>
+<qid>15<\qid>
+<rank>39<\rank>
+<doc>CACM-1961<\doc>
+<snippet>
+uses an exhaustive search to find all of the elementarycircuits 
+<\snippet>
+<\document>
+
+<document>
+<qid>15<\qid>
+<rank>40<\rank>
+<doc>CACM-2680<\doc>
+<snippet>
+Space Allocation <b>on<\b> Disk Storage DevicesWhen the 
+<\snippet>
+<\document>
+
+<document>
+<qid>15<\qid>
+<rank>41<\rank>
+<doc>CACM-2537<\doc>
+<snippet>
+Phrases and Minimum-Space Text StorageA method for 
+<\snippet>
+<\document>
+
+<document>
+<qid>15<\qid>
+<rank>42<\rank>
+<doc>CACM-1548<\doc>
+<snippet>
+of Decision TablesReduction <b>in<\b> the size of 
+<\snippet>
+<\document>
+
+<document>
+<qid>15<\qid>
+<rank>43<\rank>
+<doc>CACM-0693<\doc>
+<snippet>
+Extension of <b>Fibonaccian<\b> Search To Several VariablesA 
+<\snippet>
+<\document>
+
+<document>
+<qid>15<\qid>
+<rank>44<\rank>
+<doc>CACM-2716<\doc>
+<snippet>
+the <b>Performance<\b> of a Relational Algebra Database 
+<\snippet>
+<\document>
+
+<document>
+<qid>15<\qid>
+<rank>45<\rank>
+<doc>CACM-3018<\doc>
+<snippet>
+Edges by Cliques with Regard toKeyword <b>Conflicts<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>15<\qid>
+<rank>46<\rank>
+<doc>CACM-1195<\doc>
+<snippet>
+of Pittsburgh Linear File Tandem SystemA series 
+<\snippet>
+<\document>
+
+<document>
+<qid>15<\qid>
+<rank>47<\rank>
+<doc>CACM-2253<\doc>
+<snippet>
+Ranges for Matrix CalculiThe <b>paper<\b> describes a 
+<\snippet>
+<\document>
+
+<document>
+<qid>15<\qid>
+<rank>48<\rank>
+<doc>CACM-2812<\doc>
+<snippet>
+Analysis and Design of Information SystemsThis paper 
+<\snippet>
+<\document>
+
+<document>
+<qid>15<\qid>
+<rank>49<\rank>
+<doc>CACM-2174<\doc>
+<snippet>
+criterion has <b>been<\b> extended to find all the stable marriage 
+<\snippet>
+<\document>
+
+<document>
+<qid>15<\qid>
+<rank>50<\rank>
+<doc>CACM-2923<\doc>
+<snippet>
+Data Flow AnalysisIn contrast to <b>the<\b> predominant 
+<\snippet>
+<\document>
+
+<document>
+<qid>15<\qid>
+<rank>51<\rank>
+<doc>CACM-1886<\doc>
+<snippet>
+of Optimal Code <b>for<\b> Expressions via FactorizationGiven 
+<\snippet>
+<\document>
+
+<document>
+<qid>15<\qid>
+<rank>52<\rank>
+<doc>CACM-0658<\doc>
+<snippet>
+Pros and Cons of a <b>Special<\b> IR 
+<\snippet>
+<\document>
+
+<document>
+<qid>15<\qid>
+<rank>53<\rank>
+<doc>CACM-0717<\doc>
+<snippet>
+Algorithms for Finite <b>SetsThe<\b> partitions of a 
+<\snippet>
+<\document>
+
+<document>
+<qid>15<\qid>
+<rank>54<\rank>
+<doc>CACM-3118<\doc>
+<snippet>
+of <b>Data<\b> Blocks in a Bubble MemoryA 
+<\snippet>
+<\document>
+
+<document>
+<qid>15<\qid>
+<rank>55<\rank>
+<doc>CACM-2897<\doc>
+<snippet>
+Case Study of a New <b>Code<\b> Generation 
+<\snippet>
+<\document>
+
+<document>
+<qid>15<\qid>
+<rank>56<\rank>
+<doc>CACM-2388<\doc>
+<snippet>
+Binary Trees Grown With <b>a<\b> Sorting AlgorithmItems 
+<\snippet>
+<\document>
+
+<document>
+<qid>15<\qid>
+<rank>57<\rank>
+<doc>CACM-1183<\doc>
+<snippet>
+Note on the Use <b>of<\b> a Digital 
+<\snippet>
+<\document>
+
+<document>
+<qid>15<\qid>
+<rank>58<\rank>
+<doc>CACM-0104<\doc>
+<snippet>
+Simulation <b>of<\b> Discrete Flow Systems*The discrete flow 
+<\snippet>
+<\document>
+
+<document>
+<qid>15<\qid>
+<rank>59<\rank>
+<doc>CACM-1750<\doc>
+<snippet>
+in the Design of a MultipleComputer System 
+<\snippet>
+<\document>
+
+<document>
+<qid>15<\qid>
+<rank>60<\rank>
+<doc>CACM-2699<\doc>
+<snippet>
+Data Structure Choice in a <b>Language<\b> of 
+<\snippet>
+<\document>
+
+<document>
+<qid>15<\qid>
+<rank>61<\rank>
+<doc>CACM-2134<\doc>
+<snippet>
+Extension of the <b>Munkres<\b> Algorithm forthe Assignment 
+<\snippet>
+<\document>
+
+<document>
+<qid>15<\qid>
+<rank>62<\rank>
+<doc>CACM-2321<\doc>
+<snippet>
+the Interface Between Computers and Data Communications 
+<\snippet>
+<\document>
+
+<document>
+<qid>15<\qid>
+<rank>63<\rank>
+<doc>CACM-0059<\doc>
+<snippet>
+of Progress <b>and<\b> Trend of Developmentand Use 
+<\snippet>
+<\document>
+
+<document>
+<qid>15<\qid>
+<rank>64<\rank>
+<doc>CACM-2827<\doc>
+<snippet>
+be distinguished. This scheme can find the coordinates of points 
+<\snippet>
+<\document>
+
+<document>
+<qid>15<\qid>
+<rank>65<\rank>
+<doc>CACM-1719<\doc>
+<snippet>
+Methodology for Calculating <b>andOptimizing<\b> Real-Time System PerformanceThe 
+<\snippet>
+<\document>
+
+<document>
+<qid>15<\qid>
+<rank>66<\rank>
+<doc>CACM-1995<\doc>
+<snippet>
+<b>Series<\b> Summation with Arbitrary Precision $C6) (Algorithm 
+<\snippet>
+<\document>
+
+<document>
+<qid>15<\qid>
+<rank>67<\rank>
+<doc>CACM-2332<\doc>
+<snippet>
+Series Summation with Arbitrary Precision (Algorithm <b>R393)CACM<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>15<\qid>
+<rank>68<\rank>
+<doc>CACM-2940<\doc>
+<snippet>
+and Verification in Alphard: Definingand Specifying Iteration 
+<\snippet>
+<\document>
+
+<document>
+<qid>15<\qid>
+<rank>69<\rank>
+<doc>CACM-3020<\doc>
+<snippet>
+Recursion RemovalThe recursion <b>removal<\b> algorithm presentedby Strong 
+<\snippet>
+<\document>
+
+<document>
+<qid>15<\qid>
+<rank>70<\rank>
+<doc>CACM-1809<\doc>
+<snippet>
+Analysis in a Ph. Computer Science <b>ProgramNumerical<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>15<\qid>
+<rank>71<\rank>
+<doc>CACM-2227<\doc>
+<snippet>
+of a <b>Program:<\b> FINDA proof <b>is<\b> given 
+<\snippet>
+<\document>
+
+<document>
+<qid>15<\qid>
+<rank>72<\rank>
+<doc>CACM-2800<\doc>
+<snippet>
+Between Accuracy and StabilityProperties of Linear <b>Multistep<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>15<\qid>
+<rank>73<\rank>
+<doc>CACM-0086<\doc>
+<snippet>
+of Progress and Trend of Developmentand <b>Use<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>15<\qid>
+<rank>74<\rank>
+<doc>CACM-2188<\doc>
+<snippet>
+configurationsare in turn used to find general display system design 
+<\snippet>
+<\document>
+
+<document>
+<qid>15<\qid>
+<rank>75<\rank>
+<doc>CACM-1564<\doc>
+<snippet>
+of Basic Algorithm in DETAB/65 PreprocessorThe basic 
+<\snippet>
+<\document>
+
+<document>
+<qid>15<\qid>
+<rank>76<\rank>
+<doc>CACM-2874<\doc>
+<snippet>
+Comparative Evaluation of Versions <b>of<\b> BASICFrom its 
+<\snippet>
+<\document>
+
+<document>
+<qid>15<\qid>
+<rank>77<\rank>
+<doc>CACM-2304<\doc>
+<snippet>
+Western View of Computer HistoryMany U. <b>histories<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>15<\qid>
+<rank>78<\rank>
+<doc>CACM-2142<\doc>
+<snippet>
+determinedand the problem is to find the "most representative" picture. 
+<\snippet>
+<\document>
+
+<document>
+<qid>15<\qid>
+<rank>79<\rank>
+<doc>CACM-1762<\doc>
+<snippet>
+(Algorithm 327 [S22])CACM April, 1968Kolbig, K. <b>S.dilogarithm<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>15<\qid>
+<rank>80<\rank>
+<doc>CACM-1628<\doc>
+<snippet>
+Emergence of a ProfessionComputer programming deals with 
+<\snippet>
+<\document>
+
+<document>
+<qid>15<\qid>
+<rank>81<\rank>
+<doc>CACM-0084<\doc>
+<snippet>
+of Progress and Trend of Developmentand <b>Use<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>15<\qid>
+<rank>82<\rank>
+<doc>CACM-2457<\doc>
+<snippet>
+Methodsfor Proving Properties of ProgramsThere are two 
+<\snippet>
+<\document>
+
+<document>
+<qid>15<\qid>
+<rank>83<\rank>
+<doc>CACM-2969<\doc>
+<snippet>
+Program and Data Locations in <b>Computer<\b> NetworksAn 
+<\snippet>
+<\document>
+
+<document>
+<qid>15<\qid>
+<rank>84<\rank>
+<doc>CACM-2000<\doc>
+<snippet>
+Variation <b>of<\b> the Goodman-Lance Method forthe Solution 
+<\snippet>
+<\document>
+
+<document>
+<qid>15<\qid>
+<rank>85<\rank>
+<doc>CACM-1808<\doc>
+<snippet>
+<b>Cryptographic<\b> Techniques for ComputersCryptographic techniques which can 
+<\snippet>
+<\document>
+
+<document>
+<qid>15<\qid>
+<rank>86<\rank>
+<doc>CACM-1098<\doc>
+<snippet>
+Comparison of <b>List-Processing<\b> Computer Languages(Including a Detailed 
+<\snippet>
+<\document>
+
+<document>
+<qid>15<\qid>
+<rank>87<\rank>
+<doc>CACM-2486<\doc>
+<snippet>
+Photocomposition of Technical <b>TextIn<\b> computer assisted typesetting 
+<\snippet>
+<\document>
+
+<document>
+<qid>15<\qid>
+<rank>88<\rank>
+<doc>CACM-1223<\doc>
+<snippet>
+Speed Compilation of Efficient Object CodeA <b>three-pass<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>15<\qid>
+<rank>89<\rank>
+<doc>CACM-1943<\doc>
+<snippet>
+Elliptic Integrals (Algorithm 165 [S21])CACM January,1969Farkas, I.special 
+<\snippet>
+<\document>
+
+<document>
+<qid>15<\qid>
+<rank>90<\rank>
+<doc>CACM-1305<\doc>
+<snippet>
+Internal Structure of the FORTRAN CEP TranslatorThe 
+<\snippet>
+<\document>
+
+<document>
+<qid>15<\qid>
+<rank>91<\rank>
+<doc>CACM-1111<\doc>
+<snippet>
+Class of Iterative Techniques For <b>the<\b> Factorization 
+<\snippet>
+<\document>
+
+<document>
+<qid>15<\qid>
+<rank>92<\rank>
+<doc>CACM-2752<\doc>
+<snippet>
+of All the <b>Cycles<\b> of a Graph 
+<\snippet>
+<\document>
+
+<document>
+<qid>15<\qid>
+<rank>93<\rank>
+<doc>CACM-2858<\doc>
+<snippet>
+Process for the Determination ofAddresses in Variable 
+<\snippet>
+<\document>
+
+<document>
+<qid>15<\qid>
+<rank>94<\rank>
+<doc>CACM-2579<\doc>
+<snippet>
+Allocation Via Usage CountsThis <b>paper<\b> introduces the 
+<\snippet>
+<\document>
+
+<document>
+<qid>15<\qid>
+<rank>95<\rank>
+<doc>CACM-2477<\doc>
+<snippet>
+Exits from a Loop Without the GOTOCACM 
+<\snippet>
+<\document>
+
+<document>
+<qid>15<\qid>
+<rank>96<\rank>
+<doc>CACM-1626<\doc>
+<snippet>
+of a LISP <b>System<\b> Using Two-Level StorageIn 
+<\snippet>
+<\document>
+
+<document>
+<qid>15<\qid>
+<rank>97<\rank>
+<doc>CACM-0146<\doc>
+<snippet>
+Use of Computers in Engineering Classroom Instruction 
+<\snippet>
+<\document>
+
+<document>
+<qid>15<\qid>
+<rank>98<\rank>
+<doc>CACM-0695<\doc>
+<snippet>
+of the Disk File on StretchThe paper 
+<\snippet>
+<\document>
+
+<document>
+<qid>15<\qid>
+<rank>99<\rank>
+<doc>CACM-1570<\doc>
+<snippet>
+Processing TechniquesThe internal organization of string processingsystems 
+<\snippet>
+<\document>
+
+<document>
+<qid>15<\qid>
+<rank>100<\rank>
+<doc>CACM-2433<\doc>
+<snippet>
+Structures in Illiac IV FortranAs <b>part<\b> of 
+<\snippet>
+<\document>

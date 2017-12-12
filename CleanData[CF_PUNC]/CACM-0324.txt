@@ -1,0 +1,1 @@
+romberg integration algorithm 60 cacm June, 1961 Bauer, F. L. ca610601 jb march 16, 1978 10:57 pm

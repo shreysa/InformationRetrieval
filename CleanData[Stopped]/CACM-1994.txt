@@ -1,0 +1,1 @@
+decision table translation algorithm 394 cacm September, 1970 Dial, R. B. decision table decision table translation 4.19 ca700911 jb february 10, 1978 10:05

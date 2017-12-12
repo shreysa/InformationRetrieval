@@ -1,0 +1,900 @@
+
+<document>
+<qid>59<\qid>
+<rank>1<\rank>
+<doc>CACM-0028<\doc>
+<snippet>
+for Methods or ProgramsCACM April, 1958Corley, <b>H.<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>59<\qid>
+<rank>2<\rank>
+<doc>CACM-0661<\doc>
+<snippet>
+and the Lambda-NotationSome methods of <b>indexing<\b> sequentially 
+<\snippet>
+<\document>
+
+<document>
+<qid>59<\qid>
+<rank>3<\rank>
+<doc>CACM-2111<\doc>
+<snippet>
+Correction <b>in<\b> Systems ProgramsSeveral specialized techniques are 
+<\snippet>
+<\document>
+
+<document>
+<qid>59<\qid>
+<rank>4<\rank>
+<doc>CACM-0944<\doc>
+<snippet>
+application where a symbol table, dictionary or similar file is 
+<\snippet>
+<\document>
+
+<document>
+<qid>59<\qid>
+<rank>5<\rank>
+<doc>CACM-1818<\doc>
+<snippet>
+Legendre Functions of the First Kindfor <b>Real<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>59<\qid>
+<rank>6<\rank>
+<doc>CACM-0344<\doc>
+<snippet>
+or Bei Function (Algorithm 57)CACM April, 1961Herndon, 
+<\snippet>
+<\document>
+
+<document>
+<qid>59<\qid>
+<rank>7<\rank>
+<doc>CACM-0544<\doc>
+<snippet>
+<b>Ber<\b> or Bei Function (Algorithm 57)CACM July, 
+<\snippet>
+<\document>
+
+<document>
+<qid>59<\qid>
+<rank>8<\rank>
+<doc>CACM-1112<\doc>
+<snippet>
+cannot be found in a dictionary has at most one 
+<\snippet>
+<\document>
+
+<document>
+<qid>59<\qid>
+<rank>9<\rank>
+<doc>CACM-0510<\doc>
+<snippet>
+<b>or<\b> Bei Function (Algorithm 57)CACM August, 1962Thacher 
+<\snippet>
+<\document>
+
+<document>
+<qid>59<\qid>
+<rank>10<\rank>
+<doc>CACM-0137<\doc>
+<snippet>
+Numbers Expressed as Strings <b>of<\b> English WordsCACM 
+<\snippet>
+<\document>
+
+<document>
+<qid>59<\qid>
+<rank>11<\rank>
+<doc>CACM-1152<\doc>
+<snippet>
+Arithmetic with <b>84-Bit<\b> NumbersA classic and straightforward 
+<\snippet>
+<\document>
+
+<document>
+<qid>59<\qid>
+<rank>12<\rank>
+<doc>CACM-3126<\doc>
+<snippet>
+on Perfect Hashing <b>Functions:<\b> A SingleProbe Retrieving 
+<\snippet>
+<\document>
+
+<document>
+<qid>59<\qid>
+<rank>13<\rank>
+<doc>CACM-1457<\doc>
+<snippet>
+Manipulation <b>and<\b> Programming Problemsin Automatic Information RetrievalAutomatic 
+<\snippet>
+<\document>
+
+<document>
+<qid>59<\qid>
+<rank>14<\rank>
+<doc>CACM-2278<\doc>
+<snippet>
+Foster's Information Storage and Retrieval Using AVL 
+<\snippet>
+<\document>
+
+<document>
+<qid>59<\qid>
+<rank>15<\rank>
+<doc>CACM-0144<\doc>
+<snippet>
+It by the Numbers-Digital ShorthandPresent communications systems 
+<\snippet>
+<\document>
+
+<document>
+<qid>59<\qid>
+<rank>16<\rank>
+<doc>CACM-2711<\doc>
+<snippet>
+Vector Space <b>Model<\b> for Automatic IndexingIn a 
+<\snippet>
+<\document>
+
+<document>
+<qid>59<\qid>
+<rank>17<\rank>
+<doc>CACM-2437<\doc>
+<snippet>
+Performance Analysis of Key-to-AddressTransformation <b>Methods<\b> Using an 
+<\snippet>
+<\document>
+
+<document>
+<qid>59<\qid>
+<rank>18<\rank>
+<doc>CACM-1441<\doc>
+<snippet>
+of Numerical <b>Integration<\b> Applied toa System Having 
+<\snippet>
+<\document>
+
+<document>
+<qid>59<\qid>
+<rank>19<\rank>
+<doc>CACM-1287<\doc>
+<snippet>
+Coupling or <b>Clebsch-Gordan<\b> Coefficients (Algorithm 252 [Z])CACM 
+<\snippet>
+<\document>
+
+<document>
+<qid>59<\qid>
+<rank>20<\rank>
+<doc>CACM-1456<\doc>
+<snippet>
+uses LISP to makea conceptual dictionary is described.  The 
+<\snippet>
+<\document>
+
+<document>
+<qid>59<\qid>
+<rank>21<\rank>
+<doc>CACM-1681<\doc>
+<snippet>
+<b>English,a<\b> Language for InformationRetrieval Through a Remote 
+<\snippet>
+<\document>
+
+<document>
+<qid>59<\qid>
+<rank>22<\rank>
+<doc>CACM-2532<\doc>
+<snippet>
+Harrison's Substring Testing TechniqueCACM March, 1973Bookstein, A.string, 
+<\snippet>
+<\document>
+
+<document>
+<qid>59<\qid>
+<rank>23<\rank>
+<doc>CACM-1235<\doc>
+<snippet>
+the use of a small dictionary of function words and 
+<\snippet>
+<\document>
+
+<document>
+<qid>59<\qid>
+<rank>24<\rank>
+<doc>CACM-2127<\doc>
+<snippet>
+Language Question-Answering Systems: 1969Recent experiments in <b>programming<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>59<\qid>
+<rank>25<\rank>
+<doc>CACM-2403<\doc>
+<snippet>
+for Natural Spline Interpolation [E1] (Algorithm A472)CACM 
+<\snippet>
+<\document>
+
+<document>
+<qid>59<\qid>
+<rank>26<\rank>
+<doc>CACM-2258<\doc>
+<snippet>
+Results on Key-to-Address TransformTechniques: A Fundamental Performance 
+<\snippet>
+<\document>
+
+<document>
+<qid>59<\qid>
+<rank>27<\rank>
+<doc>CACM-0778<\doc>
+<snippet>
+Legendre Functions of the First Kindfor Real 
+<\snippet>
+<\document>
+
+<document>
+<qid>59<\qid>
+<rank>28<\rank>
+<doc>CACM-1855<\doc>
+<snippet>
+it uses only a <b>limited<\b> dictionary of English words and 
+<\snippet>
+<\document>
+
+<document>
+<qid>59<\qid>
+<rank>29<\rank>
+<doc>CACM-0626<\doc>
+<snippet>
+Method of Representation, Storage <b>and<\b> Retrievalof 13 
+<\snippet>
+<\document>
+
+<document>
+<qid>59<\qid>
+<rank>30<\rank>
+<doc>CACM-1700<\doc>
+<snippet>
+Computer <b>Offspring<\b> of PunchedCard PEEKABOO, for Natural 
+<\snippet>
+<\document>
+
+<document>
+<qid>59<\qid>
+<rank>31<\rank>
+<doc>CACM-0354<\doc>
+<snippet>
+Legendre Functions of <b>the<\b> First Kindfor Real 
+<\snippet>
+<\document>
+
+<document>
+<qid>59<\qid>
+<rank>32<\rank>
+<doc>CACM-1051<\doc>
+<snippet>
+List ItemsThe list concept as originally proposed 
+<\snippet>
+<\document>
+
+<document>
+<qid>59<\qid>
+<rank>33<\rank>
+<doc>CACM-1462<\doc>
+<snippet>
+Operating SystemsThe Basic software for all <b>newer<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>59<\qid>
+<rank>34<\rank>
+<doc>CACM-1888<\doc>
+<snippet>
+<b>Function<\b> Methods for Nonlinear Boundary-Value ProblemsThe solution 
+<\snippet>
+<\document>
+
+<document>
+<qid>59<\qid>
+<rank>35<\rank>
+<doc>CACM-3046<\doc>
+<snippet>
+<b>Generation<\b> of Gamma Random Variables - IIA 
+<\snippet>
+<\document>
+
+<document>
+<qid>59<\qid>
+<rank>36<\rank>
+<doc>CACM-2905<\doc>
+<snippet>
+Hashing Functions: A SingleProbe Retrieving Method for 
+<\snippet>
+<\document>
+
+<document>
+<qid>59<\qid>
+<rank>37<\rank>
+<doc>CACM-1486<\doc>
+<snippet>
+Reprogramming MachineIn this paper a description is 
+<\snippet>
+<\document>
+
+<document>
+<qid>59<\qid>
+<rank>38<\rank>
+<doc>CACM-1699<\doc>
+<snippet>
+Evaluation of InformationRetrieval Through a TeletypewriterExperiments <b>designed<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>59<\qid>
+<rank>39<\rank>
+<doc>CACM-1619<\doc>
+<snippet>
+Methods for Statistical ComputationsNeely has <b>discussed<\b> computational 
+<\snippet>
+<\document>
+
+<document>
+<qid>59<\qid>
+<rank>40<\rank>
+<doc>CACM-1620<\doc>
+<snippet>
+of Evaluating <b>Polynomial<\b> Approximationsin Function Evaluation RoutinesThe 
+<\snippet>
+<\document>
+
+<document>
+<qid>59<\qid>
+<rank>41<\rank>
+<doc>CACM-2705<\doc>
+<snippet>
+Languages, Natural Languages, and MathematicsSome <b>social<\b> aspects 
+<\snippet>
+<\document>
+
+<document>
+<qid>59<\qid>
+<rank>42<\rank>
+<doc>CACM-0651<\doc>
+<snippet>
+<b>Survey<\b> of Languages and Systems for Information 
+<\snippet>
+<\document>
+
+<document>
+<qid>59<\qid>
+<rank>43<\rank>
+<doc>CACM-0490<\doc>
+<snippet>
+Methods for Printer Graphical OutputCACM <b>September,<\b> 1962Garfinkel, 
+<\snippet>
+<\document>
+
+<document>
+<qid>59<\qid>
+<rank>44<\rank>
+<doc>CACM-3134<\doc>
+<snippet>
+Use of Normal Multiplication Tablesfor Information Storage 
+<\snippet>
+<\document>
+
+<document>
+<qid>59<\qid>
+<rank>45<\rank>
+<doc>CACM-1703<\doc>
+<snippet>
+Standards and Identification of Programming LanguagesThe user 
+<\snippet>
+<\document>
+
+<document>
+<qid>59<\qid>
+<rank>46<\rank>
+<doc>CACM-2032<\doc>
+<snippet>
+<b>Structures<\b> Using Hashing FunctionsA general method of 
+<\snippet>
+<\document>
+
+<document>
+<qid>59<\qid>
+<rank>47<\rank>
+<doc>CACM-1488<\doc>
+<snippet>
+Decision Tables in FORTRAN, COBOL <b>or<\b> ALGOLA 
+<\snippet>
+<\document>
+
+<document>
+<qid>59<\qid>
+<rank>48<\rank>
+<doc>CACM-3087<\doc>
+<snippet>
+English Language Question Answering Systemfor a <b>Large<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>59<\qid>
+<rank>49<\rank>
+<doc>CACM-0078<\doc>
+<snippet>
+on the Practical <b>Solution<\b> of Characteristic Value 
+<\snippet>
+<\document>
+
+<document>
+<qid>59<\qid>
+<rank>50<\rank>
+<doc>CACM-2091<\doc>
+<snippet>
+Language for Partial <b>Differential<\b> EquationsConventional computer methods 
+<\snippet>
+<\document>
+
+<document>
+<qid>59<\qid>
+<rank>51<\rank>
+<doc>CACM-1162<\doc>
+<snippet>
+Assembly Language for ReprogrammingComplete reprogramming of <b>compiler<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>59<\qid>
+<rank>52<\rank>
+<doc>CACM-1438<\doc>
+<snippet>
+Method for Locating Zeros of Complex FunctionsA 
+<\snippet>
+<\document>
+
+<document>
+<qid>59<\qid>
+<rank>53<\rank>
+<doc>CACM-0617<\doc>
+<snippet>
+computer that forms part <b>of<\b> a control 
+<\snippet>
+<\document>
+
+<document>
+<qid>59<\qid>
+<rank>54<\rank>
+<doc>CACM-2484<\doc>
+<snippet>
+Note on Information Organization <b>and<\b> StorageSince the 
+<\snippet>
+<\document>
+
+<document>
+<qid>59<\qid>
+<rank>55<\rank>
+<doc>CACM-0891<\doc>
+<snippet>
+Information Retrieval SystemThe information <b>retrieval<\b> problem whose 
+<\snippet>
+<\document>
+
+<document>
+<qid>59<\qid>
+<rank>56<\rank>
+<doc>CACM-3198<\doc>
+<snippet>
+  Microprogramming, Emulators and Programming <b>Languages<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>59<\qid>
+<rank>57<\rank>
+<doc>CACM-1087<\doc>
+<snippet>
+in Automatic AbstractingA variety of problems <b>concerning<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>59<\qid>
+<rank>58<\rank>
+<doc>CACM-0634<\doc>
+<snippet>
+of Trees in Information Retrieval*CACM <b>February,<\b> 1962Salton, 
+<\snippet>
+<\document>
+
+<document>
+<qid>59<\qid>
+<rank>59<\rank>
+<doc>CACM-2288<\doc>
+<snippet>
+Organization: The <b>Consecutive<\b> Retrieval PropertyThe consecutive retrieval 
+<\snippet>
+<\document>
+
+<document>
+<qid>59<\qid>
+<rank>60<\rank>
+<doc>CACM-1313<\doc>
+<snippet>
+of Nonlinear <b>Programming<\b> Test ProblemsCACM <b>February,<\b> 1965Rosen, 
+<\snippet>
+<\document>
+
+<document>
+<qid>59<\qid>
+<rank>61<\rank>
+<doc>CACM-2808<\doc>
+<snippet>
+Lemniscate ConstantsThe <b>lemniscate<\b> constants, and indeed someof 
+<\snippet>
+<\document>
+
+<document>
+<qid>59<\qid>
+<rank>62<\rank>
+<doc>CACM-0380<\doc>
+<snippet>
+of Iterative Methods for the Calculation <b>of<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>59<\qid>
+<rank>63<\rank>
+<doc>CACM-2194<\doc>
+<snippet>
+To Keep the Addresses ShortAn algorithm <b>is<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>59<\qid>
+<rank>64<\rank>
+<doc>CACM-3139<\doc>
+<snippet>
+Methods to Color the Vertices of <b>a<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>59<\qid>
+<rank>65<\rank>
+<doc>CACM-1264<\doc>
+<snippet>
+1401 Operating System with Braille CapabilitiesBLNSYS <b>is<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>59<\qid>
+<rank>66<\rank>
+<doc>CACM-3138<\doc>
+<snippet>
+Mathematical Programming Updating <b>Method<\b> Using ModifiedGivens Transformations 
+<\snippet>
+<\document>
+
+<document>
+<qid>59<\qid>
+<rank>67<\rank>
+<doc>CACM-1402<\doc>
+<snippet>
+Step IntegrationA partial step integration equation is 
+<\snippet>
+<\document>
+
+<document>
+<qid>59<\qid>
+<rank>68<\rank>
+<doc>CACM-1554<\doc>
+<snippet>
+Computer Technique for Displaying n-Dimensional <b>HyperobjectsA<\b> digital 
+<\snippet>
+<\document>
+
+<document>
+<qid>59<\qid>
+<rank>69<\rank>
+<doc>CACM-2552<\doc>
+<snippet>
+Note on When To Chain Overflow Items 
+<\snippet>
+<\document>
+
+<document>
+<qid>59<\qid>
+<rank>70<\rank>
+<doc>CACM-1519<\doc>
+<snippet>
+3-A General Purpose Time Sharing <b>and<\b> Operating 
+<\snippet>
+<\document>
+
+<document>
+<qid>59<\qid>
+<rank>71<\rank>
+<doc>CACM-2078<\doc>
+<snippet>
+for Space PlanningProblems involving the arrangement of 
+<\snippet>
+<\document>
+
+<document>
+<qid>59<\qid>
+<rank>72<\rank>
+<doc>CACM-1999<\doc>
+<snippet>
+Starting Approximations for GeneratingSquare Root for Slow 
+<\snippet>
+<\document>
+
+<document>
+<qid>59<\qid>
+<rank>73<\rank>
+<doc>CACM-2739<\doc>
+<snippet>
+Restriction Language for <b>Computer<\b> Grammars of Natural 
+<\snippet>
+<\document>
+
+<document>
+<qid>59<\qid>
+<rank>74<\rank>
+<doc>CACM-2407<\doc>
+<snippet>
+Recommendations <b>for<\b> UndergraduatePrograms in Information SystemsThe need 
+<\snippet>
+<\document>
+
+<document>
+<qid>59<\qid>
+<rank>75<\rank>
+<doc>CACM-1927<\doc>
+<snippet>
+Science in <b>a<\b> Ph. Computer Science ProgramThis 
+<\snippet>
+<\document>
+
+<document>
+<qid>59<\qid>
+<rank>76<\rank>
+<doc>CACM-2268<\doc>
+<snippet>
+Comparative Study of Computer Programsfor Integrating <b>Differential<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>59<\qid>
+<rank>77<\rank>
+<doc>CACM-1413<\doc>
+<snippet>
+Vision of Technology <b>and<\b> EducationEducational technology is 
+<\snippet>
+<\document>
+
+<document>
+<qid>59<\qid>
+<rank>78<\rank>
+<doc>CACM-1665<\doc>
+<snippet>
+<b>Generation<\b> of Efficient LexicalProcessors Using Finite State 
+<\snippet>
+<\document>
+
+<document>
+<qid>59<\qid>
+<rank>79<\rank>
+<doc>CACM-2050<\doc>
+<snippet>
+Parsing for Content AnalysisAlthough automatic syntactic and 
+<\snippet>
+<\document>
+
+<document>
+<qid>59<\qid>
+<rank>80<\rank>
+<doc>CACM-3158<\doc>
+<snippet>
+Personal Computing in an Insecure NetworkA method 
+<\snippet>
+<\document>
+
+<document>
+<qid>59<\qid>
+<rank>81<\rank>
+<doc>CACM-2267<\doc>
+<snippet>
+To <b>Reveal<\b> Properties of Floating-Point ArithmeticTwo algorithms 
+<\snippet>
+<\document>
+
+<document>
+<qid>59<\qid>
+<rank>82<\rank>
+<doc>CACM-0719<\doc>
+<snippet>
+Width <b>StacksCharacter<\b> addressable, variable field computerspermit ready 
+<\snippet>
+<\document>
+
+<document>
+<qid>59<\qid>
+<rank>83<\rank>
+<doc>CACM-1527<\doc>
+<snippet>
+Grammar Base Question Answering ProcedureThe subject of 
+<\snippet>
+<\document>
+
+<document>
+<qid>59<\qid>
+<rank>84<\rank>
+<doc>CACM-1216<\doc>
+<snippet>
+Derivatives Without List Processing, <b>Subroutines,<\b> or RecursionA 
+<\snippet>
+<\document>
+
+<document>
+<qid>59<\qid>
+<rank>85<\rank>
+<doc>CACM-1259<\doc>
+<snippet>
+of Binary Numbers In Computer RoutinesA binary 
+<\snippet>
+<\document>
+
+<document>
+<qid>59<\qid>
+<rank>86<\rank>
+<doc>CACM-1483<\doc>
+<snippet>
+Comparison of <b>the<\b> FORTRAN LanguageImplementation <b>for<\b> Several 
+<\snippet>
+<\document>
+
+<document>
+<qid>59<\qid>
+<rank>87<\rank>
+<doc>CACM-1324<\doc>
+<snippet>
+English questions by Computer: A SurveyFifteen <b>experimental<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>59<\qid>
+<rank>88<\rank>
+<doc>CACM-1084<\doc>
+<snippet>
+Declaring <b>Arbitrarily<\b> Coded AlphabetsThe inability of existing 
+<\snippet>
+<\document>
+
+<document>
+<qid>59<\qid>
+<rank>89<\rank>
+<doc>CACM-0275<\doc>
+<snippet>
+Storage Allocation for <b>an<\b> Information Retrieval SystemCACM 
+<\snippet>
+<\document>
+
+<document>
+<qid>59<\qid>
+<rank>90<\rank>
+<doc>CACM-2059<\doc>
+<snippet>
+<b>Language<\b> for Treating GraphsA language for the 
+<\snippet>
+<\document>
+
+<document>
+<qid>59<\qid>
+<rank>91<\rank>
+<doc>CACM-0681<\doc>
+<snippet>
+<b>Abbreviation<\b> of Words in a Computer LanguageCACM 
+<\snippet>
+<\document>
+
+<document>
+<qid>59<\qid>
+<rank>92<\rank>
+<doc>CACM-1455<\doc>
+<snippet>
+A Procedure-Describing Language for the Reactive <b>TypewriterA<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>59<\qid>
+<rank>93<\rank>
+<doc>CACM-2203<\doc>
+<snippet>
+Transform Techniques: A <b>FundamentalPerformance<\b> Study on <b>Large<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>59<\qid>
+<rank>94<\rank>
+<doc>CACM-3056<\doc>
+<snippet>
+Large Numbers of Events in <b>Small<\b> RegistersIt 
+<\snippet>
+<\document>
+
+<document>
+<qid>59<\qid>
+<rank>95<\rank>
+<doc>CACM-2307<\doc>
+<snippet>
+Document <b>ProcessingThe<\b> current role of computers in 
+<\snippet>
+<\document>
+
+<document>
+<qid>59<\qid>
+<rank>96<\rank>
+<doc>CACM-0695<\doc>
+<snippet>
+of the Disk File on StretchThe <b>paper<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>59<\qid>
+<rank>97<\rank>
+<doc>CACM-2572<\doc>
+<snippet>
+for a Moratorium <b>on<\b> the Constructionof <b>a<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>59<\qid>
+<rank>98<\rank>
+<doc>CACM-1184<\doc>
+<snippet>
+Fast <b>Storage<\b> AllocatorA fast storage bookkeeping method 
+<\snippet>
+<\document>
+
+<document>
+<qid>59<\qid>
+<rank>99<\rank>
+<doc>CACM-0727<\doc>
+<snippet>
+the Approximate Solution of Delta(u)=F(u)Three-dimensional <b>Dirichlet<\b> problems 
+<\snippet>
+<\document>
+
+<document>
+<qid>59<\qid>
+<rank>100<\rank>
+<doc>CACM-2771<\doc>
+<snippet>
+Synthesis of Solids <b>Bounded<\b> by Many FacesA 
+<\snippet>
+<\document>

@@ -1,0 +1,1 @@
+polynomial evaluation revised cacm July, 1963 Eisman, S. H. ca630705 jb march 14, 1978 8:46 am

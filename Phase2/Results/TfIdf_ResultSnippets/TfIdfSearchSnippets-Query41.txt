@@ -1,0 +1,900 @@
+
+<document>
+<qid>41<\qid>
+<rank>1<\rank>
+<doc>CACM-2578<\doc>
+<snippet>
+Systems in Spite of Distributed ControlCACM November, 
+<\snippet>
+<\document>
+
+<document>
+<qid>41<\qid>
+<rank>2<\rank>
+<doc>CACM-3043<\doc>
+<snippet>
+Processes: A Concurrent <b>Programming<\b> ConceptA language <b>concept<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>41<\qid>
+<rank>3<\rank>
+<doc>CACM-3082<\doc>
+<snippet>
+Clocks, and the Ordering <b>of<\b> Events in 
+<\snippet>
+<\document>
+
+<document>
+<qid>41<\qid>
+<rank>4<\rank>
+<doc>CACM-3148<\doc>
+<snippet>
+<b>Level<\b> Programming for Distributed ComputingProgramming for distributed 
+<\snippet>
+<\document>
+
+<document>
+<qid>41<\qid>
+<rank>5<\rank>
+<doc>CACM-3137<\doc>
+<snippet>
+<b>Methodology<\b> for the Design of Distributed Information 
+<\snippet>
+<\document>
+
+<document>
+<qid>41<\qid>
+<rank>6<\rank>
+<doc>CACM-3128<\doc>
+<snippet>
+with Eventcounts <b>and<\b> SequencersSynchronization of concurrent processes 
+<\snippet>
+<\document>
+
+<document>
+<qid>41<\qid>
+<rank>7<\rank>
+<doc>CACM-0059<\doc>
+<snippet>
+of Progress <b>and<\b> Trend of Developmentand Use 
+<\snippet>
+<\document>
+
+<document>
+<qid>41<\qid>
+<rank>8<\rank>
+<doc>CACM-2849<\doc>
+<snippet>
+Distributed Packet <b>Switching<\b> for Local Computer NetworksEthernet 
+<\snippet>
+<\document>
+
+<document>
+<qid>41<\qid>
+<rank>9<\rank>
+<doc>CACM-2995<\doc>
+<snippet>
+Instabilities, and Saturationin <b>Multiprogramming<\b> Systems (Corrigendum)CACM February, 
+<\snippet>
+<\document>
+
+<document>
+<qid>41<\qid>
+<rank>10<\rank>
+<doc>CACM-2949<\doc>
+<snippet>
+Correctness Proof of a Topology <b>InformationMain<\b> <b>tenance<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>41<\qid>
+<rank>11<\rank>
+<doc>CACM-2128<\doc>
+<snippet>
+Processor Allocation Method for Time-SharingA scheduling algorithm 
+<\snippet>
+<\document>
+
+<document>
+<qid>41<\qid>
+<rank>12<\rank>
+<doc>CACM-2345<\doc>
+<snippet>
+Recommendations for GraduateProfessional Programs in <b>Information<\b> SystemsThe 
+<\snippet>
+<\document>
+
+<document>
+<qid>41<\qid>
+<rank>13<\rank>
+<doc>CACM-3119<\doc>
+<snippet>
+Impact of Distributions and Disciplineson Multiple <b>Processor<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>41<\qid>
+<rank>14<\rank>
+<doc>CACM-2327<\doc>
+<snippet>
+suggests the waysin which automata theory might evolve over the 
+<\snippet>
+<\document>
+
+<document>
+<qid>41<\qid>
+<rank>15<\rank>
+<doc>CACM-2482<\doc>
+<snippet>
+Solutions for the Deadlock ProblemMixtures <b>of<\b> detection, 
+<\snippet>
+<\document>
+
+<document>
+<qid>41<\qid>
+<rank>16<\rank>
+<doc>CACM-2407<\doc>
+<snippet>
+Recommendations for <b>UndergraduatePrograms<\b> in Information SystemsThe need 
+<\snippet>
+<\document>
+
+<document>
+<qid>41<\qid>
+<rank>17<\rank>
+<doc>CACM-3141<\doc>
+<snippet>
+Improved Algorithm for Decentralized Extrema-Findingin Circular Configurations 
+<\snippet>
+<\document>
+
+<document>
+<qid>41<\qid>
+<rank>18<\rank>
+<doc>CACM-2504<\doc>
+<snippet>
+Music and Computer Composition in Computational LinguisticsCACM 
+<\snippet>
+<\document>
+
+<document>
+<qid>41<\qid>
+<rank>19<\rank>
+<doc>CACM-2111<\doc>
+<snippet>
+Correction in Systems ProgramsSeveral specialized <b>techniques<\b> are 
+<\snippet>
+<\document>
+
+<document>
+<qid>41<\qid>
+<rank>20<\rank>
+<doc>CACM-0084<\doc>
+<snippet>
+of Progress and Trend of <b>Developmentand<\b> Use 
+<\snippet>
+<\document>
+
+<document>
+<qid>41<\qid>
+<rank>21<\rank>
+<doc>CACM-0371<\doc>
+<snippet>
+on Algorithms 2 <b>and<\b> 3, Algorithm <b>15<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>41<\qid>
+<rank>22<\rank>
+<doc>CACM-0651<\doc>
+<snippet>
+Survey of Languages <b>and<\b> Systems for Information 
+<\snippet>
+<\document>
+
+<document>
+<qid>41<\qid>
+<rank>23<\rank>
+<doc>CACM-0088<\doc>
+<snippet>
+Efficient Method for Generating Uniformly DistributedPoints <b>on<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>41<\qid>
+<rank>24<\rank>
+<doc>CACM-2255<\doc>
+<snippet>
+on Moorer's Music and Computer <b>CompositionCACM<\b> November, 
+<\snippet>
+<\document>
+
+<document>
+<qid>41<\qid>
+<rank>25<\rank>
+<doc>CACM-2311<\doc>
+<snippet>
+Generational <b>Perspective<\b> of Information System DevelopmentSystem development 
+<\snippet>
+<\document>
+
+<document>
+<qid>41<\qid>
+<rank>26<\rank>
+<doc>CACM-0643<\doc>
+<snippet>
+and Analysis <b>of<\b> Biochemcial Systems(II. Solution of 
+<\snippet>
+<\document>
+
+<document>
+<qid>41<\qid>
+<rank>27<\rank>
+<doc>CACM-2080<\doc>
+<snippet>
+Nucleus of a Multiprogramming SystemThis paper describes 
+<\snippet>
+<\document>
+
+<document>
+<qid>41<\qid>
+<rank>28<\rank>
+<doc>CACM-0052<\doc>
+<snippet>
+Efficient <b>Method<\b> for Generating <b>Uniformly<\b> DistributedPoints on 
+<\snippet>
+<\document>
+
+<document>
+<qid>41<\qid>
+<rank>29<\rank>
+<doc>CACM-3038<\doc>
+<snippet>
+Encryption for Authentication in Large Networks <b>of<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>41<\qid>
+<rank>30<\rank>
+<doc>CACM-1747<\doc>
+<snippet>
+Criteria for Designing Computing Systems to Facilitate 
+<\snippet>
+<\document>
+
+<document>
+<qid>41<\qid>
+<rank>31<\rank>
+<doc>CACM-2616<\doc>
+<snippet>
+practice.  Extensions to <b>the<\b> theory of computation and computability 
+<\snippet>
+<\document>
+
+<document>
+<qid>41<\qid>
+<rank>32<\rank>
+<doc>CACM-2342<\doc>
+<snippet>
+Between Communicating Parallel ProcessesVarious kinds <b>of<\b> interference 
+<\snippet>
+<\document>
+
+<document>
+<qid>41<\qid>
+<rank>33<\rank>
+<doc>CACM-0086<\doc>
+<snippet>
+of Progress and Trend of Developmentand Use 
+<\snippet>
+<\document>
+
+<document>
+<qid>41<\qid>
+<rank>34<\rank>
+<doc>CACM-1341<\doc>
+<snippet>
+of Computer SystemsIn building <b>current<\b> computer systems, 
+<\snippet>
+<\document>
+
+<document>
+<qid>41<\qid>
+<rank>35<\rank>
+<doc>CACM-2236<\doc>
+<snippet>
+on Characteristic Values and AssociatedSolutions of Mathieus 
+<\snippet>
+<\document>
+
+<document>
+<qid>41<\qid>
+<rank>36<\rank>
+<doc>CACM-2371<\doc>
+<snippet>
+System for Interprocess Communicationin a Resource Sharing 
+<\snippet>
+<\document>
+
+<document>
+<qid>41<\qid>
+<rank>37<\rank>
+<doc>CACM-1959<\doc>
+<snippet>
+Interrupt Based Organization for Management Information <b>SystemsA<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>41<\qid>
+<rank>38<\rank>
+<doc>CACM-2672<\doc>
+<snippet>
+Content Considered DangerousCACM March, 1974Smoliar, S. W.artificial 
+<\snippet>
+<\document>
+
+<document>
+<qid>41<\qid>
+<rank>39<\rank>
+<doc>CACM-1101<\doc>
+<snippet>
+Place of Logical <b>Design<\b> and SwitchingTheory In 
+<\snippet>
+<\document>
+
+<document>
+<qid>41<\qid>
+<rank>40<\rank>
+<doc>CACM-1751<\doc>
+<snippet>
+Working Set Model for Program <b>BehaviorProbably<\b> the 
+<\snippet>
+<\document>
+
+<document>
+<qid>41<\qid>
+<rank>41<\rank>
+<doc>CACM-1748<\doc>
+<snippet>
+<b>Scheduling<\b> Philosophy for Multiprocessing SystemsA collection of 
+<\snippet>
+<\document>
+
+<document>
+<qid>41<\qid>
+<rank>42<\rank>
+<doc>CACM-2738<\doc>
+<snippet>
+of the Concept of Transparency in theDesign 
+<\snippet>
+<\document>
+
+<document>
+<qid>41<\qid>
+<rank>43<\rank>
+<doc>CACM-3150<\doc>
+<snippet>
+Programming LanguagesAs <b>computer<\b> <b>technology<\b> <b>matures,<\b> <b>our<\b> <b>growing<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>41<\qid>
+<rank>44<\rank>
+<doc>CACM-1136<\doc>
+<snippet>
+of a Theory of Information Handling*CACM February, 
+<\snippet>
+<\document>
+
+<document>
+<qid>41<\qid>
+<rank>45<\rank>
+<doc>CACM-2325<\doc>
+<snippet>
+Mathematics and <b>Computer<\b> ScienceNumerical mathematics is viewed 
+<\snippet>
+<\document>
+
+<document>
+<qid>41<\qid>
+<rank>46<\rank>
+<doc>CACM-0618<\doc>
+<snippet>
+The Key to Total Systems <b>Control:<\b> An 
+<\snippet>
+<\document>
+
+<document>
+<qid>41<\qid>
+<rank>47<\rank>
+<doc>CACM-2276<\doc>
+<snippet>
+Methods for <b>Sampling<\b> fromthe Exponential and Normal 
+<\snippet>
+<\document>
+
+<document>
+<qid>41<\qid>
+<rank>48<\rank>
+<doc>CACM-2522<\doc>
+<snippet>
+Design, Implementation, and Evaluation of a <b>Working<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>41<\qid>
+<rank>49<\rank>
+<doc>CACM-2969<\doc>
+<snippet>
+Program and Data <b>Locations<\b> in Computer NetworksAn 
+<\snippet>
+<\document>
+
+<document>
+<qid>41<\qid>
+<rank>50<\rank>
+<doc>CACM-2376<\doc>
+<snippet>
+<b>of<\b> Communicating ProcessesFormalization of a well-defined synchronizationmechanism 
+<\snippet>
+<\document>
+
+<document>
+<qid>41<\qid>
+<rank>51<\rank>
+<doc>CACM-2346<\doc>
+<snippet>
+Minimum <b>Redundancy<\b> AlphabeticCoding Method [Z] (Algorithm A428)CACM 
+<\snippet>
+<\document>
+
+<document>
+<qid>41<\qid>
+<rank>52<\rank>
+<doc>CACM-1484<\doc>
+<snippet>
+<b>Language<\b> for Describing the Functions of Synchronous 
+<\snippet>
+<\document>
+
+<document>
+<qid>41<\qid>
+<rank>53<\rank>
+<doc>CACM-1511<\doc>
+<snippet>
+Damped Taylor's Series Method <b>for<\b> Minimizinga Sum 
+<\snippet>
+<\document>
+
+<document>
+<qid>41<\qid>
+<rank>54<\rank>
+<doc>CACM-2932<\doc>
+<snippet>
+framework for research <b>in<\b> the theory of complexityof computations is 
+<\snippet>
+<\document>
+
+<document>
+<qid>41<\qid>
+<rank>55<\rank>
+<doc>CACM-2842<\doc>
+<snippet>
+features and the underlying mathematical theory of computationdue to Scott 
+<\snippet>
+<\document>
+
+<document>
+<qid>41<\qid>
+<rank>56<\rank>
+<doc>CACM-3059<\doc>
+<snippet>
+for Parallel Processing WIthin Programs:Application <b>to<\b> CPU:I/O 
+<\snippet>
+<\document>
+
+<document>
+<qid>41<\qid>
+<rank>57<\rank>
+<doc>CACM-3025<\doc>
+<snippet>
+Evolution of the DEC system 10The DEC 
+<\snippet>
+<\document>
+
+<document>
+<qid>41<\qid>
+<rank>58<\rank>
+<doc>CACM-1247<\doc>
+<snippet>
+Operating Environment for Dynamic-RecursiveComputer <b>Programming<\b> SystemsPresented in 
+<\snippet>
+<\document>
+
+<document>
+<qid>41<\qid>
+<rank>59<\rank>
+<doc>CACM-2479<\doc>
+<snippet>
+Recommendations for Graduate ProfessionalPrograms in Information Systems: 
+<\snippet>
+<\document>
+
+<document>
+<qid>41<\qid>
+<rank>60<\rank>
+<doc>CACM-0238<\doc>
+<snippet>
+and Analysis of Biochemical <b>SystemsCACM<\b> December, 1961Garfinkel, 
+<\snippet>
+<\document>
+
+<document>
+<qid>41<\qid>
+<rank>61<\rank>
+<doc>CACM-1928<\doc>
+<snippet>
+<b>Simulation<\b> of Activity in Digital NetworksA technique 
+<\snippet>
+<\document>
+
+<document>
+<qid>41<\qid>
+<rank>62<\rank>
+<doc>CACM-2499<\doc>
+<snippet>
+<b>Multiprogramming<\b> Resource Allocation and AccountingAlthough sometimes thought 
+<\snippet>
+<\document>
+
+<document>
+<qid>41<\qid>
+<rank>63<\rank>
+<doc>CACM-2318<\doc>
+<snippet>
+Role of Computer System Models in <b>Performance<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>41<\qid>
+<rank>64<\rank>
+<doc>CACM-1780<\doc>
+<snippet>
+Analysis for SymmetricallyDistributed <b>Data<\b> (Algorithm 320 [C6])CACM 
+<\snippet>
+<\document>
+
+<document>
+<qid>41<\qid>
+<rank>65<\rank>
+<doc>CACM-0633<\doc>
+<snippet>
+and Analysis of Biochemical Systems(III. Analysis and 
+<\snippet>
+<\document>
+
+<document>
+<qid>41<\qid>
+<rank>66<\rank>
+<doc>CACM-1541<\doc>
+<snippet>
+Language for <b>Modeling<\b> and Simulating Dynamic SystemsThe 
+<\snippet>
+<\document>
+
+<document>
+<qid>41<\qid>
+<rank>67<\rank>
+<doc>CACM-2597<\doc>
+<snippet>
+An <b>Operating<\b> System Structuring ConceptThis paper develops 
+<\snippet>
+<\document>
+
+<document>
+<qid>41<\qid>
+<rank>68<\rank>
+<doc>CACM-1196<\doc>
+<snippet>
+of Differential <b>Equations<\b> in General Problem SolvingA 
+<\snippet>
+<\document>
+
+<document>
+<qid>41<\qid>
+<rank>69<\rank>
+<doc>CACM-1901<\doc>
+<snippet>
+Space-Sharing in <b>Computer<\b> SystemsA formalization <b>of<\b> relationships 
+<\snippet>
+<\document>
+
+<document>
+<qid>41<\qid>
+<rank>70<\rank>
+<doc>CACM-1387<\doc>
+<snippet>
+of Systems <b>of<\b> Polynomial Equations By EliminationThe 
+<\snippet>
+<\document>
+
+<document>
+<qid>41<\qid>
+<rank>71<\rank>
+<doc>CACM-2685<\doc>
+<snippet>
+Parallel Execution of DO LoopsMethods are developed 
+<\snippet>
+<\document>
+
+<document>
+<qid>41<\qid>
+<rank>72<\rank>
+<doc>CACM-0356<\doc>
+<snippet>
+(Algorithm 45)CACM <b>April,<\b> 1961Ingerman, P. Z.CA610412 JB 
+<\snippet>
+<\document>
+
+<document>
+<qid>41<\qid>
+<rank>73<\rank>
+<doc>CACM-2895<\doc>
+<snippet>
+Language <b>for<\b> Formal Problem SpecificationA language for 
+<\snippet>
+<\document>
+
+<document>
+<qid>41<\qid>
+<rank>74<\rank>
+<doc>CACM-0652<\doc>
+<snippet>
+of Semantic <b>Structure<\b> in Information SystemsCACM January, 
+<\snippet>
+<\document>
+
+<document>
+<qid>41<\qid>
+<rank>75<\rank>
+<doc>CACM-1461<\doc>
+<snippet>
+Summary on Operating SystemsCACM <b>March,<\b> 1966CA660311 JB 
+<\snippet>
+<\document>
+
+<document>
+<qid>41<\qid>
+<rank>76<\rank>
+<doc>CACM-0855<\doc>
+<snippet>
+<b>and<\b> Structure of Dataon Disk FileMemory Systems 
+<\snippet>
+<\document>
+
+<document>
+<qid>41<\qid>
+<rank>77<\rank>
+<doc>CACM-1360<\doc>
+<snippet>
+of Systems <b>Used<\b> for Data Transmission* (An 
+<\snippet>
+<\document>
+
+<document>
+<qid>41<\qid>
+<rank>78<\rank>
+<doc>CACM-2323<\doc>
+<snippet>
+the prospects for a general theory of functionsdefined by ordinary 
+<\snippet>
+<\document>
+
+<document>
+<qid>41<\qid>
+<rank>79<\rank>
+<doc>CACM-1948<\doc>
+<snippet>
+tables, and commutatorcalculus.  Group theory programs <b>range<\b> from simple 
+<\snippet>
+<\document>
+
+<document>
+<qid>41<\qid>
+<rank>80<\rank>
+<doc>CACM-3000<\doc>
+<snippet>
+Sizes and <b>Lifetimes<\b> in Algol <b>60<\b> ProgramsThe 
+<\snippet>
+<\document>
+
+<document>
+<qid>41<\qid>
+<rank>81<\rank>
+<doc>CACM-2151<\doc>
+<snippet>
+Program Measurement in a Time-Shared EnvironmentA general 
+<\snippet>
+<\document>
+
+<document>
+<qid>41<\qid>
+<rank>82<\rank>
+<doc>CACM-0143<\doc>
+<snippet>
+List <b>of<\b> Computer Systems Programs forthe IBM 
+<\snippet>
+<\document>
+
+<document>
+<qid>41<\qid>
+<rank>83<\rank>
+<doc>CACM-3070<\doc>
+<snippet>
+Simulation Models of <b>Computer<\b> SystemsThis paper describes 
+<\snippet>
+<\document>
+
+<document>
+<qid>41<\qid>
+<rank>84<\rank>
+<doc>CACM-1048<\doc>
+<snippet>
+Solution of Axially Symmetric ProblemsA <b>variety<\b> of 
+<\snippet>
+<\document>
+
+<document>
+<qid>41<\qid>
+<rank>85<\rank>
+<doc>CACM-2198<\doc>
+<snippet>
+to "Feature <b>Analysis<\b> ofGeneralized Data Base Management 
+<\snippet>
+<\document>
+
+<document>
+<qid>41<\qid>
+<rank>86<\rank>
+<doc>CACM-2317<\doc>
+<snippet>
+Systems and Languages 1965-1975In spite of <b>impressive<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>41<\qid>
+<rank>87<\rank>
+<doc>CACM-1828<\doc>
+<snippet>
+in a Parallel-Accessed Data BaseThe following <b>problem<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>41<\qid>
+<rank>88<\rank>
+<doc>CACM-2812<\doc>
+<snippet>
+Analysis and Design of Information SystemsThis paper 
+<\snippet>
+<\document>
+
+<document>
+<qid>41<\qid>
+<rank>89<\rank>
+<doc>CACM-0822<\doc>
+<snippet>
+Programming SpecificationsProblems in the implementation of large 
+<\snippet>
+<\document>
+
+<document>
+<qid>41<\qid>
+<rank>90<\rank>
+<doc>CACM-1153<\doc>
+<snippet>
+Fast Procedure for Generating <b>Normal<\b> Random Variables*A 
+<\snippet>
+<\document>
+
+<document>
+<qid>41<\qid>
+<rank>91<\rank>
+<doc>CACM-1572<\doc>
+<snippet>
+Simulation <b>of<\b> Time sharing SystemsThe development of 
+<\snippet>
+<\document>
+
+<document>
+<qid>41<\qid>
+<rank>92<\rank>
+<doc>CACM-1924<\doc>
+<snippet>
+Matrices and Matrix Operations for Paged Memory 
+<\snippet>
+<\document>
+
+<document>
+<qid>41<\qid>
+<rank>93<\rank>
+<doc>CACM-0435<\doc>
+<snippet>
+Decision Matrix as <b>the<\b> Basis for a 
+<\snippet>
+<\document>
+
+<document>
+<qid>41<\qid>
+<rank>94<\rank>
+<doc>CACM-2985<\doc>
+<snippet>
+of Chargeout on User/Manager AttitudesThe relationship <b>of<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>41<\qid>
+<rank>95<\rank>
+<doc>CACM-0136<\doc>
+<snippet>
+Note on the Calculation of InterestCACM October, 
+<\snippet>
+<\document>
+
+<document>
+<qid>41<\qid>
+<rank>96<\rank>
+<doc>CACM-2406<\doc>
+<snippet>
+Data Definition and Mapping LanguageA <b>data<\b> definition 
+<\snippet>
+<\document>
+
+<document>
+<qid>41<\qid>
+<rank>97<\rank>
+<doc>CACM-1324<\doc>
+<snippet>
+English questions by Computer: A <b>SurveyFifteen<\b> experimental 
+<\snippet>
+<\document>
+
+<document>
+<qid>41<\qid>
+<rank>98<\rank>
+<doc>CACM-2372<\doc>
+<snippet>
+the Implementation of Security Measures <b>in<\b> Information 
+<\snippet>
+<\document>
+
+<document>
+<qid>41<\qid>
+<rank>99<\rank>
+<doc>CACM-1755<\doc>
+<snippet>
+of the ACM Symposium on Operating system 
+<\snippet>
+<\document>
+
+<document>
+<qid>41<\qid>
+<rank>100<\rank>
+<doc>CACM-3090<\doc>
+<snippet>
+Welfare Client-Tracking and ServiceIntegration: The Political Economy 
+<\snippet>
+<\document>

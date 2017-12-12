@@ -1,0 +1,900 @@
+
+<document>
+<qid>31<\qid>
+<rank>1<\rank>
+<doc>CACM-3047<\doc>
+<snippet>
+Synthetic Images <b>to<\b> Register Real Images with 
+<\snippet>
+<\document>
+
+<document>
+<qid>31<\qid>
+<rank>2<\rank>
+<doc>CACM-2065<\doc>
+<snippet>
+Programming System for the On-line <b>Analysis<\b> of 
+<\snippet>
+<\document>
+
+<document>
+<qid>31<\qid>
+<rank>3<\rank>
+<doc>CACM-1144<\doc>
+<snippet>
+Computer Determination of Alpha Source ActivityA technique 
+<\snippet>
+<\document>
+
+<document>
+<qid>31<\qid>
+<rank>4<\rank>
+<doc>CACM-3013<\doc>
+<snippet>
+New Methods of Detecting Step <b>Edges<\b> in 
+<\snippet>
+<\document>
+
+<document>
+<qid>31<\qid>
+<rank>5<\rank>
+<doc>CACM-1686<\doc>
+<snippet>
+Synthesis of Holograms for 3-D DisplayOptical and 
+<\snippet>
+<\document>
+
+<document>
+<qid>31<\qid>
+<rank>6<\rank>
+<doc>CACM-1839<\doc>
+<snippet>
+Value Decomposition of <b>a<\b> ComplexMatrix (Algorithm 358 
+<\snippet>
+<\document>
+
+<document>
+<qid>31<\qid>
+<rank>7<\rank>
+<doc>CACM-2283<\doc>
+<snippet>
+Algorithms on Rectangular, Hexagonal, and Triangular <b>ArraysIn<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>31<\qid>
+<rank>8<\rank>
+<doc>CACM-1251<\doc>
+<snippet>
+<b>Standard<\b> and IFIP/ICC Vocabularies comparedThe "Proposed American 
+<\snippet>
+<\document>
+
+<document>
+<qid>31<\qid>
+<rank>9<\rank>
+<doc>CACM-2370<\doc>
+<snippet>
+Experimental Laboratory for Pattern <b>Recognition<\b> and Signal 
+<\snippet>
+<\document>
+
+<document>
+<qid>31<\qid>
+<rank>10<\rank>
+<doc>CACM-1327<\doc>
+<snippet>
+of Decision Tables in Computer ProgrammingA <b>decision<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>31<\qid>
+<rank>11<\rank>
+<doc>CACM-2125<\doc>
+<snippet>
+<b>Note<\b> on Minimal Length Polygonal Approximation to 
+<\snippet>
+<\document>
+
+<document>
+<qid>31<\qid>
+<rank>12<\rank>
+<doc>CACM-1796<\doc>
+<snippet>
+by <b>Subject<\b> to Algorithms, 1969CACM December, 1969This 
+<\snippet>
+<\document>
+
+<document>
+<qid>31<\qid>
+<rank>13<\rank>
+<doc>CACM-0415<\doc>
+<snippet>
+Use of Digital Computers in Western GermanyCACM 
+<\snippet>
+<\document>
+
+<document>
+<qid>31<\qid>
+<rank>14<\rank>
+<doc>CACM-1660<\doc>
+<snippet>
+<b>By<\b> Subject To algorithms, 1960-1968CACM December, 1968CA681206 
+<\snippet>
+<\document>
+
+<document>
+<qid>31<\qid>
+<rank>15<\rank>
+<doc>CACM-1952<\doc>
+<snippet>
+by Subject to Algorithms, 1970CACM December, <b>1970CA701211<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>31<\qid>
+<rank>16<\rank>
+<doc>CACM-2142<\doc>
+<snippet>
+of Pictures from Their ProjectionsThere <b>are<\b> situations 
+<\snippet>
+<\document>
+
+<document>
+<qid>31<\qid>
+<rank>17<\rank>
+<doc>CACM-1261<\doc>
+<snippet>
+and <b>Simulation<\b> of Digital NetworksThe simulation of 
+<\snippet>
+<\document>
+
+<document>
+<qid>31<\qid>
+<rank>18<\rank>
+<doc>CACM-0931<\doc>
+<snippet>
+<b>Mistake<\b> Analysis of Digital Computer ProgramsCACM February, 
+<\snippet>
+<\document>
+
+<document>
+<qid>31<\qid>
+<rank>19<\rank>
+<doc>CACM-0533<\doc>
+<snippet>
+Synthesis of Correlated Stationary <b>NoiseIn<\b> this note 
+<\snippet>
+<\document>
+
+<document>
+<qid>31<\qid>
+<rank>20<\rank>
+<doc>CACM-2528<\doc>
+<snippet>
+Pattern Reconstruction from <b>Projections<\b> [Z] (Algorithm R445)CACM 
+<\snippet>
+<\document>
+
+<document>
+<qid>31<\qid>
+<rank>21<\rank>
+<doc>CACM-2529<\doc>
+<snippet>
+Pattern Reconstruction from Projections [Z] (Algorithm A445)CACM 
+<\snippet>
+<\document>
+
+<document>
+<qid>31<\qid>
+<rank>22<\rank>
+<doc>CACM-2826<\doc>
+<snippet>
+Skeleton Techniques for <b>EnhancingMotion<\b> Dynamics in Key 
+<\snippet>
+<\document>
+
+<document>
+<qid>31<\qid>
+<rank>23<\rank>
+<doc>CACM-1233<\doc>
+<snippet>
+for the Use of Symbols in <b>the<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>31<\qid>
+<rank>24<\rank>
+<doc>CACM-1440<\doc>
+<snippet>
+Approximations for Square Root Calculation on IBM 
+<\snippet>
+<\document>
+
+<document>
+<qid>31<\qid>
+<rank>25<\rank>
+<doc>CACM-1424<\doc>
+<snippet>
+Analysis of <b>Electronic<\b> <b>Digital<\b> <b>Circuits<\b> <b>Using<\b> <b>List<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>31<\qid>
+<rank>26<\rank>
+<doc>CACM-1529<\doc>
+<snippet>
+Programming An Analysis of Matrix <b>Substructure<\b> A 
+<\snippet>
+<\document>
+
+<document>
+<qid>31<\qid>
+<rank>27<\rank>
+<doc>CACM-0866<\doc>
+<snippet>
+on ComputersCACM May, 1963Gotlieb, C. <b>C.CA630501<\b> JB 
+<\snippet>
+<\document>
+
+<document>
+<qid>31<\qid>
+<rank>28<\rank>
+<doc>CACM-0493<\doc>
+<snippet>
+Property Classification <b>Method<\b> of File Design and 
+<\snippet>
+<\document>
+
+<document>
+<qid>31<\qid>
+<rank>29<\rank>
+<doc>CACM-3015<\doc>
+<snippet>
+Methods for Image ReconstructionThe problem of recovering 
+<\snippet>
+<\document>
+
+<document>
+<qid>31<\qid>
+<rank>30<\rank>
+<doc>CACM-0606<\doc>
+<snippet>
+Method for Eliminating Ambiguity Dueto <b>Signal<\b> Coincidence 
+<\snippet>
+<\document>
+
+<document>
+<qid>31<\qid>
+<rank>31<\rank>
+<doc>CACM-0721<\doc>
+<snippet>
+on Proposed American <b>Standard<\b> FlowchartSymbols for Information 
+<\snippet>
+<\document>
+
+<document>
+<qid>31<\qid>
+<rank>32<\rank>
+<doc>CACM-3190<\doc>
+<snippet>
+439, a "typical" instruction mix id discussed and the timing 
+<\snippet>
+<\document>
+
+<document>
+<qid>31<\qid>
+<rank>33<\rank>
+<doc>CACM-0674<\doc>
+<snippet>
+of IBM 1620 EDP Methods to the 
+<\snippet>
+<\document>
+
+<document>
+<qid>31<\qid>
+<rank>34<\rank>
+<doc>CACM-1108<\doc>
+<snippet>
+Data Processor for Tracking the <b>Partially<\b> Illuminated 
+<\snippet>
+<\document>
+
+<document>
+<qid>31<\qid>
+<rank>35<\rank>
+<doc>CACM-2999<\doc>
+<snippet>
+Approach to <b>Multidimensional<\b> <b>Data<\b> <b>Array<\b> <b>Processing<\b> <b>by<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>31<\qid>
+<rank>36<\rank>
+<doc>CACM-1645<\doc>
+<snippet>
+Note on Computing Approximations to the Exponential 
+<\snippet>
+<\document>
+
+<document>
+<qid>31<\qid>
+<rank>37<\rank>
+<doc>CACM-1571<\doc>
+<snippet>
+User-Oriented Time-Shared Online <b>SystemAn<\b> existing system <b>and<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>31<\qid>
+<rank>38<\rank>
+<doc>CACM-1563<\doc>
+<snippet>
+Method for Finding Hamilton <b>Paths<\b> and Knight's 
+<\snippet>
+<\document>
+
+<document>
+<qid>31<\qid>
+<rank>39<\rank>
+<doc>CACM-0605<\doc>
+<snippet>
+Simulation Of <b>City<\b> TrafficIn simulating traffic flow 
+<\snippet>
+<\document>
+
+<document>
+<qid>31<\qid>
+<rank>40<\rank>
+<doc>CACM-1961<\doc>
+<snippet>
+Efficient Search Algorithm to <b>Find<\b> the Elementary 
+<\snippet>
+<\document>
+
+<document>
+<qid>31<\qid>
+<rank>41<\rank>
+<doc>CACM-1388<\doc>
+<snippet>
+Automatic Mathematical Analysis and Symbolic TranslationA procedure 
+<\snippet>
+<\document>
+
+<document>
+<qid>31<\qid>
+<rank>42<\rank>
+<doc>CACM-0086<\doc>
+<snippet>
+of <b>Progress<\b> and Trend of Developmentand Use 
+<\snippet>
+<\document>
+
+<document>
+<qid>31<\qid>
+<rank>43<\rank>
+<doc>CACM-1363<\doc>
+<snippet>
+General Method of Systematic Interval Computationfor Numerical 
+<\snippet>
+<\document>
+
+<document>
+<qid>31<\qid>
+<rank>44<\rank>
+<doc>CACM-3198<\doc>
+<snippet>
+  Microprogramming, Emulators and Programming Languages 
+<\snippet>
+<\document>
+
+<document>
+<qid>31<\qid>
+<rank>45<\rank>
+<doc>CACM-2211<\doc>
+<snippet>
+Computer GraphicsA television-like scanned-display system hasbeen successfully 
+<\snippet>
+<\document>
+
+<document>
+<qid>31<\qid>
+<rank>46<\rank>
+<doc>CACM-1929<\doc>
+<snippet>
+from Computers and Microfilm <b>PlottersDigital<\b> computers are 
+<\snippet>
+<\document>
+
+<document>
+<qid>31<\qid>
+<rank>47<\rank>
+<doc>CACM-0597<\doc>
+<snippet>
+Data Processing Systems Written in COBOLCACM May, 
+<\snippet>
+<\document>
+
+<document>
+<qid>31<\qid>
+<rank>48<\rank>
+<doc>CACM-2727<\doc>
+<snippet>
+Byte Processing <b>with<\b> Full-Word InstructionsA method is 
+<\snippet>
+<\document>
+
+<document>
+<qid>31<\qid>
+<rank>49<\rank>
+<doc>CACM-0694<\doc>
+<snippet>
+Comparison of Disks and TapesThe principal characteristics 
+<\snippet>
+<\document>
+
+<document>
+<qid>31<\qid>
+<rank>50<\rank>
+<doc>CACM-1383<\doc>
+<snippet>
+<b>of<\b> the Digital <b>Computerfor<\b> Education In <b>the<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>31<\qid>
+<rank>51<\rank>
+<doc>CACM-0464<\doc>
+<snippet>
+<b>Analysis<\b> by Digital <b>ComputerThis<\b> paper provides <b>an<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>31<\qid>
+<rank>52<\rank>
+<doc>CACM-1601<\doc>
+<snippet>
+Numerical Methods for the Solution of EquationsClassical 
+<\snippet>
+<\document>
+
+<document>
+<qid>31<\qid>
+<rank>53<\rank>
+<doc>CACM-2231<\doc>
+<snippet>
+Reconstruction of Binary Patterns from <b>Their<\b> ProjectionsGiven 
+<\snippet>
+<\document>
+
+<document>
+<qid>31<\qid>
+<rank>54<\rank>
+<doc>CACM-2721<\doc>
+<snippet>
+Digital <b>Simulation<\b> of River Plankton Population DynamicsThis 
+<\snippet>
+<\document>
+
+<document>
+<qid>31<\qid>
+<rank>55<\rank>
+<doc>CACM-0236<\doc>
+<snippet>
+Cybernetics <b>and<\b> ComputerThis article records observations on 
+<\snippet>
+<\document>
+
+<document>
+<qid>31<\qid>
+<rank>56<\rank>
+<doc>CACM-2302<\doc>
+<snippet>
+and EmploymentThe relationship <b>of<\b> computers and automationto 
+<\snippet>
+<\document>
+
+<document>
+<qid>31<\qid>
+<rank>57<\rank>
+<doc>CACM-1543<\doc>
+<snippet>
+Formulation of the Equations <b>of<\b> Motion Using 
+<\snippet>
+<\document>
+
+<document>
+<qid>31<\qid>
+<rank>58<\rank>
+<doc>CACM-2051<\doc>
+<snippet>
+PL/I Program to Assist the <b>Comparative<\b> LinguistA 
+<\snippet>
+<\document>
+
+<document>
+<qid>31<\qid>
+<rank>59<\rank>
+<doc>CACM-0986<\doc>
+<snippet>
+Amendment to <b>Proposed<\b> American Standardon Specification for 
+<\snippet>
+<\document>
+
+<document>
+<qid>31<\qid>
+<rank>60<\rank>
+<doc>CACM-0104<\doc>
+<snippet>
+Simulation of Discrete Flow Systems*The discrete flow 
+<\snippet>
+<\document>
+
+<document>
+<qid>31<\qid>
+<rank>61<\rank>
+<doc>CACM-0615<\doc>
+<snippet>
+Multidimensional ArraysA useful <b>method<\b> of representing a 
+<\snippet>
+<\document>
+
+<document>
+<qid>31<\qid>
+<rank>62<\rank>
+<doc>CACM-0307<\doc>
+<snippet>
+(Algorithm 65)CACM July, <b>1961Hoare,<\b> C. A. R.CA610710 
+<\snippet>
+<\document>
+
+<document>
+<qid>31<\qid>
+<rank>63<\rank>
+<doc>CACM-0059<\doc>
+<snippet>
+of <b>Progress<\b> and Trend <b>of<\b> Developmentand Use 
+<\snippet>
+<\document>
+
+<document>
+<qid>31<\qid>
+<rank>64<\rank>
+<doc>CACM-0962<\doc>
+<snippet>
+Squares Root for The CDC-3600In January of 
+<\snippet>
+<\document>
+
+<document>
+<qid>31<\qid>
+<rank>65<\rank>
+<doc>CACM-2195<\doc>
+<snippet>
+the <b>Optimal<\b> Detection of Curves in Noisy 
+<\snippet>
+<\document>
+
+<document>
+<qid>31<\qid>
+<rank>66<\rank>
+<doc>CACM-1721<\doc>
+<snippet>
+of the Intersection Points of TwoPlane Curves 
+<\snippet>
+<\document>
+
+<document>
+<qid>31<\qid>
+<rank>67<\rank>
+<doc>CACM-1195<\doc>
+<snippet>
+of Pittsburgh Linear File Tandem SystemA series 
+<\snippet>
+<\document>
+
+<document>
+<qid>31<\qid>
+<rank>68<\rank>
+<doc>CACM-1891<\doc>
+<snippet>
+Computer DisplayA stereographic display terminal has beenproduced 
+<\snippet>
+<\document>
+
+<document>
+<qid>31<\qid>
+<rank>69<\rank>
+<doc>CACM-1588<\doc>
+<snippet>
+<b>List<\b> ProcessingThe concepts of list processing have 
+<\snippet>
+<\document>
+
+<document>
+<qid>31<\qid>
+<rank>70<\rank>
+<doc>CACM-0078<\doc>
+<snippet>
+on the Practical Solution of Characteristic <b>Value<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>31<\qid>
+<rank>71<\rank>
+<doc>CACM-0323<\doc>
+<snippet>
+State of Digital Computer Technology in EuropeCACM 
+<\snippet>
+<\document>
+
+<document>
+<qid>31<\qid>
+<rank>72<\rank>
+<doc>CACM-3059<\doc>
+<snippet>
+for Parallel Processing WIthin Programs:Application <b>to<\b> CPU:I/O 
+<\snippet>
+<\document>
+
+<document>
+<qid>31<\qid>
+<rank>73<\rank>
+<doc>CACM-1741<\doc>
+<snippet>
+The Brookhaven Raster DisplayA multiconsole computer display 
+<\snippet>
+<\document>
+
+<document>
+<qid>31<\qid>
+<rank>74<\rank>
+<doc>CACM-2421<\doc>
+<snippet>
+Scan Conversion <b>Algorithm<\b> with Reduced Storage RequirementsMost 
+<\snippet>
+<\document>
+
+<document>
+<qid>31<\qid>
+<rank>75<\rank>
+<doc>CACM-3200<\doc>
+<snippet>
+  A <b>FORMAC<\b> <b>Program<\b> <b>for<\b> <b>the<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>31<\qid>
+<rank>76<\rank>
+<doc>CACM-1534<\doc>
+<snippet>
+The C. Operating SystemThe design and <b>implementation<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>31<\qid>
+<rank>77<\rank>
+<doc>CACM-0135<\doc>
+<snippet>
+Computers in Universities-IVCACM October, 1960Reeves, R. F.CA601013 
+<\snippet>
+<\document>
+
+<document>
+<qid>31<\qid>
+<rank>78<\rank>
+<doc>CACM-0148<\doc>
+<snippet>
+Computers in Universities-IIICACM September, 1960Reeves, R. F.CA600909 
+<\snippet>
+<\document>
+
+<document>
+<qid>31<\qid>
+<rank>79<\rank>
+<doc>CACM-2643<\doc>
+<snippet>
+<b>Minimization<\b> of Spatially-Multiplexed <b>Character<\b> SetsThe paper <b>describes<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>31<\qid>
+<rank>80<\rank>
+<doc>CACM-0696<\doc>
+<snippet>
+Automatic Data Acquisition and Inquiry System <b>Using<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>31<\qid>
+<rank>81<\rank>
+<doc>CACM-0951<\doc>
+<snippet>
+Chebyshev Approximationsto the Bessel Function <b>Integrals<\b> Kis(x)The 
+<\snippet>
+<\document>
+
+<document>
+<qid>31<\qid>
+<rank>82<\rank>
+<doc>CACM-2893<\doc>
+<snippet>
+as <b>an<\b> Innovation in American Local GovernmentsComputers 
+<\snippet>
+<\document>
+
+<document>
+<qid>31<\qid>
+<rank>83<\rank>
+<doc>CACM-0893<\doc>
+<snippet>
+<b>Arithmetic<\b> on a Digital ComputerThe 7090 at 
+<\snippet>
+<\document>
+
+<document>
+<qid>31<\qid>
+<rank>84<\rank>
+<doc>CACM-0670<\doc>
+<snippet>
+Legal Implications of the Use of Computers 
+<\snippet>
+<\document>
+
+<document>
+<qid>31<\qid>
+<rank>85<\rank>
+<doc>CACM-0491<\doc>
+<snippet>
+of Multiprogramming in the Design of <b>a<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>31<\qid>
+<rank>86<\rank>
+<doc>CACM-0049<\doc>
+<snippet>
+and <b>Business<\b> Applications (Oracle <b>Curve<\b> Plotter)CACM October, 
+<\snippet>
+<\document>
+
+<document>
+<qid>31<\qid>
+<rank>87<\rank>
+<doc>CACM-0981<\doc>
+<snippet>
+Problems in Commercial Data ProcessingA common requirement 
+<\snippet>
+<\document>
+
+<document>
+<qid>31<\qid>
+<rank>88<\rank>
+<doc>CACM-2092<\doc>
+<snippet>
+Deductive Question-Answer for Natural Language <b>InferenceThe<\b> question-answering 
+<\snippet>
+<\document>
+
+<document>
+<qid>31<\qid>
+<rank>89<\rank>
+<doc>CACM-2788<\doc>
+<snippet>
+Circles by an Array of AccumulatorsCACM <b>February,<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>31<\qid>
+<rank>90<\rank>
+<doc>CACM-2163<\doc>
+<snippet>
+Related to <b>the<\b> Use of Computers in 
+<\snippet>
+<\document>
+
+<document>
+<qid>31<\qid>
+<rank>91<\rank>
+<doc>CACM-1359<\doc>
+<snippet>
+Filtering Applied to <b>Information<\b> Storage and Retrieval 
+<\snippet>
+<\document>
+
+<document>
+<qid>31<\qid>
+<rank>92<\rank>
+<doc>CACM-0195<\doc>
+<snippet>
+is a Code?CACM May, 1960Patterson, G. W.CA600502 
+<\snippet>
+<\document>
+
+<document>
+<qid>31<\qid>
+<rank>93<\rank>
+<doc>CACM-1614<\doc>
+<snippet>
+<b>Proposal<\b> for Definitions <b>in<\b> ALGOLAn extension <b>to<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>31<\qid>
+<rank>94<\rank>
+<doc>CACM-0894<\doc>
+<snippet>
+Iterative Factorization Technique for <b>PolynomialsAn<\b> iterative technique 
+<\snippet>
+<\document>
+
+<document>
+<qid>31<\qid>
+<rank>95<\rank>
+<doc>CACM-2855<\doc>
+<snippet>
+Efficient List-Moving Algorithm Using Constant WorkspaceAn <b>efficient<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>31<\qid>
+<rank>96<\rank>
+<doc>CACM-1652<\doc>
+<snippet>
+Code for Non-numeric Information ProcessingApplications in Online 
+<\snippet>
+<\document>
+
+<document>
+<qid>31<\qid>
+<rank>97<\rank>
+<doc>CACM-0216<\doc>
+<snippet>
+Note on the Use of <b>the<\b> Abacus 
+<\snippet>
+<\document>
+
+<document>
+<qid>31<\qid>
+<rank>98<\rank>
+<doc>CACM-2367<\doc>
+<snippet>
+and Society: A Proposed Course for Computer 
+<\snippet>
+<\document>
+
+<document>
+<qid>31<\qid>
+<rank>99<\rank>
+<doc>CACM-0855<\doc>
+<snippet>
+and Structure of Dataon Disk FileMemory Systems 
+<\snippet>
+<\document>
+
+<document>
+<qid>31<\qid>
+<rank>100<\rank>
+<doc>CACM-2188<\doc>
+<snippet>
+Approach to the <b>Optimum<\b> Design of <b>Computer<\b> 
+<\snippet>
+<\document>

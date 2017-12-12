@@ -1,0 +1,1 @@
+matrix permutation algorithm 230 cacm June, 1964 Boothroyd, J. ca640606 jb march 9, 1978 9:36 pm

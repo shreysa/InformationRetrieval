@@ -1,0 +1,900 @@
+
+<document>
+<qid>29<\qid>
+<rank>1<\rank>
+<doc>CACM-1539<\doc>
+<snippet>
+Number Generator 1; Prime Number Generator2 <b>(Algorithm<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>29<\qid>
+<rank>2<\rank>
+<doc>CACM-1840<\doc>
+<snippet>
+Efficient Prime Number Generator <b>(Algorithm<\b> 357 [A1])CACM 
+<\snippet>
+<\document>
+
+<document>
+<qid>29<\qid>
+<rank>3<\rank>
+<doc>CACM-2089<\doc>
+<snippet>
+Number (Algorithm 310 $A1))CACM March, 1970Rapp, <b>D.<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>29<\qid>
+<rank>4<\rank>
+<doc>CACM-2694<\doc>
+<snippet>
+of <b>Legendre<\b> Series Coefficients [C6] (Algorithm A473)CACM 
+<\snippet>
+<\document>
+
+<document>
+<qid>29<\qid>
+<rank>5<\rank>
+<doc>CACM-1841<\doc>
+<snippet>
+Prime Number Generator <b>Using<\b> TheTreesort Principle (Algorithm 
+<\snippet>
+<\document>
+
+<document>
+<qid>29<\qid>
+<rank>6<\rank>
+<doc>CACM-2229<\doc>
+<snippet>
+of Rational and <b>Negative<\b> Powers of a 
+<\snippet>
+<\document>
+
+<document>
+<qid>29<\qid>
+<rank>7<\rank>
+<doc>CACM-1537<\doc>
+<snippet>
+Number Generator <b>1<\b> (Algorithm 310 [A1])CACM September, 
+<\snippet>
+<\document>
+
+<document>
+<qid>29<\qid>
+<rank>8<\rank>
+<doc>CACM-1538<\doc>
+<snippet>
+Number Generator 2 <b>(Algorithm<\b> <b>311<\b> <b>[A1])CACM<\b> <b>September,<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>29<\qid>
+<rank>9<\rank>
+<doc>CACM-2462<\doc>
+<snippet>
+Efficient Prime Number Generator (Algorithm R357)CACM <b>August,<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>29<\qid>
+<rank>10<\rank>
+<doc>CACM-0804<\doc>
+<snippet>
+of Series (Algorithms 134)CACM July, 1963Thacher Jr., 
+<\snippet>
+<\document>
+
+<document>
+<qid>29<\qid>
+<rank>11<\rank>
+<doc>CACM-1780<\doc>
+<snippet>
+Analysis <b>for<\b> SymmetricallyDistributed Data (Algorithm 320 [C6])CACM 
+<\snippet>
+<\document>
+
+<document>
+<qid>29<\qid>
+<rank>12<\rank>
+<doc>CACM-1933<\doc>
+<snippet>
+the Lehmer Pseudo-random Number GeneratorAn algorithm <b>and<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>29<\qid>
+<rank>13<\rank>
+<doc>CACM-0371<\doc>
+<snippet>
+on Algorithms <b>2<\b> and 3, Algorithm 15 
+<\snippet>
+<\document>
+
+<document>
+<qid>29<\qid>
+<rank>14<\rank>
+<doc>CACM-1094<\doc>
+<snippet>
+Twins (Algorithm 223)CACM April, 1964Shimrat, <b>M.CA640414<\b> JB 
+<\snippet>
+<\document>
+
+<document>
+<qid>29<\qid>
+<rank>15<\rank>
+<doc>CACM-2087<\doc>
+<snippet>
+Number System <b>for<\b> the PermutationsCACM March, 1970Pager, 
+<\snippet>
+<\document>
+
+<document>
+<qid>29<\qid>
+<rank>16<\rank>
+<doc>CACM-1995<\doc>
+<snippet>
+Series Summation with Arbitrary Precision $C6) (Algorithm 
+<\snippet>
+<\document>
+
+<document>
+<qid>29<\qid>
+<rank>17<\rank>
+<doc>CACM-2332<\doc>
+<snippet>
+Series <b>Summation<\b> with Arbitrary Precision (Algorithm R393)CACM 
+<\snippet>
+<\document>
+
+<document>
+<qid>29<\qid>
+<rank>18<\rank>
+<doc>CACM-1967<\doc>
+<snippet>
+<b>Improved<\b> Algorithm to Produce Complex Primes (Algorithm 
+<\snippet>
+<\document>
+
+<document>
+<qid>29<\qid>
+<rank>19<\rank>
+<doc>CACM-2644<\doc>
+<snippet>
+Theorem-Proving Language for ExperimentationBecause of the large 
+<\snippet>
+<\document>
+
+<document>
+<qid>29<\qid>
+<rank>20<\rank>
+<doc>CACM-0738<\doc>
+<snippet>
+Series Approximation (Algorithm 157)CACM <b>September,<\b> 1963George, R.CA630920 
+<\snippet>
+<\document>
+
+<document>
+<qid>29<\qid>
+<rank>21<\rank>
+<doc>CACM-2521<\doc>
+<snippet>
+Subroutines for the Manipulationof Chebyshev Series [C1] 
+<\snippet>
+<\document>
+
+<document>
+<qid>29<\qid>
+<rank>22<\rank>
+<doc>CACM-2325<\doc>
+<snippet>
+Mathematics and Computer ScienceNumerical mathematics is <b>viewed<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>29<\qid>
+<rank>23<\rank>
+<doc>CACM-0455<\doc>
+<snippet>
+of <b>Series<\b> (Algorithm 134)CACM November, 1962Fettis, H. 
+<\snippet>
+<\document>
+
+<document>
+<qid>29<\qid>
+<rank>24<\rank>
+<doc>CACM-0470<\doc>
+<snippet>
+<b>of<\b> Fourier Series (Algorithm 128)CACM October, 1962Wells, 
+<\snippet>
+<\document>
+
+<document>
+<qid>29<\qid>
+<rank>25<\rank>
+<doc>CACM-0706<\doc>
+<snippet>
+<b>Series<\b> Approximation (Algorithm 157)CACM October, 1963Schubert, G. 
+<\snippet>
+<\document>
+
+<document>
+<qid>29<\qid>
+<rank>26<\rank>
+<doc>CACM-0737<\doc>
+<snippet>
+of <b>Series<\b> (Algorithm 158)CACM <b>September,<\b> 1963Lawrence, J. 
+<\snippet>
+<\document>
+
+<document>
+<qid>29<\qid>
+<rank>27<\rank>
+<doc>CACM-0807<\doc>
+<snippet>
+of Series (Algorithm <b>193)CACM<\b> July, 1963Fettis, <b>H.<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>29<\qid>
+<rank>28<\rank>
+<doc>CACM-0903<\doc>
+<snippet>
+of Series (Algorithm 134 )CACM March, 1963Fettis, 
+<\snippet>
+<\document>
+
+<document>
+<qid>29<\qid>
+<rank>29<\rank>
+<doc>CACM-0904<\doc>
+<snippet>
+Series Approximation (Algorithm <b>157)CACM<\b> March, 1963Mifsud, C. 
+<\snippet>
+<\document>
+
+<document>
+<qid>29<\qid>
+<rank>30<\rank>
+<doc>CACM-2007<\doc>
+<snippet>
+<b>Policy/Revised<\b> August 1970CACM <b>August,<\b> 1970CA700814 JB <b>February<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>29<\qid>
+<rank>31<\rank>
+<doc>CACM-0659<\doc>
+<snippet>
+of Series (Algorithm <b>193)CACM<\b> December, 1963Thacher Jr., 
+<\snippet>
+<\document>
+
+<document>
+<qid>29<\qid>
+<rank>32<\rank>
+<doc>CACM-1717<\doc>
+<snippet>
+Prime Implicants Via Ternary <b>Encoding<\b> and Decimal 
+<\snippet>
+<\document>
+
+<document>
+<qid>29<\qid>
+<rank>33<\rank>
+<doc>CACM-2410<\doc>
+<snippet>
+Recurrence <b>Scheme<\b> for Converting fromOne Orthogonal Expansion 
+<\snippet>
+<\document>
+
+<document>
+<qid>29<\qid>
+<rank>34<\rank>
+<doc>CACM-2200<\doc>
+<snippet>
+Complement DivisionThe division algorithm <b>theorem<\b> is expressedin 
+<\snippet>
+<\document>
+
+<document>
+<qid>29<\qid>
+<rank>35<\rank>
+<doc>CACM-1420<\doc>
+<snippet>
+<b>New<\b> Uniform Pseudorandom Number GeneratorA new multiplicative 
+<\snippet>
+<\document>
+
+<document>
+<qid>29<\qid>
+<rank>36<\rank>
+<doc>CACM-1109<\doc>
+<snippet>
+of a Power to a Series of 
+<\snippet>
+<\document>
+
+<document>
+<qid>29<\qid>
+<rank>37<\rank>
+<doc>CACM-0201<\doc>
+<snippet>
+Funtion I, Series Expansion (Algorithm 5)CACM <b>April,<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>29<\qid>
+<rank>38<\rank>
+<doc>CACM-1118<\doc>
+<snippet>
+Subroutines for Time Series Data Reduction*CACM <b>March,<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>29<\qid>
+<rank>39<\rank>
+<doc>CACM-1480<\doc>
+<snippet>
+of Chebyshev <b>Series<\b> <b>Coefficients<\b> <b>(Algorithm<\b> <b>277[C6])CACM<\b> <b>February,<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>29<\qid>
+<rank>40<\rank>
+<doc>CACM-2825<\doc>
+<snippet>
+BMD <b>and<\b> <b>BMDP<\b> <b>Series<\b> <b>of<\b> <b>Statistical<\b> <b>Computer<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>29<\qid>
+<rank>41<\rank>
+<doc>CACM-1812<\doc>
+<snippet>
+<b>on<\b> <b>Fortran<\b> <b>Random<\b> <b>Number<\b> <b>GeneratorsCACM<\b> <b>November,<\b> <b>1969Grosenbaugh,<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>29<\qid>
+<rank>42<\rank>
+<doc>CACM-0286<\doc>
+<snippet>
+Iterative Method for Inversion of Power SeriesCACM 
+<\snippet>
+<\document>
+
+<document>
+<qid>29<\qid>
+<rank>43<\rank>
+<doc>CACM-0313<\doc>
+<snippet>
+Iterative Method for Inversion of Power SeriesCACM 
+<\snippet>
+<\document>
+
+<document>
+<qid>29<\qid>
+<rank>44<\rank>
+<doc>CACM-0826<\doc>
+<snippet>
+on Fortran Subroutines for Time Series <b>AnalysisCACM<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>29<\qid>
+<rank>45<\rank>
+<doc>CACM-1039<\doc>
+<snippet>
+of Fourier Series (Algorithm 128 [C6])CACM July, 
+<\snippet>
+<\document>
+
+<document>
+<qid>29<\qid>
+<rank>46<\rank>
+<doc>CACM-1660<\doc>
+<snippet>
+<b>By<\b> Subject To algorithms, 1960-1968CACM December, 1968CA681206 
+<\snippet>
+<\document>
+
+<document>
+<qid>29<\qid>
+<rank>47<\rank>
+<doc>CACM-1697<\doc>
+<snippet>
+Input/Output of <b>Nonstandard<\b> <b>CharactersA<\b> <b>system<\b> <b>developed<\b> <b>at<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>29<\qid>
+<rank>48<\rank>
+<doc>CACM-3131<\doc>
+<snippet>
+Microcomputer Number SystemFOCUS <b>is<\b> a number system 
+<\snippet>
+<\document>
+
+<document>
+<qid>29<\qid>
+<rank>49<\rank>
+<doc>CACM-2794<\doc>
+<snippet>
+Problem-Reduction, <b>and<\b> Theorem Proving-Some RelationshipsThis paper suggests 
+<\snippet>
+<\document>
+
+<document>
+<qid>29<\qid>
+<rank>50<\rank>
+<doc>CACM-1342<\doc>
+<snippet>
+Problem (Algorithms 293 [H])CACM December, 1966Bayer, G.CA661207a 
+<\snippet>
+<\document>
+
+<document>
+<qid>29<\qid>
+<rank>51<\rank>
+<doc>CACM-2770<\doc>
+<snippet>
+Quadratic Hash Method When <b>the<\b> Table Size 
+<\snippet>
+<\document>
+
+<document>
+<qid>29<\qid>
+<rank>52<\rank>
+<doc>CACM-2927<\doc>
+<snippet>
+<b>New<\b> Upper Bounds <b>on<\b> the Generation <b>of<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>29<\qid>
+<rank>53<\rank>
+<doc>CACM-2417<\doc>
+<snippet>
+Combinatorial Algorithms [G6] (Algorithm A466)CACM <b>November,<\b> 1973Ehrlich, 
+<\snippet>
+<\document>
+
+<document>
+<qid>29<\qid>
+<rank>54<\rank>
+<doc>CACM-2884<\doc>
+<snippet>
+Enumeration: <b>Four<\b> New Permutation AlgorithmsClassical permutation enumeration 
+<\snippet>
+<\document>
+
+<document>
+<qid>29<\qid>
+<rank>55<\rank>
+<doc>CACM-1679<\doc>
+<snippet>
+Fast Fourier Transform Algorithm for Real-Valued <b>SeriesA<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>29<\qid>
+<rank>56<\rank>
+<doc>CACM-2334<\doc>
+<snippet>
+Random <b>Number<\b> <b>Generator<\b> <b>(Algorithm<\b> <b>R370)CACM<\b> <b>June,<\b> <b>1972Proll,<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>29<\qid>
+<rank>57<\rank>
+<doc>CACM-0626<\doc>
+<snippet>
+Method of Representation, Storage <b>and<\b> Retrievalof 13 
+<\snippet>
+<\document>
+
+<document>
+<qid>29<\qid>
+<rank>58<\rank>
+<doc>CACM-2762<\doc>
+<snippet>
+Subroutines for the Manipulationof Chebyshev Series (Algorithm 
+<\snippet>
+<\document>
+
+<document>
+<qid>29<\qid>
+<rank>59<\rank>
+<doc>CACM-2490<\doc>
+<snippet>
+Algorithms for Graph Manipulation [H] (Algorithm A447)Efficient 
+<\snippet>
+<\document>
+
+<document>
+<qid>29<\qid>
+<rank>60<\rank>
+<doc>CACM-1511<\doc>
+<snippet>
+Damped Taylor's Series Method for Minimizinga <b>Sum<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>29<\qid>
+<rank>61<\rank>
+<doc>CACM-2067<\doc>
+<snippet>
+on Lawler's Multilevel Boolean MinimizationCACM April, <b>1970DeVries,<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>29<\qid>
+<rank>62<\rank>
+<doc>CACM-0334<\doc>
+<snippet>
+and Square Root in the Quater-Imaginary <b>Number<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>29<\qid>
+<rank>63<\rank>
+<doc>CACM-0294<\doc>
+<snippet>
+Imaginary Number SystemCACM August, 1961Knuth, D.CA610810 JB 
+<\snippet>
+<\document>
+
+<document>
+<qid>29<\qid>
+<rank>64<\rank>
+<doc>CACM-2122<\doc>
+<snippet>
+<b>Random<\b> Number Generator (Algorithm 370 $G5))CACM January, 
+<\snippet>
+<\document>
+
+<document>
+<qid>29<\qid>
+<rank>65<\rank>
+<doc>CACM-2146<\doc>
+<snippet>
+<b>the<\b> Polyphase SortVarious dispersion algorithms for the 
+<\snippet>
+<\document>
+
+<document>
+<qid>29<\qid>
+<rank>66<\rank>
+<doc>CACM-3166<\doc>
+<snippet>
+Standard Deviations: AccuracyFour algorithms for the <b>numerical<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>29<\qid>
+<rank>67<\rank>
+<doc>CACM-0270<\doc>
+<snippet>
+for Storage Allocation Algorithms CACM October, 1961Kelley 
+<\snippet>
+<\document>
+
+<document>
+<qid>29<\qid>
+<rank>68<\rank>
+<doc>CACM-2206<\doc>
+<snippet>
+Solution of Linear <b>Equations<\b> UsingResidue Arithmetic [F4] 
+<\snippet>
+<\document>
+
+<document>
+<qid>29<\qid>
+<rank>69<\rank>
+<doc>CACM-2507<\doc>
+<snippet>
+Solution of Linear Equations UsingResidue Arithmetic <b>(Algorithm<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>29<\qid>
+<rank>70<\rank>
+<doc>CACM-2350<\doc>
+<snippet>
+Quadrature <b>[D1]<\b> (Algorithm A424)CACM May, 1972Gentleman, W.quadrature, 
+<\snippet>
+<\document>
+
+<document>
+<qid>29<\qid>
+<rank>71<\rank>
+<doc>CACM-1924<\doc>
+<snippet>
+<b>Matrices<\b> and Matrix Operations for Paged Memory 
+<\snippet>
+<\document>
+
+<document>
+<qid>29<\qid>
+<rank>72<\rank>
+<doc>CACM-1794<\doc>
+<snippet>
+Fast Random Number Generator <b>for<\b> IBM 360CACM 
+<\snippet>
+<\document>
+
+<document>
+<qid>29<\qid>
+<rank>73<\rank>
+<doc>CACM-3026<\doc>
+<snippet>
+Evolution of the Sperry <b>Univac<\b> 1100Series: A 
+<\snippet>
+<\document>
+
+<document>
+<qid>29<\qid>
+<rank>74<\rank>
+<doc>CACM-1374<\doc>
+<snippet>
+of Determinant; <b>DeterminantEvaluation<\b> (Algorithms 41[F3]; 269[F3])CACM September, 
+<\snippet>
+<\document>
+
+<document>
+<qid>29<\qid>
+<rank>75<\rank>
+<doc>CACM-0184<\doc>
+<snippet>
+Short <b>Method<\b> for Measuring Error in a 
+<\snippet>
+<\document>
+
+<document>
+<qid>29<\qid>
+<rank>76<\rank>
+<doc>CACM-0197<\doc>
+<snippet>
+Imaginary Number SystemCACM <b>April,<\b> 1960Knuth, D. <b>E.CA600414<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>29<\qid>
+<rank>77<\rank>
+<doc>CACM-2283<\doc>
+<snippet>
+Algorithms on <b>Rectangular,<\b> Hexagonal, and Triangular ArraysIn 
+<\snippet>
+<\document>
+
+<document>
+<qid>29<\qid>
+<rank>78<\rank>
+<doc>CACM-2226<\doc>
+<snippet>
+Evidence for the Analysis <b>of<\b> Algorithmsfor the 
+<\snippet>
+<\document>
+
+<document>
+<qid>29<\qid>
+<rank>79<\rank>
+<doc>CACM-1551<\doc>
+<snippet>
+Compiling <b>Algorithms<\b> for Arithmetic ExpressionsThis paper deals 
+<\snippet>
+<\document>
+
+<document>
+<qid>29<\qid>
+<rank>80<\rank>
+<doc>CACM-2950<\doc>
+<snippet>
+Unifying Approach <b>to<\b> SchedulingThis paper presents a 
+<\snippet>
+<\document>
+
+<document>
+<qid>29<\qid>
+<rank>81<\rank>
+<doc>CACM-1894<\doc>
+<snippet>
+Random Deviates (Algorithm 334 [G5])CACM <b>May,<\b> 1969Knop, 
+<\snippet>
+<\document>
+
+<document>
+<qid>29<\qid>
+<rank>82<\rank>
+<doc>CACM-0785<\doc>
+<snippet>
+Between Calendar Date And <b>Julian<\b> <b>day<\b> <b>Number<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>29<\qid>
+<rank>83<\rank>
+<doc>CACM-2418<\doc>
+<snippet>
+t Frequency [S14] (Algorithm A465)CACM November, 1973Hill, 
+<\snippet>
+<\document>
+
+<document>
+<qid>29<\qid>
+<rank>84<\rank>
+<doc>CACM-2031<\doc>
+<snippet>
+and Bound for the Greatest Common <b>Divisor<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>29<\qid>
+<rank>85<\rank>
+<doc>CACM-2544<\doc>
+<snippet>
+Error bounds for Simple <b>Zeros<\b> of Analytic 
+<\snippet>
+<\document>
+
+<document>
+<qid>29<\qid>
+<rank>86<\rank>
+<doc>CACM-3037<\doc>
+<snippet>
+Linear <b>Sieve<\b> Algorithm for Finding Prime NumbersA 
+<\snippet>
+<\document>
+
+<document>
+<qid>29<\qid>
+<rank>87<\rank>
+<doc>CACM-1658<\doc>
+<snippet>
+of Algorithms for <b>the<\b> Zero-One Programming ProblemThis 
+<\snippet>
+<\document>
+
+<document>
+<qid>29<\qid>
+<rank>88<\rank>
+<doc>CACM-1716<\doc>
+<snippet>
+Random <b>Deviates<\b> (Algorithm 334 <b>[G5])CACM<\b> July, 1968Bell, 
+<\snippet>
+<\document>
+
+<document>
+<qid>29<\qid>
+<rank>89<\rank>
+<doc>CACM-3006<\doc>
+<snippet>
+with <b>Variable<\b> Partition Paging AlgorithmsFive types of 
+<\snippet>
+<\document>
+
+<document>
+<qid>29<\qid>
+<rank>90<\rank>
+<doc>CACM-0977<\doc>
+<snippet>
+Between Calendar Date andJulian Day Number <b>(Algorithm<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>29<\qid>
+<rank>91<\rank>
+<doc>CACM-1520<\doc>
+<snippet>
+Value and Square Root of a Complex 
+<\snippet>
+<\document>
+
+<document>
+<qid>29<\qid>
+<rank>92<\rank>
+<doc>CACM-2057<\doc>
+<snippet>
+Vectors Uniform in Solid Angle (Algorithm 381 
+<\snippet>
+<\document>
+
+<document>
+<qid>29<\qid>
+<rank>93<\rank>
+<doc>CACM-2505<\doc>
+<snippet>
+Permutations, <b>Rosary<\b> Permutations,and Adjacent <b>Transposition<\b> AlgorithmsCACM May, 
+<\snippet>
+<\document>
+
+<document>
+<qid>29<\qid>
+<rank>94<\rank>
+<doc>CACM-1171<\doc>
+<snippet>
+Comparison of the Primal-Simplex and Primal-DualAlgorithms for 
+<\snippet>
+<\document>
+
+<document>
+<qid>29<\qid>
+<rank>95<\rank>
+<doc>CACM-0063<\doc>
+<snippet>
+Diagrams of Binary Conception andTheir Applicability <b>to<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>29<\qid>
+<rank>96<\rank>
+<doc>CACM-2767<\doc>
+<snippet>
+Comparison <b>of<\b> Simulation Event List AlgorithmsFour algorithms 
+<\snippet>
+<\document>
+
+<document>
+<qid>29<\qid>
+<rank>97<\rank>
+<doc>CACM-1874<\doc>
+<snippet>
+Pseudorandom Numbers on a Two'sComplement Machine such 
+<\snippet>
+<\document>
+
+<document>
+<qid>29<\qid>
+<rank>98<\rank>
+<doc>CACM-2863<\doc>
+<snippet>
+Optimal Variable-Space Page Replacement AlgorithmA criterion <b>for<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>29<\qid>
+<rank>99<\rank>
+<doc>CACM-2725<\doc>
+<snippet>
+Comparison of Simulation Event <b>List<\b> Algorithms (Corrigendum)CACM 
+<\snippet>
+<\document>
+
+<document>
+<qid>29<\qid>
+<rank>100<\rank>
+<doc>CACM-2830<\doc>
+<snippet>
+Practitioner's Guide to Addressing Algorithms (Corrigendum)CACM September, 
+<\snippet>
+<\document>

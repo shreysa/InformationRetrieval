@@ -1,0 +1,1 @@
+an efficient method for generating uniformly distributed points on the surface on an n-dimensional sphere corrigendum cacm October, 1959 Cook, J. M. ca591007 jb march 22, 1978 4:12 pm

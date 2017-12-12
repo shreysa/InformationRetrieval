@@ -1,0 +1,900 @@
+
+<document>
+<qid>35<\qid>
+<rank>1<\rank>
+<doc>CACM-2090<\doc>
+<snippet>
+Expansion of <b>Algebraic<\b> Expressions (Algorithm 377 $R2))CACM 
+<\snippet>
+<\document>
+
+<document>
+<qid>35<\qid>
+<rank>2<\rank>
+<doc>CACM-1393<\doc>
+<snippet>
+A System for Polynomial ManipulationPM <b>is<\b> an 
+<\snippet>
+<\document>
+
+<document>
+<qid>35<\qid>
+<rank>3<\rank>
+<doc>CACM-2165<\doc>
+<snippet>
+Relativity and <b>the<\b> Application of Algebraic Manipulative 
+<\snippet>
+<\document>
+
+<document>
+<qid>35<\qid>
+<rank>4<\rank>
+<doc>CACM-2932<\doc>
+<snippet>
+computations, algebraic complexity,in tractable problems, probabilistic algorithms5.25CA770901 JB December 28, 
+<\snippet>
+<\document>
+
+<document>
+<qid>35<\qid>
+<rank>5<\rank>
+<doc>CACM-1397<\doc>
+<snippet>
+of the ACM Symposium on Symbolic and 
+<\snippet>
+<\document>
+
+<document>
+<qid>35<\qid>
+<rank>6<\rank>
+<doc>CACM-2836<\doc>
+<snippet>
+may be applied to problemsinvolving probabilistic parsing or combinatorial optimization.CACM 
+<\snippet>
+<\document>
+
+<document>
+<qid>35<\qid>
+<rank>7<\rank>
+<doc>CACM-1474<\doc>
+<snippet>
+of Probabilistic Models for Propagation <b>of<\b> Roundoff 
+<\snippet>
+<\document>
+
+<document>
+<qid>35<\qid>
+<rank>8<\rank>
+<doc>CACM-2414<\doc>
+<snippet>
+<b>Overa<\b> Finite Field [A1] (Algorithm A469)CACM November, 
+<\snippet>
+<\document>
+
+<document>
+<qid>35<\qid>
+<rank>9<\rank>
+<doc>CACM-2385<\doc>
+<snippet>
+of a <b>Complex<\b> <b>Polynomial<\b> <b>[C2]<\b> <b>(Algorithm<\b> <b>A419)CACM<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>35<\qid>
+<rank>10<\rank>
+<doc>CACM-0762<\doc>
+<snippet>
+Remarks on the <b>Syntax<\b> of Symbolic <b>Programming<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>35<\qid>
+<rank>11<\rank>
+<doc>CACM-2850<\doc>
+<snippet>
+Execution and Program TestingThis paper describes the 
+<\snippet>
+<\document>
+
+<document>
+<qid>35<\qid>
+<rank>12<\rank>
+<doc>CACM-0371<\doc>
+<snippet>
+on Algorithms <b>2<\b> and 3, Algorithm 15 
+<\snippet>
+<\document>
+
+<document>
+<qid>35<\qid>
+<rank>13<\rank>
+<doc>CACM-2323<\doc>
+<snippet>
+a General Theory of Special FunctionsA list 
+<\snippet>
+<\document>
+
+<document>
+<qid>35<\qid>
+<rank>14<\rank>
+<doc>CACM-1386<\doc>
+<snippet>
+Factoring of Polynomials in <b>Several<\b> VariablesAn algorithm 
+<\snippet>
+<\document>
+
+<document>
+<qid>35<\qid>
+<rank>15<\rank>
+<doc>CACM-3175<\doc>
+<snippet>
+substitutionciphers is represented as a probabilistic labeling problem.Every code letter 
+<\snippet>
+<\document>
+
+<document>
+<qid>35<\qid>
+<rank>16<\rank>
+<doc>CACM-0393<\doc>
+<snippet>
+Subroutines <b>for<\b> <b>Symbol<\b> <b>Manipulation<\b> <b>with<\b> <b>an<\b> <b>Algebraic<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>35<\qid>
+<rank>17<\rank>
+<doc>CACM-2681<\doc>
+<snippet>
+Memory RepackingA probabilistic model of <b>a<\b> multiprogramming 
+<\snippet>
+<\document>
+
+<document>
+<qid>35<\qid>
+<rank>18<\rank>
+<doc>CACM-1763<\doc>
+<snippet>
+of Low-Order Polynomial Equations (Algorithm 326 <b>[C2])CACM<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>35<\qid>
+<rank>19<\rank>
+<doc>CACM-1396<\doc>
+<snippet>
+of Formula <b>ManipulationThe<\b> field of formula manipulation 
+<\snippet>
+<\document>
+
+<document>
+<qid>35<\qid>
+<rank>20<\rank>
+<doc>CACM-1667<\doc>
+<snippet>
+of Polynomials by a <b>Root-Squaringand<\b> Resultant Routine 
+<\snippet>
+<\document>
+
+<document>
+<qid>35<\qid>
+<rank>21<\rank>
+<doc>CACM-1893<\doc>
+<snippet>
+of Polynomials by a Root-Squaringand Resultant <b>routine<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>35<\qid>
+<rank>22<\rank>
+<doc>CACM-2166<\doc>
+<snippet>
+Algebraic Manipulation in Celestial MechanicsIn this paper 
+<\snippet>
+<\document>
+
+<document>
+<qid>35<\qid>
+<rank>23<\rank>
+<doc>CACM-0064<\doc>
+<snippet>
+on ALGOL and Symbol <b>Manipulation<\b> CACM September, 
+<\snippet>
+<\document>
+
+<document>
+<qid>35<\qid>
+<rank>24<\rank>
+<doc>CACM-1214<\doc>
+<snippet>
+Experiments in Algebraic <b>Manipulation<\b> by Computer A 
+<\snippet>
+<\document>
+
+<document>
+<qid>35<\qid>
+<rank>25<\rank>
+<doc>CACM-0265<\doc>
+<snippet>
+Level Language Subroutines for Use Within FortranThis 
+<\snippet>
+<\document>
+
+<document>
+<qid>35<\qid>
+<rank>26<\rank>
+<doc>CACM-3071<\doc>
+<snippet>
+Algorithm Using Symbolic Techniques for theBel-Petrov <b>Classification<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>35<\qid>
+<rank>27<\rank>
+<doc>CACM-2170<\doc>
+<snippet>
+of Symbol Manipulation in <b>Theoretical<\b> PhysicsThis paper 
+<\snippet>
+<\document>
+
+<document>
+<qid>35<\qid>
+<rank>28<\rank>
+<doc>CACM-1644<\doc>
+<snippet>
+the <b>Computation<\b> of Least Squares PolynomialsRounding error 
+<\snippet>
+<\document>
+
+<document>
+<qid>35<\qid>
+<rank>29<\rank>
+<doc>CACM-2167<\doc>
+<snippet>
+Simplification: A Guide <b>for<\b> the PerplexedAlgebraic simplification 
+<\snippet>
+<\document>
+
+<document>
+<qid>35<\qid>
+<rank>30<\rank>
+<doc>CACM-0340<\doc>
+<snippet>
+<b>Polynomial<\b> <b>(Algorithm<\b> <b>13)CACM<\b> <b>April,<\b> <b>1961Herndon,<\b> <b>J.CA610428<\b> <b>JB<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>35<\qid>
+<rank>31<\rank>
+<doc>CACM-0341<\doc>
+<snippet>
+Polynomial (Algorithm <b>10)CACM<\b> April, 1961 Herndon, J.CA610427 
+<\snippet>
+<\document>
+
+<document>
+<qid>35<\qid>
+<rank>32<\rank>
+<doc>CACM-1020<\doc>
+<snippet>
+Field Read (Algorithm 239 [I5])CACM August, 1964McKeeman, 
+<\snippet>
+<\document>
+
+<document>
+<qid>35<\qid>
+<rank>33<\rank>
+<doc>CACM-0842<\doc>
+<snippet>
+<b>Posteriori<\b> Bounds on a Zero of a 
+<\snippet>
+<\document>
+
+<document>
+<qid>35<\qid>
+<rank>34<\rank>
+<doc>CACM-0055<\doc>
+<snippet>
+<b>Algebraic<\b> TranslatorCACM October, 1959Kaner, H.CA591004 JB March 
+<\snippet>
+<\document>
+
+<document>
+<qid>35<\qid>
+<rank>35<\rank>
+<doc>CACM-2325<\doc>
+<snippet>
+Mathematics and Computer <b>ScienceNumerical<\b> mathematics is <b>viewed<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>35<\qid>
+<rank>36<\rank>
+<doc>CACM-0125<\doc>
+<snippet>
+Transformer (Algorithm 29)CACM November, 1960Mackinney, J. G.CA601110 
+<\snippet>
+<\document>
+
+<document>
+<qid>35<\qid>
+<rank>37<\rank>
+<doc>CACM-0646<\doc>
+<snippet>
+of a Finite Segment of <b>the<\b> Hilbert 
+<\snippet>
+<\document>
+
+<document>
+<qid>35<\qid>
+<rank>38<\rank>
+<doc>CACM-0937<\doc>
+<snippet>
+<b>of<\b> a Finite Segment of the Hilbert 
+<\snippet>
+<\document>
+
+<document>
+<qid>35<\qid>
+<rank>39<\rank>
+<doc>CACM-1689<\doc>
+<snippet>
+of a Polynomial and its DerivativeValues by 
+<\snippet>
+<\document>
+
+<document>
+<qid>35<\qid>
+<rank>40<\rank>
+<doc>CACM-2169<\doc>
+<snippet>
+<b>Altran<\b> System for Rational Function Manipulation-A SurveyAltran 
+<\snippet>
+<\document>
+
+<document>
+<qid>35<\qid>
+<rank>41<\rank>
+<doc>CACM-1080<\doc>
+<snippet>
+Polynomial Coefficients (Algorithm 227)CACM May, 1964Cyvin, S. 
+<\snippet>
+<\document>
+
+<document>
+<qid>35<\qid>
+<rank>42<\rank>
+<doc>CACM-1940<\doc>
+<snippet>
+of <b>a<\b> Polynomial and <b>its<\b> DerivativeValues by 
+<\snippet>
+<\document>
+
+<document>
+<qid>35<\qid>
+<rank>43<\rank>
+<doc>CACM-0351<\doc>
+<snippet>
+of a Finite Segment of <b>the<\b> Hilbert 
+<\snippet>
+<\document>
+
+<document>
+<qid>35<\qid>
+<rank>44<\rank>
+<doc>CACM-0342<\doc>
+<snippet>
+of Polynomial Equation by <b>Barstow-Hitchcock<\b> (Algorithm 3)CACM 
+<\snippet>
+<\document>
+
+<document>
+<qid>35<\qid>
+<rank>45<\rank>
+<doc>CACM-2676<\doc>
+<snippet>
+of a Complex Polynomial <b>(Algorithm<\b> R419)CACM March, 
+<\snippet>
+<\document>
+
+<document>
+<qid>35<\qid>
+<rank>46<\rank>
+<doc>CACM-0021<\doc>
+<snippet>
+Formulation of Flow DiagramsCACM June, <b>1958Voorhees,<\b> <b>E.<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>35<\qid>
+<rank>47<\rank>
+<doc>CACM-2458<\doc>
+<snippet>
+of the Roots of a Polynomial (Algorithm 
+<\snippet>
+<\document>
+
+<document>
+<qid>35<\qid>
+<rank>48<\rank>
+<doc>CACM-3203<\doc>
+<snippet>
+  GRAD Assistant <b>-<\b> A Program 
+<\snippet>
+<\document>
+
+<document>
+<qid>35<\qid>
+<rank>49<\rank>
+<doc>CACM-0719<\doc>
+<snippet>
+Width StacksCharacter addressable, variable field computerspermit ready 
+<\snippet>
+<\document>
+
+<document>
+<qid>35<\qid>
+<rank>50<\rank>
+<doc>CACM-2560<\doc>
+<snippet>
+presented of an analysis ofa probabilistic model of a multiprogrammed 
+<\snippet>
+<\document>
+
+<document>
+<qid>35<\qid>
+<rank>51<\rank>
+<doc>CACM-0112<\doc>
+<snippet>
+<b>Solution<\b> of the Polynomial Equation (Algorithm 30)CACM 
+<\snippet>
+<\document>
+
+<document>
+<qid>35<\qid>
+<rank>52<\rank>
+<doc>CACM-0325<\doc>
+<snippet>
+Solution of the Polynomial Equation <b>(Algorithm<\b> 30)CACM 
+<\snippet>
+<\document>
+
+<document>
+<qid>35<\qid>
+<rank>53<\rank>
+<doc>CACM-0647<\doc>
+<snippet>
+Solution of the Polynomial Equation (Algorithm 30)CACM 
+<\snippet>
+<\document>
+
+<document>
+<qid>35<\qid>
+<rank>54<\rank>
+<doc>CACM-2490<\doc>
+<snippet>
+<b>Algorithms<\b> for Graph Manipulation [H] (Algorithm A447)Efficient 
+<\snippet>
+<\document>
+
+<document>
+<qid>35<\qid>
+<rank>55<\rank>
+<doc>CACM-1935<\doc>
+<snippet>
+Binary Search TechniqueA mathematical model is developed 
+<\snippet>
+<\document>
+
+<document>
+<qid>35<\qid>
+<rank>56<\rank>
+<doc>CACM-2532<\doc>
+<snippet>
+Harrison's Substring Testing TechniqueCACM March, 1973Bookstein, <b>A.string,<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>35<\qid>
+<rank>57<\rank>
+<doc>CACM-1450<\doc>
+<snippet>
+Displacement of PolynomialRoots if Real and <b>Simple<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>35<\qid>
+<rank>58<\rank>
+<doc>CACM-0179<\doc>
+<snippet>
+of the Legendre <b>Polynomial<\b> <b>Pn(X)<\b> <b>by<\b> <b>Recursion<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>35<\qid>
+<rank>59<\rank>
+<doc>CACM-0180<\doc>
+<snippet>
+of the Laguerre Polynomial <b>Ln(X)<\b> by Recursion 
+<\snippet>
+<\document>
+
+<document>
+<qid>35<\qid>
+<rank>60<\rank>
+<doc>CACM-0181<\doc>
+<snippet>
+of the <b>Hermite<\b> Polynomial Hn(X) by Recursion 
+<\snippet>
+<\document>
+
+<document>
+<qid>35<\qid>
+<rank>61<\rank>
+<doc>CACM-0182<\doc>
+<snippet>
+of the Chebyshev Polynomial Tn(X) <b>by<\b> Recursion 
+<\snippet>
+<\document>
+
+<document>
+<qid>35<\qid>
+<rank>62<\rank>
+<doc>CACM-0226<\doc>
+<snippet>
+of Polynomial <b>Equation<\b> byBairstow-Hitchcock Method (Algorithm 3)CACM 
+<\snippet>
+<\document>
+
+<document>
+<qid>35<\qid>
+<rank>63<\rank>
+<doc>CACM-0764<\doc>
+<snippet>
+<b>of<\b> a Matrix Containing Polynomial Elements (Algorithm 
+<\snippet>
+<\document>
+
+<document>
+<qid>35<\qid>
+<rank>64<\rank>
+<doc>CACM-0878<\doc>
+<snippet>
+of a Matrix Containing Polynomial Elements (Algorithm 
+<\snippet>
+<\document>
+
+<document>
+<qid>35<\qid>
+<rank>65<\rank>
+<doc>CACM-1599<\doc>
+<snippet>
+Solution <b>of<\b> the Polynomial Equation (Algorithm 300 
+<\snippet>
+<\document>
+
+<document>
+<qid>35<\qid>
+<rank>66<\rank>
+<doc>CACM-2283<\doc>
+<snippet>
+Algorithms on Rectangular, <b>Hexagonal,<\b> and Triangular <b>ArraysIn<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>35<\qid>
+<rank>67<\rank>
+<doc>CACM-0210<\doc>
+<snippet>
+<b>Functions<\b> of Symbolic Expressionsand Their Computation by 
+<\snippet>
+<\document>
+
+<document>
+<qid>35<\qid>
+<rank>68<\rank>
+<doc>CACM-0001<\doc>
+<snippet>
+Report-International Algebraic LanguageCACM December, 1958Perlis, A. J.Samelson,K.CA581203 
+<\snippet>
+<\document>
+
+<document>
+<qid>35<\qid>
+<rank>69<\rank>
+<doc>CACM-0206<\doc>
+<snippet>
+Manipulation in XTRANCACM April, 1960Green, J.CA600405 JB 
+<\snippet>
+<\document>
+
+<document>
+<qid>35<\qid>
+<rank>70<\rank>
+<doc>CACM-0819<\doc>
+<snippet>
+Evaluation RevisedCACM July, 1963 Eisman, S. H.CA630705 
+<\snippet>
+<\document>
+
+<document>
+<qid>35<\qid>
+<rank>71<\rank>
+<doc>CACM-0634<\doc>
+<snippet>
+of Trees in Information Retrieval*CACM February, 1962Salton, 
+<\snippet>
+<\document>
+
+<document>
+<qid>35<\qid>
+<rank>72<\rank>
+<doc>CACM-0496<\doc>
+<snippet>
+Set of Matrices for Testing <b>Computer<\b> ProgramsCACM 
+<\snippet>
+<\document>
+
+<document>
+<qid>35<\qid>
+<rank>73<\rank>
+<doc>CACM-2164<\doc>
+<snippet>
+Integration: The Stormy DecadeThree approaches to symbolic 
+<\snippet>
+<\document>
+
+<document>
+<qid>35<\qid>
+<rank>74<\rank>
+<doc>CACM-1210<\doc>
+<snippet>
+Within FORTRANThis note describes some FORTRAN subroutinesto 
+<\snippet>
+<\document>
+
+<document>
+<qid>35<\qid>
+<rank>75<\rank>
+<doc>CACM-2270<\doc>
+<snippet>
+and <b>Smooth<\b> Curve Fitting Basedon Local Procedures 
+<\snippet>
+<\document>
+
+<document>
+<qid>35<\qid>
+<rank>76<\rank>
+<doc>CACM-0765<\doc>
+<snippet>
+Polynomial Least Squares Surface Fit <b>(Algorithm<\b> 164)CACM 
+<\snippet>
+<\document>
+
+<document>
+<qid>35<\qid>
+<rank>77<\rank>
+<doc>CACM-0388<\doc>
+<snippet>
+of Polynomial Equations byBairstow Hitchcock Method (Algorithm 
+<\snippet>
+<\document>
+
+<document>
+<qid>35<\qid>
+<rank>78<\rank>
+<doc>CACM-1037<\doc>
+<snippet>
+of a <b>Matrix<\b> Containing PolynomialElements (Algorithm 170 
+<\snippet>
+<\document>
+
+<document>
+<qid>35<\qid>
+<rank>79<\rank>
+<doc>CACM-2516<\doc>
+<snippet>
+Storage in <b>Information<\b> RetrievalA probabilistic analysis is employed to 
+<\snippet>
+<\document>
+
+<document>
+<qid>35<\qid>
+<rank>80<\rank>
+<doc>CACM-2266<\doc>
+<snippet>
+Highly Parallel Algorithm for ApproximatingAll Zeros of 
+<\snippet>
+<\document>
+
+<document>
+<qid>35<\qid>
+<rank>81<\rank>
+<doc>CACM-0099<\doc>
+<snippet>
+<b>Modifications<\b> to the International Algebraic LanguageCACM February, 
+<\snippet>
+<\document>
+
+<document>
+<qid>35<\qid>
+<rank>82<\rank>
+<doc>CACM-3189<\doc>
+<snippet>
+  An Algebraic Compiler for the 
+<\snippet>
+<\document>
+
+<document>
+<qid>35<\qid>
+<rank>83<\rank>
+<doc>CACM-1524<\doc>
+<snippet>
+Stopping <b>Criterion<\b> <b>for<\b> <b>Polynomial<\b> <b>Root<\b> <b>FindingWhen<\b> <b>searching<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>35<\qid>
+<rank>84<\rank>
+<doc>CACM-0526<\doc>
+<snippet>
+Manipulation in FortranCACM <b>August,<\b> 1962Pyle, I. C.CA620802 
+<\snippet>
+<\document>
+
+<document>
+<qid>35<\qid>
+<rank>85<\rank>
+<doc>CACM-0928<\doc>
+<snippet>
+Manipulation in <b>FORTRANCACM<\b> February, 1963Lewis, T. S.CA630205 
+<\snippet>
+<\document>
+
+<document>
+<qid>35<\qid>
+<rank>86<\rank>
+<doc>CACM-0403<\doc>
+<snippet>
+-- A <b>Way<\b> of Compiling Procedure Statementswith 
+<\snippet>
+<\document>
+
+<document>
+<qid>35<\qid>
+<rank>87<\rank>
+<doc>CACM-1216<\doc>
+<snippet>
+Derivatives Without List Processing, Subroutines, or RecursionA 
+<\snippet>
+<\document>
+
+<document>
+<qid>35<\qid>
+<rank>88<\rank>
+<doc>CACM-2240<\doc>
+<snippet>
+Numbers [G5] (Algorithm C266)CACM December, 1972Sullins, W. 
+<\snippet>
+<\document>
+
+<document>
+<qid>35<\qid>
+<rank>89<\rank>
+<doc>CACM-2440<\doc>
+<snippet>
+of the Roots <b>of<\b> a Polynomial (Algorithm 
+<\snippet>
+<\document>
+
+<document>
+<qid>35<\qid>
+<rank>90<\rank>
+<doc>CACM-0111<\doc>
+<snippet>
+Programming the Numerical Solution of Polynomial EquationsNumerical 
+<\snippet>
+<\document>
+
+<document>
+<qid>35<\qid>
+<rank>91<\rank>
+<doc>CACM-2884<\doc>
+<snippet>
+Enumeration: Four New Permutation AlgorithmsClassical <b>permutation<\b> enumeration 
+<\snippet>
+<\document>
+
+<document>
+<qid>35<\qid>
+<rank>92<\rank>
+<doc>CACM-1392<\doc>
+<snippet>
+with <b>FORMAC<\b> Algorithm DesignVarious facets of the 
+<\snippet>
+<\document>
+
+<document>
+<qid>35<\qid>
+<rank>93<\rank>
+<doc>CACM-0141<\doc>
+<snippet>
+Thoughts on <b>Parallel<\b> ProcessingCACM October, 1960Yarbrough, L. 
+<\snippet>
+<\document>
+
+<document>
+<qid>35<\qid>
+<rank>94<\rank>
+<doc>CACM-1696<\doc>
+<snippet>
+Algorithm for Identifying the Ergodic <b>Subchainsand<\b> Transient 
+<\snippet>
+<\document>
+
+<document>
+<qid>35<\qid>
+<rank>95<\rank>
+<doc>CACM-2253<\doc>
+<snippet>
+<b>Ranges<\b> for Matrix <b>CalculiThe<\b> paper describes <b>a<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>35<\qid>
+<rank>96<\rank>
+<doc>CACM-2291<\doc>
+<snippet>
+of the Roots <b>of<\b> a Polynomial [C2] 
+<\snippet>
+<\document>
+
+<document>
+<qid>35<\qid>
+<rank>97<\rank>
+<doc>CACM-0062<\doc>
+<snippet>
+Least-Squares Polynomial Curve FittingCACM September, <b>1959Lesh,<\b> F. 
+<\snippet>
+<\document>
+
+<document>
+<qid>35<\qid>
+<rank>98<\rank>
+<doc>CACM-0791<\doc>
+<snippet>
+Manipulation in <b>7090<\b> FortranCACM August, 1963Smith, D. 
+<\snippet>
+<\document>
+
+<document>
+<qid>35<\qid>
+<rank>99<\rank>
+<doc>CACM-1244<\doc>
+<snippet>
+Manipulation in Fortran LanguageCACM June, 1965Tobey, <b>G.<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>35<\qid>
+<rank>100<\rank>
+<doc>CACM-2762<\doc>
+<snippet>
+Subroutines for the Manipulationof Chebyshev Series (Algorithm 
+<\snippet>
+<\document>

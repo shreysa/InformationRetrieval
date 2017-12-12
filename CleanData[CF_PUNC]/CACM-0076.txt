@@ -1,0 +1,1 @@
+binary Conversion, with fixed decimal Precision, of a decimal fraction cacm July, 1959 Taranto, D. ca590702 jb march 22, 1978 6:23 pm

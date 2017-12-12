@@ -1,0 +1,1 @@
+permutations of a set with repetitions algorithm 242 g6 cacm October, 1964 Sag, T. W. ca641006 jb march 9, 1978 4:49 pm

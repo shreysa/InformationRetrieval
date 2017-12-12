@@ -1,0 +1,1 @@
+eigenvalues and eigenvectors of a real symmetric matrix by the qr method algorithm 254 f2 cacm June, 1967 Welsch, J. H. ca670607e jb march 23, 1978 3:31 pm

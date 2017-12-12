@@ -1,0 +1,1 @@
+curve fitting with constraints algorithm 74 cacm January, 1962 Peck, J. E. L. ca620109 jb march 20, 1978 4:35 pm

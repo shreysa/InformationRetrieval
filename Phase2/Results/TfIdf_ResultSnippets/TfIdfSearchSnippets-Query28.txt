@@ -1,0 +1,900 @@
+
+<document>
+<qid>28<\qid>
+<rank>1<\rank>
+<doc>CACM-1685<\doc>
+<snippet>
+a System for Generating <b>and<\b> Analyzing Activity 
+<\snippet>
+<\document>
+
+<document>
+<qid>28<\qid>
+<rank>2<\rank>
+<doc>CACM-2890<\doc>
+<snippet>
+Quadratic Adaptive Routing AlgorithmsTwo <b>analytic<\b> models of 
+<\snippet>
+<\document>
+
+<document>
+<qid>28<\qid>
+<rank>3<\rank>
+<doc>CACM-3032<\doc>
+<snippet>
+Path <b>Forwarding<\b> of Broadcast PacketsA broadcast packet 
+<\snippet>
+<\document>
+
+<document>
+<qid>28<\qid>
+<rank>4<\rank>
+<doc>CACM-2949<\doc>
+<snippet>
+and could be implemented on any computer network.  It 
+<\snippet>
+<\document>
+
+<document>
+<qid>28<\qid>
+<rank>5<\rank>
+<doc>CACM-2776<\doc>
+<snippet>
+Networks in Higher Education: Socio-Economic-Political FactorsThis study 
+<\snippet>
+<\document>
+
+<document>
+<qid>28<\qid>
+<rank>6<\rank>
+<doc>CACM-2849<\doc>
+<snippet>
+Distributed Packet Switching for Local Computer NetworksEthernet 
+<\snippet>
+<\document>
+
+<document>
+<qid>28<\qid>
+<rank>7<\rank>
+<doc>CACM-2515<\doc>
+<snippet>
+Event-Node Network of Project <b>Precedence<\b> RelationsA procedure 
+<\snippet>
+<\document>
+
+<document>
+<qid>28<\qid>
+<rank>8<\rank>
+<doc>CACM-0383<\doc>
+<snippet>
+Finding Minimum Routes in <b>a<\b> Network With 
+<\snippet>
+<\document>
+
+<document>
+<qid>28<\qid>
+<rank>9<\rank>
+<doc>CACM-2614<\doc>
+<snippet>
+to Precedence Network Transformation [H] (Algorithm <b>A481)CACM<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>28<\qid>
+<rank>10<\rank>
+<doc>CACM-3158<\doc>
+<snippet>
+Personal Computing in <b>an<\b> Insecure NetworkA method 
+<\snippet>
+<\document>
+
+<document>
+<qid>28<\qid>
+<rank>11<\rank>
+<doc>CACM-1688<\doc>
+<snippet>
+(Algorithm 248 [H])CACM September, <b>1968Henderson,<\b> J. H.capacitated 
+<\snippet>
+<\document>
+
+<document>
+<qid>28<\qid>
+<rank>12<\rank>
+<doc>CACM-2197<\doc>
+<snippet>
+Merit <b>of<\b> Regional Computing NetworksOne of the 
+<\snippet>
+<\document>
+
+<document>
+<qid>28<\qid>
+<rank>13<\rank>
+<doc>CACM-2892<\doc>
+<snippet>
+Study of Line Overhead in the ArpanetThe 
+<\snippet>
+<\document>
+
+<document>
+<qid>28<\qid>
+<rank>14<\rank>
+<doc>CACM-2371<\doc>
+<snippet>
+System for Interprocess Communicationin a Resource Sharing 
+<\snippet>
+<\document>
+
+<document>
+<qid>28<\qid>
+<rank>15<\rank>
+<doc>CACM-0820<\doc>
+<snippet>
+for Loops in NetworksCACM July, <b>1963Gordon,<\b> R. 
+<\snippet>
+<\document>
+
+<document>
+<qid>28<\qid>
+<rank>16<\rank>
+<doc>CACM-1687<\doc>
+<snippet>
+<b>(Algorithm<\b> 248 [H])CACM September, 1968Bray, T. A.Witzgall, 
+<\snippet>
+<\document>
+
+<document>
+<qid>28<\qid>
+<rank>17<\rank>
+<doc>CACM-1690<\doc>
+<snippet>
+<b>(Algorithm<\b> 336 [H])CACM September, 1968Bray, T. A.Witzgall, 
+<\snippet>
+<\document>
+
+<document>
+<qid>28<\qid>
+<rank>18<\rank>
+<doc>CACM-2088<\doc>
+<snippet>
+(ALgorithm <b>336<\b> $H))CACM March, 1970Bray, T. A.Witzgall, 
+<\snippet>
+<\document>
+
+<document>
+<qid>28<\qid>
+<rank>19<\rank>
+<doc>CACM-0828<\doc>
+<snippet>
+flow Network <b>CalculationsA<\b> general method for the 
+<\snippet>
+<\document>
+
+<document>
+<qid>28<\qid>
+<rank>20<\rank>
+<doc>CACM-1989<\doc>
+<snippet>
+Network Grammars for <b>Natural<\b> Language AnalysisThe use 
+<\snippet>
+<\document>
+
+<document>
+<qid>28<\qid>
+<rank>21<\rank>
+<doc>CACM-1723<\doc>
+<snippet>
+<b>Construction<\b> of Project NetworksProject networks are used 
+<\snippet>
+<\document>
+
+<document>
+<qid>28<\qid>
+<rank>22<\rank>
+<doc>CACM-2445<\doc>
+<snippet>
+Problem (Algorithm A456)CACM September, <b>1973Fencl,<\b> Z.routing problem, 
+<\snippet>
+<\document>
+
+<document>
+<qid>28<\qid>
+<rank>23<\rank>
+<doc>CACM-2951<\doc>
+<snippet>
+<b>Response<\b> Time Prediction for Computer NetworksIf the 
+<\snippet>
+<\document>
+
+<document>
+<qid>28<\qid>
+<rank>24<\rank>
+<doc>CACM-1458<\doc>
+<snippet>
+ProgrammingWhen the transition has been made from 
+<\snippet>
+<\document>
+
+<document>
+<qid>28<\qid>
+<rank>25<\rank>
+<doc>CACM-1261<\doc>
+<snippet>
+and Simulation of Digital NetworksThe simulation of 
+<\snippet>
+<\document>
+
+<document>
+<qid>28<\qid>
+<rank>26<\rank>
+<doc>CACM-2934<\doc>
+<snippet>
+on Computing the k Shortest <b>Paths<\b> in 
+<\snippet>
+<\document>
+
+<document>
+<qid>28<\qid>
+<rank>27<\rank>
+<doc>CACM-2454<\doc>
+<snippet>
+<b>Algorithms<\b> for Closed QueueingNetworks with Exponential ServersMethods 
+<\snippet>
+<\document>
+
+<document>
+<qid>28<\qid>
+<rank>28<\rank>
+<doc>CACM-0757<\doc>
+<snippet>
+of a Traffic NetworkCACM <b>August,<\b> 1963Katz, J. 
+<\snippet>
+<\document>
+
+<document>
+<qid>28<\qid>
+<rank>29<\rank>
+<doc>CACM-3038<\doc>
+<snippet>
+Encryption for Authentication <b>in<\b> Large Networks of 
+<\snippet>
+<\document>
+
+<document>
+<qid>28<\qid>
+<rank>30<\rank>
+<doc>CACM-1611<\doc>
+<snippet>
+Project NetworksSome <b>of<\b> the basic concepts and 
+<\snippet>
+<\document>
+
+<document>
+<qid>28<\qid>
+<rank>31<\rank>
+<doc>CACM-1233<\doc>
+<snippet>
+<b>for<\b> the Use of Symbols in the 
+<\snippet>
+<\document>
+
+<document>
+<qid>28<\qid>
+<rank>32<\rank>
+<doc>CACM-1695<\doc>
+<snippet>
+On-Line System for <b>Modeling<\b> Neural NetworksA description 
+<\snippet>
+<\document>
+
+<document>
+<qid>28<\qid>
+<rank>33<\rank>
+<doc>CACM-2630<\doc>
+<snippet>
+Computing Sets of <b>Shortest<\b> Paths in a 
+<\snippet>
+<\document>
+
+<document>
+<qid>28<\qid>
+<rank>34<\rank>
+<doc>CACM-1928<\doc>
+<snippet>
+simulationprocedure which deals effectively with any mixture of serial and 
+<\snippet>
+<\document>
+
+<document>
+<qid>28<\qid>
+<rank>35<\rank>
+<doc>CACM-3133<\doc>
+<snippet>
+and Semantic <b>NetworksAn<\b> extended form of semantic 
+<\snippet>
+<\document>
+
+<document>
+<qid>28<\qid>
+<rank>36<\rank>
+<doc>CACM-1551<\doc>
+<snippet>
+Compiling Algorithms for Arithmetic <b>ExpressionsThis<\b> paper deals 
+<\snippet>
+<\document>
+
+<document>
+<qid>28<\qid>
+<rank>37<\rank>
+<doc>CACM-0517<\doc>
+<snippet>
+<b>of<\b> Pert Network (Algorithm 119)CACM August, 1962Eisenman, 
+<\snippet>
+<\document>
+
+<document>
+<qid>28<\qid>
+<rank>38<\rank>
+<doc>CACM-1890<\doc>
+<snippet>
+of Traffic <b>Flows<\b> in a NetworkA computer 
+<\snippet>
+<\document>
+
+<document>
+<qid>28<\qid>
+<rank>39<\rank>
+<doc>CACM-2969<\doc>
+<snippet>
+Program and Data Locations in Computer NetworksAn 
+<\snippet>
+<\document>
+
+<document>
+<qid>28<\qid>
+<rank>40<\rank>
+<doc>CACM-1457<\doc>
+<snippet>
+Manipulation and Programming Problemsin Automatic <b>Information<\b> RetrievalAutomatic 
+<\snippet>
+<\document>
+
+<document>
+<qid>28<\qid>
+<rank>41<\rank>
+<doc>CACM-1353<\doc>
+<snippet>
+for Automatic Tolerance Control in Linear <b>ProgrammingIn<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>28<\qid>
+<rank>42<\rank>
+<doc>CACM-3028<\doc>
+<snippet>
+Manchester Mark <b>I<\b> and Atlas: A His 
+<\snippet>
+<\document>
+
+<document>
+<qid>28<\qid>
+<rank>43<\rank>
+<doc>CACM-0596<\doc>
+<snippet>
+Arithmetic in <b>COBOLIn<\b> this paper the basic 
+<\snippet>
+<\document>
+
+<document>
+<qid>28<\qid>
+<rank>44<\rank>
+<doc>CACM-0367<\doc>
+<snippet>
+Ordering <b>of<\b> <b>a<\b> <b>List<\b> <b>ofRandomly-Numbered<\b> <b>Elements<\b> <b>of<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>28<\qid>
+<rank>45<\rank>
+<doc>CACM-2973<\doc>
+<snippet>
+on a Mesh-Connected Parallel <b>ComputerTwo<\b> algorithms are 
+<\snippet>
+<\document>
+
+<document>
+<qid>28<\qid>
+<rank>46<\rank>
+<doc>CACM-1251<\doc>
+<snippet>
+Standard and IFIP/ICC Vocabularies <b>comparedThe<\b> "Proposed American 
+<\snippet>
+<\document>
+
+<document>
+<qid>28<\qid>
+<rank>47<\rank>
+<doc>CACM-1516<\doc>
+<snippet>
+Data CompressionThe "information explosion" noted in <b>recentyears<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>28<\qid>
+<rank>48<\rank>
+<doc>CACM-2916<\doc>
+<snippet>
+Fast String Searching AlgorithmAn algorithm is <b>presented<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>28<\qid>
+<rank>49<\rank>
+<doc>CACM-0248<\doc>
+<snippet>
+not necessarilyrepresent the position of any of the panelists or 
+<\snippet>
+<\document>
+
+<document>
+<qid>28<\qid>
+<rank>50<\rank>
+<doc>CACM-1612<\doc>
+<snippet>
+Parsing Rehabilitated?This note is concerned with the 
+<\snippet>
+<\document>
+
+<document>
+<qid>28<\qid>
+<rank>51<\rank>
+<doc>CACM-2572<\doc>
+<snippet>
+and desirability of this or any technology, we should:(1) be 
+<\snippet>
+<\document>
+
+<document>
+<qid>28<\qid>
+<rank>52<\rank>
+<doc>CACM-0371<\doc>
+<snippet>
+on Algorithms <b>2<\b> and 3, Algorithm 15 
+<\snippet>
+<\document>
+
+<document>
+<qid>28<\qid>
+<rank>53<\rank>
+<doc>CACM-1062<\doc>
+<snippet>
+(ii) packed BCD strings formedin any way.  Function-type subroutines 
+<\snippet>
+<\document>
+
+<document>
+<qid>28<\qid>
+<rank>54<\rank>
+<doc>CACM-3059<\doc>
+<snippet>
+for Parallel Processing WIthin Programs:Application <b>to<\b> CPU:I/O 
+<\snippet>
+<\document>
+
+<document>
+<qid>28<\qid>
+<rank>55<\rank>
+<doc>CACM-2274<\doc>
+<snippet>
+<b>English<\b> Discourse from Semantic NetworksA system is 
+<\snippet>
+<\document>
+
+<document>
+<qid>28<\qid>
+<rank>56<\rank>
+<doc>CACM-1601<\doc>
+<snippet>
+The s8everal approximations obtained in any iteration are computationallyindependent, making 
+<\snippet>
+<\document>
+
+<document>
+<qid>28<\qid>
+<rank>57<\rank>
+<doc>CACM-1455<\doc>
+<snippet>
+procedures foraccepting, naming and storing any character string from the 
+<\snippet>
+<\document>
+
+<document>
+<qid>28<\qid>
+<rank>58<\rank>
+<doc>CACM-0171<\doc>
+<snippet>
+Computers in Universities (Part <b>I)<\b> CACM July, 
+<\snippet>
+<\document>
+
+<document>
+<qid>28<\qid>
+<rank>59<\rank>
+<doc>CACM-0036<\doc>
+<snippet>
+<b>Queue<\b> Network Simulator for the IBM 650 
+<\snippet>
+<\document>
+
+<document>
+<qid>28<\qid>
+<rank>60<\rank>
+<doc>CACM-2450<\doc>
+<snippet>
+Working <b>Set<\b> BehaviorThe working set model for 
+<\snippet>
+<\document>
+
+<document>
+<qid>28<\qid>
+<rank>61<\rank>
+<doc>CACM-2598<\doc>
+<snippet>
+<b>the<\b> Information Theory Approach to ConvertingLimited-Entry Decision 
+<\snippet>
+<\document>
+
+<document>
+<qid>28<\qid>
+<rank>62<\rank>
+<doc>CACM-1755<\doc>
+<snippet>
+of the ACM Symposium on Operating <b>system<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>28<\qid>
+<rank>63<\rank>
+<doc>CACM-3040<\doc>
+<snippet>
+is developed that can achieve any <b>level<\b> of consistencydesired, in 
+<\snippet>
+<\document>
+
+<document>
+<qid>28<\qid>
+<rank>64<\rank>
+<doc>CACM-2562<\doc>
+<snippet>
+<b>Problem<\b> (Algorithm R456)CACM December, 1974Tesch, G.CA741212 JB 
+<\snippet>
+<\document>
+
+<document>
+<qid>28<\qid>
+<rank>65<\rank>
+<doc>CACM-2345<\doc>
+<snippet>
+Recommendations for GraduateProfessional Programs in Information SystemsThe 
+<\snippet>
+<\document>
+
+<document>
+<qid>28<\qid>
+<rank>66<\rank>
+<doc>CACM-1877<\doc>
+<snippet>
+of System DeadlocksA <b>well-known<\b> problem in the 
+<\snippet>
+<\document>
+
+<document>
+<qid>28<\qid>
+<rank>67<\rank>
+<doc>CACM-0136<\doc>
+<snippet>
+Note on the Calculation <b>of<\b> InterestCACM October, 
+<\snippet>
+<\document>
+
+<document>
+<qid>28<\qid>
+<rank>68<\rank>
+<doc>CACM-2163<\doc>
+<snippet>
+Related to the Use of Computers <b>in<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>28<\qid>
+<rank>69<\rank>
+<doc>CACM-3070<\doc>
+<snippet>
+Simulation Models <b>of<\b> Computer SystemsThis paper describes 
+<\snippet>
+<\document>
+
+<document>
+<qid>28<\qid>
+<rank>70<\rank>
+<doc>CACM-0441<\doc>
+<snippet>
+procedure can be adapted to any machine, it is discussed 
+<\snippet>
+<\document>
+
+<document>
+<qid>28<\qid>
+<rank>71<\rank>
+<doc>CACM-2479<\doc>
+<snippet>
+Recommendations for Graduate ProfessionalPrograms in Information Systems: 
+<\snippet>
+<\document>
+
+<document>
+<qid>28<\qid>
+<rank>72<\rank>
+<doc>CACM-2216<\doc>
+<snippet>
+the Probability Distribution of the <b>Values<\b> of 
+<\snippet>
+<\document>
+
+<document>
+<qid>28<\qid>
+<rank>73<\rank>
+<doc>CACM-2932<\doc>
+<snippet>
+of <b>ComputationsThe<\b> framework for research in the 
+<\snippet>
+<\document>
+
+<document>
+<qid>28<\qid>
+<rank>74<\rank>
+<doc>CACM-1362<\doc>
+<snippet>
+<b>Extension<\b> in ASCII* (An ASA Tutorial)The American 
+<\snippet>
+<\document>
+
+<document>
+<qid>28<\qid>
+<rank>75<\rank>
+<doc>CACM-1199<\doc>
+<snippet>
+Computer Center Simulation ProjectToday's computation centers are 
+<\snippet>
+<\document>
+
+<document>
+<qid>28<\qid>
+<rank>76<\rank>
+<doc>CACM-0857<\doc>
+<snippet>
+Nonredundant Files-Techniques <b>Used<\b> in the FACT CompilerSome 
+<\snippet>
+<\document>
+
+<document>
+<qid>28<\qid>
+<rank>77<\rank>
+<doc>CACM-2289<\doc>
+<snippet>
+Arrays for the Solution <b>of<\b> <b>Graph<\b> <b>ProblemsA<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>28<\qid>
+<rank>78<\rank>
+<doc>CACM-1533<\doc>
+<snippet>
+Marovian Model of the University of Michigan 
+<\snippet>
+<\document>
+
+<document>
+<qid>28<\qid>
+<rank>79<\rank>
+<doc>CACM-2712<\doc>
+<snippet>
+Rule for the Evaluation <b>of<\b> <b>General<\b> <b>Closed<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>28<\qid>
+<rank>80<\rank>
+<doc>CACM-1206<\doc>
+<snippet>
+ Data compatibility tests with any number of different equations 
+<\snippet>
+<\document>
+
+<document>
+<qid>28<\qid>
+<rank>81<\rank>
+<doc>CACM-2226<\doc>
+<snippet>
+Evidence for the Analysis of <b>Algorithmsfor<\b> the 
+<\snippet>
+<\document>
+
+<document>
+<qid>28<\qid>
+<rank>82<\rank>
+<doc>CACM-1397<\doc>
+<snippet>
+of the ACM Symposium on Symbolic and 
+<\snippet>
+<\document>
+
+<document>
+<qid>28<\qid>
+<rank>83<\rank>
+<doc>CACM-1572<\doc>
+<snippet>
+Simulation of Time sharing SystemsThe development of 
+<\snippet>
+<\document>
+
+<document>
+<qid>28<\qid>
+<rank>84<\rank>
+<doc>CACM-1927<\doc>
+<snippet>
+Science <b>in<\b> a Ph. Computer Science ProgramThis 
+<\snippet>
+<\document>
+
+<document>
+<qid>28<\qid>
+<rank>85<\rank>
+<doc>CACM-3166<\doc>
+<snippet>
+Standard Deviations: AccuracyFour algorithms <b>for<\b> the numerical 
+<\snippet>
+<\document>
+
+<document>
+<qid>28<\qid>
+<rank>86<\rank>
+<doc>CACM-2967<\doc>
+<snippet>
+Comparison of Hardware and Software <b>AssociativeMemories<\b> in 
+<\snippet>
+<\document>
+
+<document>
+<qid>28<\qid>
+<rank>87<\rank>
+<doc>CACM-1867<\doc>
+<snippet>
+the Expected Lengths of Sequences Generatedin Sorting 
+<\snippet>
+<\document>
+
+<document>
+<qid>28<\qid>
+<rank>88<\rank>
+<doc>CACM-3134<\doc>
+<snippet>
+Use of <b>Normal<\b> Multiplication Tablesfor Information Storage 
+<\snippet>
+<\document>
+
+<document>
+<qid>28<\qid>
+<rank>89<\rank>
+<doc>CACM-1171<\doc>
+<snippet>
+Comparison of the Primal-Simplex and Primal-DualAlgorithms <b>for<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>28<\qid>
+<rank>90<\rank>
+<doc>CACM-1014<\doc>
+<snippet>
+<b>Controls<\b> for Analysis <b>of<\b> VarianceA major <b>problem<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>28<\qid>
+<rank>91<\rank>
+<doc>CACM-2283<\doc>
+<snippet>
+Algorithms on Rectangular, Hexagonal, <b>and<\b> Triangular ArraysIn 
+<\snippet>
+<\document>
+
+<document>
+<qid>28<\qid>
+<rank>92<\rank>
+<doc>CACM-1746<\doc>
+<snippet>
+in <b>an<\b> Information Processing UtilityOne of the 
+<\snippet>
+<\document>
+
+<document>
+<qid>28<\qid>
+<rank>93<\rank>
+<doc>CACM-2852<\doc>
+<snippet>
+<b>Technology<\b> of Computer Center Management: AProposed Course 
+<\snippet>
+<\document>
+
+<document>
+<qid>28<\qid>
+<rank>94<\rank>
+<doc>CACM-1503<\doc>
+<snippet>
+SIMSCRIPT-FORTRAN Case StudyTwo programs for <b>a<\b> vehicle 
+<\snippet>
+<\document>
+
+<document>
+<qid>28<\qid>
+<rank>95<\rank>
+<doc>CACM-1387<\doc>
+<snippet>
+of Systems of Polynomial Equations By EliminationThe 
+<\snippet>
+<\document>
+
+<document>
+<qid>28<\qid>
+<rank>96<\rank>
+<doc>CACM-0975<\doc>
+<snippet>
+<b>New<\b> Program of Work for the InternationalStandard 
+<\snippet>
+<\document>
+
+<document>
+<qid>28<\qid>
+<rank>97<\rank>
+<doc>CACM-0356<\doc>
+<snippet>
+(Algorithm 45)CACM April, <b>1961Ingerman,<\b> P. Z.CA610412 JB 
+<\snippet>
+<\document>
+
+<document>
+<qid>28<\qid>
+<rank>98<\rank>
+<doc>CACM-1032<\doc>
+<snippet>
+Considerations in Information <b>Retrieval<\b> SystemsInformation storage and 
+<\snippet>
+<\document>
+
+<document>
+<qid>28<\qid>
+<rank>99<\rank>
+<doc>CACM-2841<\doc>
+<snippet>
+Surfaces in 3-DAn <b>experimental<\b> system for computer-aideddesign 
+<\snippet>
+<\document>
+
+<document>
+<qid>28<\qid>
+<rank>100<\rank>
+<doc>CACM-1906<\doc>
+<snippet>
+Printed Circuit Routing with a <b>Stepping<\b> <b>ApertureA<\b> 
+<\snippet>
+<\document>

@@ -1,0 +1,900 @@
+
+<document>
+<qid>32<\qid>
+<rank>1<\rank>
+<doc>CACM-2172<\doc>
+<snippet>
+Plotter [J6] <b>(Algorithm<\b> 412)CACM July, 1971Cermak, J.plot, 
+<\snippet>
+<\document>
+
+<document>
+<qid>32<\qid>
+<rank>2<\rank>
+<doc>CACM-2630<\doc>
+<snippet>
+Computing Sets of Shortest Paths in <b>a<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>32<\qid>
+<rank>3<\rank>
+<doc>CACM-1839<\doc>
+<snippet>
+Value Decomposition of a ComplexMatrix <b>(Algorithm<\b> 358 
+<\snippet>
+<\document>
+
+<document>
+<qid>32<\qid>
+<rank>4<\rank>
+<doc>CACM-2934<\doc>
+<snippet>
+on Computing the k Shortest <b>Paths<\b> in 
+<\snippet>
+<\document>
+
+<document>
+<qid>32<\qid>
+<rank>5<\rank>
+<doc>CACM-3139<\doc>
+<snippet>
+Methods <b>to<\b> Color the Vertices of a 
+<\snippet>
+<\document>
+
+<document>
+<qid>32<\qid>
+<rank>6<\rank>
+<doc>CACM-2290<\doc>
+<snippet>
+Predominators in a Directed Graph [H] <b>(Algorithm<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>32<\qid>
+<rank>7<\rank>
+<doc>CACM-2430<\doc>
+<snippet>
+Elementary Circuits of a Graph [H] (Algorithm 
+<\snippet>
+<\document>
+
+<document>
+<qid>32<\qid>
+<rank>8<\rank>
+<doc>CACM-2752<\doc>
+<snippet>
+of All the <b>Cycles<\b> of a <b>Graph<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>32<\qid>
+<rank>9<\rank>
+<doc>CACM-2490<\doc>
+<snippet>
+Algorithms for Graph Manipulation <b>[H]<\b> (Algorithm A447)Efficient 
+<\snippet>
+<\document>
+
+<document>
+<qid>32<\qid>
+<rank>10<\rank>
+<doc>CACM-1481<\doc>
+<snippet>
+Plotter (Algorithm 278 [J6])CACM February, 1966Lloyd, P.CA660206d 
+<\snippet>
+<\document>
+
+<document>
+<qid>32<\qid>
+<rank>11<\rank>
+<doc>CACM-2461<\doc>
+<snippet>
+Plotter (Algorithm R412)CACM <b>August,<\b> <b>1973Watkins,<\b> <b>R.<\b> <b>P.CA730813<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>32<\qid>
+<rank>12<\rank>
+<doc>CACM-2177<\doc>
+<snippet>
+<b>Algorithm<\b> for the Blocks and Cutnodes of 
+<\snippet>
+<\document>
+
+<document>
+<qid>32<\qid>
+<rank>13<\rank>
+<doc>CACM-2368<\doc>
+<snippet>
+Implemented Graph <b>Algorithm<\b> for Winning <b>Shannon<\b> Switching 
+<\snippet>
+<\document>
+
+<document>
+<qid>32<\qid>
+<rank>14<\rank>
+<doc>CACM-2161<\doc>
+<snippet>
+Algorithm for <b>the<\b> Blocks and <b>Cutnodes<\b> of 
+<\snippet>
+<\document>
+
+<document>
+<qid>32<\qid>
+<rank>15<\rank>
+<doc>CACM-2790<\doc>
+<snippet>
+Elementary Circuits of a Graph <b>(Algorithm<\b> R459)CACM 
+<\snippet>
+<\document>
+
+<document>
+<qid>32<\qid>
+<rank>16<\rank>
+<doc>CACM-1529<\doc>
+<snippet>
+Programming An Analysis of Matrix Substructure A 
+<\snippet>
+<\document>
+
+<document>
+<qid>32<\qid>
+<rank>17<\rank>
+<doc>CACM-1961<\doc>
+<snippet>
+Efficient Search Algorithm <b>to<\b> Find the Elementary 
+<\snippet>
+<\document>
+
+<document>
+<qid>32<\qid>
+<rank>18<\rank>
+<doc>CACM-1791<\doc>
+<snippet>
+Factors of Modified <b>Matrices<\b> (Algorithm 319 [F1])CACM 
+<\snippet>
+<\document>
+
+<document>
+<qid>32<\qid>
+<rank>19<\rank>
+<doc>CACM-2289<\doc>
+<snippet>
+Arrays for the Solution of <b>Graph<\b> ProblemsA 
+<\snippet>
+<\document>
+
+<document>
+<qid>32<\qid>
+<rank>20<\rank>
+<doc>CACM-2619<\doc>
+<snippet>
+Coloring <b>Conditions<\b> for the <b>Existenceof<\b> Solutions to 
+<\snippet>
+<\document>
+
+<document>
+<qid>32<\qid>
+<rank>21<\rank>
+<doc>CACM-1847<\doc>
+<snippet>
+Algorithm for <b>Finding<\b> a Fundamental Set of 
+<\snippet>
+<\document>
+
+<document>
+<qid>32<\qid>
+<rank>22<\rank>
+<doc>CACM-1983<\doc>
+<snippet>
+Tree $H) (Algorithm 399)CACM <b>October,<\b> 1970Seppanen, J. 
+<\snippet>
+<\document>
+
+<document>
+<qid>32<\qid>
+<rank>23<\rank>
+<doc>CACM-1905<\doc>
+<snippet>
+Simplex Method of <b>Linear<\b> Programming Using LU 
+<\snippet>
+<\document>
+
+<document>
+<qid>32<\qid>
+<rank>24<\rank>
+<doc>CACM-2052<\doc>
+<snippet>
+to Reduce Conflict <b>in<\b> <b>MeetingsConflicts<\b> <b>in<\b> <b>scheduling<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>32<\qid>
+<rank>25<\rank>
+<doc>CACM-1899<\doc>
+<snippet>
+<b>Method<\b> Procedure Employing Lu Decomposition (Algorithm 350 
+<\snippet>
+<\document>
+
+<document>
+<qid>32<\qid>
+<rank>26<\rank>
+<doc>CACM-2980<\doc>
+<snippet>
+Editing  of Picture Segmentations Using <b>Local<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>32<\qid>
+<rank>27<\rank>
+<doc>CACM-2484<\doc>
+<snippet>
+Note on Information Organization and StorageSince <b>the<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>32<\qid>
+<rank>28<\rank>
+<doc>CACM-2015<\doc>
+<snippet>
+Technique for <b>Generating<\b> Almost OptimalFloyd-Evans Productions for 
+<\snippet>
+<\document>
+
+<document>
+<qid>32<\qid>
+<rank>29<\rank>
+<doc>CACM-3156<\doc>
+<snippet>
+Connected Components on Parallel ComputersWe present <b>a<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>32<\qid>
+<rank>30<\rank>
+<doc>CACM-2883<\doc>
+<snippet>
+Application of Heuristic Search <b>Methods<\b> to Edge 
+<\snippet>
+<\document>
+
+<document>
+<qid>32<\qid>
+<rank>31<\rank>
+<doc>CACM-1563<\doc>
+<snippet>
+Method for Finding Hamilton <b>Paths<\b> and Knight's 
+<\snippet>
+<\document>
+
+<document>
+<qid>32<\qid>
+<rank>32<\rank>
+<doc>CACM-2408<\doc>
+<snippet>
+the Biharmonic Equation in a Square:A Direct 
+<\snippet>
+<\document>
+
+<document>
+<qid>32<\qid>
+<rank>33<\rank>
+<doc>CACM-1804<\doc>
+<snippet>
+Polygonal <b>Regions<\b> (Algorithm 364 [Z])CACM December, 1969Herriot, 
+<\snippet>
+<\document>
+
+<document>
+<qid>32<\qid>
+<rank>34<\rank>
+<doc>CACM-2059<\doc>
+<snippet>
+Language <b>for<\b> Treating GraphsA language for the 
+<\snippet>
+<\document>
+
+<document>
+<qid>32<\qid>
+<rank>35<\rank>
+<doc>CACM-2877<\doc>
+<snippet>
+Program Data Flow Analysis ProcedureThe global data 
+<\snippet>
+<\document>
+
+<document>
+<qid>32<\qid>
+<rank>36<\rank>
+<doc>CACM-1429<\doc>
+<snippet>
+Reduction Using <b>the<\b> Hungarian MethodFor The Generation 
+<\snippet>
+<\document>
+
+<document>
+<qid>32<\qid>
+<rank>37<\rank>
+<doc>CACM-1822<\doc>
+<snippet>
+Forest with Topological <b>Ordering<\b> (Algorithm [H])CACM November, 
+<\snippet>
+<\document>
+
+<document>
+<qid>32<\qid>
+<rank>38<\rank>
+<doc>CACM-1504<\doc>
+<snippet>
+for Finding a Fundamental Setof Cycles for 
+<\snippet>
+<\document>
+
+<document>
+<qid>32<\qid>
+<rank>39<\rank>
+<doc>CACM-0371<\doc>
+<snippet>
+on Algorithms 2 <b>and<\b> 3, Algorithm <b>15<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>32<\qid>
+<rank>40<\rank>
+<doc>CACM-2226<\doc>
+<snippet>
+Evidence for the Analysis <b>of<\b> Algorithmsfor the 
+<\snippet>
+<\document>
+
+<document>
+<qid>32<\qid>
+<rank>41<\rank>
+<doc>CACM-3018<\doc>
+<snippet>
+Edges by Cliques with Regard toKeyword Conflicts 
+<\snippet>
+<\document>
+
+<document>
+<qid>32<\qid>
+<rank>42<\rank>
+<doc>CACM-2178<\doc>
+<snippet>
+Language <b>Extension<\b> for Graph Processing and Its 
+<\snippet>
+<\document>
+
+<document>
+<qid>32<\qid>
+<rank>43<\rank>
+<doc>CACM-3166<\doc>
+<snippet>
+Standard Deviations: AccuracyFour algorithms <b>for<\b> the numerical 
+<\snippet>
+<\document>
+
+<document>
+<qid>32<\qid>
+<rank>44<\rank>
+<doc>CACM-2695<\doc>
+<snippet>
+by PermutationsTridiagonalizing a matrix <b>by<\b> similarity transformationsis 
+<\snippet>
+<\document>
+
+<document>
+<qid>32<\qid>
+<rank>45<\rank>
+<doc>CACM-1775<\doc>
+<snippet>
+of the Inverse of a Symmetric Matrixwhen 
+<\snippet>
+<\document>
+
+<document>
+<qid>32<\qid>
+<rank>46<\rank>
+<doc>CACM-1924<\doc>
+<snippet>
+Matrices and Matrix Operations for Paged Memory 
+<\snippet>
+<\document>
+
+<document>
+<qid>32<\qid>
+<rank>47<\rank>
+<doc>CACM-1551<\doc>
+<snippet>
+Compiling Algorithms for Arithmetic ExpressionsThis paper <b>deals<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>32<\qid>
+<rank>48<\rank>
+<doc>CACM-2769<\doc>
+<snippet>
+Modification of Warshall's Algorithm forthe <b>Transitive<\b> Closure 
+<\snippet>
+<\document>
+
+<document>
+<qid>32<\qid>
+<rank>49<\rank>
+<doc>CACM-1882<\doc>
+<snippet>
+of the Square <b>Root<\b> of a PositiveDefinite 
+<\snippet>
+<\document>
+
+<document>
+<qid>32<\qid>
+<rank>50<\rank>
+<doc>CACM-1172<\doc>
+<snippet>
+of Limited-Entry Decision <b>Tables<\b> to Computer <b>ProgramsDecision<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>32<\qid>
+<rank>51<\rank>
+<doc>CACM-2884<\doc>
+<snippet>
+<b>Enumeration:<\b> Four New Permutation AlgorithmsClassical permutation enumeration 
+<\snippet>
+<\document>
+
+<document>
+<qid>32<\qid>
+<rank>52<\rank>
+<doc>CACM-2950<\doc>
+<snippet>
+Unifying Approach to SchedulingThis paper presents <b>a<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>32<\qid>
+<rank>53<\rank>
+<doc>CACM-1721<\doc>
+<snippet>
+of the Intersection Points of <b>TwoPlane<\b> Curves 
+<\snippet>
+<\document>
+
+<document>
+<qid>32<\qid>
+<rank>54<\rank>
+<doc>CACM-2819<\doc>
+<snippet>
+in Text File CompressionA system for <b>the<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>32<\qid>
+<rank>55<\rank>
+<doc>CACM-2697<\doc>
+<snippet>
+Fast Method for Solving a <b>Class<\b> of 
+<\snippet>
+<\document>
+
+<document>
+<qid>32<\qid>
+<rank>56<\rank>
+<doc>CACM-2283<\doc>
+<snippet>
+Algorithms on Rectangular, Hexagonal, and Triangular ArraysIn 
+<\snippet>
+<\document>
+
+<document>
+<qid>32<\qid>
+<rank>57<\rank>
+<doc>CACM-2195<\doc>
+<snippet>
+the Optimal Detection of Curves <b>in<\b> Noisy 
+<\snippet>
+<\document>
+
+<document>
+<qid>32<\qid>
+<rank>58<\rank>
+<doc>CACM-2275<\doc>
+<snippet>
+Equations <b>of<\b> ImmunologyThe inversion of a particular 
+<\snippet>
+<\document>
+
+<document>
+<qid>32<\qid>
+<rank>59<\rank>
+<doc>CACM-1353<\doc>
+<snippet>
+for <b>Automatic<\b> Tolerance Control in Linear ProgrammingIn 
+<\snippet>
+<\document>
+
+<document>
+<qid>32<\qid>
+<rank>60<\rank>
+<doc>CACM-2273<\doc>
+<snippet>
+of Decision Tables <b>By<\b> Rule Mask Method 
+<\snippet>
+<\document>
+
+<document>
+<qid>32<\qid>
+<rank>61<\rank>
+<doc>CACM-1145<\doc>
+<snippet>
+<b>Heuristic<\b> Program for Testing Pairsof Directed Line 
+<\snippet>
+<\document>
+
+<document>
+<qid>32<\qid>
+<rank>62<\rank>
+<doc>CACM-2444<\doc>
+<snippet>
+All <b>Cliques<\b> of an Undirected Graph (Algorithm 
+<\snippet>
+<\document>
+
+<document>
+<qid>32<\qid>
+<rank>63<\rank>
+<doc>CACM-2554<\doc>
+<snippet>
+of a <b>Band-Symmetric<\b> Generalized Eigenvalue ProblemAn algorithm 
+<\snippet>
+<\document>
+
+<document>
+<qid>32<\qid>
+<rank>64<\rank>
+<doc>CACM-2389<\doc>
+<snippet>
+<b>Report<\b> on a System for General Space 
+<\snippet>
+<\document>
+
+<document>
+<qid>32<\qid>
+<rank>65<\rank>
+<doc>CACM-0119<\doc>
+<snippet>
+on Eigenvalue <b>ComputationCACM<\b> November, 1960Andrus, J. F.CA601116 
+<\snippet>
+<\document>
+
+<document>
+<qid>32<\qid>
+<rank>66<\rank>
+<doc>CACM-2267<\doc>
+<snippet>
+To Reveal Properties of Floating-Point <b>ArithmeticTwo<\b> algorithms 
+<\snippet>
+<\document>
+
+<document>
+<qid>32<\qid>
+<rank>67<\rank>
+<doc>CACM-1635<\doc>
+<snippet>
+for Pseudo Runge-Kutta <b>MethodsThe<\b> object of this 
+<\snippet>
+<\document>
+
+<document>
+<qid>32<\qid>
+<rank>68<\rank>
+<doc>CACM-2325<\doc>
+<snippet>
+<b>Mathematics<\b> and Computer ScienceNumerical mathematics is viewed 
+<\snippet>
+<\document>
+
+<document>
+<qid>32<\qid>
+<rank>69<\rank>
+<doc>CACM-2780<\doc>
+<snippet>
+Computing <b>Certain<\b> Elements of <b>the<\b> Inverse of 
+<\snippet>
+<\document>
+
+<document>
+<qid>32<\qid>
+<rank>70<\rank>
+<doc>CACM-2155<\doc>
+<snippet>
+an Understanding of Data StructuresThis paper <b>presents<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>32<\qid>
+<rank>71<\rank>
+<doc>CACM-1455<\doc>
+<snippet>
+A Procedure-Describing Language for the Reactive TypewriterA 
+<\snippet>
+<\document>
+
+<document>
+<qid>32<\qid>
+<rank>72<\rank>
+<doc>CACM-2000<\doc>
+<snippet>
+Variation of the Goodman-Lance Method forthe Solution 
+<\snippet>
+<\document>
+
+<document>
+<qid>32<\qid>
+<rank>73<\rank>
+<doc>CACM-3190<\doc>
+<snippet>
+439, a "typical" instruction mix id discussed and the timing 
+<\snippet>
+<\document>
+
+<document>
+<qid>32<\qid>
+<rank>74<\rank>
+<doc>CACM-2199<\doc>
+<snippet>
+Sparse Matrix Package <b>(Part<\b> I) [F4] (Algorithm 
+<\snippet>
+<\document>
+
+<document>
+<qid>32<\qid>
+<rank>75<\rank>
+<doc>CACM-2506<\doc>
+<snippet>
+<b>Sparse<\b> Matrix Package (Algorithm R408)CACM May, 1973Sale, 
+<\snippet>
+<\document>
+
+<document>
+<qid>32<\qid>
+<rank>76<\rank>
+<doc>CACM-3085<\doc>
+<snippet>
+O(n) Algorithm <b>for<\b> Determining a Near-OptimalComputation Order 
+<\snippet>
+<\document>
+
+<document>
+<qid>32<\qid>
+<rank>77<\rank>
+<doc>CACM-1401<\doc>
+<snippet>
+and the Calculation of EigenvaluesSeveral eigenvalue problems 
+<\snippet>
+<\document>
+
+<document>
+<qid>32<\qid>
+<rank>78<\rank>
+<doc>CACM-1411<\doc>
+<snippet>
+of <b>Several<\b> Algorithms for Computationof Means, Standard 
+<\snippet>
+<\document>
+
+<document>
+<qid>32<\qid>
+<rank>79<\rank>
+<doc>CACM-2568<\doc>
+<snippet>
+<b>Graph<\b> Formulation of a School Scheduling AlgorithmThe 
+<\snippet>
+<\document>
+
+<document>
+<qid>32<\qid>
+<rank>80<\rank>
+<doc>CACM-1171<\doc>
+<snippet>
+Comparison of the <b>Primal-Simplex<\b> and Primal-DualAlgorithms for 
+<\snippet>
+<\document>
+
+<document>
+<qid>32<\qid>
+<rank>81<\rank>
+<doc>CACM-1887<\doc>
+<snippet>
+Recursive Relation for the <b>Determinant<\b> of a 
+<\snippet>
+<\document>
+
+<document>
+<qid>32<\qid>
+<rank>82<\rank>
+<doc>CACM-2146<\doc>
+<snippet>
+the Polyphase SortVarious dispersion algorithms <b>for<\b> the 
+<\snippet>
+<\document>
+
+<document>
+<qid>32<\qid>
+<rank>83<\rank>
+<doc>CACM-0558<\doc>
+<snippet>
+Modified Inversion Procedure for ProductForm of <b>the<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>32<\qid>
+<rank>84<\rank>
+<doc>CACM-3040<\doc>
+<snippet>
+Constraint ExpressionsA constraint network representation is presentedfor 
+<\snippet>
+<\document>
+
+<document>
+<qid>32<\qid>
+<rank>85<\rank>
+<doc>CACM-1432<\doc>
+<snippet>
+<b>of<\b> Nonstandard Input/Output Devices into FORTRAN SystemsA 
+<\snippet>
+<\document>
+
+<document>
+<qid>32<\qid>
+<rank>86<\rank>
+<doc>CACM-2248<\doc>
+<snippet>
+New Method for the <b>Solution<\b> of theCauchy 
+<\snippet>
+<\document>
+
+<document>
+<qid>32<\qid>
+<rank>87<\rank>
+<doc>CACM-2247<\doc>
+<snippet>
+the Criteria <b>To<\b> Be Used in Decomposing 
+<\snippet>
+<\document>
+
+<document>
+<qid>32<\qid>
+<rank>88<\rank>
+<doc>CACM-1877<\doc>
+<snippet>
+<b>of<\b> System DeadlocksA well-known problem in the 
+<\snippet>
+<\document>
+
+<document>
+<qid>32<\qid>
+<rank>89<\rank>
+<doc>CACM-3124<\doc>
+<snippet>
+Data Structures <b>in<\b> APLA mathematical study of 
+<\snippet>
+<\document>
+
+<document>
+<qid>32<\qid>
+<rank>90<\rank>
+<doc>CACM-0078<\doc>
+<snippet>
+<b>on<\b> the Practical Solution of Characteristic Value 
+<\snippet>
+<\document>
+
+<document>
+<qid>32<\qid>
+<rank>91<\rank>
+<doc>CACM-2557<\doc>
+<snippet>
+the <b>Time<\b> Required for a Sequence of 
+<\snippet>
+<\document>
+
+<document>
+<qid>32<\qid>
+<rank>92<\rank>
+<doc>CACM-1934<\doc>
+<snippet>
+Arithmetic <b>Expressions<\b> and TreesA description is given 
+<\snippet>
+<\document>
+
+<document>
+<qid>32<\qid>
+<rank>93<\rank>
+<doc>CACM-2216<\doc>
+<snippet>
+the Probability Distribution of <b>the<\b> <b>Values<\b> <b>of<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>32<\qid>
+<rank>94<\rank>
+<doc>CACM-1806<\doc>
+<snippet>
+the Downhill <b>MethodThe<\b> downhill method is a 
+<\snippet>
+<\document>
+
+<document>
+<qid>32<\qid>
+<rank>95<\rank>
+<doc>CACM-1274<\doc>
+<snippet>
+<b>the<\b> Numerical Solution of an N-Point BoundaryValue 
+<\snippet>
+<\document>
+
+<document>
+<qid>32<\qid>
+<rank>96<\rank>
+<doc>CACM-2834<\doc>
+<snippet>
+Generation of the BinaryReflected Gray <b>Code<\b> and 
+<\snippet>
+<\document>
+
+<document>
+<qid>32<\qid>
+<rank>97<\rank>
+<doc>CACM-0495<\doc>
+<snippet>
+<b>Procedure<\b> for Inverting <b>Large<\b> Symmetric MatricesIn <b>the<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>32<\qid>
+<rank>98<\rank>
+<doc>CACM-2264<\doc>
+<snippet>
+Semantics for Some Programming Language ConstructsThe constructs 
+<\snippet>
+<\document>
+
+<document>
+<qid>32<\qid>
+<rank>99<\rank>
+<doc>CACM-2094<\doc>
+<snippet>
+an Algorithm for Nonlinear Minimax ApproximationCertain nonlinear 
+<\snippet>
+<\document>
+
+<document>
+<qid>32<\qid>
+<rank>100<\rank>
+<doc>CACM-1292<\doc>
+<snippet>
+a Divide-and-Correct Method For <b>Variable<\b> Precision DivisionDescribed 
+<\snippet>
+<\document>

@@ -1,0 +1,900 @@
+
+<document>
+<qid>52<\qid>
+<rank>1<\rank>
+<doc>CACM-2721<\doc>
+<snippet>
+Digital Simulation of River <b>Plankton<\b> Population DynamicsThis 
+<\snippet>
+<\document>
+
+<document>
+<qid>52<\qid>
+<rank>2<\rank>
+<doc>CACM-0557<\doc>
+<snippet>
+of Computer Timing DeviceCACM July, 1962CA620704 JB 
+<\snippet>
+<\document>
+
+<document>
+<qid>52<\qid>
+<rank>3<\rank>
+<doc>CACM-1928<\doc>
+<snippet>
+Simulation of Activity in <b>Digital<\b> NetworksA technique 
+<\snippet>
+<\document>
+
+<document>
+<qid>52<\qid>
+<rank>4<\rank>
+<doc>CACM-2749<\doc>
+<snippet>
+Event SimulationThis paper compares a <b>new<\b> method 
+<\snippet>
+<\document>
+
+<document>
+<qid>52<\qid>
+<rank>5<\rank>
+<doc>CACM-1329<\doc>
+<snippet>
+of Boolean Functions in a <b>Decimal<\b> computerCACM 
+<\snippet>
+<\document>
+
+<document>
+<qid>52<\qid>
+<rank>6<\rank>
+<doc>CACM-0757<\doc>
+<snippet>
+of <b>a<\b> Traffic NetworkCACM August, 1963Katz, J. 
+<\snippet>
+<\document>
+
+<document>
+<qid>52<\qid>
+<rank>7<\rank>
+<doc>CACM-3070<\doc>
+<snippet>
+Simulation Models of <b>Computer<\b> SystemsThis paper describes 
+<\snippet>
+<\document>
+
+<document>
+<qid>52<\qid>
+<rank>8<\rank>
+<doc>CACM-1870<\doc>
+<snippet>
+Techniques for Using Pseudorandom Numbers in Computer 
+<\snippet>
+<\document>
+
+<document>
+<qid>52<\qid>
+<rank>9<\rank>
+<doc>CACM-1207<\doc>
+<snippet>
+on Simulation of Boolean FunctionsCACM August, <b>1965Dodd,<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>52<\qid>
+<rank>10<\rank>
+<doc>CACM-1366<\doc>
+<snippet>
+Simulation-Discussion of <b>theTechnique<\b> and Comparison of Languages 
+<\snippet>
+<\document>
+
+<document>
+<qid>52<\qid>
+<rank>11<\rank>
+<doc>CACM-0238<\doc>
+<snippet>
+and Analysis of Biochemical SystemsCACM December, 1961Garfinkel, 
+<\snippet>
+<\document>
+
+<document>
+<qid>52<\qid>
+<rank>12<\rank>
+<doc>CACM-1208<\doc>
+<snippet>
+of Computer Logic by Fortran ArithmeticCACM August, 
+<\snippet>
+<\document>
+
+<document>
+<qid>52<\qid>
+<rank>13<\rank>
+<doc>CACM-2767<\doc>
+<snippet>
+Comparison of Simulation Event List AlgorithmsFour algorithms 
+<\snippet>
+<\document>
+
+<document>
+<qid>52<\qid>
+<rank>14<\rank>
+<doc>CACM-0633<\doc>
+<snippet>
+and Analysis of Biochemical Systems(III. Analysis and 
+<\snippet>
+<\document>
+
+<document>
+<qid>52<\qid>
+<rank>15<\rank>
+<doc>CACM-0643<\doc>
+<snippet>
+and Analysis of Biochemcial Systems(II. Solution of 
+<\snippet>
+<\document>
+
+<document>
+<qid>52<\qid>
+<rank>16<\rank>
+<doc>CACM-2725<\doc>
+<snippet>
+Comparison of Simulation Event List Algorithms (Corrigendum)CACM 
+<\snippet>
+<\document>
+
+<document>
+<qid>52<\qid>
+<rank>17<\rank>
+<doc>CACM-2742<\doc>
+<snippet>
+Event-Scanning Mechanisms for <b>Discrete<\b> Event SimulationSimulation models 
+<\snippet>
+<\document>
+
+<document>
+<qid>52<\qid>
+<rank>18<\rank>
+<doc>CACM-1890<\doc>
+<snippet>
+<b>of<\b> Traffic Flows in a NetworkA computer 
+<\snippet>
+<\document>
+
+<document>
+<qid>52<\qid>
+<rank>19<\rank>
+<doc>CACM-1030<\doc>
+<snippet>
+for the Simulation of Computer <b>LogicThe<\b> simulation 
+<\snippet>
+<\document>
+
+<document>
+<qid>52<\qid>
+<rank>20<\rank>
+<doc>CACM-0678<\doc>
+<snippet>
+<b>Bit-time<\b> Computer SimulationA major component of a 
+<\snippet>
+<\document>
+
+<document>
+<qid>52<\qid>
+<rank>21<\rank>
+<doc>CACM-1812<\doc>
+<snippet>
+on Fortran Random Number GeneratorsCACM <b>November,<\b> <b>1969Grosenbaugh,<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>52<\qid>
+<rank>22<\rank>
+<doc>CACM-2902<\doc>
+<snippet>
+Memory <b>Allocation<\b> in Computer SimulationThis paper investigates 
+<\snippet>
+<\document>
+
+<document>
+<qid>52<\qid>
+<rank>23<\rank>
+<doc>CACM-2218<\doc>
+<snippet>
+Analysis of <b>Some<\b> Time-Sharing TechniquesThe effectiveness of 
+<\snippet>
+<\document>
+
+<document>
+<qid>52<\qid>
+<rank>24<\rank>
+<doc>CACM-3048<\doc>
+<snippet>
+Evaluation of Highly ConcurrentComputers by Deterministic <b>SimulationSimulation<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>52<\qid>
+<rank>25<\rank>
+<doc>CACM-2844<\doc>
+<snippet>
+Applied to Event <b>Driven<\b> MechanismsCACM July, <b>1976Gonnet,<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>52<\qid>
+<rank>26<\rank>
+<doc>CACM-3061<\doc>
+<snippet>
+of Dynamic Sequential Search AlgorithmsNoneCACM <b>September,<\b> 1978Tenenbaum, 
+<\snippet>
+<\document>
+
+<document>
+<qid>52<\qid>
+<rank>27<\rank>
+<doc>CACM-2057<\doc>
+<snippet>
+Vectors Uniform in Solid Angle (Algorithm <b>381<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>52<\qid>
+<rank>28<\rank>
+<doc>CACM-3051<\doc>
+<snippet>
+Comparison <b>of<\b> Heaps and the TL Structure 
+<\snippet>
+<\document>
+
+<document>
+<qid>52<\qid>
+<rank>29<\rank>
+<doc>CACM-1752<\doc>
+<snippet>
+Management for a Medium Scale Time-Sharing Operating 
+<\snippet>
+<\document>
+
+<document>
+<qid>52<\qid>
+<rank>30<\rank>
+<doc>CACM-1637<\doc>
+<snippet>
+<b>in<\b> the Statistical Analysis of SimulationExperiments: The 
+<\snippet>
+<\document>
+
+<document>
+<qid>52<\qid>
+<rank>31<\rank>
+<doc>CACM-0605<\doc>
+<snippet>
+Simulation Of City TrafficIn simulating traffic flow 
+<\snippet>
+<\document>
+
+<document>
+<qid>52<\qid>
+<rank>32<\rank>
+<doc>CACM-1695<\doc>
+<snippet>
+On-Line System for Modeling Neural NetworksA description 
+<\snippet>
+<\document>
+
+<document>
+<qid>52<\qid>
+<rank>33<\rank>
+<doc>CACM-2970<\doc>
+<snippet>
+Specific Accuracy in Simulation Output AnalysisThis paper 
+<\snippet>
+<\document>
+
+<document>
+<qid>52<\qid>
+<rank>34<\rank>
+<doc>CACM-1912<\doc>
+<snippet>
+of Outpatient Appointment SystemsAn experimental <b>computer<\b> program 
+<\snippet>
+<\document>
+
+<document>
+<qid>52<\qid>
+<rank>35<\rank>
+<doc>CACM-1653<\doc>
+<snippet>
+Performance Evaluation: Survey and <b>AppraisalThe<\b> state of 
+<\snippet>
+<\document>
+
+<document>
+<qid>52<\qid>
+<rank>36<\rank>
+<doc>CACM-2798<\doc>
+<snippet>
+of Interleaved Memory Systems Using Blockage <b>BuffersA<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>52<\qid>
+<rank>37<\rank>
+<doc>CACM-1380<\doc>
+<snippet>
+ALGOL-Based Simulation LanguageThis <b>paper<\b> <b>is<\b> <b>an<\b> <b>introduction<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>52<\qid>
+<rank>38<\rank>
+<doc>CACM-2914<\doc>
+<snippet>
+<b>of<\b> the LRU Stack Depth Distributionfor Simulation 
+<\snippet>
+<\document>
+
+<document>
+<qid>52<\qid>
+<rank>39<\rank>
+<doc>CACM-1572<\doc>
+<snippet>
+Simulation <b>of<\b> Time sharing SystemsThe development of 
+<\snippet>
+<\document>
+
+<document>
+<qid>52<\qid>
+<rank>40<\rank>
+<doc>CACM-1894<\doc>
+<snippet>
+Random Deviates (Algorithm 334 [G5])CACM May, <b>1969Knop,<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>52<\qid>
+<rank>41<\rank>
+<doc>CACM-1680<\doc>
+<snippet>
+General-Purpose <b>Display<\b> Processing and Tutorial SystemADEPT (A 
+<\snippet>
+<\document>
+
+<document>
+<qid>52<\qid>
+<rank>42<\rank>
+<doc>CACM-1716<\doc>
+<snippet>
+Random Deviates <b>(Algorithm<\b> 334 [G5])CACM July, 1968Bell, 
+<\snippet>
+<\document>
+
+<document>
+<qid>52<\qid>
+<rank>43<\rank>
+<doc>CACM-1805<\doc>
+<snippet>
+of Multiprogrammed <b>Computers-Progressin<\b> Developing an Analytic Prediction 
+<\snippet>
+<\document>
+
+<document>
+<qid>52<\qid>
+<rank>44<\rank>
+<doc>CACM-2549<\doc>
+<snippet>
+Deviates from the Dipole Distribution [G5] (Algorithm 
+<\snippet>
+<\document>
+
+<document>
+<qid>52<\qid>
+<rank>45<\rank>
+<doc>CACM-2918<\doc>
+<snippet>
+Memory Organization and Memory InterferenceThe structure of 
+<\snippet>
+<\document>
+
+<document>
+<qid>52<\qid>
+<rank>46<\rank>
+<doc>CACM-2936<\doc>
+<snippet>
+Efficient <b>Data<\b> Structure for the Simulation Event 
+<\snippet>
+<\document>
+
+<document>
+<qid>52<\qid>
+<rank>47<\rank>
+<doc>CACM-1288<\doc>
+<snippet>
+Cornell List ProcessorPresented in this paper are 
+<\snippet>
+<\document>
+
+<document>
+<qid>52<\qid>
+<rank>48<\rank>
+<doc>CACM-2062<\doc>
+<snippet>
+Application of Sequential Samplingto Simulation: An Example 
+<\snippet>
+<\document>
+
+<document>
+<qid>52<\qid>
+<rank>49<\rank>
+<doc>CACM-2349<\doc>
+<snippet>
+of Random Correlated Normal <b>Variables<\b> [G5] (Algorithm 
+<\snippet>
+<\document>
+
+<document>
+<qid>52<\qid>
+<rank>50<\rank>
+<doc>CACM-2147<\doc>
+<snippet>
+Computers in Higher Education:Past Recommendations, <b>Status,<\b> and 
+<\snippet>
+<\document>
+
+<document>
+<qid>52<\qid>
+<rank>51<\rank>
+<doc>CACM-2272<\doc>
+<snippet>
+by Natural SelectionA family of sorting algorithms 
+<\snippet>
+<\document>
+
+<document>
+<qid>52<\qid>
+<rank>52<\rank>
+<doc>CACM-1427<\doc>
+<snippet>
+of Radioisotope Scans by ComputerIn radioisotope scanning, 
+<\snippet>
+<\document>
+
+<document>
+<qid>52<\qid>
+<rank>53<\rank>
+<doc>CACM-0371<\doc>
+<snippet>
+on Algorithms 2 and 3, Algorithm 15 
+<\snippet>
+<\document>
+
+<document>
+<qid>52<\qid>
+<rank>54<\rank>
+<doc>CACM-0104<\doc>
+<snippet>
+Simulation <b>of<\b> Discrete Flow Systems*The discrete flow 
+<\snippet>
+<\document>
+
+<document>
+<qid>52<\qid>
+<rank>55<\rank>
+<doc>CACM-3064<\doc>
+<snippet>
+Manipulation for Discrete SimulationsRequiring Large <b>Numbers<\b> of 
+<\snippet>
+<\document>
+
+<document>
+<qid>52<\qid>
+<rank>56<\rank>
+<doc>CACM-1489<\doc>
+<snippet>
+<b>Documentation<\b> and Decision TablesIn business data processing 
+<\snippet>
+<\document>
+
+<document>
+<qid>52<\qid>
+<rank>57<\rank>
+<doc>CACM-2261<\doc>
+<snippet>
+Approximate Method <b>for<\b> Generating Symmetric Random VariablesA 
+<\snippet>
+<\document>
+
+<document>
+<qid>52<\qid>
+<rank>58<\rank>
+<doc>CACM-1261<\doc>
+<snippet>
+and <b>Simulation<\b> of Digital NetworksThe simulation of 
+<\snippet>
+<\document>
+
+<document>
+<qid>52<\qid>
+<rank>59<\rank>
+<doc>CACM-1711<\doc>
+<snippet>
+Your <b>Computer<\b> Needs a LawyerPossible liability for 
+<\snippet>
+<\document>
+
+<document>
+<qid>52<\qid>
+<rank>60<\rank>
+<doc>CACM-1131<\doc>
+<snippet>
+Context and Ambiguity in Parsing*CACM February, 1964Ross, 
+<\snippet>
+<\document>
+
+<document>
+<qid>52<\qid>
+<rank>61<\rank>
+<doc>CACM-0059<\doc>
+<snippet>
+of Progress and Trend of Developmentand Use 
+<\snippet>
+<\document>
+
+<document>
+<qid>52<\qid>
+<rank>62<\rank>
+<doc>CACM-3183<\doc>
+<snippet>
+Values, and EFT <b>Research:<\b> Anatomy of a 
+<\snippet>
+<\document>
+
+<document>
+<qid>52<\qid>
+<rank>63<\rank>
+<doc>CACM-2882<\doc>
+<snippet>
+Stochastic Evaluation Model for DatabaseOrganization in <b>Data<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>52<\qid>
+<rank>64<\rank>
+<doc>CACM-1387<\doc>
+<snippet>
+<b>of<\b> Systems of Polynomial Equations By EliminationThe 
+<\snippet>
+<\document>
+
+<document>
+<qid>52<\qid>
+<rank>65<\rank>
+<doc>CACM-0236<\doc>
+<snippet>
+Cybernetics and <b>ComputerThis<\b> article records observations on 
+<\snippet>
+<\document>
+
+<document>
+<qid>52<\qid>
+<rank>66<\rank>
+<doc>CACM-2271<\doc>
+<snippet>
+and the Human Factor in Programming (Corrigendum)CACM 
+<\snippet>
+<\document>
+
+<document>
+<qid>52<\qid>
+<rank>67<\rank>
+<doc>CACM-2979<\doc>
+<snippet>
+in Machine Cognition Using The Game of 
+<\snippet>
+<\document>
+
+<document>
+<qid>52<\qid>
+<rank>68<\rank>
+<doc>CACM-2344<\doc>
+<snippet>
+the Optimization of Performance of Time-Sharing Systems 
+<\snippet>
+<\document>
+
+<document>
+<qid>52<\qid>
+<rank>69<\rank>
+<doc>CACM-0980<\doc>
+<snippet>
+Arithmetic and the ExactCalculation of the 3-j, 
+<\snippet>
+<\document>
+
+<document>
+<qid>52<\qid>
+<rank>70<\rank>
+<doc>CACM-3107<\doc>
+<snippet>
+Beta Variates with <b>Nonintegrel<\b> Shape ParametersA new 
+<\snippet>
+<\document>
+
+<document>
+<qid>52<\qid>
+<rank>71<\rank>
+<doc>CACM-1199<\doc>
+<snippet>
+Computer Center Simulation ProjectToday's computation <b>centers<\b> are 
+<\snippet>
+<\document>
+
+<document>
+<qid>52<\qid>
+<rank>72<\rank>
+<doc>CACM-3028<\doc>
+<snippet>
+Manchester Mark I and Atlas: A His 
+<\snippet>
+<\document>
+
+<document>
+<qid>52<\qid>
+<rank>73<\rank>
+<doc>CACM-1541<\doc>
+<snippet>
+Language for Modeling and Simulating Dynamic SystemsThe 
+<\snippet>
+<\document>
+
+<document>
+<qid>52<\qid>
+<rank>74<\rank>
+<doc>CACM-2756<\doc>
+<snippet>
+Problem-List of Public Policy IssuesConcerning Computers and 
+<\snippet>
+<\document>
+
+<document>
+<qid>52<\qid>
+<rank>75<\rank>
+<doc>CACM-0794<\doc>
+<snippet>
+List-Type Storage Technique for Alphameric InformationA <b>method<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>52<\qid>
+<rank>76<\rank>
+<doc>CACM-0334<\doc>
+<snippet>
+and Square Root in <b>the<\b> Quater-Imaginary Number 
+<\snippet>
+<\document>
+
+<document>
+<qid>52<\qid>
+<rank>77<\rank>
+<doc>CACM-2995<\doc>
+<snippet>
+Instabilities, and Saturationin Multiprogramming Systems (Corrigendum)CACM February, 
+<\snippet>
+<\document>
+
+<document>
+<qid>52<\qid>
+<rank>78<\rank>
+<doc>CACM-0084<\doc>
+<snippet>
+of Progress and Trend <b>of<\b> Developmentand Use 
+<\snippet>
+<\document>
+
+<document>
+<qid>52<\qid>
+<rank>79<\rank>
+<doc>CACM-1251<\doc>
+<snippet>
+Standard and IFIP/ICC Vocabularies comparedThe "Proposed American 
+<\snippet>
+<\document>
+
+<document>
+<qid>52<\qid>
+<rank>80<\rank>
+<doc>CACM-1464<\doc>
+<snippet>
+ALGOL Compiler: Construction <b>and<\b> Usein Relation to 
+<\snippet>
+<\document>
+
+<document>
+<qid>52<\qid>
+<rank>81<\rank>
+<doc>CACM-1435<\doc>
+<snippet>
+of <b>Computer<\b> Simulation Experiments for Industrial SystemsThe 
+<\snippet>
+<\document>
+
+<document>
+<qid>52<\qid>
+<rank>82<\rank>
+<doc>CACM-1728<\doc>
+<snippet>
+Experimental Data on <b>the<\b> Behaviorof Programs in 
+<\snippet>
+<\document>
+
+<document>
+<qid>52<\qid>
+<rank>83<\rank>
+<doc>CACM-2911<\doc>
+<snippet>
+Behavior of the Fifty-PercentRule <b>in<\b> Dynamic Memory 
+<\snippet>
+<\document>
+
+<document>
+<qid>52<\qid>
+<rank>84<\rank>
+<doc>CACM-0331<\doc>
+<snippet>
+Approximations and Computer <b>StorageProblems<\b> in Ordinary Differential 
+<\snippet>
+<\document>
+
+<document>
+<qid>52<\qid>
+<rank>85<\rank>
+<doc>CACM-2607<\doc>
+<snippet>
+<b>Problem-List<\b> of Issues Concerning Computers and Public 
+<\snippet>
+<\document>
+
+<document>
+<qid>52<\qid>
+<rank>86<\rank>
+<doc>CACM-2262<\doc>
+<snippet>
+Collection for Virtual Memory <b>Computer<\b> SystemsIn list 
+<\snippet>
+<\document>
+
+<document>
+<qid>52<\qid>
+<rank>87<\rank>
+<doc>CACM-2077<\doc>
+<snippet>
+Cyclical Majority ProblemThe problem of <b>the<\b> cyclical 
+<\snippet>
+<\document>
+
+<document>
+<qid>52<\qid>
+<rank>88<\rank>
+<doc>CACM-0694<\doc>
+<snippet>
+<b>Comparison<\b> of Disks and TapesThe principal characteristics 
+<\snippet>
+<\document>
+
+<document>
+<qid>52<\qid>
+<rank>89<\rank>
+<doc>CACM-0409<\doc>
+<snippet>
+An <b>Environment<\b> for a <b>CompilerA<\b> flexible, large-scale 
+<\snippet>
+<\document>
+
+<document>
+<qid>52<\qid>
+<rank>90<\rank>
+<doc>CACM-3190<\doc>
+<snippet>
+  Correction to Economies of <b>Scale<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>52<\qid>
+<rank>91<\rank>
+<doc>CACM-3195<\doc>
+<snippet>
+  Reiteration of <b>ACM<\b> Policy Toward 
+<\snippet>
+<\document>
+
+<document>
+<qid>52<\qid>
+<rank>92<\rank>
+<doc>CACM-2829<\doc>
+<snippet>
+and Reflection in Computer <b>Generated<\b> ImagesIn 1974 
+<\snippet>
+<\document>
+
+<document>
+<qid>52<\qid>
+<rank>93<\rank>
+<doc>CACM-0822<\doc>
+<snippet>
+Programming SpecificationsProblems in the implementation <b>of<\b> large 
+<\snippet>
+<\document>
+
+<document>
+<qid>52<\qid>
+<rank>94<\rank>
+<doc>CACM-2734<\doc>
+<snippet>
+the External Storage Fragmentation Producedby <b>First-Fit<\b> <b>and<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>52<\qid>
+<rank>95<\rank>
+<doc>CACM-0529<\doc>
+<snippet>
+and Coded Patterns in Data <b>EditingCACM<\b> July, 
+<\snippet>
+<\document>
+
+<document>
+<qid>52<\qid>
+<rank>96<\rank>
+<doc>CACM-3034<\doc>
+<snippet>
+of Logical Errors in Decision <b>Table<\b> ProgramsIn 
+<\snippet>
+<\document>
+
+<document>
+<qid>52<\qid>
+<rank>97<\rank>
+<doc>CACM-2276<\doc>
+<snippet>
+Methods for <b>Sampling<\b> fromthe Exponential and Normal 
+<\snippet>
+<\document>
+
+<document>
+<qid>52<\qid>
+<rank>98<\rank>
+<doc>CACM-2370<\doc>
+<snippet>
+Experimental Laboratory for Pattern Recognition and Signal 
+<\snippet>
+<\document>
+
+<document>
+<qid>52<\qid>
+<rank>99<\rank>
+<doc>CACM-1569<\doc>
+<snippet>
+Phrase-Structure <b>Productions<\b> in PL/IA method is described 
+<\snippet>
+<\document>
+
+<document>
+<qid>52<\qid>
+<rank>100<\rank>
+<doc>CACM-0626<\doc>
+<snippet>
+Method of Representation, Storage and Retrievalof <b>13<\b> 
+<\snippet>
+<\document>

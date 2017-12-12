@@ -1,0 +1,900 @@
+
+<document>
+<qid>33<\qid>
+<rank>1<\rank>
+<doc>CACM-1954<\doc>
+<snippet>
+and Eigenvectors of a <b>RealSymmetric<\b> Matrix (Algorithm 
+<\snippet>
+<\document>
+
+<document>
+<qid>33<\qid>
+<rank>2<\rank>
+<doc>CACM-2043<\doc>
+<snippet>
+and Eigenvectors of a RealSymmetric <b>Matrix<\b> $F2) 
+<\snippet>
+<\document>
+
+<document>
+<qid>33<\qid>
+<rank>3<\rank>
+<doc>CACM-1963<\doc>
+<snippet>
+Numbers of PEI <b>MatricesCACM<\b> November, 1970Rokne, J.matrices, 
+<\snippet>
+<\document>
+
+<document>
+<qid>33<\qid>
+<rank>4<\rank>
+<doc>CACM-2335<\doc>
+<snippet>
+and Eigenvectors of a Real General <b>matrix<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>33<\qid>
+<rank>5<\rank>
+<doc>CACM-2284<\doc>
+<snippet>
+of the Matrix Equation AX+XB=C [F4] <b>(Algorithm<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>33<\qid>
+<rank>6<\rank>
+<doc>CACM-2805<\doc>
+<snippet>
+of Eigenvalues of Non-normal <b>MatricesThe<\b> problem considered 
+<\snippet>
+<\document>
+
+<document>
+<qid>33<\qid>
+<rank>7<\rank>
+<doc>CACM-1990<\doc>
+<snippet>
+Constants (Algorithm)CACM September, 1970Dunham, C. B.numerical algorithm, 
+<\snippet>
+<\document>
+
+<document>
+<qid>33<\qid>
+<rank>8<\rank>
+<doc>CACM-0070<\doc>
+<snippet>
+of a Set of Test MatricesThis <b>paper<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>33<\qid>
+<rank>9<\rank>
+<doc>CACM-1353<\doc>
+<snippet>
+for Automatic Tolerance <b>Control<\b> in Linear ProgrammingIn 
+<\snippet>
+<\document>
+
+<document>
+<qid>33<\qid>
+<rank>10<\rank>
+<doc>CACM-1501<\doc>
+<snippet>
+of <b>a<\b> 2n x 2n MatrixIt has 
+<\snippet>
+<\document>
+
+<document>
+<qid>33<\qid>
+<rank>11<\rank>
+<doc>CACM-1968<\doc>
+<snippet>
+and Eigenvectors of a RealGeneral Matrix <b>(Algorithm<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>33<\qid>
+<rank>12<\rank>
+<doc>CACM-1285<\doc>
+<snippet>
+and Eigenvectors of a <b>Real<\b> SymmetricMatrix by 
+<\snippet>
+<\document>
+
+<document>
+<qid>33<\qid>
+<rank>13<\rank>
+<doc>CACM-1809<\doc>
+<snippet>
+Analysis in a Ph. Computer Science ProgramNumerical 
+<\snippet>
+<\document>
+
+<document>
+<qid>33<\qid>
+<rank>14<\rank>
+<doc>CACM-2554<\doc>
+<snippet>
+of a Band-Symmetric Generalized <b>Eigenvalue<\b> ProblemAn algorithm 
+<\snippet>
+<\document>
+
+<document>
+<qid>33<\qid>
+<rank>15<\rank>
+<doc>CACM-2226<\doc>
+<snippet>
+Evidence for the Analysis of Algorithmsfor <b>the<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>33<\qid>
+<rank>16<\rank>
+<doc>CACM-2281<\doc>
+<snippet>
+Eigen problem of Block <b>Tridiagonal<\b> MatricesCACM September, 
+<\snippet>
+<\document>
+
+<document>
+<qid>33<\qid>
+<rank>17<\rank>
+<doc>CACM-2778<\doc>
+<snippet>
+of Eigenvalues of <b>Non-normal<\b> Matrices (Corrigendum)CACM March, 
+<\snippet>
+<\document>
+
+<document>
+<qid>33<\qid>
+<rank>18<\rank>
+<doc>CACM-1577<\doc>
+<snippet>
+and Eigenvectors of a Real <b>SymmetricMatrix<\b> by 
+<\snippet>
+<\document>
+
+<document>
+<qid>33<\qid>
+<rank>19<\rank>
+<doc>CACM-1617<\doc>
+<snippet>
+<b>and<\b> Eigenvectors of theSymmetric System (Algorithm 297 
+<\snippet>
+<\document>
+
+<document>
+<qid>33<\qid>
+<rank>20<\rank>
+<doc>CACM-2325<\doc>
+<snippet>
+Mathematics and Computer ScienceNumerical <b>mathematics<\b> is viewed 
+<\snippet>
+<\document>
+
+<document>
+<qid>33<\qid>
+<rank>21<\rank>
+<doc>CACM-3016<\doc>
+<snippet>
+Comparison of Numerical Techniques in <b>Markov<\b> ModelingThis 
+<\snippet>
+<\document>
+
+<document>
+<qid>33<\qid>
+<rank>22<\rank>
+<doc>CACM-2047<\doc>
+<snippet>
+Origin Shifts into the QRAlgorithm for Symmetric 
+<\snippet>
+<\document>
+
+<document>
+<qid>33<\qid>
+<rank>23<\rank>
+<doc>CACM-1274<\doc>
+<snippet>
+the Numerical Solution of an N-Point BoundaryValue 
+<\snippet>
+<\document>
+
+<document>
+<qid>33<\qid>
+<rank>24<\rank>
+<doc>CACM-1047<\doc>
+<snippet>
+of Test Matrices by Similarity TransformationsA <b>method<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>33<\qid>
+<rank>25<\rank>
+<doc>CACM-1662<\doc>
+<snippet>
+and Eigenvectors of a Real <b>General<\b> Matrix 
+<\snippet>
+<\document>
+
+<document>
+<qid>33<\qid>
+<rank>26<\rank>
+<doc>CACM-1147<\doc>
+<snippet>
+the Numerical Solution <b>of<\b> Boundary Value Problemsfor 
+<\snippet>
+<\document>
+
+<document>
+<qid>33<\qid>
+<rank>27<\rank>
+<doc>CACM-1404<\doc>
+<snippet>
+<b>Aspects<\b> of Multiple CovarianceAnalysis on a Multifactor 
+<\snippet>
+<\document>
+
+<document>
+<qid>33<\qid>
+<rank>28<\rank>
+<doc>CACM-0635<\doc>
+<snippet>
+Note on Multiplying <b>Boolean<\b> MatricesCACM February, 1962Baker, 
+<\snippet>
+<\document>
+
+<document>
+<qid>33<\qid>
+<rank>29<\rank>
+<doc>CACM-1104<\doc>
+<snippet>
+Undergraduate Curriculum in Numerical AnalysisCACM April, 1964Forsythe, 
+<\snippet>
+<\document>
+
+<document>
+<qid>33<\qid>
+<rank>30<\rank>
+<doc>CACM-2697<\doc>
+<snippet>
+Fast Method for Solving <b>a<\b> Class of 
+<\snippet>
+<\document>
+
+<document>
+<qid>33<\qid>
+<rank>31<\rank>
+<doc>CACM-2133<\doc>
+<snippet>
+for the <b>Assignment<\b> Problem(Rectangular Matrices) [H] (Algorithm 
+<\snippet>
+<\document>
+
+<document>
+<qid>33<\qid>
+<rank>32<\rank>
+<doc>CACM-0325<\doc>
+<snippet>
+Solution of the Polynomial <b>Equation<\b> (Algorithm 30)CACM 
+<\snippet>
+<\document>
+
+<document>
+<qid>33<\qid>
+<rank>33<\rank>
+<doc>CACM-1952<\doc>
+<snippet>
+by Subject to Algorithms, 1970CACM December, 1970CA701211 
+<\snippet>
+<\document>
+
+<document>
+<qid>33<\qid>
+<rank>34<\rank>
+<doc>CACM-1599<\doc>
+<snippet>
+Solution of the Polynomial Equation (Algorithm <b>300<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>33<\qid>
+<rank>35<\rank>
+<doc>CACM-2213<\doc>
+<snippet>
+of Matrix Pencils: The GeneralizedEigenvalue <b>Problem<\b> [F2] 
+<\snippet>
+<\document>
+
+<document>
+<qid>33<\qid>
+<rank>36<\rank>
+<doc>CACM-1383<\doc>
+<snippet>
+of the Digital Computerfor <b>Education<\b> In the 
+<\snippet>
+<\document>
+
+<document>
+<qid>33<\qid>
+<rank>37<\rank>
+<doc>CACM-1998<\doc>
+<snippet>
+<b>Matrix<\b> Inversion Versus RealA comparison of complex 
+<\snippet>
+<\document>
+
+<document>
+<qid>33<\qid>
+<rank>38<\rank>
+<doc>CACM-1833<\doc>
+<snippet>
+Ambiguity in <b>the<\b> Description of ALGOL 60CACM 
+<\snippet>
+<\document>
+
+<document>
+<qid>33<\qid>
+<rank>39<\rank>
+<doc>CACM-1672<\doc>
+<snippet>
+Error Coefficients in the Integrationof Periodic Analytic 
+<\snippet>
+<\document>
+
+<document>
+<qid>33<\qid>
+<rank>40<\rank>
+<doc>CACM-0896<\doc>
+<snippet>
+Values and Vectors <b>of<\b> Defective MatricesCACM March, 
+<\snippet>
+<\document>
+
+<document>
+<qid>33<\qid>
+<rank>41<\rank>
+<doc>CACM-1782<\doc>
+<snippet>
+Numerical Integration Formula Useful in Fourier AnalysisA 
+<\snippet>
+<\document>
+
+<document>
+<qid>33<\qid>
+<rank>42<\rank>
+<doc>CACM-1529<\doc>
+<snippet>
+Programming An Analysis <b>of<\b> Matrix Substructure <b>A<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>33<\qid>
+<rank>43<\rank>
+<doc>CACM-1473<\doc>
+<snippet>
+<b>Stability<\b> of the Fourth Order Runge-KuttaMethod for 
+<\snippet>
+<\document>
+
+<document>
+<qid>33<\qid>
+<rank>44<\rank>
+<doc>CACM-0256<\doc>
+<snippet>
+Set of <b>Test<\b> Matrices (Algorithm 52)CACM November, 
+<\snippet>
+<\document>
+
+<document>
+<qid>33<\qid>
+<rank>45<\rank>
+<doc>CACM-2186<\doc>
+<snippet>
+Properties of the Ritz-Trefftz <b>Algorithm<\b> for Optimal 
+<\snippet>
+<\document>
+
+<document>
+<qid>33<\qid>
+<rank>46<\rank>
+<doc>CACM-1859<\doc>
+<snippet>
+Bounds for Periodic Quintic SplinesExplicit error <b>bounds<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>33<\qid>
+<rank>47<\rank>
+<doc>CACM-1286<\doc>
+<snippet>
+of a Real Symmetric Matrixby <b>the<\b> QR 
+<\snippet>
+<\document>
+
+<document>
+<qid>33<\qid>
+<rank>48<\rank>
+<doc>CACM-1014<\doc>
+<snippet>
+Controls for Analysis of VarianceA major problem 
+<\snippet>
+<\document>
+
+<document>
+<qid>33<\qid>
+<rank>49<\rank>
+<doc>CACM-0349<\doc>
+<snippet>
+Set of Test MatricesCACM April, 1961Herndon, <b>J.<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>33<\qid>
+<rank>50<\rank>
+<doc>CACM-2758<\doc>
+<snippet>
+Note on <b>the<\b> LU Factorization of a 
+<\snippet>
+<\document>
+
+<document>
+<qid>33<\qid>
+<rank>51<\rank>
+<doc>CACM-3085<\doc>
+<snippet>
+O(n) Algorithm <b>for<\b> Determining a Near-OptimalComputation Order 
+<\snippet>
+<\document>
+
+<document>
+<qid>33<\qid>
+<rank>52<\rank>
+<doc>CACM-1305<\doc>
+<snippet>
+Internal Structure of the <b>FORTRAN<\b> CEP TranslatorThe 
+<\snippet>
+<\document>
+
+<document>
+<qid>33<\qid>
+<rank>53<\rank>
+<doc>CACM-2292<\doc>
+<snippet>
+Note on the <b>Generation<\b> of Rosary PermutationsCACM 
+<\snippet>
+<\document>
+
+<document>
+<qid>33<\qid>
+<rank>54<\rank>
+<doc>CACM-0632<\doc>
+<snippet>
+Diagnosis With The Aid of ALGOLCACM <b>February,<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>33<\qid>
+<rank>55<\rank>
+<doc>CACM-2807<\doc>
+<snippet>
+the Stability of Gauss-Jordan Elimination <b>with<\b> <b>PivotingThe<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>33<\qid>
+<rank>56<\rank>
+<doc>CACM-0962<\doc>
+<snippet>
+Squares Root for The CDC-3600In January of 
+<\snippet>
+<\document>
+
+<document>
+<qid>33<\qid>
+<rank>57<\rank>
+<doc>CACM-2806<\doc>
+<snippet>
+Hadamard Numbers <b>for<\b> MatricesA discussion is given 
+<\snippet>
+<\document>
+
+<document>
+<qid>33<\qid>
+<rank>58<\rank>
+<doc>CACM-1909<\doc>
+<snippet>
+of <b>Jn(x)<\b> <b>by<\b> <b>Numerical<\b> <b>IntegrationIt<\b> <b>is<\b> <b>shown<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>33<\qid>
+<rank>59<\rank>
+<doc>CACM-0315<\doc>
+<snippet>
+of Tridiagonal MatricesCACM <b>July,<\b> 1961Wenrick, R. C.CA610702 
+<\snippet>
+<\document>
+
+<document>
+<qid>33<\qid>
+<rank>60<\rank>
+<doc>CACM-1576<\doc>
+<snippet>
+of a Real Symmetric <b>Matrixby<\b> the QR 
+<\snippet>
+<\document>
+
+<document>
+<qid>33<\qid>
+<rank>61<\rank>
+<doc>CACM-0559<\doc>
+<snippet>
+of Eigenvalue <b>Problems<\b> With Approximately Known EigenvectorsCACM 
+<\snippet>
+<\document>
+
+<document>
+<qid>33<\qid>
+<rank>62<\rank>
+<doc>CACM-1797<\doc>
+<snippet>
+of Linear <b>programs<\b> in 0-1 (Algorithm 341 
+<\snippet>
+<\document>
+
+<document>
+<qid>33<\qid>
+<rank>63<\rank>
+<doc>CACM-1423<\doc>
+<snippet>
+Simple Algorithm for Computing the <b>Generalized<\b> Inverse 
+<\snippet>
+<\document>
+
+<document>
+<qid>33<\qid>
+<rank>64<\rank>
+<doc>CACM-1347<\doc>
+<snippet>
+Time-Varying Systems Error Sensitivities ProgramThe evaluation, by 
+<\snippet>
+<\document>
+
+<document>
+<qid>33<\qid>
+<rank>65<\rank>
+<doc>CACM-3200<\doc>
+<snippet>
+  A FORMAC Program for the 
+<\snippet>
+<\document>
+
+<document>
+<qid>33<\qid>
+<rank>66<\rank>
+<doc>CACM-1325<\doc>
+<snippet>
+On-Line, Real-time Computer Diagnosisof the Clinical ElectrocardiogramPresented 
+<\snippet>
+<\document>
+
+<document>
+<qid>33<\qid>
+<rank>67<\rank>
+<doc>CACM-3152<\doc>
+<snippet>
+Reorganization Techniques forMatrix <b>Computation<\b> in a Paging 
+<\snippet>
+<\document>
+
+<document>
+<qid>33<\qid>
+<rank>68<\rank>
+<doc>CACM-1334<\doc>
+<snippet>
+<b>of<\b> Tedious Algebra: TheNewcomb Operators of Planetary 
+<\snippet>
+<\document>
+
+<document>
+<qid>33<\qid>
+<rank>69<\rank>
+<doc>CACM-0492<\doc>
+<snippet>
+of a File Addressing <b>MethodThis<\b> paper presents 
+<\snippet>
+<\document>
+
+<document>
+<qid>33<\qid>
+<rank>70<\rank>
+<doc>CACM-1254<\doc>
+<snippet>
+Iteration ElementA recent addition to the MAD 
+<\snippet>
+<\document>
+
+<document>
+<qid>33<\qid>
+<rank>71<\rank>
+<doc>CACM-1635<\doc>
+<snippet>
+for Pseudo <b>Runge-Kutta<\b> MethodsThe object of this 
+<\snippet>
+<\document>
+
+<document>
+<qid>33<\qid>
+<rank>72<\rank>
+<doc>CACM-1666<\doc>
+<snippet>
+of Linear <b>Programs<\b> in 0-1 Variablesby Implicit 
+<\snippet>
+<\document>
+
+<document>
+<qid>33<\qid>
+<rank>73<\rank>
+<doc>CACM-1636<\doc>
+<snippet>
+Imbeding and the Numerical Integrationof Boundary-Value Problems 
+<\snippet>
+<\document>
+
+<document>
+<qid>33<\qid>
+<rank>74<\rank>
+<doc>CACM-0647<\doc>
+<snippet>
+<b>Solution<\b> of the <b>Polynomial<\b> Equation (Algorithm <b>30)CACM<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>33<\qid>
+<rank>75<\rank>
+<doc>CACM-2000<\doc>
+<snippet>
+Variation of the Goodman-Lance Method forthe <b>Solution<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>33<\qid>
+<rank>76<\rank>
+<doc>CACM-1905<\doc>
+<snippet>
+<b>Simplex<\b> Method of Linear Programming Using LU 
+<\snippet>
+<\document>
+
+<document>
+<qid>33<\qid>
+<rank>77<\rank>
+<doc>CACM-3086<\doc>
+<snippet>
+the Complexity of Computing the Measure of 
+<\snippet>
+<\document>
+
+<document>
+<qid>33<\qid>
+<rank>78<\rank>
+<doc>CACM-0111<\doc>
+<snippet>
+Programming the Numerical Solution of Polynomial EquationsNumerical 
+<\snippet>
+<\document>
+
+<document>
+<qid>33<\qid>
+<rank>79<\rank>
+<doc>CACM-1601<\doc>
+<snippet>
+Numerical Methods for the Solution of EquationsClassical 
+<\snippet>
+<\document>
+
+<document>
+<qid>33<\qid>
+<rank>80<\rank>
+<doc>CACM-1395<\doc>
+<snippet>
+the Implementation of AMBIT, <b>A<\b> Language for 
+<\snippet>
+<\document>
+
+<document>
+<qid>33<\qid>
+<rank>81<\rank>
+<doc>CACM-1637<\doc>
+<snippet>
+in the Statistical Analysis of SimulationExperiments: The 
+<\snippet>
+<\document>
+
+<document>
+<qid>33<\qid>
+<rank>82<\rank>
+<doc>CACM-2134<\doc>
+<snippet>
+Extension of the Munkres Algorithm forthe Assignment 
+<\snippet>
+<\document>
+
+<document>
+<qid>33<\qid>
+<rank>83<\rank>
+<doc>CACM-0496<\doc>
+<snippet>
+Set of Matrices <b>for<\b> <b>Testing<\b> <b>Computer<\b> <b>ProgramsCACM<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>33<\qid>
+<rank>84<\rank>
+<doc>CACM-1035<\doc>
+<snippet>
+of <b>the<\b> FORTRAN CEP LanguageThe FORTRAN CEP 
+<\snippet>
+<\document>
+
+<document>
+<qid>33<\qid>
+<rank>85<\rank>
+<doc>CACM-0956<\doc>
+<snippet>
+Family of <b>Test<\b> MatricesCACM December, 1964Newbery, A. 
+<\snippet>
+<\document>
+
+<document>
+<qid>33<\qid>
+<rank>86<\rank>
+<doc>CACM-0511<\doc>
+<snippet>
+Set of Test Matrices (Algorithm 52)CACM <b>August,<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>33<\qid>
+<rank>87<\rank>
+<doc>CACM-1207<\doc>
+<snippet>
+on Simulation of Boolean <b>FunctionsCACM<\b> August, 1965Dodd, 
+<\snippet>
+<\document>
+
+<document>
+<qid>33<\qid>
+<rank>88<\rank>
+<doc>CACM-2977<\doc>
+<snippet>
+Stage Hypothesis <b>and<\b> the S-Curve: Some Contradictory 
+<\snippet>
+<\document>
+
+<document>
+<qid>33<\qid>
+<rank>89<\rank>
+<doc>CACM-0730<\doc>
+<snippet>
+A Compiler Based on StandardMathematical Notation And 
+<\snippet>
+<\document>
+
+<document>
+<qid>33<\qid>
+<rank>90<\rank>
+<doc>CACM-1363<\doc>
+<snippet>
+<b>General<\b> Method of Systematic Interval Computationfor Numerical 
+<\snippet>
+<\document>
+
+<document>
+<qid>33<\qid>
+<rank>91<\rank>
+<doc>CACM-0112<\doc>
+<snippet>
+Solution of <b>the<\b> Polynomial Equation (Algorithm 30)CACM 
+<\snippet>
+<\document>
+
+<document>
+<qid>33<\qid>
+<rank>92<\rank>
+<doc>CACM-2916<\doc>
+<snippet>
+Fast String Searching <b>AlgorithmAn<\b> algorithm is presented 
+<\snippet>
+<\document>
+
+<document>
+<qid>33<\qid>
+<rank>93<\rank>
+<doc>CACM-1171<\doc>
+<snippet>
+Comparison of the Primal-Simplex <b>and<\b> Primal-DualAlgorithms for 
+<\snippet>
+<\document>
+
+<document>
+<qid>33<\qid>
+<rank>94<\rank>
+<doc>CACM-2841<\doc>
+<snippet>
+Surfaces <b>in<\b> 3-DAn experimental system for computer-aideddesign 
+<\snippet>
+<\document>
+
+<document>
+<qid>33<\qid>
+<rank>95<\rank>
+<doc>CACM-1766<\doc>
+<snippet>
+and <b>the<\b> Estimationof Differential Operators from EigenvaluesGiven 
+<\snippet>
+<\document>
+
+<document>
+<qid>33<\qid>
+<rank>96<\rank>
+<doc>CACM-1709<\doc>
+<snippet>
+<b>Modification<\b> of Efroymson's Technique for Stepwise Regression 
+<\snippet>
+<\document>
+
+<document>
+<qid>33<\qid>
+<rank>97<\rank>
+<doc>CACM-0697<\doc>
+<snippet>
+Numerical Method for the Determination of MovingField 
+<\snippet>
+<\document>
+
+<document>
+<qid>33<\qid>
+<rank>98<\rank>
+<doc>CACM-1876<\doc>
+<snippet>
+<b>of<\b> Test Matrices Having CertainSign Patterns and 
+<\snippet>
+<\document>
+
+<document>
+<qid>33<\qid>
+<rank>99<\rank>
+<doc>CACM-1314<\doc>
+<snippet>
+Organization of Symbol TablesAn efficient symbol table 
+<\snippet>
+<\document>
+
+<document>
+<qid>33<\qid>
+<rank>100<\rank>
+<doc>CACM-2858<\doc>
+<snippet>
+Process for the Determination <b>ofAddresses<\b> in Variable 
+<\snippet>
+<\document>

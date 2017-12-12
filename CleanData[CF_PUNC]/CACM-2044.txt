@@ -1,0 +1,1 @@
+permutations of a set with repetitions algorithm 383 g6 cacm June, 1970 Chase, P. J. permutations and combinations permutations 5.39 ca700611 jb february 13, 1978 10:36 am

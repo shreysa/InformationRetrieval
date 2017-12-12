@@ -1,0 +1,900 @@
+
+<document>
+<qid>47<\qid>
+<rank>1<\rank>
+<doc>CACM-2278<\doc>
+<snippet>
+Foster's <b>Information<\b> Storage and Retrieval Using AVL 
+<\snippet>
+<\document>
+
+<document>
+<qid>47<\qid>
+<rank>2<\rank>
+<doc>CACM-2848<\doc>
+<snippet>
+during an interview to record the logic of processes to 
+<\snippet>
+<\document>
+
+<document>
+<qid>47<\qid>
+<rank>3<\rank>
+<doc>CACM-2288<\doc>
+<snippet>
+set.  Its existence enables the design of an <b>informationretrieval<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>47<\qid>
+<rank>4<\rank>
+<doc>CACM-3012<\doc>
+<snippet>
+in Medical ResearchThis paper presents the results of a studyof 
+<\snippet>
+<\document>
+
+<document>
+<qid>47<\qid>
+<rank>5<\rank>
+<doc>CACM-2318<\doc>
+<snippet>
+performance.  This paper examines the interrelationships between models and 
+<\snippet>
+<\document>
+
+<document>
+<qid>47<\qid>
+<rank>6<\rank>
+<doc>CACM-1699<\doc>
+<snippet>
+a TeletypewriterExperiments designed to evaluate the capabilitiesof mechanized <b>information<\b> retrieval 
+<\snippet>
+<\document>
+
+<document>
+<qid>47<\qid>
+<rank>7<\rank>
+<doc>CACM-2984<\doc>
+<snippet>
+of imbalance.  These coefficientsindicate the extent to which the 
+<\snippet>
+<\document>
+
+<document>
+<qid>47<\qid>
+<rank>8<\rank>
+<doc>CACM-3134<\doc>
+<snippet>
+paper describes a method <b>for<\b> the organization and retrieval of 
+<\snippet>
+<\document>
+
+<document>
+<qid>47<\qid>
+<rank>9<\rank>
+<doc>CACM-2990<\doc>
+<snippet>
+different ways. <b><\b> Much of the published evaluation work is 
+<\snippet>
+<\document>
+
+<document>
+<qid>47<\qid>
+<rank>10<\rank>
+<doc>CACM-0634<\doc>
+<snippet>
+of Trees in Information Retrieval*CACM February, 1962Salton, 
+<\snippet>
+<\document>
+
+<document>
+<qid>47<\qid>
+<rank>11<\rank>
+<doc>CACM-2070<\doc>
+<snippet>
+Formal System for Information Retrieval from FilesCACM 
+<\snippet>
+<\document>
+
+<document>
+<qid>47<\qid>
+<rank>12<\rank>
+<doc>CACM-2726<\doc>
+<snippet>
+minimizing logic circuitsare applied to the simplification of <b>decision<\b> tables 
+<\snippet>
+<\document>
+
+<document>
+<qid>47<\qid>
+<rank>13<\rank>
+<doc>CACM-0891<\doc>
+<snippet>
+stand-point) to reconsider their position,for the present solution makes it 
+<\snippet>
+<\document>
+
+<document>
+<qid>47<\qid>
+<rank>14<\rank>
+<doc>CACM-0798<\doc>
+<snippet>
+Catalogue Entry Retrieval SystemScheff, B. H.CACM July, 
+<\snippet>
+<\document>
+
+<document>
+<qid>47<\qid>
+<rank>15<\rank>
+<doc>CACM-0651<\doc>
+<snippet>
+Survey of Languages <b>and<\b> Systems for Information 
+<\snippet>
+<\document>
+
+<document>
+<qid>47<\qid>
+<rank>16<\rank>
+<doc>CACM-0239<\doc>
+<snippet>
+<b>of<\b> the Use of Boolean Functionsfor 
+<\snippet>
+<\document>
+
+<document>
+<qid>47<\qid>
+<rank>17<\rank>
+<doc>CACM-0275<\doc>
+<snippet>
+Storage Allocation for an Information Retrieval <b>SystemCACM<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>47<\qid>
+<rank>18<\rank>
+<doc>CACM-2882<\doc>
+<snippet>
+Data Retrieval SystemsExperimental work in the valuation of <b>largescale<\b> data 
+<\snippet>
+<\document>
+
+<document>
+<qid>47<\qid>
+<rank>19<\rank>
+<doc>CACM-1457<\doc>
+<snippet>
+various processing languages areoutlined in the light of the procedures 
+<\snippet>
+<\document>
+
+<document>
+<qid>47<\qid>
+<rank>20<\rank>
+<doc>CACM-1830<\doc>
+<snippet>
+<b>Times<\b> for a Packed Direct Access Inverted 
+<\snippet>
+<\document>
+
+<document>
+<qid>47<\qid>
+<rank>21<\rank>
+<doc>CACM-1994<\doc>
+<snippet>
+Table Translation $H) (Algorithm 394)CACM September, 1970Dial, 
+<\snippet>
+<\document>
+
+<document>
+<qid>47<\qid>
+<rank>22<\rank>
+<doc>CACM-2235<\doc>
+<snippet>
+Table Translation (Algorithm R394)CACM December, 1972Marshall, <b>D.<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>47<\qid>
+<rank>23<\rank>
+<doc>CACM-2598<\doc>
+<snippet>
+<b>the<\b> Information Theory Approach to 
+<\snippet>
+<\document>
+
+<document>
+<qid>47<\qid>
+<rank>24<\rank>
+<doc>CACM-2492<\doc>
+<snippet>
+only on <b>syntactical<\b> characteristics of the decision problem.  It 
+<\snippet>
+<\document>
+
+<document>
+<qid>47<\qid>
+<rank>25<\rank>
+<doc>CACM-1236<\doc>
+<snippet>
+automatic document retrieval systemoperating on the IBM 7094 is described. 
+<\snippet>
+<\document>
+
+<document>
+<qid>47<\qid>
+<rank>26<\rank>
+<doc>CACM-1935<\doc>
+<snippet>
+mathematical model is developed for the meanand <b>variance<\b> of the 
+<\snippet>
+<\document>
+
+<document>
+<qid>47<\qid>
+<rank>27<\rank>
+<doc>CACM-1927<\doc>
+<snippet>
+on a sample coursecurriculum in the general <b>area<\b> of information 
+<\snippet>
+<\document>
+
+<document>
+<qid>47<\qid>
+<rank>28<\rank>
+<doc>CACM-2552<\doc>
+<snippet>
+Note <b>on<\b> When To Chain Overflow Items 
+<\snippet>
+<\document>
+
+<document>
+<qid>47<\qid>
+<rank>29<\rank>
+<doc>CACM-1173<\doc>
+<snippet>
+of an automaticsystem <b>for<\b> handling the transfers of program segments 
+<\snippet>
+<\document>
+
+<document>
+<qid>47<\qid>
+<rank>30<\rank>
+<doc>CACM-1681<\doc>
+<snippet>
+from a computerized data base, the Moore School Information Systems 
+<\snippet>
+<\document>
+
+<document>
+<qid>47<\qid>
+<rank>31<\rank>
+<doc>CACM-1032<\doc>
+<snippet>
+searching strategy, how to enter <b>the<\b> <b>file<\b> <b>to<\b> <b>circumvent<\b> <b>the<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>47<\qid>
+<rank>32<\rank>
+<doc>CACM-1327<\doc>
+<snippet>
+<b><\b> The techniqueis based on the creation of a binary 
+<\snippet>
+<\document>
+
+<document>
+<qid>47<\qid>
+<rank>33<\rank>
+<doc>CACM-2832<\doc>
+<snippet>
+algorithms. It is <b>based<\b> on the observation that in typical 
+<\snippet>
+<\document>
+
+<document>
+<qid>47<\qid>
+<rank>34<\rank>
+<doc>CACM-1524<\doc>
+<snippet>
+Polynomial Root FindingWhen searching for the root of a <b>polynomial,it<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>47<\qid>
+<rank>35<\rank>
+<doc>CACM-1514<\doc>
+<snippet>
+the Expected Gain From Adjust 
+<\snippet>
+<\document>
+
+<document>
+<qid>47<\qid>
+<rank>36<\rank>
+<doc>CACM-1715<\doc>
+<snippet>
+Search (Algorithm 178 [E4]) CACM <b>July,<\b> 1968De 
+<\snippet>
+<\document>
+
+<document>
+<qid>47<\qid>
+<rank>37<\rank>
+<doc>CACM-1814<\doc>
+<snippet>
+<b>Search<\b> (Algorithm 178 [E4])CACM November, 1969Smith, L. 
+<\snippet>
+<\document>
+
+<document>
+<qid>47<\qid>
+<rank>38<\rank>
+<doc>CACM-2451<\doc>
+<snippet>
+values. The process of locating the desired responses can be 
+<\snippet>
+<\document>
+
+<document>
+<qid>47<\qid>
+<rank>39<\rank>
+<doc>CACM-1937<\doc>
+<snippet>
+ The command language of the system provides the userwith 
+<\snippet>
+<\document>
+
+<document>
+<qid>47<\qid>
+<rank>40<\rank>
+<doc>CACM-1267<\doc>
+<snippet>
+discussed.  This discussion includes the pertinent aspects of information 
+<\snippet>
+<\document>
+
+<document>
+<qid>47<\qid>
+<rank>41<\rank>
+<doc>CACM-1194<\doc>
+<snippet>
+<b>of<\b> the ACM Repository and Principlesof 
+<\snippet>
+<\document>
+
+<document>
+<qid>47<\qid>
+<rank>42<\rank>
+<doc>CACM-2516<\doc>
+<snippet>
+ Equations are derivedto predict the effect of such a 
+<\snippet>
+<\document>
+
+<document>
+<qid>47<\qid>
+<rank>43<\rank>
+<doc>CACM-1172<\doc>
+<snippet>
+ The first algorithm minimizes the computer storage space required 
+<\snippet>
+<\document>
+
+<document>
+<qid>47<\qid>
+<rank>44<\rank>
+<doc>CACM-3070<\doc>
+<snippet>
+of Computer SystemsThis paper describes the structure and operationof <b>a<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>47<\qid>
+<rank>45<\rank>
+<doc>CACM-2746<\doc>
+<snippet>
+state pattern matching machine from the keywords and then using 
+<\snippet>
+<\document>
+
+<document>
+<qid>47<\qid>
+<rank>46<\rank>
+<doc>CACM-2140<\doc>
+<snippet>
+Combined IndicesIn a paper in the November <b>1970<\b> Communicationsof the 
+<\snippet>
+<\document>
+
+<document>
+<qid>47<\qid>
+<rank>47<\rank>
+<doc>CACM-2053<\doc>
+<snippet>
+the Conversion of Decision Tables 
+<\snippet>
+<\document>
+
+<document>
+<qid>47<\qid>
+<rank>48<\rank>
+<doc>CACM-1961<\doc>
+<snippet>
+Efficient Search Algorithm to Find the Elementary <b>Circuits<\b> of a 
+<\snippet>
+<\document>
+
+<document>
+<qid>47<\qid>
+<rank>49<\rank>
+<doc>CACM-2453<\doc>
+<snippet>
+Theory Applied to <b>the<\b> Conversionof Decision Tables to 
+<\snippet>
+<\document>
+
+<document>
+<qid>47<\qid>
+<rank>50<\rank>
+<doc>CACM-2575<\doc>
+<snippet>
+Best-Match Problem in Document RetrievalCACM November, 1974Van 
+<\snippet>
+<\document>
+
+<document>
+<qid>47<\qid>
+<rank>51<\rank>
+<doc>CACM-1427<\doc>
+<snippet>
+source activity are represented on the scan by areas <b>of<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>47<\qid>
+<rank>52<\rank>
+<doc>CACM-2293<\doc>
+<snippet>
+on Average Binary <b>Search<\b> LengthCACM August, 1972Jones, 
+<\snippet>
+<\document>
+
+<document>
+<qid>47<\qid>
+<rank>53<\rank>
+<doc>CACM-1307<\doc>
+<snippet>
+describes a technique designedto ease the use of a data 
+<\snippet>
+<\document>
+
+<document>
+<qid>47<\qid>
+<rank>54<\rank>
+<doc>CACM-2846<\doc>
+<snippet>
+retrieval systems.  It has the same underlyingm-ary tree structure 
+<\snippet>
+<\document>
+
+<document>
+<qid>47<\qid>
+<rank>55<\rank>
+<doc>CACM-1627<\doc>
+<snippet>
+Storage OrganizationA technique for organizing the devices of a <b>computerstorage<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>47<\qid>
+<rank>56<\rank>
+<doc>CACM-1671<\doc>
+<snippet>
+implementation of a system toalleviate the problem of rule evaluation 
+<\snippet>
+<\document>
+
+<document>
+<qid>47<\qid>
+<rank>57<\rank>
+<doc>CACM-1938<\doc>
+<snippet>
+terminal user to utilize essentially the full resourcesof the system 
+<\snippet>
+<\document>
+
+<document>
+<qid>47<\qid>
+<rank>58<\rank>
+<doc>CACM-1233<\doc>
+<snippet>
+for the Use of Symbols in 
+<\snippet>
+<\document>
+
+<document>
+<qid>47<\qid>
+<rank>59<\rank>
+<doc>CACM-2455<\doc>
+<snippet>
+and with balanced trees on the basis of mean retrieval 
+<\snippet>
+<\document>
+
+<document>
+<qid>47<\qid>
+<rank>60<\rank>
+<doc>CACM-1548<\doc>
+<snippet>
+of Decision TablesReduction in the size <b>of<\b> decision tables 
+<\snippet>
+<\document>
+
+<document>
+<qid>47<\qid>
+<rank>61<\rank>
+<doc>CACM-2691<\doc>
+<snippet>
+on <b>the<\b> Algorithms of Verhelst for 
+<\snippet>
+<\document>
+
+<document>
+<qid>47<\qid>
+<rank>62<\rank>
+<doc>CACM-1815<\doc>
+<snippet>
+Search (Algorithm 178 <b>[E4])CACM<\b> November, 1969Tomlin, F. 
+<\snippet>
+<\document>
+
+<document>
+<qid>47<\qid>
+<rank>63<\rank>
+<doc>CACM-1719<\doc>
+<snippet>
+re-examination within governmentand industry of the criteria for and methods 
+<\snippet>
+<\document>
+
+<document>
+<qid>47<\qid>
+<rank>64<\rank>
+<doc>CACM-1271<\doc>
+<snippet>
+addresses of primary records relevantto the request.  Experimental results 
+<\snippet>
+<\document>
+
+<document>
+<qid>47<\qid>
+<rank>65<\rank>
+<doc>CACM-0953<\doc>
+<snippet>
+Text with a 1401CACM <b>December,<\b> 1964Baker, J. 
+<\snippet>
+<\document>
+
+<document>
+<qid>47<\qid>
+<rank>66<\rank>
+<doc>CACM-0944<\doc>
+<snippet>
+data or to problems where the <b>quantity,word<\b> length and distribution 
+<\snippet>
+<\document>
+
+<document>
+<qid>47<\qid>
+<rank>67<\rank>
+<doc>CACM-3034<\doc>
+<snippet>
+decision tables is developed. All the conditions in the decision 
+<\snippet>
+<\document>
+
+<document>
+<qid>47<\qid>
+<rank>68<\rank>
+<doc>CACM-1108<\doc>
+<snippet>
+Data Processor for Tracking the <b>Partially<\b> Illuminated Moon*A study 
+<\snippet>
+<\document>
+
+<document>
+<qid>47<\qid>
+<rank>69<\rank>
+<doc>CACM-1527<\doc>
+<snippet>
+of a sentence recognitiondevice for the class of grammars <b>which<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>47<\qid>
+<rank>70<\rank>
+<doc>CACM-3048<\doc>
+<snippet>
+of a system.  In the modela control stream replaces 
+<\snippet>
+<\document>
+
+<document>
+<qid>47<\qid>
+<rank>71<\rank>
+<doc>CACM-2221<\doc>
+<snippet>
+on the Conversion of Decision Tables 
+<\snippet>
+<\document>
+
+<document>
+<qid>47<\qid>
+<rank>72<\rank>
+<doc>CACM-2535<\doc>
+<snippet>
+SystemA study is made of the way in which <b>asynchronoustime<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>47<\qid>
+<rank>73<\rank>
+<doc>CACM-0892<\doc>
+<snippet>
+records.  <b>The<\b> language of the interrogation scheme allows for 
+<\snippet>
+<\document>
+
+<document>
+<qid>47<\qid>
+<rank>74<\rank>
+<doc>CACM-3084<\doc>
+<snippet>
+an ordered file by using the value of the key 
+<\snippet>
+<\document>
+
+<document>
+<qid>47<\qid>
+<rank>75<\rank>
+<doc>CACM-3089<\doc>
+<snippet>
+including availability, response time, and the system saturation point.  
+<\snippet>
+<\document>
+
+<document>
+<qid>47<\qid>
+<rank>76<\rank>
+<doc>CACM-3090<\doc>
+<snippet>
+of an automated client-trackingsystem on the clients, caseworkers, administrators, and 
+<\snippet>
+<\document>
+
+<document>
+<qid>47<\qid>
+<rank>77<\rank>
+<doc>CACM-3033<\doc>
+<snippet>
+table conversion has beentackled in the literature using <b>two<\b> approaches, 
+<\snippet>
+<\document>
+
+<document>
+<qid>47<\qid>
+<rank>78<\rank>
+<doc>CACM-2158<\doc>
+<snippet>
+<b>Stopping<\b> Criterion for <b>the<\b> Newton-Raphson Methodin <b>Implicit<\b> Multistep 
+<\snippet>
+<\document>
+
+<document>
+<qid>47<\qid>
+<rank>79<\rank>
+<doc>CACM-1279<\doc>
+<snippet>
+CharactersA procedure is described for the relativelyefficient <b>encoding<\b> of sequences 
+<\snippet>
+<\document>
+
+<document>
+<qid>47<\qid>
+<rank>80<\rank>
+<doc>CACM-2319<\doc>
+<snippet>
+System PerformanceAn overview of the current and <b>future<\b> positionswith 
+<\snippet>
+<\document>
+
+<document>
+<qid>47<\qid>
+<rank>81<\rank>
+<doc>CACM-2970<\doc>
+<snippet>
+<b>Simulation<\b> Output AnalysisThis paper extends the use of the regenerativeproperty 
+<\snippet>
+<\document>
+
+<document>
+<qid>47<\qid>
+<rank>82<\rank>
+<doc>CACM-1160<\doc>
+<snippet>
+language.  The input to the systemis a FAP <b>program<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>47<\qid>
+<rank>83<\rank>
+<doc>CACM-2344<\doc>
+<snippet>
+the Optimization <b>of<\b> Performance of 
+<\snippet>
+<\document>
+
+<document>
+<qid>47<\qid>
+<rank>84<\rank>
+<doc>CACM-0118<\doc>
+<snippet>
+<b>Scanning<\b> on the IBM 7070CACM November, 1960Speckhard, 
+<\snippet>
+<\document>
+
+<document>
+<qid>47<\qid>
+<rank>85<\rank>
+<doc>CACM-2947<\doc>
+<snippet>
+a search template consisting of the textual string desired and 
+<\snippet>
+<\document>
+
+<document>
+<qid>47<\qid>
+<rank>86<\rank>
+<doc>CACM-2109<\doc>
+<snippet>
+has previously been suggestedto avoid the clustering usually <b>encountered<\b> when 
+<\snippet>
+<\document>
+
+<document>
+<qid>47<\qid>
+<rank>87<\rank>
+<doc>CACM-1281<\doc>
+<snippet>
+of usingformat statements to determine the input, the computerasks the 
+<\snippet>
+<\document>
+
+<document>
+<qid>47<\qid>
+<rank>88<\rank>
+<doc>CACM-3041<\doc>
+<snippet>
+and a splitvalue which partitions the remaining keys <b>(with<\b> respect 
+<\snippet>
+<\document>
+
+<document>
+<qid>47<\qid>
+<rank>89<\rank>
+<doc>CACM-1705<\doc>
+<snippet>
+(Algorithm 335 [15])By means of the <b>primitives<\b> <b>in<\b> <b>symbol,<\b> <b>outsymboland<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>47<\qid>
+<rank>90<\rank>
+<doc>CACM-3095<\doc>
+<snippet>
+Selective Traversal Algorithm for <b>Binary<\b> Search TreesThe 
+<\snippet>
+<\document>
+
+<document>
+<qid>47<\qid>
+<rank>91<\rank>
+<doc>CACM-1115<\doc>
+<snippet>
+plus and minus branches in the search path.  Very 
+<\snippet>
+<\document>
+
+<document>
+<qid>47<\qid>
+<rank>92<\rank>
+<doc>CACM-2018<\doc>
+<snippet>
+for hash tables avoids muchof the clustering experienced with a 
+<\snippet>
+<\document>
+
+<document>
+<qid>47<\qid>
+<rank>93<\rank>
+<doc>CACM-2856<\doc>
+<snippet>
+Decision Table ConversionPrevious approaches to the problem of automaticallyconverting decision 
+<\snippet>
+<\document>
+
+<document>
+<qid>47<\qid>
+<rank>94<\rank>
+<doc>CACM-2519<\doc>
+<snippet>
+the Problem of Communicating Complex 
+<\snippet>
+<\document>
+
+<document>
+<qid>47<\qid>
+<rank>95<\rank>
+<doc>CACM-2976<\doc>
+<snippet>
+Block Accesses in Database <b>OrganizationsCACM<\b> April, 1977Yao, 
+<\snippet>
+<\document>
+
+<document>
+<qid>47<\qid>
+<rank>96<\rank>
+<doc>CACM-2669<\doc>
+<snippet>
+Model of Demand Paging PerformancePredicting the performance of <b>a<\b> proposed 
+<\snippet>
+<\document>
+
+<document>
+<qid>47<\qid>
+<rank>97<\rank>
+<doc>CACM-1827<\doc>
+<snippet>
+Facility (DCF) has been implementedin the <b>Michigan<\b> Terminal System (MTS) 
+<\snippet>
+<\document>
+
+<document>
+<qid>47<\qid>
+<rank>98<\rank>
+<doc>CACM-0683<\doc>
+<snippet>
+Serial Technique to Determine Minimum PathsCACM November, 
+<\snippet>
+<\document>
+
+<document>
+<qid>47<\qid>
+<rank>99<\rank>
+<doc>CACM-3137<\doc>
+<snippet>
+Methodology for the Design <b>of<\b> Distributed Information 
+<\snippet>
+<\document>
+
+<document>
+<qid>47<\qid>
+<rank>100<\rank>
+<doc>CACM-2561<\doc>
+<snippet>
+structure which is imposed on the data base using nonnumerical 
+<\snippet>
+<\document>

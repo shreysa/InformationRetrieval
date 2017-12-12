@@ -1,0 +1,1 @@
+generator spanning trees algorithms 354 cacm September, 1969 McIlroy, M. D. spanning trees trees graphs 5.32 ca690904 jb february 15, 1978 4:50 pm

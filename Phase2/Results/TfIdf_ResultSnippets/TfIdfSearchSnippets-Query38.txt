@@ -1,0 +1,900 @@
+
+<document>
+<qid>38<\qid>
+<rank>1<\rank>
+<doc>CACM-2958<\doc>
+<snippet>
+Data Types <b>and<\b> the Development of Data 
+<\snippet>
+<\document>
+
+<document>
+<qid>38<\qid>
+<rank>2<\rank>
+<doc>CACM-3031<\doc>
+<snippet>
+<b>Data<\b> Types and Software ValidationA data abstraction 
+<\snippet>
+<\document>
+
+<document>
+<qid>38<\qid>
+<rank>3<\rank>
+<doc>CACM-2867<\doc>
+<snippet>
+<b>and<\b> Hierarchy in a Family of Operating 
+<\snippet>
+<\document>
+
+<document>
+<qid>38<\qid>
+<rank>4<\rank>
+<doc>CACM-2651<\doc>
+<snippet>
+Treatment of <b>Data<\b> Types in EL1In constructing 
+<\snippet>
+<\document>
+
+<document>
+<qid>38<\qid>
+<rank>5<\rank>
+<doc>CACM-3105<\doc>
+<snippet>
+Language Extension for Expressing Constraints on <b>Data<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>38<\qid>
+<rank>6<\rank>
+<doc>CACM-2956<\doc>
+<snippet>
+Ideas on Data Types in High-Level <b>LanguagesA<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>38<\qid>
+<rank>7<\rank>
+<doc>CACM-2470<\doc>
+<snippet>
+<b>Axiomatic<\b> Basis for Program SemanticsA formal system 
+<\snippet>
+<\document>
+
+<document>
+<qid>38<\qid>
+<rank>8<\rank>
+<doc>CACM-0483<\doc>
+<snippet>
+the Nonexistence of a Phrase <b>Structure<\b> Grammar 
+<\snippet>
+<\document>
+
+<document>
+<qid>38<\qid>
+<rank>9<\rank>
+<doc>CACM-1014<\doc>
+<snippet>
+Controls for Analysis of VarianceA <b>major<\b> problem 
+<\snippet>
+<\document>
+
+<document>
+<qid>38<\qid>
+<rank>10<\rank>
+<doc>CACM-3103<\doc>
+<snippet>
+Data Structure Selection: An Example and OverviewThe 
+<\snippet>
+<\document>
+
+<document>
+<qid>38<\qid>
+<rank>11<\rank>
+<doc>CACM-1698<\doc>
+<snippet>
+Statistical Model for <b>Console<\b> Behavior in Multiuser 
+<\snippet>
+<\document>
+
+<document>
+<qid>38<\qid>
+<rank>12<\rank>
+<doc>CACM-2305<\doc>
+<snippet>
+and conceptual system for writing what today is termed a 
+<\snippet>
+<\document>
+
+<document>
+<qid>38<\qid>
+<rank>13<\rank>
+<doc>CACM-1408<\doc>
+<snippet>
+<b>Eschenbach<\b> Drum SchemeThe prime function of a 
+<\snippet>
+<\document>
+
+<document>
+<qid>38<\qid>
+<rank>14<\rank>
+<doc>CACM-2082<\doc>
+<snippet>
+Documentation For PL 360The language <b>PL<\b> 360, 
+<\snippet>
+<\document>
+
+<document>
+<qid>38<\qid>
+<rank>15<\rank>
+<doc>CACM-0718<\doc>
+<snippet>
+compiler at replacing explicitverification, and what is the cost of 
+<\snippet>
+<\document>
+
+<document>
+<qid>38<\qid>
+<rank>16<\rank>
+<doc>CACM-3177<\doc>
+<snippet>
+to Share a SecretIn this paper we 
+<\snippet>
+<\document>
+
+<document>
+<qid>38<\qid>
+<rank>17<\rank>
+<doc>CACM-2876<\doc>
+<snippet>
+Resolution of <b>Privacy<\b> Protection in Database SystemsTraditionally, 
+<\snippet>
+<\document>
+
+<document>
+<qid>38<\qid>
+<rank>18<\rank>
+<doc>CACM-1248<\doc>
+<snippet>
+without having any knowledge of what it is supposed to 
+<\snippet>
+<\document>
+
+<document>
+<qid>38<\qid>
+<rank>19<\rank>
+<doc>CACM-1182<\doc>
+<snippet>
+Correlates <b>of<\b> SynonymyExperimental corroboration was obtained forthe 
+<\snippet>
+<\document>
+
+<document>
+<qid>38<\qid>
+<rank>20<\rank>
+<doc>CACM-0497<\doc>
+<snippet>
+Remarks on Line Segment Curve-Fitting Using Dynamic 
+<\snippet>
+<\document>
+
+<document>
+<qid>38<\qid>
+<rank>21<\rank>
+<doc>CACM-1637<\doc>
+<snippet>
+in the Statistical Analysis of SimulationExperiments: <b>The<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>38<\qid>
+<rank>22<\rank>
+<doc>CACM-1359<\doc>
+<snippet>
+Filtering Applied to <b>Information<\b> Storage and Retrieval 
+<\snippet>
+<\document>
+
+<document>
+<qid>38<\qid>
+<rank>23<\rank>
+<doc>CACM-2247<\doc>
+<snippet>
+the Criteria To Be Used in <b>Decomposing<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>38<\qid>
+<rank>24<\rank>
+<doc>CACM-1383<\doc>
+<snippet>
+has profoundly altered thedefinition of what is interesting in mathematics. 
+<\snippet>
+<\document>
+
+<document>
+<qid>38<\qid>
+<rank>25<\rank>
+<doc>CACM-2718<\doc>
+<snippet>
+Preliminary <b>System<\b> for the Design of DBTG 
+<\snippet>
+<\document>
+
+<document>
+<qid>38<\qid>
+<rank>26<\rank>
+<doc>CACM-1625<\doc>
+<snippet>
+processor, without any understanding of what theprogram is supposed to 
+<\snippet>
+<\document>
+
+<document>
+<qid>38<\qid>
+<rank>27<\rank>
+<doc>CACM-3069<\doc>
+<snippet>
+Practical Interprocedural Data Flow Analysis AlgorithmA <b>new<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>38<\qid>
+<rank>28<\rank>
+<doc>CACM-2139<\doc>
+<snippet>
+of the Substring Test by HashingA <b>technique<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>38<\qid>
+<rank>29<\rank>
+<doc>CACM-0492<\doc>
+<snippet>
+<b>of<\b> a File Addressing MethodThis paper presents 
+<\snippet>
+<\document>
+
+<document>
+<qid>38<\qid>
+<rank>30<\rank>
+<doc>CACM-1497<\doc>
+<snippet>
+the Normalization Requirement ofDivisor in Divide- <b>and-<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>38<\qid>
+<rank>31<\rank>
+<doc>CACM-3054<\doc>
+<snippet>
+Quicksort ProgramsThis paper <b>is<\b> a practical study 
+<\snippet>
+<\document>
+
+<document>
+<qid>38<\qid>
+<rank>32<\rank>
+<doc>CACM-1458<\doc>
+<snippet>
+ProgrammingWhen the transition has been made from 
+<\snippet>
+<\document>
+
+<document>
+<qid>38<\qid>
+<rank>33<\rank>
+<doc>CACM-3060<\doc>
+<snippet>
+77There is <b>a<\b> new standard Fortran.  
+<\snippet>
+<\document>
+
+<document>
+<qid>38<\qid>
+<rank>34<\rank>
+<doc>CACM-1460<\doc>
+<snippet>
+of the Meta-Assembly <b>ProgramA<\b> generalized assembler called 
+<\snippet>
+<\document>
+
+<document>
+<qid>38<\qid>
+<rank>35<\rank>
+<doc>CACM-2184<\doc>
+<snippet>
+the Meaning of Names <b>in<\b> Programming SystemsIt 
+<\snippet>
+<\document>
+
+<document>
+<qid>38<\qid>
+<rank>36<\rank>
+<doc>CACM-2582<\doc>
+<snippet>
+Locality by <b>Critical<\b> Working SetsA new approach 
+<\snippet>
+<\document>
+
+<document>
+<qid>38<\qid>
+<rank>37<\rank>
+<doc>CACM-1572<\doc>
+<snippet>
+Simulation of <b>Time<\b> sharing SystemsThe development of 
+<\snippet>
+<\document>
+
+<document>
+<qid>38<\qid>
+<rank>38<\rank>
+<doc>CACM-3082<\doc>
+<snippet>
+<b>Clocks,<\b> and the Ordering of Events in 
+<\snippet>
+<\document>
+
+<document>
+<qid>38<\qid>
+<rank>39<\rank>
+<doc>CACM-1469<\doc>
+<snippet>
+<b>Next<\b> 700 Programming Languages A family of 
+<\snippet>
+<\document>
+
+<document>
+<qid>38<\qid>
+<rank>40<\rank>
+<doc>CACM-1323<\doc>
+<snippet>
+Correspondence Between <b>ALGOL<\b> 60 and Church's Lambda-Notation: 
+<\snippet>
+<\document>
+
+<document>
+<qid>38<\qid>
+<rank>41<\rank>
+<doc>CACM-2941<\doc>
+<snippet>
+Experience with <b>MesaThe<\b> experiences of Mesa's first 
+<\snippet>
+<\document>
+
+<document>
+<qid>38<\qid>
+<rank>42<\rank>
+<doc>CACM-2309<\doc>
+<snippet>
+<b>in<\b> the Instructional Process:Directions for Research and 
+<\snippet>
+<\document>
+
+<document>
+<qid>38<\qid>
+<rank>43<\rank>
+<doc>CACM-1806<\doc>
+<snippet>
+the <b>Downhill<\b> MethodThe downhill method is a 
+<\snippet>
+<\document>
+
+<document>
+<qid>38<\qid>
+<rank>44<\rank>
+<doc>CACM-2970<\doc>
+<snippet>
+Specific <b>Accuracy<\b> in Simulation Output AnalysisThis paper 
+<\snippet>
+<\document>
+
+<document>
+<qid>38<\qid>
+<rank>45<\rank>
+<doc>CACM-1847<\doc>
+<snippet>
+Algorithm for <b>Finding<\b> a Fundamental Set of 
+<\snippet>
+<\document>
+
+<document>
+<qid>38<\qid>
+<rank>46<\rank>
+<doc>CACM-0185<\doc>
+<snippet>
+Scheduling Parts 1 <b>and<\b> 2.  Introduction 
+<\snippet>
+<\document>
+
+<document>
+<qid>38<\qid>
+<rank>47<\rank>
+<doc>CACM-0867<\doc>
+<snippet>
+Squares Fitting of Planes <b>to<\b> Surfaces Using 
+<\snippet>
+<\document>
+
+<document>
+<qid>38<\qid>
+<rank>48<\rank>
+<doc>CACM-0949<\doc>
+<snippet>
+and Signed Constants in ALGOLA <b>few<\b> remarks 
+<\snippet>
+<\document>
+
+<document>
+<qid>38<\qid>
+<rank>49<\rank>
+<doc>CACM-0598<\doc>
+<snippet>
+COBOL <b>Librarian<\b> - A Key to Object 
+<\snippet>
+<\document>
+
+<document>
+<qid>38<\qid>
+<rank>50<\rank>
+<doc>CACM-2937<\doc>
+<snippet>
+Experimental Evaluation of <b>Data<\b> Type ConventionsThe language 
+<\snippet>
+<\document>
+
+<document>
+<qid>38<\qid>
+<rank>51<\rank>
+<doc>CACM-2940<\doc>
+<snippet>
+<b>and<\b> Verification in Alphard: Definingand Specifying Iteration 
+<\snippet>
+<\document>
+
+<document>
+<qid>38<\qid>
+<rank>52<\rank>
+<doc>CACM-3179<\doc>
+<snippet>
+about EFT impacts in societyand what research is needed in 
+<\snippet>
+<\document>
+
+<document>
+<qid>38<\qid>
+<rank>53<\rank>
+<doc>CACM-0464<\doc>
+<snippet>
+Analysis by Digital ComputerThis paper provides an 
+<\snippet>
+<\document>
+
+<document>
+<qid>38<\qid>
+<rank>54<\rank>
+<doc>CACM-2931<\doc>
+<snippet>
+programthen requires us to explain what are the objects of 
+<\snippet>
+<\document>
+
+<document>
+<qid>38<\qid>
+<rank>55<\rank>
+<doc>CACM-0248<\doc>
+<snippet>
+<b>is<\b> Proprietary In Mathematical Programming?-Impressionsof a Panel 
+<\snippet>
+<\document>
+
+<document>
+<qid>38<\qid>
+<rank>56<\rank>
+<doc>CACM-0615<\doc>
+<snippet>
+Multidimensional ArraysA useful <b>method<\b> of representing a 
+<\snippet>
+<\document>
+
+<document>
+<qid>38<\qid>
+<rank>57<\rank>
+<doc>CACM-2496<\doc>
+<snippet>
+the Near-Optimality of the Shortest-Latency-Time-FirstDrum Scheduling <b>DisciplineFor<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>38<\qid>
+<rank>58<\rank>
+<doc>CACM-1484<\doc>
+<snippet>
+Language for Describing the Functions of Synchronous 
+<\snippet>
+<\document>
+
+<document>
+<qid>38<\qid>
+<rank>59<\rank>
+<doc>CACM-2905<\doc>
+<snippet>
+Hashing Functions: A SingleProbe Retrieving <b>Method<\b> for 
+<\snippet>
+<\document>
+
+<document>
+<qid>38<\qid>
+<rank>60<\rank>
+<doc>CACM-1549<\doc>
+<snippet>
+Efficient <b>Machine-Independent<\b> Procedure forGarbage Collection in Various 
+<\snippet>
+<\document>
+
+<document>
+<qid>38<\qid>
+<rank>61<\rank>
+<doc>CACM-2480<\doc>
+<snippet>
+"About Programming"This <b>paper<\b> presents the goals and 
+<\snippet>
+<\document>
+
+<document>
+<qid>38<\qid>
+<rank>62<\rank>
+<doc>CACM-1867<\doc>
+<snippet>
+the Expected Lengths of Sequences Generatedin Sorting 
+<\snippet>
+<\document>
+
+<document>
+<qid>38<\qid>
+<rank>63<\rank>
+<doc>CACM-1346<\doc>
+<snippet>
+the Application of <b>the<\b> Process of <b>Equalizationof<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>38<\qid>
+<rank>64<\rank>
+<doc>CACM-1675<\doc>
+<snippet>
+Note on a Relevance Estimate <b>and<\b> Its 
+<\snippet>
+<\document>
+
+<document>
+<qid>38<\qid>
+<rank>65<\rank>
+<doc>CACM-0321<\doc>
+<snippet>
+60 ConfidentialThe ALGOL 60 Report,* <b>when<\b> first 
+<\snippet>
+<\document>
+
+<document>
+<qid>38<\qid>
+<rank>66<\rank>
+<doc>CACM-2406<\doc>
+<snippet>
+Data Definition and Mapping LanguageA <b>data<\b> definition 
+<\snippet>
+<\document>
+
+<document>
+<qid>38<\qid>
+<rank>67<\rank>
+<doc>CACM-2622<\doc>
+<snippet>
+User Authentication Scheme Not Requiring Secrecy <b>in<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>38<\qid>
+<rank>68<\rank>
+<doc>CACM-2312<\doc>
+<snippet>
+pessimistic forecast is given of what can beexpected to happen 
+<\snippet>
+<\document>
+
+<document>
+<qid>38<\qid>
+<rank>69<\rank>
+<doc>CACM-1352<\doc>
+<snippet>
+<b>Integration<\b> of a Function with a ParameterTwo 
+<\snippet>
+<\document>
+
+<document>
+<qid>38<\qid>
+<rank>70<\rank>
+<doc>CACM-2939<\doc>
+<snippet>
+Mechanisms in CLUCLU <b>is<\b> a new programming 
+<\snippet>
+<\document>
+
+<document>
+<qid>38<\qid>
+<rank>71<\rank>
+<doc>CACM-0536<\doc>
+<snippet>
+Regression and the <b>Solution<\b> <b>of<\b> <b>Simultaneous<\b> <b>EquationsIf<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>38<\qid>
+<rank>72<\rank>
+<doc>CACM-0463<\doc>
+<snippet>
+Ambiguity in Phrase <b>Structure<\b> LanguagesCACM October, 1962Floyd, 
+<\snippet>
+<\document>
+
+<document>
+<qid>38<\qid>
+<rank>73<\rank>
+<doc>CACM-1727<\doc>
+<snippet>
+Way <b>of<\b> Estimating Frequencies of Jumps in 
+<\snippet>
+<\document>
+
+<document>
+<qid>38<\qid>
+<rank>74<\rank>
+<doc>CACM-2750<\doc>
+<snippet>
+Cost <b>Oriented<\b> <b>Algorithm<\b> <b>for<\b> <b>Data<\b> <b>Set<\b> <b>Allocation<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>38<\qid>
+<rank>75<\rank>
+<doc>CACM-1828<\doc>
+<snippet>
+by more than one process, what are the rules for 
+<\snippet>
+<\document>
+
+<document>
+<qid>38<\qid>
+<rank>76<\rank>
+<doc>CACM-0982<\doc>
+<snippet>
+Inductive Approach to <b>Language<\b> TranslationThe possibility of 
+<\snippet>
+<\document>
+
+<document>
+<qid>38<\qid>
+<rank>77<\rank>
+<doc>CACM-1553<\doc>
+<snippet>
+Understanding by ComputersA further <b>development<\b> of a 
+<\snippet>
+<\document>
+
+<document>
+<qid>38<\qid>
+<rank>78<\rank>
+<doc>CACM-0106<\doc>
+<snippet>
+Method for Overlapping and <b>Erasure<\b> of ListsAn 
+<\snippet>
+<\document>
+
+<document>
+<qid>38<\qid>
+<rank>79<\rank>
+<doc>CACM-0940<\doc>
+<snippet>
+Discrete Random Variables in a ComputerThis note 
+<\snippet>
+<\document>
+
+<document>
+<qid>38<\qid>
+<rank>80<\rank>
+<doc>CACM-1934<\doc>
+<snippet>
+Arithmetic Expressions <b>and<\b> TreesA description is given 
+<\snippet>
+<\document>
+
+<document>
+<qid>38<\qid>
+<rank>81<\rank>
+<doc>CACM-1527<\doc>
+<snippet>
+Grammar Base Question Answering <b>ProcedureThe<\b> subject of 
+<\snippet>
+<\document>
+
+<document>
+<qid>38<\qid>
+<rank>82<\rank>
+<doc>CACM-0981<\doc>
+<snippet>
+Problems in Commercial Data ProcessingA common requirement 
+<\snippet>
+<\document>
+
+<document>
+<qid>38<\qid>
+<rank>83<\rank>
+<doc>CACM-2912<\doc>
+<snippet>
+Reading and WritingThe problem of sharing <b>data<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>38<\qid>
+<rank>84<\rank>
+<doc>CACM-1643<\doc>
+<snippet>
+Improvement to <b>Iterative<\b> Methods of Polynomial FactorizationMethods 
+<\snippet>
+<\document>
+
+<document>
+<qid>38<\qid>
+<rank>85<\rank>
+<doc>CACM-1486<\doc>
+<snippet>
+Reprogramming MachineIn this paper a <b>description<\b> <b>is<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>38<\qid>
+<rank>86<\rank>
+<doc>CACM-2195<\doc>
+<snippet>
+<b>the<\b> Optimal Detection <b>of<\b> Curves in <b>Noisy<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>38<\qid>
+<rank>87<\rank>
+<doc>CACM-1307<\doc>
+<snippet>
+Lightpen-Controlled Program For On-Line Data AnalysisThis <b>paper<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>38<\qid>
+<rank>88<\rank>
+<doc>CACM-1488<\doc>
+<snippet>
+Decision Tables in FORTRAN, COBOL <b>or<\b> ALGOLA 
+<\snippet>
+<\document>
+
+<document>
+<qid>38<\qid>
+<rank>89<\rank>
+<doc>CACM-2369<\doc>
+<snippet>
+Lines Elimination <b>for<\b> a Rotating ObjectA method 
+<\snippet>
+<\document>
+
+<document>
+<qid>38<\qid>
+<rank>90<\rank>
+<doc>CACM-3034<\doc>
+<snippet>
+of Logical Errors in <b>Decision<\b> Table ProgramsIn 
+<\snippet>
+<\document>
+
+<document>
+<qid>38<\qid>
+<rank>91<\rank>
+<doc>CACM-1474<\doc>
+<snippet>
+of Probabilistic Models for Propagation of Roundoff 
+<\snippet>
+<\document>
+
+<document>
+<qid>38<\qid>
+<rank>92<\rank>
+<doc>CACM-1413<\doc>
+<snippet>
+actual and, if so, on what time scale.  This 
+<\snippet>
+<\document>
+
+<document>
+<qid>38<\qid>
+<rank>93<\rank>
+<doc>CACM-2846<\doc>
+<snippet>
+TriesThis paper presents a <b>new<\b> data structure,called 
+<\snippet>
+<\document>
+
+<document>
+<qid>38<\qid>
+<rank>94<\rank>
+<doc>CACM-2832<\doc>
+<snippet>
+Retrieval from Context <b>Trees<\b> (Corrigendum)Context trees provide 
+<\snippet>
+<\document>
+
+<document>
+<qid>38<\qid>
+<rank>95<\rank>
+<doc>CACM-1348<\doc>
+<snippet>
+A Computer Program for Flowcharting <b>ProgramsThe<\b> FLOWTRACE 
+<\snippet>
+<\document>
+
+<document>
+<qid>38<\qid>
+<rank>96<\rank>
+<doc>CACM-0670<\doc>
+<snippet>
+Legal <b>Implications<\b> of the Use of Computers 
+<\snippet>
+<\document>
+
+<document>
+<qid>38<\qid>
+<rank>97<\rank>
+<doc>CACM-0849<\doc>
+<snippet>
+of Tree Structures for Processing FilesIn data 
+<\snippet>
+<\document>
+
+<document>
+<qid>38<\qid>
+<rank>98<\rank>
+<doc>CACM-2046<\doc>
+<snippet>
+Relational Model of Data for <b>Large<\b> <b>Shared<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>38<\qid>
+<rank>99<\rank>
+<doc>CACM-0195<\doc>
+<snippet>
+is a Code?CACM May, 1960Patterson, <b>G.<\b> <b>W.CA600502<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>38<\qid>
+<rank>100<\rank>
+<doc>CACM-1623<\doc>
+<snippet>
+Application of FORMACA nonlinear circuit analysis problem 
+<\snippet>
+<\document>

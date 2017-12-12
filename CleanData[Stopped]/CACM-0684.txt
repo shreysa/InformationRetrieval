@@ -1,0 +1,1 @@
+Interpolation, Differentiation, integration algorithm 77 cacm November, 1963 Hennion, P. E. ca631108 jb march 13, 1978 3:45 pm

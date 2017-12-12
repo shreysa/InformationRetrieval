@@ -1,0 +1,1 @@
+product type two-point gauss-legendre-simpsons integration d1 algorithm a438 cacm December, 1972 Boland, W. R. numerical integration product type quadrature gaussian quadrature simpsons rule 5.16 ca721213 jb january 27, 1978 9:08 am

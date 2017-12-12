@@ -1,0 +1,1 @@
+bivariate normal distribution s15 algorithm a462 cacm October, 1973 Donnelly,T G. bivariate normal Gaussian, frequency distribution 5.5 ca731013 jb january 20, 1978 11:03 am

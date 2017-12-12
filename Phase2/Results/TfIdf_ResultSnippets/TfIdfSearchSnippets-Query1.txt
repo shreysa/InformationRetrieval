@@ -1,0 +1,900 @@
+
+<document>
+<qid>1<\qid>
+<rank>1<\rank>
+<doc>CACM-1393<\doc>
+<snippet>
+A System for <b>Polynomial<\b> ManipulationPM is an 
+<\snippet>
+<\document>
+
+<document>
+<qid>1<\qid>
+<rank>2<\rank>
+<doc>CACM-2319<\doc>
+<snippet>
+System PerformanceAn overview <b>of<\b> the current and 
+<\snippet>
+<\document>
+
+<document>
+<qid>1<\qid>
+<rank>3<\rank>
+<doc>CACM-1304<\doc>
+<snippet>
+Rapid Turnaround Multi-Programming SystemIn this paper, basic 
+<\snippet>
+<\document>
+
+<document>
+<qid>1<\qid>
+<rank>4<\rank>
+<doc>CACM-2796<\doc>
+<snippet>
+An Operating System Structuring Concept (Corrigendum)CACM February, 
+<\snippet>
+<\document>
+
+<document>
+<qid>1<\qid>
+<rank>5<\rank>
+<doc>CACM-2379<\doc>
+<snippet>
+Design of the Venus Operating SystemThe <b>Venus<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>1<\qid>
+<rank>6<\rank>
+<doc>CACM-1523<\doc>
+<snippet>
+a Time Sharing System for the CDC 
+<\snippet>
+<\document>
+
+<document>
+<qid>1<\qid>
+<rank>7<\rank>
+<doc>CACM-2371<\doc>
+<snippet>
+System for <b>Interprocess<\b> Communicationin a Resource Sharing 
+<\snippet>
+<\document>
+
+<document>
+<qid>1<\qid>
+<rank>8<\rank>
+<doc>CACM-1749<\doc>
+<snippet>
+Structure <b>of<\b> the "THE"-Multiprogramming SystemA multiprogramming system 
+<\snippet>
+<\document>
+
+<document>
+<qid>1<\qid>
+<rank>9<\rank>
+<doc>CACM-2629<\doc>
+<snippet>
+UNIX Time-Sharing system UNIX is a <b>general-purpose,<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>1<\qid>
+<rank>10<\rank>
+<doc>CACM-1657<\doc>
+<snippet>
+of the SHARER2 Time-Sharing SystemA simple mechanism 
+<\snippet>
+<\document>
+
+<document>
+<qid>1<\qid>
+<rank>11<\rank>
+<doc>CACM-2984<\doc>
+<snippet>
+A Measure of System <b>PerformanceA<\b> method is 
+<\snippet>
+<\document>
+
+<document>
+<qid>1<\qid>
+<rank>12<\rank>
+<doc>CACM-2380<\doc>
+<snippet>
+a Paged Time Sharing System <b>for<\b> the 
+<\snippet>
+<\document>
+
+<document>
+<qid>1<\qid>
+<rank>13<\rank>
+<doc>CACM-2917<\doc>
+<snippet>
+<b>An<\b> Interactive Text ProcessingSystem for Small Computers 
+<\snippet>
+<\document>
+
+<document>
+<qid>1<\qid>
+<rank>14<\rank>
+<doc>CACM-2685<\doc>
+<snippet>
+<b>Parallel<\b> Execution of DO LoopsMethods are developed 
+<\snippet>
+<\document>
+
+<document>
+<qid>1<\qid>
+<rank>15<\rank>
+<doc>CACM-1591<\doc>
+<snippet>
+Model for a Multifunctional Teaching SystemA <b>teaching<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>1<\qid>
+<rank>16<\rank>
+<doc>CACM-1033<\doc>
+<snippet>
+Personalized Array <b>Translator<\b> SystemA system designed for 
+<\snippet>
+<\document>
+
+<document>
+<qid>1<\qid>
+<rank>17<\rank>
+<doc>CACM-0098<\doc>
+<snippet>
+Arithmetic Translator-Compiler <b>ofthe<\b> IBM FORTRAN Automatic Coding 
+<\snippet>
+<\document>
+
+<document>
+<qid>1<\qid>
+<rank>18<\rank>
+<doc>CACM-1519<\doc>
+<snippet>
+3-A <b>General<\b> Purpose Time Sharing and Operating 
+<\snippet>
+<\document>
+
+<document>
+<qid>1<\qid>
+<rank>19<\rank>
+<doc>CACM-0294<\doc>
+<snippet>
+Imaginary Number SystemCACM August, 1961Knuth, D.CA610810 JB 
+<\snippet>
+<\document>
+
+<document>
+<qid>1<\qid>
+<rank>20<\rank>
+<doc>CACM-0414<\doc>
+<snippet>
+1440 Data Processing <b>System<\b> Features Five New 
+<\snippet>
+<\document>
+
+<document>
+<qid>1<\qid>
+<rank>21<\rank>
+<doc>CACM-1069<\doc>
+<snippet>
+Method for Comparing the Internal Operating Speeds 
+<\snippet>
+<\document>
+
+<document>
+<qid>1<\qid>
+<rank>22<\rank>
+<doc>CACM-1544<\doc>
+<snippet>
+<b>A<\b> Telephone Time Sharing SystemA general purpose, 
+<\snippet>
+<\document>
+
+<document>
+<qid>1<\qid>
+<rank>23<\rank>
+<doc>CACM-1755<\doc>
+<snippet>
+<b>of<\b> the ACM Symposium on Operating system 
+<\snippet>
+<\document>
+
+<document>
+<qid>1<\qid>
+<rank>24<\rank>
+<doc>CACM-2740<\doc>
+<snippet>
+Large Semaphore Based Operating <b>SystemThe<\b> paper describes 
+<\snippet>
+<\document>
+
+<document>
+<qid>1<\qid>
+<rank>25<\rank>
+<doc>CACM-2087<\doc>
+<snippet>
+Number System for the PermutationsCACM March, <b>1970Pager,<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>1<\qid>
+<rank>26<\rank>
+<doc>CACM-2747<\doc>
+<snippet>
+Simplified Recombination <b>Scheme<\b> for the Fibonacci Buddy 
+<\snippet>
+<\document>
+
+<document>
+<qid>1<\qid>
+<rank>27<\rank>
+<doc>CACM-0197<\doc>
+<snippet>
+Imaginary <b>Number<\b> SystemCACM April, 1960Knuth, D. E.CA600414 
+<\snippet>
+<\document>
+
+<document>
+<qid>1<\qid>
+<rank>28<\rank>
+<doc>CACM-1938<\doc>
+<snippet>
+Criteria for Time-Sharing System PerformanceTime-sharing systems, <b>as<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>1<\qid>
+<rank>29<\rank>
+<doc>CACM-1168<\doc>
+<snippet>
+Machine Lines in COBOLThe production of a 
+<\snippet>
+<\document>
+
+<document>
+<qid>1<\qid>
+<rank>30<\rank>
+<doc>CACM-2955<\doc>
+<snippet>
+SystemsTwo algorithms <b>are<\b> presented for implementingany of 
+<\snippet>
+<\document>
+
+<document>
+<qid>1<\qid>
+<rank>31<\rank>
+<doc>CACM-0190<\doc>
+<snippet>
+G-20 SystemCACM May, 1960CA600507 JB March <b>22,<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>1<\qid>
+<rank>32<\rank>
+<doc>CACM-3068<\doc>
+<snippet>
+Model for Verification of <b>Data<\b> Security in 
+<\snippet>
+<\document>
+
+<document>
+<qid>1<\qid>
+<rank>33<\rank>
+<doc>CACM-1173<\doc>
+<snippet>
+Performance of a System <b>for<\b> <b>Automatic<\b> <b>Segmentationof<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>1<\qid>
+<rank>34<\rank>
+<doc>CACM-2560<\doc>
+<snippet>
+Queuing Model of a MultiprogrammedComputer with <b>a<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>1<\qid>
+<rank>35<\rank>
+<doc>CACM-0275<\doc>
+<snippet>
+Storage Allocation for an Information Retrieval SystemCACM 
+<\snippet>
+<\document>
+
+<document>
+<qid>1<\qid>
+<rank>36<\rank>
+<doc>CACM-0594<\doc>
+<snippet>
+<b>Advanced<\b> Input-Output System for a COBOL CompilerCACM 
+<\snippet>
+<\document>
+
+<document>
+<qid>1<\qid>
+<rank>37<\rank>
+<doc>CACM-3127<\doc>
+<snippet>
+a Portable Real-Time Operating System Thoth isa 
+<\snippet>
+<\document>
+
+<document>
+<qid>1<\qid>
+<rank>38<\rank>
+<doc>CACM-2948<\doc>
+<snippet>
+Terminal-Oriented Communication SystemThis <b>paper<\b> describes a system 
+<\snippet>
+<\document>
+
+<document>
+<qid>1<\qid>
+<rank>39<\rank>
+<doc>CACM-2357<\doc>
+<snippet>
+a Simple Approach to On-Line ComputingAn on-line 
+<\snippet>
+<\document>
+
+<document>
+<qid>1<\qid>
+<rank>40<\rank>
+<doc>CACM-0656<\doc>
+<snippet>
+Information <b>System<\b> <b>With<\b> <b>The<\b> <b>Ability<\b> <b>To<\b> <b>Extract<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>1<\qid>
+<rank>41<\rank>
+<doc>CACM-0195<\doc>
+<snippet>
+<b>is<\b> a Code?CACM May, 1960Patterson, G. W.CA600502 
+<\snippet>
+<\document>
+
+<document>
+<qid>1<\qid>
+<rank>42<\rank>
+<doc>CACM-1605<\doc>
+<snippet>
+<b>Experimental<\b> Comparison of Time Sharing and Batch 
+<\snippet>
+<\document>
+
+<document>
+<qid>1<\qid>
+<rank>43<\rank>
+<doc>CACM-2126<\doc>
+<snippet>
+with <b>an<\b> Extensible LanguageAn operational extensible language 
+<\snippet>
+<\document>
+
+<document>
+<qid>1<\qid>
+<rank>44<\rank>
+<doc>CACM-0252<\doc>
+<snippet>
+a Duplex Computer <b>SystemThis<\b> paper describes a 
+<\snippet>
+<\document>
+
+<document>
+<qid>1<\qid>
+<rank>45<\rank>
+<doc>CACM-0271<\doc>
+<snippet>
+Semi-Automatic Storage Allocation <b>System<\b> at Loading TimeCACM 
+<\snippet>
+<\document>
+
+<document>
+<qid>1<\qid>
+<rank>46<\rank>
+<doc>CACM-1264<\doc>
+<snippet>
+1401 Operating System with Braille <b>CapabilitiesBLNSYS<\b> <b>is<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>1<\qid>
+<rank>47<\rank>
+<doc>CACM-1482<\doc>
+<snippet>
+A Programming System for Picture Processing-Not <b>for<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>1<\qid>
+<rank>48<\rank>
+<doc>CACM-2597<\doc>
+<snippet>
+An Operating System Structuring <b>ConceptThis<\b> paper develops 
+<\snippet>
+<\document>
+
+<document>
+<qid>1<\qid>
+<rank>49<\rank>
+<doc>CACM-2632<\doc>
+<snippet>
+The Kernel of a <b>Multiprocessor<\b> Operating SystemThis 
+<\snippet>
+<\document>
+
+<document>
+<qid>1<\qid>
+<rank>50<\rank>
+<doc>CACM-0031<\doc>
+<snippet>
+704 Code-NundrumsCACM March, 1958Grumette, M.CA580301 <b>JB<\b> March 
+<\snippet>
+<\document>
+
+<document>
+<qid>1<\qid>
+<rank>51<\rank>
+<doc>CACM-1735<\doc>
+<snippet>
+Futures Market in Computer timeAn auction method 
+<\snippet>
+<\document>
+
+<document>
+<qid>1<\qid>
+<rank>52<\rank>
+<doc>CACM-1571<\doc>
+<snippet>
+User-Oriented Time-Shared <b>Online<\b> SystemAn existing <b>system<\b> and 
+<\snippet>
+<\document>
+
+<document>
+<qid>1<\qid>
+<rank>53<\rank>
+<doc>CACM-1464<\doc>
+<snippet>
+ALGOL Compiler: Construction and Usein Relation <b>to<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>1<\qid>
+<rank>54<\rank>
+<doc>CACM-1719<\doc>
+<snippet>
+Methodology for Calculating andOptimizing Real-Time System <b>PerformanceThe<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>1<\qid>
+<rank>55<\rank>
+<doc>CACM-2542<\doc>
+<snippet>
+Software Design <b>and<\b> Evaluation SystemA critical failure 
+<\snippet>
+<\document>
+
+<document>
+<qid>1<\qid>
+<rank>56<\rank>
+<doc>CACM-3048<\doc>
+<snippet>
+Evaluation of <b>Highly<\b> ConcurrentComputers by Deterministic SimulationSimulation 
+<\snippet>
+<\document>
+
+<document>
+<qid>1<\qid>
+<rank>57<\rank>
+<doc>CACM-3012<\doc>
+<snippet>
+Use of an Interactive Information Storageand <b>Retrieval<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>1<\qid>
+<rank>58<\rank>
+<doc>CACM-0391<\doc>
+<snippet>
+<b>BKS<\b> System for the Philco-2000 CACM February, 
+<\snippet>
+<\document>
+
+<document>
+<qid>1<\qid>
+<rank>59<\rank>
+<doc>CACM-1680<\doc>
+<snippet>
+General-Purpose <b>Display<\b> Processing and Tutorial SystemADEPT (A 
+<\snippet>
+<\document>
+
+<document>
+<qid>1<\qid>
+<rank>60<\rank>
+<doc>CACM-0069<\doc>
+<snippet>
+Programs for the IBM 650-Part IA <b>collection<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>1<\qid>
+<rank>61<\rank>
+<doc>CACM-0398<\doc>
+<snippet>
+SLANG SystemCACM January, 1961Sibley, R. A.CA610116 <b>JB<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>1<\qid>
+<rank>62<\rank>
+<doc>CACM-1410<\doc>
+<snippet>
+Statistics for Time Sharing SystemsThe optimization of 
+<\snippet>
+<\document>
+
+<document>
+<qid>1<\qid>
+<rank>63<\rank>
+<doc>CACM-2681<\doc>
+<snippet>
+Memory RepackingA probabilistic model of a multiprogramming 
+<\snippet>
+<\document>
+
+<document>
+<qid>1<\qid>
+<rank>64<\rank>
+<doc>CACM-1885<\doc>
+<snippet>
+Computer System for <b>Transformational<\b> GrammarA comprehensive system 
+<\snippet>
+<\document>
+
+<document>
+<qid>1<\qid>
+<rank>65<\rank>
+<doc>CACM-1195<\doc>
+<snippet>
+of Pittsburgh Linear File Tandem SystemA <b>series<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>1<\qid>
+<rank>66<\rank>
+<doc>CACM-0202<\doc>
+<snippet>
+Control System For Logical Block Diagnosis With 
+<\snippet>
+<\document>
+
+<document>
+<qid>1<\qid>
+<rank>67<\rank>
+<doc>CACM-1472<\doc>
+<snippet>
+of a <b>High<\b> Capacity, FastTurnaround University Computing 
+<\snippet>
+<\document>
+
+<document>
+<qid>1<\qid>
+<rank>68<\rank>
+<doc>CACM-1506<\doc>
+<snippet>
+LACONIQ Monitor: Time <b>Sharing<\b> for Online DialoguesThe 
+<\snippet>
+<\document>
+
+<document>
+<qid>1<\qid>
+<rank>69<\rank>
+<doc>CACM-1440<\doc>
+<snippet>
+Approximations <b>for<\b> Square Root Calculation on IBM 
+<\snippet>
+<\document>
+
+<document>
+<qid>1<\qid>
+<rank>70<\rank>
+<doc>CACM-1461<\doc>
+<snippet>
+Summary on Operating SystemsCACM March, 1966CA660311 <b>JB<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>1<\qid>
+<rank>71<\rank>
+<doc>CACM-0050<\doc>
+<snippet>
+Programs for the IBM 650-Part IICACM October, 
+<\snippet>
+<\document>
+
+<document>
+<qid>1<\qid>
+<rank>72<\rank>
+<doc>CACM-0234<\doc>
+<snippet>
+SAP-Like Assembly <b>Program<\b> for the IBM 650CACM 
+<\snippet>
+<\document>
+
+<document>
+<qid>1<\qid>
+<rank>73<\rank>
+<doc>CACM-0827<\doc>
+<snippet>
+File SortingSorting techniques using an IBM 1401 
+<\snippet>
+<\document>
+
+<document>
+<qid>1<\qid>
+<rank>74<\rank>
+<doc>CACM-0067<\doc>
+<snippet>
+ComputersCACM September, 1959Blachman, N. <b>M.CA590902<\b> <b>JB<\b> <b>March<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>1<\qid>
+<rank>75<\rank>
+<doc>CACM-1161<\doc>
+<snippet>
+Compatibility Feature on <b>the<\b> IBM System/360 Model 
+<\snippet>
+<\document>
+
+<document>
+<qid>1<\qid>
+<rank>76<\rank>
+<doc>CACM-3137<\doc>
+<snippet>
+Methodology <b>for<\b> the Design of Distributed Information 
+<\snippet>
+<\document>
+
+<document>
+<qid>1<\qid>
+<rank>77<\rank>
+<doc>CACM-0061<\doc>
+<snippet>
+709 Tape Matrix <b>CompilerCACM<\b> September, 1959Hornick, S. 
+<\snippet>
+<\document>
+
+<document>
+<qid>1<\qid>
+<rank>78<\rank>
+<doc>CACM-0198<\doc>
+<snippet>
+High-Speed Multiplication Process <b>for<\b> Digital ComputersCACM April, 
+<\snippet>
+<\document>
+
+<document>
+<qid>1<\qid>
+<rank>79<\rank>
+<doc>CACM-2607<\doc>
+<snippet>
+Problem-List of Issues Concerning Computers and Public 
+<\snippet>
+<\document>
+
+<document>
+<qid>1<\qid>
+<rank>80<\rank>
+<doc>CACM-2188<\doc>
+<snippet>
+Approach to the Optimum Design of <b>Computer<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>1<\qid>
+<rank>81<\rank>
+<doc>CACM-1698<\doc>
+<snippet>
+Statistical Model for Console Behavior in Multiuser 
+<\snippet>
+<\document>
+
+<document>
+<qid>1<\qid>
+<rank>82<\rank>
+<doc>CACM-1753<\doc>
+<snippet>
+Memory, <b>Processes,<\b> and Sharing in MULTICSSome basic 
+<\snippet>
+<\document>
+
+<document>
+<qid>1<\qid>
+<rank>83<\rank>
+<doc>CACM-1179<\doc>
+<snippet>
+Purdue University Fast FORTRAN TranslatorA <b>core<\b> resident, 
+<\snippet>
+<\document>
+
+<document>
+<qid>1<\qid>
+<rank>84<\rank>
+<doc>CACM-3025<\doc>
+<snippet>
+Evolution of the DEC system 10The DEC 
+<\snippet>
+<\document>
+
+<document>
+<qid>1<\qid>
+<rank>85<\rank>
+<doc>CACM-1750<\doc>
+<snippet>
+<b>in<\b> the Design of a MultipleComputer System 
+<\snippet>
+<\document>
+
+<document>
+<qid>1<\qid>
+<rank>86<\rank>
+<doc>CACM-1226<\doc>
+<snippet>
+Organization of <b>Structured<\b> FilesA data file is 
+<\snippet>
+<\document>
+
+<document>
+<qid>1<\qid>
+<rank>87<\rank>
+<doc>CACM-2868<\doc>
+<snippet>
+on an Operating System DesignThe main features 
+<\snippet>
+<\document>
+
+<document>
+<qid>1<\qid>
+<rank>88<\rank>
+<doc>CACM-0971<\doc>
+<snippet>
+Sharing in a Traffic Control ProgramThe Toronto 
+<\snippet>
+<\document>
+
+<document>
+<qid>1<\qid>
+<rank>89<\rank>
+<doc>CACM-1827<\doc>
+<snippet>
+Monitoring in a Time-Sharing SystemA software measurement 
+<\snippet>
+<\document>
+
+<document>
+<qid>1<\qid>
+<rank>90<\rank>
+<doc>CACM-0866<\doc>
+<snippet>
+<b>on<\b> ComputersCACM May, 1963Gotlieb, C. C.CA630501 JB 
+<\snippet>
+<\document>
+
+<document>
+<qid>1<\qid>
+<rank>91<\rank>
+<doc>CACM-0999<\doc>
+<snippet>
+Inventorship <b>of<\b> ComputersCACM October, 1964Hauptman, G. A.CA641003 
+<\snippet>
+<\document>
+
+<document>
+<qid>1<\qid>
+<rank>92<\rank>
+<doc>CACM-1107<\doc>
+<snippet>
+and EducationCACM April, 1964Keenan, T. A.CA640401 JB 
+<\snippet>
+<\document>
+
+<document>
+<qid>1<\qid>
+<rank>93<\rank>
+<doc>CACM-2398<\doc>
+<snippet>
+<b>Authored<\b> CAI Using the NEWBASIC SystemThe pedagogical 
+<\snippet>
+<\document>
+
+<document>
+<qid>1<\qid>
+<rank>94<\rank>
+<doc>CACM-0798<\doc>
+<snippet>
+Catalogue Entry Retrieval SystemScheff, <b>B.<\b> H.CACM July, 
+<\snippet>
+<\document>
+
+<document>
+<qid>1<\qid>
+<rank>95<\rank>
+<doc>CACM-1247<\doc>
+<snippet>
+Operating Environment <b>for<\b> <b>Dynamic-RecursiveComputer<\b> <b>Programming<\b> <b>SystemsPresented<\b> <b>in<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>1<\qid>
+<rank>96<\rank>
+<doc>CACM-3089<\doc>
+<snippet>
+of Rollback Recovery <b>Systems<\b> under Intermittent FailuresA 
+<\snippet>
+<\document>
+
+<document>
+<qid>1<\qid>
+<rank>97<\rank>
+<doc>CACM-2621<\doc>
+<snippet>
+High Security Log-in ProcedureThe <b>protection<\b> <b>of<\b> <b>time<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>1<\qid>
+<rank>98<\rank>
+<doc>CACM-1163<\doc>
+<snippet>
+Translation at Problem-Oriented, Symbolic <b>and<\b> Binary LevelsA 
+<\snippet>
+<\document>
+
+<document>
+<qid>1<\qid>
+<rank>99<\rank>
+<doc>CACM-1070<\doc>
+<snippet>
+A System for <b>Input<\b> Card ReplicationCACM May, 
+<\snippet>
+<\document>
+
+<document>
+<qid>1<\qid>
+<rank>100<\rank>
+<doc>CACM-2070<\doc>
+<snippet>
+Formal System for Information <b>Retrieval<\b> from FilesCACM 
+<\snippet>
+<\document>

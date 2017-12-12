@@ -1,0 +1,1 @@
+adaptive numerical integration by simpsons rule algorithm 145 d1 cacm March, 1965 Pike, M. C. ca650309 jb march 7, 1978 6:03 pm

@@ -1,0 +1,1 @@
+matrix inversion algorithm 58 cacm August, 1962 George, R. ca620820 jb march 17, 1978 9:32 pm

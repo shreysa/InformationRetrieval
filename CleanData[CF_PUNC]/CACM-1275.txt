@@ -1,0 +1,1 @@
+code structures for protection and manipulation of variable length items corrigendum cacm April, 1965 Ramamoorthy, C. V. ca650416 jb march 7, 1978 3:31 pm

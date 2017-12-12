@@ -1,0 +1,900 @@
+
+<document>
+<qid>34<\qid>
+<rank>1<\rank>
+<doc>CACM-1763<\doc>
+<snippet>
+of Low-Order Polynomial Equations <b>(Algorithm<\b> 326 [C2])CACM 
+<\snippet>
+<\document>
+
+<document>
+<qid>34<\qid>
+<rank>2<\rank>
+<doc>CACM-2660<\doc>
+<snippet>
+to M. L. Patrick PaperCACM April, 1974Simmons, 
+<\snippet>
+<\document>
+
+<document>
+<qid>34<\qid>
+<rank>3<\rank>
+<doc>CACM-1949<\doc>
+<snippet>
+Assumptions and Intellectual Isolation of Computer ScientistsCACM 
+<\snippet>
+<\document>
+
+<document>
+<qid>34<\qid>
+<rank>4<\rank>
+<doc>CACM-2385<\doc>
+<snippet>
+of a Complex Polynomial [C2] (Algorithm A419)CACM 
+<\snippet>
+<\document>
+
+<document>
+<qid>34<\qid>
+<rank>5<\rank>
+<doc>CACM-1393<\doc>
+<snippet>
+A System for Polynomial ManipulationPM is <b>an<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>34<\qid>
+<rank>6<\rank>
+<doc>CACM-1524<\doc>
+<snippet>
+Stopping Criterion for <b>Polynomial<\b> Root FindingWhen searching 
+<\snippet>
+<\document>
+
+<document>
+<qid>34<\qid>
+<rank>7<\rank>
+<doc>CACM-1644<\doc>
+<snippet>
+the Computation <b>of<\b> Least Squares PolynomialsRounding error 
+<\snippet>
+<\document>
+
+<document>
+<qid>34<\qid>
+<rank>8<\rank>
+<doc>CACM-1667<\doc>
+<snippet>
+of Polynomials by a Root-Squaringand <b>Resultant<\b> Routine 
+<\snippet>
+<\document>
+
+<document>
+<qid>34<\qid>
+<rank>9<\rank>
+<doc>CACM-1893<\doc>
+<snippet>
+of <b>Polynomials<\b> by a Root-Squaringand Resultant routine 
+<\snippet>
+<\document>
+
+<document>
+<qid>34<\qid>
+<rank>10<\rank>
+<doc>CACM-1882<\doc>
+<snippet>
+of the Square <b>Root<\b> of a PositiveDefinite 
+<\snippet>
+<\document>
+
+<document>
+<qid>34<\qid>
+<rank>11<\rank>
+<doc>CACM-1999<\doc>
+<snippet>
+Starting Approximations for GeneratingSquare Root for <b>Slow<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>34<\qid>
+<rank>12<\rank>
+<doc>CACM-0262<\doc>
+<snippet>
+November, 1961Moore, C. L.Ruwe, <b>M.<\b> L.CA611106 JB 
+<\snippet>
+<\document>
+
+<document>
+<qid>34<\qid>
+<rank>13<\rank>
+<doc>CACM-1440<\doc>
+<snippet>
+Approximations for Square Root Calculation <b>on<\b> IBM 
+<\snippet>
+<\document>
+
+<document>
+<qid>34<\qid>
+<rank>14<\rank>
+<doc>CACM-0334<\doc>
+<snippet>
+and Square Root in the Quater-Imaginary Number 
+<\snippet>
+<\document>
+
+<document>
+<qid>34<\qid>
+<rank>15<\rank>
+<doc>CACM-0672<\doc>
+<snippet>
+Developments Affecting <b>ADP<\b> in Tax AdministrationCACM December, 
+<\snippet>
+<\document>
+
+<document>
+<qid>34<\qid>
+<rank>16<\rank>
+<doc>CACM-2458<\doc>
+<snippet>
+<b>of<\b> the Roots of a Polynomial (Algorithm 
+<\snippet>
+<\document>
+
+<document>
+<qid>34<\qid>
+<rank>17<\rank>
+<doc>CACM-2808<\doc>
+<snippet>
+<b>Lemniscate<\b> ConstantsThe lemniscate constants, and indeed someof 
+<\snippet>
+<\document>
+
+<document>
+<qid>34<\qid>
+<rank>18<\rank>
+<doc>CACM-1520<\doc>
+<snippet>
+<b>Value<\b> and Square Root of a Complex 
+<\snippet>
+<\document>
+
+<document>
+<qid>34<\qid>
+<rank>19<\rank>
+<doc>CACM-1386<\doc>
+<snippet>
+Factoring of Polynomials in Several VariablesAn algorithm 
+<\snippet>
+<\document>
+
+<document>
+<qid>34<\qid>
+<rank>20<\rank>
+<doc>CACM-1031<\doc>
+<snippet>
+Note on <b>Starting<\b> the Newton-Raphson MethodDetermination of 
+<\snippet>
+<\document>
+
+<document>
+<qid>34<\qid>
+<rank>21<\rank>
+<doc>CACM-1643<\doc>
+<snippet>
+<b>Improvement<\b> to Iterative Methods of Polynomial FactorizationMethods 
+<\snippet>
+<\document>
+
+<document>
+<qid>34<\qid>
+<rank>22<\rank>
+<doc>CACM-1932<\doc>
+<snippet>
+Logarithmic <b>Error<\b> and Newton's Method for the 
+<\snippet>
+<\document>
+
+<document>
+<qid>34<\qid>
+<rank>23<\rank>
+<doc>CACM-2291<\doc>
+<snippet>
+of the Roots <b>of<\b> a Polynomial [C2] 
+<\snippet>
+<\document>
+
+<document>
+<qid>34<\qid>
+<rank>24<\rank>
+<doc>CACM-0340<\doc>
+<snippet>
+Polynomial (Algorithm <b>13)CACM<\b> April, 1961Herndon, J.CA610428 JB 
+<\snippet>
+<\document>
+
+<document>
+<qid>34<\qid>
+<rank>25<\rank>
+<doc>CACM-0341<\doc>
+<snippet>
+Polynomial (Algorithm 10)CACM April, 1961 Herndon, J.CA610427 
+<\snippet>
+<\document>
+
+<document>
+<qid>34<\qid>
+<rank>26<\rank>
+<doc>CACM-0819<\doc>
+<snippet>
+Evaluation RevisedCACM July, <b>1963<\b> Eisman, S. H.CA630705 
+<\snippet>
+<\document>
+
+<document>
+<qid>34<\qid>
+<rank>27<\rank>
+<doc>CACM-1689<\doc>
+<snippet>
+of a Polynomial and its DerivativeValues by 
+<\snippet>
+<\document>
+
+<document>
+<qid>34<\qid>
+<rank>28<\rank>
+<doc>CACM-0342<\doc>
+<snippet>
+of Polynomial Equation by Barstow-Hitchcock (Algorithm 3)CACM 
+<\snippet>
+<\document>
+
+<document>
+<qid>34<\qid>
+<rank>29<\rank>
+<doc>CACM-2676<\doc>
+<snippet>
+of <b>a<\b> Complex Polynomial (Algorithm R419)CACM March, 
+<\snippet>
+<\document>
+
+<document>
+<qid>34<\qid>
+<rank>30<\rank>
+<doc>CACM-0397<\doc>
+<snippet>
+Card <b>Format<\b> for Reference Files in Information 
+<\snippet>
+<\document>
+
+<document>
+<qid>34<\qid>
+<rank>31<\rank>
+<doc>CACM-0884<\doc>
+<snippet>
+Polynomial Least Squares Surface Fit (Algorithm 164)CACM 
+<\snippet>
+<\document>
+
+<document>
+<qid>34<\qid>
+<rank>32<\rank>
+<doc>CACM-1940<\doc>
+<snippet>
+of a Polynomial and its DerivativeValues <b>by<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>34<\qid>
+<rank>33<\rank>
+<doc>CACM-0848<\doc>
+<snippet>
+Note on Range Transformations for <b>Square<\b> Root 
+<\snippet>
+<\document>
+
+<document>
+<qid>34<\qid>
+<rank>34<\rank>
+<doc>CACM-0112<\doc>
+<snippet>
+Solution of the Polynomial Equation <b>(Algorithm<\b> 30)CACM 
+<\snippet>
+<\document>
+
+<document>
+<qid>34<\qid>
+<rank>35<\rank>
+<doc>CACM-0325<\doc>
+<snippet>
+Solution of the Polynomial Equation <b>(Algorithm<\b> 30)CACM 
+<\snippet>
+<\document>
+
+<document>
+<qid>34<\qid>
+<rank>36<\rank>
+<doc>CACM-0647<\doc>
+<snippet>
+Solution of the Polynomial Equation (Algorithm 30)CACM 
+<\snippet>
+<\document>
+
+<document>
+<qid>34<\qid>
+<rank>37<\rank>
+<doc>CACM-0125<\doc>
+<snippet>
+Transformer (Algorithm <b>29)CACM<\b> November, 1960Mackinney, J. G.CA601110 
+<\snippet>
+<\document>
+
+<document>
+<qid>34<\qid>
+<rank>38<\rank>
+<doc>CACM-2440<\doc>
+<snippet>
+of the Roots of a Polynomial (Algorithm 
+<\snippet>
+<\document>
+
+<document>
+<qid>34<\qid>
+<rank>39<\rank>
+<doc>CACM-0179<\doc>
+<snippet>
+of <b>the<\b> Legendre Polynomial Pn(X) by Recursion 
+<\snippet>
+<\document>
+
+<document>
+<qid>34<\qid>
+<rank>40<\rank>
+<doc>CACM-0180<\doc>
+<snippet>
+of the Laguerre Polynomial Ln(X) by Recursion 
+<\snippet>
+<\document>
+
+<document>
+<qid>34<\qid>
+<rank>41<\rank>
+<doc>CACM-0181<\doc>
+<snippet>
+of <b>the<\b> <b>Hermite<\b> <b>Polynomial<\b> <b>Hn(X)<\b> <b>by<\b> <b>Recursion<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>34<\qid>
+<rank>42<\rank>
+<doc>CACM-0182<\doc>
+<snippet>
+of the <b>Chebyshev<\b> Polynomial Tn(X) by Recursion 
+<\snippet>
+<\document>
+
+<document>
+<qid>34<\qid>
+<rank>43<\rank>
+<doc>CACM-0226<\doc>
+<snippet>
+<b>of<\b> Polynomial Equation byBairstow-Hitchcock Method (Algorithm 3)CACM 
+<\snippet>
+<\document>
+
+<document>
+<qid>34<\qid>
+<rank>44<\rank>
+<doc>CACM-0764<\doc>
+<snippet>
+of a Matrix Containing Polynomial <b>Elements<\b> <b>(Algorithm<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>34<\qid>
+<rank>45<\rank>
+<doc>CACM-0878<\doc>
+<snippet>
+<b>of<\b> a Matrix Containing Polynomial Elements (Algorithm 
+<\snippet>
+<\document>
+
+<document>
+<qid>34<\qid>
+<rank>46<\rank>
+<doc>CACM-1599<\doc>
+<snippet>
+Solution of the Polynomial Equation (Algorithm 300 
+<\snippet>
+<\document>
+
+<document>
+<qid>34<\qid>
+<rank>47<\rank>
+<doc>CACM-1615<\doc>
+<snippet>
+Algorithm for Generating Root Locus DiagramsA <b>technique<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>34<\qid>
+<rank>48<\rank>
+<doc>CACM-0062<\doc>
+<snippet>
+<b>Least-Squares<\b> Polynomial Curve FittingCACM September, 1959Lesh, F. 
+<\snippet>
+<\document>
+
+<document>
+<qid>34<\qid>
+<rank>49<\rank>
+<doc>CACM-1080<\doc>
+<snippet>
+Polynomial Coefficients (Algorithm 227)CACM May, 1964Cyvin, S. 
+<\snippet>
+<\document>
+
+<document>
+<qid>34<\qid>
+<rank>50<\rank>
+<doc>CACM-1832<\doc>
+<snippet>
+Logarithmic <b>ErrorCACM<\b> October, 1969Dunham, C. B.logarithmic error, 
+<\snippet>
+<\document>
+
+<document>
+<qid>34<\qid>
+<rank>51<\rank>
+<doc>CACM-2266<\doc>
+<snippet>
+Highly Parallel Algorithm for <b>ApproximatingAll<\b> Zeros of 
+<\snippet>
+<\document>
+
+<document>
+<qid>34<\qid>
+<rank>52<\rank>
+<doc>CACM-0024<\doc>
+<snippet>
+Improved Decimal Redundancy CheckCACM May, <b>1958Sisson,<\b> R. 
+<\snippet>
+<\document>
+
+<document>
+<qid>34<\qid>
+<rank>53<\rank>
+<doc>CACM-1620<\doc>
+<snippet>
+of Evaluating Polynomial Approximationsin Function Evaluation RoutinesThe 
+<\snippet>
+<\document>
+
+<document>
+<qid>34<\qid>
+<rank>54<\rank>
+<doc>CACM-1623<\doc>
+<snippet>
+Application of FORMACA nonlinear circuit <b>analysis<\b> problem 
+<\snippet>
+<\document>
+
+<document>
+<qid>34<\qid>
+<rank>55<\rank>
+<doc>CACM-1259<\doc>
+<snippet>
+of Binary Numbers In <b>Computer<\b> RoutinesA binary 
+<\snippet>
+<\document>
+
+<document>
+<qid>34<\qid>
+<rank>56<\rank>
+<doc>CACM-0388<\doc>
+<snippet>
+of Polynomial <b>Equations<\b> byBairstow Hitchcock Method (Algorithm 
+<\snippet>
+<\document>
+
+<document>
+<qid>34<\qid>
+<rank>57<\rank>
+<doc>CACM-0842<\doc>
+<snippet>
+Posteriori Bounds <b>on<\b> <b>a<\b> <b>Zero<\b> <b>of<\b> <b>a<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>34<\qid>
+<rank>58<\rank>
+<doc>CACM-1037<\doc>
+<snippet>
+of a Matrix Containing PolynomialElements (Algorithm 170 
+<\snippet>
+<\document>
+
+<document>
+<qid>34<\qid>
+<rank>59<\rank>
+<doc>CACM-0718<\doc>
+<snippet>
+Experiment in Automatic Verification of Programs How 
+<\snippet>
+<\document>
+
+<document>
+<qid>34<\qid>
+<rank>60<\rank>
+<doc>CACM-1812<\doc>
+<snippet>
+on Fortran <b>Random<\b> Number GeneratorsCACM November, 1969Grosenbaugh, 
+<\snippet>
+<\document>
+
+<document>
+<qid>34<\qid>
+<rank>61<\rank>
+<doc>CACM-1015<\doc>
+<snippet>
+Polynomial Approximations and Partitioning of IntervalsA method 
+<\snippet>
+<\document>
+
+<document>
+<qid>34<\qid>
+<rank>62<\rank>
+<doc>CACM-2696<\doc>
+<snippet>
+Method of Bivariate Interpolation and SmoothSurface <b>Fitting<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>34<\qid>
+<rank>63<\rank>
+<doc>CACM-0283<\doc>
+<snippet>
+of a Complex MatrixCACM September, <b>1961Tornheim,<\b> L.CA610911 
+<\snippet>
+<\document>
+
+<document>
+<qid>34<\qid>
+<rank>64<\rank>
+<doc>CACM-0276<\doc>
+<snippet>
+Organization and Record Keeping for Dynamic Storage 
+<\snippet>
+<\document>
+
+<document>
+<qid>34<\qid>
+<rank>65<\rank>
+<doc>CACM-0435<\doc>
+<snippet>
+Decision Matrix as <b>the<\b> Basis for a 
+<\snippet>
+<\document>
+
+<document>
+<qid>34<\qid>
+<rank>66<\rank>
+<doc>CACM-1014<\doc>
+<snippet>
+Controls for Analysis of VarianceA <b>major<\b> problem 
+<\snippet>
+<\document>
+
+<document>
+<qid>34<\qid>
+<rank>67<\rank>
+<doc>CACM-0474<\doc>
+<snippet>
+Data Organization in FortranCACM <b>October,<\b> 1962Yarbrough, L.CA621006 
+<\snippet>
+<\document>
+
+<document>
+<qid>34<\qid>
+<rank>68<\rank>
+<doc>CACM-2600<\doc>
+<snippet>
+of g-Splines via a FactorizationMethod [E2] <b>(Algorithm<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>34<\qid>
+<rank>69<\rank>
+<doc>CACM-2090<\doc>
+<snippet>
+Expansion of <b>Algebraic<\b> Expressions (Algorithm 377 $R2))CACM 
+<\snippet>
+<\document>
+
+<document>
+<qid>34<\qid>
+<rank>70<\rank>
+<doc>CACM-1450<\doc>
+<snippet>
+Displacement <b>of<\b> PolynomialRoots if Real and Simple 
+<\snippet>
+<\document>
+
+<document>
+<qid>34<\qid>
+<rank>71<\rank>
+<doc>CACM-1875<\doc>
+<snippet>
+and Spline Approximation by Quadratic <b>ProgrammingThe<\b> problem 
+<\snippet>
+<\document>
+
+<document>
+<qid>34<\qid>
+<rank>72<\rank>
+<doc>CACM-0213<\doc>
+<snippet>
+Inversion of Laplace TransformsCACM March, <b>1960Schmittroth,<\b> L. 
+<\snippet>
+<\document>
+
+<document>
+<qid>34<\qid>
+<rank>73<\rank>
+<doc>CACM-0930<\doc>
+<snippet>
+Conversion of <b>Short<\b> FieldsCACM February, 1963Yarbrough, L. 
+<\snippet>
+<\document>
+
+<document>
+<qid>34<\qid>
+<rank>74<\rank>
+<doc>CACM-1093<\doc>
+<snippet>
+of Determinant (Algorithm 224)CACM April, 1964Rotenberg, <b>L.<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>34<\qid>
+<rank>75<\rank>
+<doc>CACM-1128<\doc>
+<snippet>
+of Determinant (Algorithm 41)CACM March, 1964Rotenberg, <b>L.<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>34<\qid>
+<rank>76<\rank>
+<doc>CACM-1269<\doc>
+<snippet>
+of Fourier Coefficients <b>(Algorithm<\b> [C6])CACM May, 1965Teijelo, 
+<\snippet>
+<\document>
+
+<document>
+<qid>34<\qid>
+<rank>77<\rank>
+<doc>CACM-1387<\doc>
+<snippet>
+of Systems of <b>Polynomial<\b> Equations By EliminationThe 
+<\snippet>
+<\document>
+
+<document>
+<qid>34<\qid>
+<rank>78<\rank>
+<doc>CACM-1666<\doc>
+<snippet>
+<b>of<\b> <b>Linear<\b> <b>Programs<\b> <b>in<\b> <b>0-1<\b> <b>Variablesby<\b> <b>Implicit<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>34<\qid>
+<rank>79<\rank>
+<doc>CACM-0765<\doc>
+<snippet>
+<b>Polynomial<\b> Least Squares Surface Fit (Algorithm 164)CACM 
+<\snippet>
+<\document>
+
+<document>
+<qid>34<\qid>
+<rank>80<\rank>
+<doc>CACM-1946<\doc>
+<snippet>
+Polynomial Resultants: Bezout's Determinantvs. Collins' Reduced <b>P.<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>34<\qid>
+<rank>81<\rank>
+<doc>CACM-0327<\doc>
+<snippet>
+of a Real Polynomial by Resultant <b>Procedure<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>34<\qid>
+<rank>82<\rank>
+<doc>CACM-2194<\doc>
+<snippet>
+To Keep the Addresses <b>ShortAn<\b> algorithm is 
+<\snippet>
+<\document>
+
+<document>
+<qid>34<\qid>
+<rank>83<\rank>
+<doc>CACM-0332<\doc>
+<snippet>
+<b>Indirect<\b> Chaining Method for Addressing on Secondary 
+<\snippet>
+<\document>
+
+<document>
+<qid>34<\qid>
+<rank>84<\rank>
+<doc>CACM-0116<\doc>
+<snippet>
+Sumador ChinoOn a recent <b>motor<\b> trip through 
+<\snippet>
+<\document>
+
+<document>
+<qid>34<\qid>
+<rank>85<\rank>
+<doc>CACM-0794<\doc>
+<snippet>
+List-Type <b>Storage<\b> Technique for Alphameric InformationA method 
+<\snippet>
+<\document>
+
+<document>
+<qid>34<\qid>
+<rank>86<\rank>
+<doc>CACM-0492<\doc>
+<snippet>
+of a File Addressing MethodThis paper <b>presents<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>34<\qid>
+<rank>87<\rank>
+<doc>CACM-1867<\doc>
+<snippet>
+the Expected Lengths of Sequences Generatedin Sorting 
+<\snippet>
+<\document>
+
+<document>
+<qid>34<\qid>
+<rank>88<\rank>
+<doc>CACM-0679<\doc>
+<snippet>
+<b>Improvements<\b> in MADCAPMADCAP is a programming language 
+<\snippet>
+<\document>
+
+<document>
+<qid>34<\qid>
+<rank>89<\rank>
+<doc>CACM-2184<\doc>
+<snippet>
+the Meaning of Names in <b>Programming<\b> SystemsIt 
+<\snippet>
+<\document>
+
+<document>
+<qid>34<\qid>
+<rank>90<\rank>
+<doc>CACM-1383<\doc>
+<snippet>
+of the Digital Computerfor <b>Education<\b> In the 
+<\snippet>
+<\document>
+
+<document>
+<qid>34<\qid>
+<rank>91<\rank>
+<doc>CACM-1567<\doc>
+<snippet>
+the Representation of Symmetric PolynomialsRelations are given 
+<\snippet>
+<\document>
+
+<document>
+<qid>34<\qid>
+<rank>92<\rank>
+<doc>CACM-2306<\doc>
+<snippet>
+Babylonian <b>AlgorithmsThe<\b> early origins of mathematics are 
+<\snippet>
+<\document>
+
+<document>
+<qid>34<\qid>
+<rank>93<\rank>
+<doc>CACM-1134<\doc>
+<snippet>
+Effects of the 6600 Computer <b>on<\b> Language 
+<\snippet>
+<\document>
+
+<document>
+<qid>34<\qid>
+<rank>94<\rank>
+<doc>CACM-0080<\doc>
+<snippet>
+Technique for Computing Critical RotationalSpeeds of Flexible 
+<\snippet>
+<\document>
+
+<document>
+<qid>34<\qid>
+<rank>95<\rank>
+<doc>CACM-2840<\doc>
+<snippet>
+in Operating SystemsA model of <b>protection<\b> mechanisms 
+<\snippet>
+<\document>
+
+<document>
+<qid>34<\qid>
+<rank>96<\rank>
+<doc>CACM-1884<\doc>
+<snippet>
+Anomaly in Space-Time Characteristics <b>ofCertain<\b> Programs Running 
+<\snippet>
+<\document>
+
+<document>
+<qid>34<\qid>
+<rank>97<\rank>
+<doc>CACM-1633<\doc>
+<snippet>
+Modified Newton Method for PolynomialsA <b>modified<\b> Newton 
+<\snippet>
+<\document>
+
+<document>
+<qid>34<\qid>
+<rank>98<\rank>
+<doc>CACM-2999<\doc>
+<snippet>
+Approach to Multidimensional Data Array Processing <b>by<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>34<\qid>
+<rank>99<\rank>
+<doc>CACM-1488<\doc>
+<snippet>
+Decision Tables in FORTRAN, <b>COBOL<\b> or ALGOLA 
+<\snippet>
+<\document>
+
+<document>
+<qid>34<\qid>
+<rank>100<\rank>
+<doc>CACM-2042<\doc>
+<snippet>
+3 (Algorithm 245 $M1))The certification of an 
+<\snippet>
+<\document>

@@ -1,0 +1,1 @@
+eigenvalues eigenvectors symmetric system algorithm 297 f2 cacm March, 1967 Boothroyd, J. ca670311a jb february 28, 1978 12:59 pm

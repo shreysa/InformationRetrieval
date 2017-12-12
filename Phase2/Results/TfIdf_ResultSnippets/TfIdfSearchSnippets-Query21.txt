@@ -1,0 +1,900 @@
+
+<document>
+<qid>21<\qid>
+<rank>1<\rank>
+<doc>CACM-2337<\doc>
+<snippet>
+this technique.CACM June, 1972Pohl, I.sorting, computational complexity, computational combinatorics5.29 5.31CA720608 
+<\snippet>
+<\document>
+
+<document>
+<qid>21<\qid>
+<rank>2<\rank>
+<doc>CACM-1659<\doc>
+<snippet>
+recommendations for acourse curriculum on computational linguistics in a Ph. 
+<\snippet>
+<\document>
+
+<document>
+<qid>21<\qid>
+<rank>3<\rank>
+<doc>CACM-2932<\doc>
+<snippet>
+of ComputationsThe framework for research <b>in<\b> the 
+<\snippet>
+<\document>
+
+<document>
+<qid>21<\qid>
+<rank>4<\rank>
+<doc>CACM-0371<\doc>
+<snippet>
+on <b>Algorithms<\b> <b>2<\b> <b>and<\b> <b>3,<\b> <b>Algorithm<\b> <b>15<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>21<\qid>
+<rank>5<\rank>
+<doc>CACM-2325<\doc>
+<snippet>
+are: foundations(finite precision number systems, computational complexity), synthesis and analysis 
+<\snippet>
+<\document>
+
+<document>
+<qid>21<\qid>
+<rank>6<\rank>
+<doc>CACM-3007<\doc>
+<snippet>
+<b>of<\b> Computations (Corrigendum)CACM March, 1978Rabin, M.CA780306 JB 
+<\snippet>
+<\document>
+
+<document>
+<qid>21<\qid>
+<rank>7<\rank>
+<doc>CACM-2743<\doc>
+<snippet>
+H.Savage, J. E.Straus, E.merge sorting, computational complexity, datamodeling, computing <b>models,<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>21<\qid>
+<rank>8<\rank>
+<doc>CACM-3086<\doc>
+<snippet>
+discussing the effects of the computational model onthe ease of 
+<\snippet>
+<\document>
+
+<document>
+<qid>21<\qid>
+<rank>9<\rank>
+<doc>CACM-2927<\doc>
+<snippet>
+New Upper Bounds on the Generation <b>of<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>21<\qid>
+<rank>10<\rank>
+<doc>CACM-2997<\doc>
+<snippet>
+Hulls of Finite Sets <b>of<\b> Poin ts 
+<\snippet>
+<\document>
+
+<document>
+<qid>21<\qid>
+<rank>11<\rank>
+<doc>CACM-0895<\doc>
+<snippet>
+Difference MethodPresented here is a computational extensionof the variate difference 
+<\snippet>
+<\document>
+
+<document>
+<qid>21<\qid>
+<rank>12<\rank>
+<doc>CACM-2007<\doc>
+<snippet>
+Policy/Revised August 1970CACM August, 1970CA700814 JB February 
+<\snippet>
+<\document>
+
+<document>
+<qid>21<\qid>
+<rank>13<\rank>
+<doc>CACM-0164<\doc>
+<snippet>
+<b>Short<\b> Study of Notation EfficiencyCACM August, 1960Smith 
+<\snippet>
+<\document>
+
+<document>
+<qid>21<\qid>
+<rank>14<\rank>
+<doc>CACM-2950<\doc>
+<snippet>
+Unifying Approach to SchedulingThis <b>paper<\b> presents a 
+<\snippet>
+<\document>
+
+<document>
+<qid>21<\qid>
+<rank>15<\rank>
+<doc>CACM-0267<\doc>
+<snippet>
+Proposals for Improving the Efficiency <b>of<\b> ALGOL 
+<\snippet>
+<\document>
+
+<document>
+<qid>21<\qid>
+<rank>16<\rank>
+<doc>CACM-2226<\doc>
+<snippet>
+Evidence for the Analysis <b>of<\b> Algorithmsfor the 
+<\snippet>
+<\document>
+
+<document>
+<qid>21<\qid>
+<rank>17<\rank>
+<doc>CACM-1660<\doc>
+<snippet>
+By Subject To <b>algorithms,<\b> 1960-1968CACM December, 1968CA681206 
+<\snippet>
+<\document>
+
+<document>
+<qid>21<\qid>
+<rank>18<\rank>
+<doc>CACM-2837<\doc>
+<snippet>
+K.selection problem, algorithms, comparison problems,concrete computational complexity, upper bounds, worst-case 
+<\snippet>
+<\document>
+
+<document>
+<qid>21<\qid>
+<rank>19<\rank>
+<doc>CACM-0117<\doc>
+<snippet>
+<b>Estimation<\b> <b>of<\b> <b>the<\b> <b>Relative<\b> <b>Efficiency<\b> <b>of<\b> <b>Two<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>21<\qid>
+<rank>20<\rank>
+<doc>CACM-1658<\doc>
+<snippet>
+of Algorithms <b>for<\b> the Zero-One Programming ProblemThis 
+<\snippet>
+<\document>
+
+<document>
+<qid>21<\qid>
+<rank>21<\rank>
+<doc>CACM-1342<\doc>
+<snippet>
+Problem (Algorithms 293 <b>[H])CACM<\b> December, 1966Bayer, <b>G.CA661207a<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>21<\qid>
+<rank>22<\rank>
+<doc>CACM-3131<\doc>
+<snippet>
+S.Number representation, logarithmic arithmetic, computationalspeed, computational accuracy, microcomputer applications  
+<\snippet>
+<\document>
+
+<document>
+<qid>21<\qid>
+<rank>23<\rank>
+<doc>CACM-2417<\doc>
+<snippet>
+Combinatorial Algorithms [G6] (Algorithm A466)CACM November, 1973Ehrlich, 
+<\snippet>
+<\document>
+
+<document>
+<qid>21<\qid>
+<rank>24<\rank>
+<doc>CACM-2884<\doc>
+<snippet>
+Enumeration: <b>Four<\b> New Permutation AlgorithmsClassical permutation enumeration 
+<\snippet>
+<\document>
+
+<document>
+<qid>21<\qid>
+<rank>25<\rank>
+<doc>CACM-3166<\doc>
+<snippet>
+are well-known in the statisticaland computational literature; the other two 
+<\snippet>
+<\document>
+
+<document>
+<qid>21<\qid>
+<rank>26<\rank>
+<doc>CACM-2454<\doc>
+<snippet>
+are also derived.  The computational algorithms are based on 
+<\snippet>
+<\document>
+
+<document>
+<qid>21<\qid>
+<rank>27<\rank>
+<doc>CACM-2508<\doc>
+<snippet>
+<b>the<\b> Efficiency of Quicksort (Algorithm R402)CACM May, 
+<\snippet>
+<\document>
+
+<document>
+<qid>21<\qid>
+<rank>28<\rank>
+<doc>CACM-0270<\doc>
+<snippet>
+for Storage Allocation Algorithms CACM <b>October,<\b> 1961Kelley 
+<\snippet>
+<\document>
+
+<document>
+<qid>21<\qid>
+<rank>29<\rank>
+<doc>CACM-0804<\doc>
+<snippet>
+of Series (Algorithms 134)CACM July, 1963Thacher Jr., 
+<\snippet>
+<\document>
+
+<document>
+<qid>21<\qid>
+<rank>30<\rank>
+<doc>CACM-2936<\doc>
+<snippet>
+Efficient Data Structure for <b>the<\b> Simulation Event 
+<\snippet>
+<\document>
+
+<document>
+<qid>21<\qid>
+<rank>31<\rank>
+<doc>CACM-2903<\doc>
+<snippet>
+elimination, pattern matching algorithms, stacks, computational induction4.0 4.2 5.20 5.24 
+<\snippet>
+<\document>
+
+<document>
+<qid>21<\qid>
+<rank>32<\rank>
+<doc>CACM-1374<\doc>
+<snippet>
+<b>of<\b> Determinant; DeterminantEvaluation (Algorithms 41[F3]; 269[F3])CACM September, 
+<\snippet>
+<\document>
+
+<document>
+<qid>21<\qid>
+<rank>33<\rank>
+<doc>CACM-1969<\doc>
+<snippet>
+<b>the<\b> Efficiency of <b>Quicksort<\b> (Algorithm 402 <b>$M1))CACM<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>21<\qid>
+<rank>34<\rank>
+<doc>CACM-1551<\doc>
+<snippet>
+Compiling Algorithms for Arithmetic ExpressionsThis <b>paper<\b> deals 
+<\snippet>
+<\document>
+
+<document>
+<qid>21<\qid>
+<rank>35<\rank>
+<doc>CACM-3006<\doc>
+<snippet>
+with <b>Variable<\b> Partition Paging AlgorithmsFive types of 
+<\snippet>
+<\document>
+
+<document>
+<qid>21<\qid>
+<rank>36<\rank>
+<doc>CACM-2679<\doc>
+<snippet>
+Performance Tests of "quicksort" and DescendantsDetailed performance 
+<\snippet>
+<\document>
+
+<document>
+<qid>21<\qid>
+<rank>37<\rank>
+<doc>CACM-1619<\doc>
+<snippet>
+<b>for<\b> <b>Statistical<\b> <b>ComputationsNeely<\b> <b>has<\b> <b>discussed<\b> <b>computational<\b> <b>error<\b> <b>generatedby<\b> <b>some<\b> <b>algorithms<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>21<\qid>
+<rank>38<\rank>
+<doc>CACM-2706<\doc>
+<snippet>
+Note on the Set <b>Basis<\b> Problem Relatedto 
+<\snippet>
+<\document>
+
+<document>
+<qid>21<\qid>
+<rank>39<\rank>
+<doc>CACM-2504<\doc>
+<snippet>
+Music and Computer <b>Composition<\b> in Computational LinguisticsCACM 
+<\snippet>
+<\document>
+
+<document>
+<qid>21<\qid>
+<rank>40<\rank>
+<doc>CACM-2505<\doc>
+<snippet>
+Permutations, Rosary Permutations,and Adjacent Transposition AlgorithmsCACM May, 
+<\snippet>
+<\document>
+
+<document>
+<qid>21<\qid>
+<rank>41<\rank>
+<doc>CACM-2645<\doc>
+<snippet>
+Languages for Estimating Program <b>EfficiencyTwo<\b> languages enabling 
+<\snippet>
+<\document>
+
+<document>
+<qid>21<\qid>
+<rank>42<\rank>
+<doc>CACM-0149<\doc>
+<snippet>
+Decision Rule <b>for<\b> Improved Efficiency in SolvingLinear 
+<\snippet>
+<\document>
+
+<document>
+<qid>21<\qid>
+<rank>43<\rank>
+<doc>CACM-1309<\doc>
+<snippet>
+of management reports, regardless of computational complexity or <b>formatvariety.<\b>  
+<\snippet>
+<\document>
+
+<document>
+<qid>21<\qid>
+<rank>44<\rank>
+<doc>CACM-2283<\doc>
+<snippet>
+Algorithms <b>on<\b> Rectangular, Hexagonal, and Triangular ArraysIn 
+<\snippet>
+<\document>
+
+<document>
+<qid>21<\qid>
+<rank>45<\rank>
+<doc>CACM-2863<\doc>
+<snippet>
+Optimal Variable-Space Page Replacement AlgorithmA <b>criterion<\b> <b>for<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>21<\qid>
+<rank>46<\rank>
+<doc>CACM-2725<\doc>
+<snippet>
+Comparison of Simulation Event List Algorithms (Corrigendum)CACM 
+<\snippet>
+<\document>
+
+<document>
+<qid>21<\qid>
+<rank>47<\rank>
+<doc>CACM-2830<\doc>
+<snippet>
+Practitioner's Guide to Addressing Algorithms (Corrigendum)CACM September, 
+<\snippet>
+<\document>
+
+<document>
+<qid>21<\qid>
+<rank>48<\rank>
+<doc>CACM-1465<\doc>
+<snippet>
+Translation Viewed as a General <b>Data<\b> Processing 
+<\snippet>
+<\document>
+
+<document>
+<qid>21<\qid>
+<rank>49<\rank>
+<doc>CACM-2272<\doc>
+<snippet>
+by Natural SelectionA family of <b>sorting<\b> algorithms 
+<\snippet>
+<\document>
+
+<document>
+<qid>21<\qid>
+<rank>50<\rank>
+<doc>CACM-1953<\doc>
+<snippet>
+Integral Ei(x) <b>(Algorithms<\b> 385 $S13))CACM December, 1970Redish, 
+<\snippet>
+<\document>
+
+<document>
+<qid>21<\qid>
+<rank>51<\rank>
+<doc>CACM-2953<\doc>
+<snippet>
+of programs,stacks, trees, sorting algorithms, computational induction4.0 4.2 5.20 5.24 
+<\snippet>
+<\document>
+
+<document>
+<qid>21<\qid>
+<rank>52<\rank>
+<doc>CACM-3162<\doc>
+<snippet>
+Improving <b>the<\b> Worst Case Running Timeof the 
+<\snippet>
+<\document>
+
+<document>
+<qid>21<\qid>
+<rank>53<\rank>
+<doc>CACM-2146<\doc>
+<snippet>
+the <b>Polyphase<\b> SortVarious dispersion algorithms for the 
+<\snippet>
+<\document>
+
+<document>
+<qid>21<\qid>
+<rank>54<\rank>
+<doc>CACM-2892<\doc>
+<snippet>
+Study of Line Overhead in the ArpanetThe 
+<\snippet>
+<\document>
+
+<document>
+<qid>21<\qid>
+<rank>55<\rank>
+<doc>CACM-2784<\doc>
+<snippet>
+1975Floyd, R. W.Rivest, R. L.selection, computational complexity, medians, tournaments, quantiles5.30 
+<\snippet>
+<\document>
+
+<document>
+<qid>21<\qid>
+<rank>56<\rank>
+<doc>CACM-1851<\doc>
+<snippet>
+of Spanning Trees (Algorithms <b>354<\b> <b>[H])CACM<\b> <b>September,<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>21<\qid>
+<rank>57<\rank>
+<doc>CACM-2902<\doc>
+<snippet>
+Memory Allocation in Computer SimulationThis paper <b>investigates<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>21<\qid>
+<rank>58<\rank>
+<doc>CACM-2273<\doc>
+<snippet>
+of Decision <b>Tables<\b> By Rule Mask Method 
+<\snippet>
+<\document>
+
+<document>
+<qid>21<\qid>
+<rank>59<\rank>
+<doc>CACM-3151<\doc>
+<snippet>
+Optimal <b>Real-Time<\b> Algorithm for Planar Convex HullsAn 
+<\snippet>
+<\document>
+
+<document>
+<qid>21<\qid>
+<rank>60<\rank>
+<doc>CACM-1873<\doc>
+<snippet>
+LP AlgorithmsIt <b>is<\b> shown how a novel 
+<\snippet>
+<\document>
+
+<document>
+<qid>21<\qid>
+<rank>61<\rank>
+<doc>CACM-3055<\doc>
+<snippet>
+Analysis of Algorithms <b>for<\b> the Dutch National 
+<\snippet>
+<\document>
+
+<document>
+<qid>21<\qid>
+<rank>62<\rank>
+<doc>CACM-2457<\doc>
+<snippet>
+detail are twopowerful inductive methods computational induction and structural induction, 
+<\snippet>
+<\document>
+
+<document>
+<qid>21<\qid>
+<rank>63<\rank>
+<doc>CACM-2702<\doc>
+<snippet>
+the Complexity <b>of<\b> LR(k) TestingThe problem of 
+<\snippet>
+<\document>
+
+<document>
+<qid>21<\qid>
+<rank>64<\rank>
+<doc>CACM-2110<\doc>
+<snippet>
+J.syntax analysis, parsing, context-free grammar,compilers, computational complexity4.12 5.22 5.23CA700205 JB 
+<\snippet>
+<\document>
+
+<document>
+<qid>21<\qid>
+<rank>65<\rank>
+<doc>CACM-2938<\doc>
+<snippet>
+a Discipline of Real-Time ProgrammingProgramming <b>is<\b> divided 
+<\snippet>
+<\document>
+
+<document>
+<qid>21<\qid>
+<rank>66<\rank>
+<doc>CACM-2236<\doc>
+<snippet>
+on Characteristic Values and AssociatedSolutions of Mathieus 
+<\snippet>
+<\document>
+
+<document>
+<qid>21<\qid>
+<rank>67<\rank>
+<doc>CACM-2828<\doc>
+<snippet>
+Geometric Models <b>for<\b> Visible Surface <b>AlgorithmsThe<\b> geometric 
+<\snippet>
+<\document>
+
+<document>
+<qid>21<\qid>
+<rank>68<\rank>
+<doc>CACM-1899<\doc>
+<snippet>
+linear <b>programming,<\b> LU decomposition,round-off errors, computational stability5.41CA690510 JB February 17, 
+<\snippet>
+<\document>
+
+<document>
+<qid>21<\qid>
+<rank>69<\rank>
+<doc>CACM-2365<\doc>
+<snippet>
+Computations with Fortran and PagingThe efficiency of 
+<\snippet>
+<\document>
+
+<document>
+<qid>21<\qid>
+<rank>70<\rank>
+<doc>CACM-2490<\doc>
+<snippet>
+Algorithms for Graph Manipulation [H] (Algorithm A447)Efficient 
+<\snippet>
+<\document>
+
+<document>
+<qid>21<\qid>
+<rank>71<\rank>
+<doc>CACM-2426<\doc>
+<snippet>
+SCALE1, SCALE2, <b>and<\b> SCALE3 for Determinationof Scales 
+<\snippet>
+<\document>
+
+<document>
+<qid>21<\qid>
+<rank>72<\rank>
+<doc>CACM-1392<\doc>
+<snippet>
+with FORMAC Algorithm <b>DesignVarious<\b> facets of the 
+<\snippet>
+<\document>
+
+<document>
+<qid>21<\qid>
+<rank>73<\rank>
+<doc>CACM-2819<\doc>
+<snippet>
+in Text File <b>CompressionA<\b> system for the 
+<\snippet>
+<\document>
+
+<document>
+<qid>21<\qid>
+<rank>74<\rank>
+<doc>CACM-2126<\doc>
+<snippet>
+with an Extensible LanguageAn operational extensible language 
+<\snippet>
+<\document>
+
+<document>
+<qid>21<\qid>
+<rank>75<\rank>
+<doc>CACM-0409<\doc>
+<snippet>
+An Environment <b>for<\b> a CompilerA flexible, large-scale 
+<\snippet>
+<\document>
+
+<document>
+<qid>21<\qid>
+<rank>76<\rank>
+<doc>CACM-2627<\doc>
+<snippet>
+Independent Tasks to Reduce Mean Finishing <b>TimeSequencing<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>21<\qid>
+<rank>77<\rank>
+<doc>CACM-1947<\doc>
+<snippet>
+code OptimizationMethods of <b>analyzing<\b> the control flow 
+<\snippet>
+<\document>
+
+<document>
+<qid>21<\qid>
+<rank>78<\rank>
+<doc>CACM-1924<\doc>
+<snippet>
+<b>Matrices<\b> and Matrix Operations for Paged Memory 
+<\snippet>
+<\document>
+
+<document>
+<qid>21<\qid>
+<rank>79<\rank>
+<doc>CACM-1529<\doc>
+<snippet>
+Programming An Analysis <b>of<\b> Matrix Substructure A 
+<\snippet>
+<\document>
+
+<document>
+<qid>21<\qid>
+<rank>80<\rank>
+<doc>CACM-3070<\doc>
+<snippet>
+by comparing the result and computational costs of the hybrid 
+<\snippet>
+<\document>
+
+<document>
+<qid>21<\qid>
+<rank>81<\rank>
+<doc>CACM-2251<\doc>
+<snippet>
+Increment Linear Search for Scatter TablesA new 
+<\snippet>
+<\document>
+
+<document>
+<qid>21<\qid>
+<rank>82<\rank>
+<doc>CACM-3018<\doc>
+<snippet>
+node cliquecover, edge clique cover, computational complexity, NP-complete problems, polynomial-time 
+<\snippet>
+<\document>
+
+<document>
+<qid>21<\qid>
+<rank>83<\rank>
+<doc>CACM-3061<\doc>
+<snippet>
+of Dynamic Sequential Search <b>AlgorithmsNoneCACM<\b> September, 1978Tenenbaum, 
+<\snippet>
+<\document>
+
+<document>
+<qid>21<\qid>
+<rank>84<\rank>
+<doc>CACM-2767<\doc>
+<snippet>
+Comparison of Simulation Event <b>List<\b> AlgorithmsFour algorithms 
+<\snippet>
+<\document>
+
+<document>
+<qid>21<\qid>
+<rank>85<\rank>
+<doc>CACM-3163<\doc>
+<snippet>
+Optimal Insertion Algorithm for One-SidedHeight-Balanced <b>BInary<\b> Search 
+<\snippet>
+<\document>
+
+<document>
+<qid>21<\qid>
+<rank>86<\rank>
+<doc>CACM-2630<\doc>
+<snippet>
+Computing Sets of Shortest Paths <b>in<\b> a 
+<\snippet>
+<\document>
+
+<document>
+<qid>21<\qid>
+<rank>87<\rank>
+<doc>CACM-2025<\doc>
+<snippet>
+t-Distribution; Jacobi Polynomials;Modified Romberg Quadrature;Factorial Analysis <b>of<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>21<\qid>
+<rank>88<\rank>
+<doc>CACM-2389<\doc>
+<snippet>
+Report on a <b>System<\b> for General Space 
+<\snippet>
+<\document>
+
+<document>
+<qid>21<\qid>
+<rank>89<\rank>
+<doc>CACM-2267<\doc>
+<snippet>
+To Reveal Properties of <b>Floating-Point<\b> ArithmeticTwo algorithms 
+<\snippet>
+<\document>
+
+<document>
+<qid>21<\qid>
+<rank>90<\rank>
+<doc>CACM-2216<\doc>
+<snippet>
+the Probability Distribution of the Values of 
+<\snippet>
+<\document>
+
+<document>
+<qid>21<\qid>
+<rank>91<\rank>
+<doc>CACM-2520<\doc>
+<snippet>
+Common Divisor of n Integers and Multipliers 
+<\snippet>
+<\document>
+
+<document>
+<qid>21<\qid>
+<rank>92<\rank>
+<doc>CACM-2968<\doc>
+<snippet>
+Comparison <b>of<\b> Tree-Balancing AlgorithmsSeveral algorithms-height-balance (i.e. AVLand 
+<\snippet>
+<\document>
+
+<document>
+<qid>21<\qid>
+<rank>93<\rank>
+<doc>CACM-1708<\doc>
+<snippet>
+<b>Note<\b> on the Efficiency of a LISP 
+<\snippet>
+<\document>
+
+<document>
+<qid>21<\qid>
+<rank>94<\rank>
+<doc>CACM-3064<\doc>
+<snippet>
+Manipulation for Discrete SimulationsRequiring Large Numbers of 
+<\snippet>
+<\document>
+
+<document>
+<qid>21<\qid>
+<rank>95<\rank>
+<doc>CACM-1957<\doc>
+<snippet>
+List Set Generator: A Construct for <b>Evaluating<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>21<\qid>
+<rank>96<\rank>
+<doc>CACM-2222<\doc>
+<snippet>
+on London's Certification of Algorithm 245CACM January, 
+<\snippet>
+<\document>
+
+<document>
+<qid>21<\qid>
+<rank>97<\rank>
+<doc>CACM-2362<\doc>
+<snippet>
+Equation Solver [F4] <b>(Algorithm<\b> A423)CACM April, 1972Moler, 
+<\snippet>
+<\document>
+
+<document>
+<qid>21<\qid>
+<rank>98<\rank>
+<doc>CACM-2942<\doc>
+<snippet>
+<b>Algol-Based<\b> Implementation of SNOBOL 4 PatternsCACM July, 
+<\snippet>
+<\document>
+
+<document>
+<qid>21<\qid>
+<rank>99<\rank>
+<doc>CACM-3154<\doc>
+<snippet>
+<b>=<\b> Logic + ControlAn algorithm can be 
+<\snippet>
+<\document>
+
+<document>
+<qid>21<\qid>
+<rank>100<\rank>
+<doc>CACM-2703<\doc>
+<snippet>
+C.attribute grammars, circularity problem, context-freegrammars, computational complexity, exponential time, semantics4.12 
+<\snippet>
+<\document>

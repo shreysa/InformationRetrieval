@@ -1,0 +1,1 @@
+evaluation of the hermite polynomial hnx by recursion algorithm cacm June, 1960 Galler, G. M. ca600609 jb march 20, 1978 9:37 pm

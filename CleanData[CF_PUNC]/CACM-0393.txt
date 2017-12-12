@@ -1,0 +1,1 @@
+two subroutines for symbol manipulation with an algebraic compiler cacm February, 1961 carr iii J. W. Hanson, J. W. ca610205 jb march 17, 1978 12:59 am

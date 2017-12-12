@@ -1,0 +1,1 @@
+certification of algorithm 161 combinatorial of m things taken one at a Time, two at a Time, up to n at a time M. L. wolfson and H. V. Wright, comm acm apr 1963 cacm August, 1963 Thoro, D. ca630831 jb march 13, 1978 8:13 pm

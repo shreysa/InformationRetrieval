@@ -1,0 +1,1 @@
+decision rule improved efficiency solving linear programming problems simplex algorithm cacm September, 1960 Dickson, J. C. Frederick, F. P. ca600908 jb march 20, 1978 8:43 pm

@@ -1,0 +1,900 @@
+
+<document>
+<qid>26<\qid>
+<rank>1<\rank>
+<doc>CACM-1461<\doc>
+<snippet>
+<b>Summary<\b> on Operating SystemsCACM March, 1966CA660311 JB 
+<\snippet>
+<\document>
+
+<document>
+<qid>26<\qid>
+<rank>2<\rank>
+<doc>CACM-2844<\doc>
+<snippet>
+Applied to Event Driven MechanismsCACM <b>July,<\b> 1976Gonnet, 
+<\snippet>
+<\document>
+
+<document>
+<qid>26<\qid>
+<rank>3<\rank>
+<doc>CACM-2626<\doc>
+<snippet>
+and the <b>Control<\b> of Information <b>Sharing<\b> in 
+<\snippet>
+<\document>
+
+<document>
+<qid>26<\qid>
+<rank>4<\rank>
+<doc>CACM-2578<\doc>
+<snippet>
+Systems in Spite of <b>Distributed<\b> ControlCACM November, 
+<\snippet>
+<\document>
+
+<document>
+<qid>26<\qid>
+<rank>5<\rank>
+<doc>CACM-3068<\doc>
+<snippet>
+Model for Verification of Data Security <b>in<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>26<\qid>
+<rank>6<\rank>
+<doc>CACM-1922<\doc>
+<snippet>
+<b>USA<\b> Standard (Data Communication ControlProcedures for the 
+<\snippet>
+<\document>
+
+<document>
+<qid>26<\qid>
+<rank>7<\rank>
+<doc>CACM-2256<\doc>
+<snippet>
+Comments on Dijkstra's Concurrent Programming Control ProblemCACM 
+<\snippet>
+<\document>
+
+<document>
+<qid>26<\qid>
+<rank>8<\rank>
+<doc>CACM-2364<\doc>
+<snippet>
+Gamma Function <b>with<\b> Error Control [S14] (Algorithm 
+<\snippet>
+<\document>
+
+<document>
+<qid>26<\qid>
+<rank>9<\rank>
+<doc>CACM-2840<\doc>
+<snippet>
+in Operating SystemsA model of protection <b>mechanisms<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>26<\qid>
+<rank>10<\rank>
+<doc>CACM-0121<\doc>
+<snippet>
+Computation Control and <b>LabellingCACM<\b> November, 1960Holt, A.CA601114 
+<\snippet>
+<\document>
+
+<document>
+<qid>26<\qid>
+<rank>11<\rank>
+<doc>CACM-1338<\doc>
+<snippet>
+Comments <b>on<\b> a Problem in Concurrent Progamming 
+<\snippet>
+<\document>
+
+<document>
+<qid>26<\qid>
+<rank>12<\rank>
+<doc>CACM-2939<\doc>
+<snippet>
+Mechanisms in CLUCLU <b>is<\b> <b>a<\b> <b>new<\b> <b>programming<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>26<\qid>
+<rank>13<\rank>
+<doc>CACM-0483<\doc>
+<snippet>
+the Nonexistence of a Phrase Structure Grammar 
+<\snippet>
+<\document>
+
+<document>
+<qid>26<\qid>
+<rank>14<\rank>
+<doc>CACM-2345<\doc>
+<snippet>
+Recommendations for GraduateProfessional <b>Programs<\b> in Information SystemsThe 
+<\snippet>
+<\document>
+
+<document>
+<qid>26<\qid>
+<rank>15<\rank>
+<doc>CACM-2111<\doc>
+<snippet>
+Correction in Systems ProgramsSeveral <b>specialized<\b> techniques are 
+<\snippet>
+<\document>
+
+<document>
+<qid>26<\qid>
+<rank>16<\rank>
+<doc>CACM-2377<\doc>
+<snippet>
+Hardware Architecture for Implementing <b>Protection<\b> RingsProtection of 
+<\snippet>
+<\document>
+
+<document>
+<qid>26<\qid>
+<rank>17<\rank>
+<doc>CACM-0059<\doc>
+<snippet>
+of Progress and Trend <b>of<\b> Developmentand Use 
+<\snippet>
+<\document>
+
+<document>
+<qid>26<\qid>
+<rank>18<\rank>
+<doc>CACM-2709<\doc>
+<snippet>
+Genealogy of Control <b>StructuresThe<\b> issue of program 
+<\snippet>
+<\document>
+
+<document>
+<qid>26<\qid>
+<rank>19<\rank>
+<doc>CACM-2796<\doc>
+<snippet>
+An Operating System Structuring Concept (Corrigendum)CACM <b>February,<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>26<\qid>
+<rank>20<\rank>
+<doc>CACM-2870<\doc>
+<snippet>
+Lattice Model of Secure <b>Information<\b> FlowThis paper 
+<\snippet>
+<\document>
+
+<document>
+<qid>26<\qid>
+<rank>21<\rank>
+<doc>CACM-0617<\doc>
+<snippet>
+computer that forms <b>part<\b> <b>of<\b> <b>a<\b> <b>control<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>26<\qid>
+<rank>22<\rank>
+<doc>CACM-1290<\doc>
+<snippet>
+Control <b>Procedures<\b> for DataCommunication, Using the American 
+<\snippet>
+<\document>
+
+<document>
+<qid>26<\qid>
+<rank>23<\rank>
+<doc>CACM-2632<\doc>
+<snippet>
+The Kernel of a Multiprocessor <b>Operating<\b> SystemThis 
+<\snippet>
+<\document>
+
+<document>
+<qid>26<\qid>
+<rank>24<\rank>
+<doc>CACM-2407<\doc>
+<snippet>
+Recommendations <b>for<\b> UndergraduatePrograms in Information SystemsThe need 
+<\snippet>
+<\document>
+
+<document>
+<qid>26<\qid>
+<rank>25<\rank>
+<doc>CACM-0597<\doc>
+<snippet>
+Data Processing Systems Written in COBOLCACM May, 
+<\snippet>
+<\document>
+
+<document>
+<qid>26<\qid>
+<rank>26<\rank>
+<doc>CACM-0652<\doc>
+<snippet>
+of Semantic Structure in <b>Information<\b> SystemsCACM January, 
+<\snippet>
+<\document>
+
+<document>
+<qid>26<\qid>
+<rank>27<\rank>
+<doc>CACM-1341<\doc>
+<snippet>
+of Computer SystemsIn building current <b>computer<\b> systems, 
+<\snippet>
+<\document>
+
+<document>
+<qid>26<\qid>
+<rank>28<\rank>
+<doc>CACM-0084<\doc>
+<snippet>
+of Progress and Trend <b>of<\b> Developmentand Use 
+<\snippet>
+<\document>
+
+<document>
+<qid>26<\qid>
+<rank>29<\rank>
+<doc>CACM-3154<\doc>
+<snippet>
+= Logic + ControlAn algorithm <b>can<\b> be 
+<\snippet>
+<\document>
+
+<document>
+<qid>26<\qid>
+<rank>30<\rank>
+<doc>CACM-2867<\doc>
+<snippet>
+and Hierarchy in a <b>Family<\b> of Operating 
+<\snippet>
+<\document>
+
+<document>
+<qid>26<\qid>
+<rank>31<\rank>
+<doc>CACM-1755<\doc>
+<snippet>
+of the ACM Symposium <b>on<\b> <b>Operating<\b> <b>system<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>26<\qid>
+<rank>32<\rank>
+<doc>CACM-2319<\doc>
+<snippet>
+System PerformanceAn overview of the current and 
+<\snippet>
+<\document>
+
+<document>
+<qid>26<\qid>
+<rank>33<\rank>
+<doc>CACM-3128<\doc>
+<snippet>
+with Eventcounts and SequencersSynchronization <b>of<\b> concurrent processes 
+<\snippet>
+<\document>
+
+<document>
+<qid>26<\qid>
+<rank>34<\rank>
+<doc>CACM-2995<\doc>
+<snippet>
+Instabilities, and Saturationin Multiprogramming <b>Systems<\b> (Corrigendum)CACM February, 
+<\snippet>
+<\document>
+
+<document>
+<qid>26<\qid>
+<rank>35<\rank>
+<doc>CACM-1728<\doc>
+<snippet>
+<b>Experimental<\b> Data on the Behaviorof Programs in 
+<\snippet>
+<\document>
+
+<document>
+<qid>26<\qid>
+<rank>36<\rank>
+<doc>CACM-2878<\doc>
+<snippet>
+Policies in a Multipriority Multiclass <b>Batch<\b> Computer 
+<\snippet>
+<\document>
+
+<document>
+<qid>26<\qid>
+<rank>37<\rank>
+<doc>CACM-2558<\doc>
+<snippet>
+in Programming LanguagesLinguistic <b>mechanisms<\b> which can be 
+<\snippet>
+<\document>
+
+<document>
+<qid>26<\qid>
+<rank>38<\rank>
+<doc>CACM-0638<\doc>
+<snippet>
+A Recoding of the <b>COBOL<\b> Merchandise Control 
+<\snippet>
+<\document>
+
+<document>
+<qid>26<\qid>
+<rank>39<\rank>
+<doc>CACM-2311<\doc>
+<snippet>
+Generational Perspective of Information System DevelopmentSystem <b>development<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>26<\qid>
+<rank>40<\rank>
+<doc>CACM-2317<\doc>
+<snippet>
+Systems and <b>Languages<\b> 1965-1975In spite of impressive 
+<\snippet>
+<\document>
+
+<document>
+<qid>26<\qid>
+<rank>41<\rank>
+<doc>CACM-1069<\doc>
+<snippet>
+Method for Comparing the Internal Operating Speeds 
+<\snippet>
+<\document>
+
+<document>
+<qid>26<\qid>
+<rank>42<\rank>
+<doc>CACM-2372<\doc>
+<snippet>
+the Implementation of Security Measures <b>in<\b> Information 
+<\snippet>
+<\document>
+
+<document>
+<qid>26<\qid>
+<rank>43<\rank>
+<doc>CACM-2151<\doc>
+<snippet>
+Program Measurement in a Time-Shared <b>EnvironmentA<\b> general 
+<\snippet>
+<\document>
+
+<document>
+<qid>26<\qid>
+<rank>44<\rank>
+<doc>CACM-1462<\doc>
+<snippet>
+Operating SystemsThe Basic software for <b>all<\b> newer 
+<\snippet>
+<\document>
+
+<document>
+<qid>26<\qid>
+<rank>45<\rank>
+<doc>CACM-1750<\doc>
+<snippet>
+in the Design of <b>a<\b> MultipleComputer System 
+<\snippet>
+<\document>
+
+<document>
+<qid>26<\qid>
+<rank>46<\rank>
+<doc>CACM-2740<\doc>
+<snippet>
+Large Semaphore Based Operating SystemThe paper <b>describes<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>26<\qid>
+<rank>47<\rank>
+<doc>CACM-2069<\doc>
+<snippet>
+on a Paper by Wallace and <b>MasonCACM<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>26<\qid>
+<rank>48<\rank>
+<doc>CACM-1476<\doc>
+<snippet>
+Procedures for Data Communication-An <b>ASA<\b> Progress ReportSectional 
+<\snippet>
+<\document>
+
+<document>
+<qid>26<\qid>
+<rank>49<\rank>
+<doc>CACM-2080<\doc>
+<snippet>
+Nucleus of a Multiprogramming <b>SystemThis<\b> paper describes 
+<\snippet>
+<\document>
+
+<document>
+<qid>26<\qid>
+<rank>50<\rank>
+<doc>CACM-0618<\doc>
+<snippet>
+<b>The<\b> Key to Total Systems Control: An 
+<\snippet>
+<\document>
+
+<document>
+<qid>26<\qid>
+<rank>51<\rank>
+<doc>CACM-2597<\doc>
+<snippet>
+An Operating <b>System<\b> Structuring ConceptThis paper develops 
+<\snippet>
+<\document>
+
+<document>
+<qid>26<\qid>
+<rank>52<\rank>
+<doc>CACM-1247<\doc>
+<snippet>
+Operating Environment for Dynamic-RecursiveComputer Programming <b>SystemsPresented<\b> in 
+<\snippet>
+<\document>
+
+<document>
+<qid>26<\qid>
+<rank>53<\rank>
+<doc>CACM-0025<\doc>
+<snippet>
+Purpose Programming SystemsCACM May, 1958Holt, A. <b>W.CA580503<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>26<\qid>
+<rank>54<\rank>
+<doc>CACM-2479<\doc>
+<snippet>
+Recommendations for Graduate ProfessionalPrograms in Information <b>Systems:<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>26<\qid>
+<rank>55<\rank>
+<doc>CACM-1387<\doc>
+<snippet>
+of <b>Systems<\b> of Polynomial Equations By EliminationThe 
+<\snippet>
+<\document>
+
+<document>
+<qid>26<\qid>
+<rank>56<\rank>
+<doc>CACM-2818<\doc>
+<snippet>
+in Multiprocessor ComputerSystems with Interleaved Memory (Corrigendum)CACM 
+<\snippet>
+<\document>
+
+<document>
+<qid>26<\qid>
+<rank>57<\rank>
+<doc>CACM-3105<\doc>
+<snippet>
+Language Extension for <b>Expressing<\b> Constraints on Data 
+<\snippet>
+<\document>
+
+<document>
+<qid>26<\qid>
+<rank>58<\rank>
+<doc>CACM-1747<\doc>
+<snippet>
+Criteria for Designing Computing Systems <b>to<\b> Facilitate 
+<\snippet>
+<\document>
+
+<document>
+<qid>26<\qid>
+<rank>59<\rank>
+<doc>CACM-0086<\doc>
+<snippet>
+of Progress and Trend of Developmentand <b>Use<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>26<\qid>
+<rank>60<\rank>
+<doc>CACM-2888<\doc>
+<snippet>
+Reference CodingItems in business systems <b>have<\b> to 
+<\snippet>
+<\document>
+
+<document>
+<qid>26<\qid>
+<rank>61<\rank>
+<doc>CACM-1680<\doc>
+<snippet>
+General-Purpose <b>Display<\b> Processing and Tutorial SystemADEPT (A 
+<\snippet>
+<\document>
+
+<document>
+<qid>26<\qid>
+<rank>62<\rank>
+<doc>CACM-0104<\doc>
+<snippet>
+Simulation of Discrete Flow Systems*The discrete <b>flow<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>26<\qid>
+<rank>63<\rank>
+<doc>CACM-2366<\doc>
+<snippet>
+Gamma Function <b>with<\b> Error ControlAn algorithm to 
+<\snippet>
+<\document>
+
+<document>
+<qid>26<\qid>
+<rank>64<\rank>
+<doc>CACM-0439<\doc>
+<snippet>
+Digital Computer for Measurement of a Neurological 
+<\snippet>
+<\document>
+
+<document>
+<qid>26<\qid>
+<rank>65<\rank>
+<doc>CACM-2379<\doc>
+<snippet>
+Design of the Venus <b>Operating<\b> <b>SystemThe<\b> <b>Venus<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>26<\qid>
+<rank>66<\rank>
+<doc>CACM-2320<\doc>
+<snippet>
+MultiprogrammingThis paper presents a proposal <b>for<\b> structuredrepresentation 
+<\snippet>
+<\document>
+
+<document>
+<qid>26<\qid>
+<rank>67<\rank>
+<doc>CACM-1591<\doc>
+<snippet>
+Model for a Multifunctional Teaching SystemA <b>teaching<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>26<\qid>
+<rank>68<\rank>
+<doc>CACM-2985<\doc>
+<snippet>
+of Chargeout <b>on<\b> User/Manager AttitudesThe relationship of 
+<\snippet>
+<\document>
+
+<document>
+<qid>26<\qid>
+<rank>69<\rank>
+<doc>CACM-2314<\doc>
+<snippet>
+for Advanced Programming Systems for List <b>ProcessingList<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>26<\qid>
+<rank>70<\rank>
+<doc>CACM-2621<\doc>
+<snippet>
+High Security Log-in ProcedureThe <b>protection<\b> of time 
+<\snippet>
+<\document>
+
+<document>
+<qid>26<\qid>
+<rank>71<\rank>
+<doc>CACM-2119<\doc>
+<snippet>
+(Algorithm 282 $S22))CACM January, <b>1970Gautschi,<\b> W.Klein, B. 
+<\snippet>
+<\document>
+
+<document>
+<qid>26<\qid>
+<rank>72<\rank>
+<doc>CACM-1636<\doc>
+<snippet>
+Imbeding and the Numerical Integrationof Boundary-Value Problems 
+<\snippet>
+<\document>
+
+<document>
+<qid>26<\qid>
+<rank>73<\rank>
+<doc>CACM-3183<\doc>
+<snippet>
+Values, and EFT Research: Anatomy of a 
+<\snippet>
+<\document>
+
+<document>
+<qid>26<\qid>
+<rank>74<\rank>
+<doc>CACM-2439<\doc>
+<snippet>
+Terminals Under User ProgramControl in a <b>Time-Sharing<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>26<\qid>
+<rank>75<\rank>
+<doc>CACM-2438<\doc>
+<snippet>
+Model and Stack Implementation of Multiple EnvironmentsMany 
+<\snippet>
+<\document>
+
+<document>
+<qid>26<\qid>
+<rank>76<\rank>
+<doc>CACM-2742<\doc>
+<snippet>
+Event-Scanning Mechanisms for Discrete Event SimulationSimulation models 
+<\snippet>
+<\document>
+
+<document>
+<qid>26<\qid>
+<rank>77<\rank>
+<doc>CACM-2629<\doc>
+<snippet>
+UNIX Time-Sharing system UNIX is a general-purpose, 
+<\snippet>
+<\document>
+
+<document>
+<qid>26<\qid>
+<rank>78<\rank>
+<doc>CACM-2852<\doc>
+<snippet>
+Technology of <b>Computer<\b> Center Management: <b>AProposed<\b> Course 
+<\snippet>
+<\document>
+
+<document>
+<qid>26<\qid>
+<rank>79<\rank>
+<doc>CACM-2482<\doc>
+<snippet>
+Solutions for the Deadlock <b>ProblemMixtures<\b> of detection, 
+<\snippet>
+<\document>
+
+<document>
+<qid>26<\qid>
+<rank>80<\rank>
+<doc>CACM-2138<\doc>
+<snippet>
+A Language <b>for<\b> Systems ProgrammingA language, BLISS, 
+<\snippet>
+<\document>
+
+<document>
+<qid>26<\qid>
+<rank>81<\rank>
+<doc>CACM-1959<\doc>
+<snippet>
+Interrupt <b>Based<\b> Organization for Management Information SystemsA 
+<\snippet>
+<\document>
+
+<document>
+<qid>26<\qid>
+<rank>82<\rank>
+<doc>CACM-3011<\doc>
+<snippet>
+Utilization of Computers <b>in<\b> <b>American<\b> <b>Local<\b> <b>GovernmentsTraditional<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>26<\qid>
+<rank>83<\rank>
+<doc>CACM-3127<\doc>
+<snippet>
+a Portable Real-Time <b>Operating<\b> System Thoth isa 
+<\snippet>
+<\document>
+
+<document>
+<qid>26<\qid>
+<rank>84<\rank>
+<doc>CACM-0018<\doc>
+<snippet>
+<b>Automatic<\b> Coding SystemsCACM July, 1958Adams, E. S.Schlesinger, 
+<\snippet>
+<\document>
+
+<document>
+<qid>26<\qid>
+<rank>85<\rank>
+<doc>CACM-1360<\doc>
+<snippet>
+of Systems Used for <b>Data<\b> Transmission* (An 
+<\snippet>
+<\document>
+
+<document>
+<qid>26<\qid>
+<rank>86<\rank>
+<doc>CACM-2821<\doc>
+<snippet>
+Under ControlA sample set of Cobol programming 
+<\snippet>
+<\document>
+
+<document>
+<qid>26<\qid>
+<rank>87<\rank>
+<doc>CACM-1677<\doc>
+<snippet>
+Organization <b>in<\b> Programming SystemsThe system of program 
+<\snippet>
+<\document>
+
+<document>
+<qid>26<\qid>
+<rank>88<\rank>
+<doc>CACM-2876<\doc>
+<snippet>
+Resolution of Privacy <b>Protection<\b> <b>in<\b> <b>Database<\b> <b>SystemsTraditionally,<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>26<\qid>
+<rank>89<\rank>
+<doc>CACM-3141<\doc>
+<snippet>
+Improved Algorithm for Decentralized Extrema-Findingin Circular Configurations 
+<\snippet>
+<\document>
+
+<document>
+<qid>26<\qid>
+<rank>90<\rank>
+<doc>CACM-2583<\doc>
+<snippet>
+for Humanizing Computerized InformationSystems: A Report from 
+<\snippet>
+<\document>
+
+<document>
+<qid>26<\qid>
+<rank>91<\rank>
+<doc>CACM-2321<\doc>
+<snippet>
+the Interface Between Computers <b>and<\b> Data Communications 
+<\snippet>
+<\document>
+
+<document>
+<qid>26<\qid>
+<rank>92<\rank>
+<doc>CACM-0300<\doc>
+<snippet>
+A Sample ProblemA simplified Merchandise Control <b>problem<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>26<\qid>
+<rank>93<\rank>
+<doc>CACM-2826<\doc>
+<snippet>
+Skeleton Techniques for EnhancingMotion Dynamics in Key 
+<\snippet>
+<\document>
+
+<document>
+<qid>26<\qid>
+<rank>94<\rank>
+<doc>CACM-0971<\doc>
+<snippet>
+Sharing in a Traffic Control ProgramThe Toronto 
+<\snippet>
+<\document>
+
+<document>
+<qid>26<\qid>
+<rank>95<\rank>
+<doc>CACM-3150<\doc>
+<snippet>
+<b>Programming<\b> LanguagesAs computer technology matures, our growing 
+<\snippet>
+<\document>
+
+<document>
+<qid>26<\qid>
+<rank>96<\rank>
+<doc>CACM-0651<\doc>
+<snippet>
+Survey of Languages and Systems <b>for<\b> Information 
+<\snippet>
+<\document>
+
+<document>
+<qid>26<\qid>
+<rank>97<\rank>
+<doc>CACM-2541<\doc>
+<snippet>
+Overview <b>of<\b> the ISPL Computer System DesignThis 
+<\snippet>
+<\document>
+
+<document>
+<qid>26<\qid>
+<rank>98<\rank>
+<doc>CACM-3025<\doc>
+<snippet>
+Evolution of <b>the<\b> DEC system 10The DEC 
+<\snippet>
+<\document>
+
+<document>
+<qid>26<\qid>
+<rank>99<\rank>
+<doc>CACM-1304<\doc>
+<snippet>
+Rapid Turnaround Multi-Programming <b>SystemIn<\b> this paper, basic 
+<\snippet>
+<\document>
+
+<document>
+<qid>26<\qid>
+<rank>100<\rank>
+<doc>CACM-2424<\doc>
+<snippet>
+Verification of Operating System DecisionsDynamic verification of 
+<\snippet>
+<\document>

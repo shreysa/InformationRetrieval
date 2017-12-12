@@ -1,0 +1,1 @@
+subroutine assembly a description is given of an assembly system which requires only one pass and does not maintain a table of information about the subroutine library cacm January, 1965 Samet, P. A. ca650105 jb march 8, 1978 2:51 pm

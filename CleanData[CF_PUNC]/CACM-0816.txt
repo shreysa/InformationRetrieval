@@ -1,0 +1,1 @@
+erlang probability for curve fitting algorithm 184 cacm July, 1963 Colker, A. ca630708 jb march 14, 1978 8:39 am

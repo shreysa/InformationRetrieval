@@ -1,0 +1,1 @@
+gargoyle a language for compiler writing cacm January, 1964 Garwick, J. V. ca640106 jb march 10, 1978 5:35 am

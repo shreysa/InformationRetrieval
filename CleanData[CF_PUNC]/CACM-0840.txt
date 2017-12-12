@@ -1,0 +1,1 @@
+least squares surface fit algorithm 176 cacm June, 1963 Arthurs, T. D. ca630609 jb march 14, 1978 10:18 am

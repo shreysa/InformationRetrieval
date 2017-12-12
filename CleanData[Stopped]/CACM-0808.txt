@@ -1,0 +1,1 @@
+confluent hypergeometric algorithm 192 cacm July, 1963 Relph, A. P. ca630716 jb march 14, 1978 8:29

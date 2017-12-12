@@ -1,0 +1,1 @@
+solution of eigenvalue problems with approximately known eigenvectors cacm July, 1962 Appel, K. ca620702 jb march 17, 1978 9:10 pm

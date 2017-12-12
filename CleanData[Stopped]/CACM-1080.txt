@@ -1,0 +1,1 @@
+chebyshev polynomial coefficients algorithm 227 cacm May, 1964 Cyvin, S. J. ca640509 jb march 9, 1978 11:57 pm

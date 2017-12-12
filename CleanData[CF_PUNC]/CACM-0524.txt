@@ -1,0 +1,1 @@
+position of point relative to polygon algorithm 112 cacm August, 1962 Shimrat, M. ca620804 jb march 17, 1978 7:30 pm

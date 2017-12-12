@@ -1,0 +1,900 @@
+
+<document>
+<qid>43<\qid>
+<rank>1<\rank>
+<doc>CACM-2910<\doc>
+<snippet>
+of <b>Hough<\b> Curve Detection to Template MatchingCACM 
+<\snippet>
+<\document>
+
+<document>
+<qid>43<\qid>
+<rank>2<\rank>
+<doc>CACM-2569<\doc>
+<snippet>
+Generation of Gamma <b>Random<\b> <b>Variateswith<\b> <b>Non-integral<\b> <b>Shape<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>43<\qid>
+<rank>3<\rank>
+<doc>CACM-0633<\doc>
+<snippet>
+<b>and<\b> <b>Analysis<\b> <b>of<\b> <b>Biochemical<\b> <b>Systems(III.<\b> <b>Analysis<\b> <b>and<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>43<\qid>
+<rank>4<\rank>
+<doc>CACM-0204<\doc>
+<snippet>
+Theorems by Pattern Recognition ICACM April, 1960Wang, 
+<\snippet>
+<\document>
+
+<document>
+<qid>43<\qid>
+<rank>5<\rank>
+<doc>CACM-2825<\doc>
+<snippet>
+BMD and BMDP <b>Series<\b> of Statistical <b>Computer<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>43<\qid>
+<rank>6<\rank>
+<doc>CACM-2685<\doc>
+<snippet>
+Parallel Execution <b>of<\b> DO LoopsMethods are developed 
+<\snippet>
+<\document>
+
+<document>
+<qid>43<\qid>
+<rank>7<\rank>
+<doc>CACM-2607<\doc>
+<snippet>
+Problem-List of <b>Issues<\b> Concerning Computers and Public 
+<\snippet>
+<\document>
+
+<document>
+<qid>43<\qid>
+<rank>8<\rank>
+<doc>CACM-3107<\doc>
+<snippet>
+Beta Variates with Nonintegrel Shape ParametersA new 
+<\snippet>
+<\document>
+
+<document>
+<qid>43<\qid>
+<rank>9<\rank>
+<doc>CACM-1404<\doc>
+<snippet>
+discussed <b>with<\b> reference to the analysis of variance.  A 
+<\snippet>
+<\document>
+
+<document>
+<qid>43<\qid>
+<rank>10<\rank>
+<doc>CACM-1399<\doc>
+<snippet>
+<b>Top-to-Bottom<\b> Recognition and Left RecursionA procedure is 
+<\snippet>
+<\document>
+
+<document>
+<qid>43<\qid>
+<rank>11<\rank>
+<doc>CACM-3046<\doc>
+<snippet>
+Generation of Gamma <b>Random<\b> Variables - IIA 
+<\snippet>
+<\document>
+
+<document>
+<qid>43<\qid>
+<rank>12<\rank>
+<doc>CACM-1732<\doc>
+<snippet>
+Analysis of Variance (Algorithm 330 [G1])CACM <b>June,<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>43<\qid>
+<rank>13<\rank>
+<doc>CACM-0002<\doc>
+<snippet>
+of Roots by <b>Repeated<\b> Subtractions for Digital 
+<\snippet>
+<\document>
+
+<document>
+<qid>43<\qid>
+<rank>14<\rank>
+<doc>CACM-3100<\doc>
+<snippet>
+Interference Matching Technique for Inducing AbstractionsA method 
+<\snippet>
+<\document>
+
+<document>
+<qid>43<\qid>
+<rank>15<\rank>
+<doc>CACM-2847<\doc>
+<snippet>
+from the Gamma Distribution <b>on<\b> a ComputerThis 
+<\snippet>
+<\document>
+
+<document>
+<qid>43<\qid>
+<rank>16<\rank>
+<doc>CACM-3098<\doc>
+<snippet>
+Generation of Gamma Random VariablesA new method 
+<\snippet>
+<\document>
+
+<document>
+<qid>43<\qid>
+<rank>17<\rank>
+<doc>CACM-1823<\doc>
+<snippet>
+Analysis of Variance (Algorithm <b>[G1])CACM<\b> November, 1969Howell, 
+<\snippet>
+<\document>
+
+<document>
+<qid>43<\qid>
+<rank>18<\rank>
+<doc>CACM-2303<\doc>
+<snippet>
+of Computers - Reminiscences, <b>1945-1947The<\b> period preceding 
+<\snippet>
+<\document>
+
+<document>
+<qid>43<\qid>
+<rank>19<\rank>
+<doc>CACM-2746<\doc>
+<snippet>
+String Matching: An <b>Aid<\b> to Bibliographic SearchThis 
+<\snippet>
+<\document>
+
+<document>
+<qid>43<\qid>
+<rank>20<\rank>
+<doc>CACM-2754<\doc>
+<snippet>
+Syntactic Algorithm <b>for<\b> Peak Detectionin Waveforms with 
+<\snippet>
+<\document>
+
+<document>
+<qid>43<\qid>
+<rank>21<\rank>
+<doc>CACM-0436<\doc>
+<snippet>
+of Polynomials by ComputerCACM December, 1962Knuth, <b>D.<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>43<\qid>
+<rank>22<\rank>
+<doc>CACM-2455<\doc>
+<snippet>
+Generalization of <b>AVL<\b> TreesA generalization of AVL 
+<\snippet>
+<\document>
+
+<document>
+<qid>43<\qid>
+<rank>23<\rank>
+<doc>CACM-1528<\doc>
+<snippet>
+<b>Fonts<\b> of Computer Drawn LettersDetailed descriptions are 
+<\snippet>
+<\document>
+
+<document>
+<qid>43<\qid>
+<rank>24<\rank>
+<doc>CACM-1107<\doc>
+<snippet>
+and EducationCACM April, 1964Keenan, T. A.CA640401 <b>JB<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>43<\qid>
+<rank>25<\rank>
+<doc>CACM-1801<\doc>
+<snippet>
+1969Claringbold, P. <b>J.analysis<\b> of variance, analysis of covariance, regressionanalysis, experimental 
+<\snippet>
+<\document>
+
+<document>
+<qid>43<\qid>
+<rank>26<\rank>
+<doc>CACM-1553<\doc>
+<snippet>
+Understanding <b>by<\b> ComputersA further development of a 
+<\snippet>
+<\document>
+
+<document>
+<qid>43<\qid>
+<rank>27<\rank>
+<doc>CACM-2771<\doc>
+<snippet>
+Synthesis of Solids Bounded by Many FacesA 
+<\snippet>
+<\document>
+
+<document>
+<qid>43<\qid>
+<rank>28<\rank>
+<doc>CACM-2325<\doc>
+<snippet>
+systems, computational complexity), synthesis and analysis of algorithms,analysis of error, 
+<\snippet>
+<\document>
+
+<document>
+<qid>43<\qid>
+<rank>29<\rank>
+<doc>CACM-2703<\doc>
+<snippet>
+Intrinsically Exponential Complexity ofthe Circularity <b>Problem<\b> for 
+<\snippet>
+<\document>
+
+<document>
+<qid>43<\qid>
+<rank>30<\rank>
+<doc>CACM-0409<\doc>
+<snippet>
+An Environment for a CompilerA flexible, large-scale 
+<\snippet>
+<\document>
+
+<document>
+<qid>43<\qid>
+<rank>31<\rank>
+<doc>CACM-2494<\doc>
+<snippet>
+by four methods of factor analysis and <b>two<\b> methods of 
+<\snippet>
+<\document>
+
+<document>
+<qid>43<\qid>
+<rank>32<\rank>
+<doc>CACM-2113<\doc>
+<snippet>
+<b>Multistore<\b> <b>Parser<\b> <b>for<\b> <b>Hierarchical<\b> <b>Syntactic<\b> <b>StructuresA<\b> <b>syntactic<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>43<\qid>
+<rank>33<\rank>
+<doc>CACM-1260<\doc>
+<snippet>
+is possible to make the analysis on asmall computer.  
+<\snippet>
+<\document>
+
+<document>
+<qid>43<\qid>
+<rank>34<\rank>
+<doc>CACM-3125<\doc>
+<snippet>
+Optimization by Suppression of Partial RedundanciesThe elimination 
+<\snippet>
+<\document>
+
+<document>
+<qid>43<\qid>
+<rank>35<\rank>
+<doc>CACM-1208<\doc>
+<snippet>
+of Computer <b>Logic<\b> by Fortran ArithmeticCACM August, 
+<\snippet>
+<\document>
+
+<document>
+<qid>43<\qid>
+<rank>36<\rank>
+<doc>CACM-1243<\doc>
+<snippet>
+the Understanding of the Difference <b>BetweenCall<\b> by 
+<\snippet>
+<\document>
+
+<document>
+<qid>43<\qid>
+<rank>37<\rank>
+<doc>CACM-3055<\doc>
+<snippet>
+Analysis of Algorithms for <b>the<\b> Dutch National 
+<\snippet>
+<\document>
+
+<document>
+<qid>43<\qid>
+<rank>38<\rank>
+<doc>CACM-2788<\doc>
+<snippet>
+Circles by an Array of AccumulatorsCACM February, 
+<\snippet>
+<\document>
+
+<document>
+<qid>43<\qid>
+<rank>39<\rank>
+<doc>CACM-0999<\doc>
+<snippet>
+Inventorship <b>of<\b> ComputersCACM October, 1964Hauptman, G. A.CA641003 
+<\snippet>
+<\document>
+
+<document>
+<qid>43<\qid>
+<rank>40<\rank>
+<doc>CACM-1855<\doc>
+<snippet>
+and that it pursues all analysis pathssimultaneously while processing the 
+<\snippet>
+<\document>
+
+<document>
+<qid>43<\qid>
+<rank>41<\rank>
+<doc>CACM-2756<\doc>
+<snippet>
+<b>Problem-List<\b> of Public Policy IssuesConcerning Computers and 
+<\snippet>
+<\document>
+
+<document>
+<qid>43<\qid>
+<rank>42<\rank>
+<doc>CACM-1045<\doc>
+<snippet>
+Analysis of Variance by Sequencesof Operators <b>and<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>43<\qid>
+<rank>43<\rank>
+<doc>CACM-0912<\doc>
+<snippet>
+an Array Yi in <b>k-Dimensionsby<\b> Fortran for 
+<\snippet>
+<\document>
+
+<document>
+<qid>43<\qid>
+<rank>44<\rank>
+<doc>CACM-2556<\doc>
+<snippet>
+Correction of Program <b>StatementsA<\b> method of analyzing 
+<\snippet>
+<\document>
+
+<document>
+<qid>43<\qid>
+<rank>45<\rank>
+<doc>CACM-2367<\doc>
+<snippet>
+and Society: A Proposed Course for Computer 
+<\snippet>
+<\document>
+
+<document>
+<qid>43<\qid>
+<rank>46<\rank>
+<doc>CACM-1366<\doc>
+<snippet>
+ The implications of this analysis for designers <b>of<\b> languages,for 
+<\snippet>
+<\document>
+
+<document>
+<qid>43<\qid>
+<rank>47<\rank>
+<doc>CACM-2719<\doc>
+<snippet>
+processing, Lisp, algebraicmanipulation, programming languages, analysis of algorithms3.69 4.22 5.24 
+<\snippet>
+<\document>
+
+<document>
+<qid>43<\qid>
+<rank>48<\rank>
+<doc>CACM-1106<\doc>
+<snippet>
+<b>of<\b> Digital ComputersCACM April, 1964Perlis, A. J.CA640402 
+<\snippet>
+<\document>
+
+<document>
+<qid>43<\qid>
+<rank>49<\rank>
+<doc>CACM-3162<\doc>
+<snippet>
+Improving the Worst Case <b>Running<\b> Timeof the 
+<\snippet>
+<\document>
+
+<document>
+<qid>43<\qid>
+<rank>50<\rank>
+<doc>CACM-0525<\doc>
+<snippet>
+<b>Computer<\b> Technique for Handling Analysis of VarianceCACM 
+<\snippet>
+<\document>
+
+<document>
+<qid>43<\qid>
+<rank>51<\rank>
+<doc>CACM-1771<\doc>
+<snippet>
+68 -- Recommendations for AcademicPrograms in Computer 
+<\snippet>
+<\document>
+
+<document>
+<qid>43<\qid>
+<rank>52<\rank>
+<doc>CACM-0059<\doc>
+<snippet>
+of Progress and Trend of Developmentand Use 
+<\snippet>
+<\document>
+
+<document>
+<qid>43<\qid>
+<rank>53<\rank>
+<doc>CACM-0004<\doc>
+<snippet>
+of Computer Engineering and Programming TerminologyCACM November, 
+<\snippet>
+<\document>
+
+<document>
+<qid>43<\qid>
+<rank>54<\rank>
+<doc>CACM-0007<\doc>
+<snippet>
+of Computer Engineering and Programming TerminologyCACM <b>October,<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>43<\qid>
+<rank>55<\rank>
+<doc>CACM-0010<\doc>
+<snippet>
+of Computer Engineering and <b>Programming<\b> TerminologyCACM September, 
+<\snippet>
+<\document>
+
+<document>
+<qid>43<\qid>
+<rank>56<\rank>
+<doc>CACM-0013<\doc>
+<snippet>
+of Computer Engineering and Programming TerminologyCACM August, 
+<\snippet>
+<\document>
+
+<document>
+<qid>43<\qid>
+<rank>57<\rank>
+<doc>CACM-0019<\doc>
+<snippet>
+of <b>Computer<\b> Engineering and Programming TerminologyCACM June, 
+<\snippet>
+<\document>
+
+<document>
+<qid>43<\qid>
+<rank>58<\rank>
+<doc>CACM-1809<\doc>
+<snippet>
+Analysis in a Ph. Computer <b>Science<\b> ProgramNumerical 
+<\snippet>
+<\document>
+
+<document>
+<qid>43<\qid>
+<rank>59<\rank>
+<doc>CACM-1507<\doc>
+<snippet>
+characteristics of a general data analysis scheme. Early applications have 
+<\snippet>
+<\document>
+
+<document>
+<qid>43<\qid>
+<rank>60<\rank>
+<doc>CACM-3170<\doc>
+<snippet>
+the Proof of Correctness of a Calendar 
+<\snippet>
+<\document>
+
+<document>
+<qid>43<\qid>
+<rank>61<\rank>
+<doc>CACM-3143<\doc>
+<snippet>
+About ArraysA variety <b>of<\b> concepts, laws, and 
+<\snippet>
+<\document>
+
+<document>
+<qid>43<\qid>
+<rank>62<\rank>
+<doc>CACM-2310<\doc>
+<snippet>
+major role as to language analysis in the humanities will 
+<\snippet>
+<\document>
+
+<document>
+<qid>43<\qid>
+<rank>63<\rank>
+<doc>CACM-0462<\doc>
+<snippet>
+Pattern Recognition Techniques: Electrocardiographic DiagnosisThe use of 
+<\snippet>
+<\document>
+
+<document>
+<qid>43<\qid>
+<rank>64<\rank>
+<doc>CACM-2883<\doc>
+<snippet>
+Application of Heuristic Search Methods to <b>Edge<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>43<\qid>
+<rank>65<\rank>
+<doc>CACM-2308<\doc>
+<snippet>
+and Urban SocietyThis brief survey of the 
+<\snippet>
+<\document>
+
+<document>
+<qid>43<\qid>
+<rank>66<\rank>
+<doc>CACM-1802<\doc>
+<snippet>
+1969Claringbold, P. J.analysis of variance, analysis of covariance,regression analysis, experimental 
+<\snippet>
+<\document>
+
+<document>
+<qid>43<\qid>
+<rank>67<\rank>
+<doc>CACM-2829<\doc>
+<snippet>
+and Reflection in Computer Generated ImagesIn 1974 
+<\snippet>
+<\document>
+
+<document>
+<qid>43<\qid>
+<rank>68<\rank>
+<doc>CACM-3149<\doc>
+<snippet>
+Cyclic Order <b>Property<\b> of Vertices as an 
+<\snippet>
+<\document>
+
+<document>
+<qid>43<\qid>
+<rank>69<\rank>
+<doc>CACM-3122<\doc>
+<snippet>
+and Employment of Ph.'s in Computer Science 
+<\snippet>
+<\document>
+
+<document>
+<qid>43<\qid>
+<rank>70<\rank>
+<doc>CACM-2874<\doc>
+<snippet>
+Comparative Evaluation of Versions of <b>BASICFrom<\b> its 
+<\snippet>
+<\document>
+
+<document>
+<qid>43<\qid>
+<rank>71<\rank>
+<doc>CACM-1764<\doc>
+<snippet>
+Discussion <b>on<\b> Computer AppreciationSession 19 of the 
+<\snippet>
+<\document>
+
+<document>
+<qid>43<\qid>
+<rank>72<\rank>
+<doc>CACM-0931<\doc>
+<snippet>
+Mistake Analysis of Digital Computer ProgramsCACM February, 
+<\snippet>
+<\document>
+
+<document>
+<qid>43<\qid>
+<rank>73<\rank>
+<doc>CACM-2341<\doc>
+<snippet>
+<b>New<\b> Data type for SNOBOL4A new data 
+<\snippet>
+<\document>
+
+<document>
+<qid>43<\qid>
+<rank>74<\rank>
+<doc>CACM-2812<\doc>
+<snippet>
+Analysis and <b>Design<\b> of Information SystemsThis paper 
+<\snippet>
+<\document>
+
+<document>
+<qid>43<\qid>
+<rank>75<\rank>
+<doc>CACM-0067<\doc>
+<snippet>
+ComputersCACM <b>September,<\b> 1959Blachman, N. M.CA590902 JB March 
+<\snippet>
+<\document>
+
+<document>
+<qid>43<\qid>
+<rank>76<\rank>
+<doc>CACM-0210<\doc>
+<snippet>
+Functions of <b>Symbolic<\b> Expressionsand Their Computation by 
+<\snippet>
+<\document>
+
+<document>
+<qid>43<\qid>
+<rank>77<\rank>
+<doc>CACM-3197<\doc>
+<snippet>
+  Structures of Standards-Processing Organizations in 
+<\snippet>
+<\document>
+
+<document>
+<qid>43<\qid>
+<rank>78<\rank>
+<doc>CACM-2402<\doc>
+<snippet>
+Pattern Recognition and thePhase Problem of X-ray 
+<\snippet>
+<\document>
+
+<document>
+<qid>43<\qid>
+<rank>79<\rank>
+<doc>CACM-2933<\doc>
+<snippet>
+Advantage of Keyword Notation forParameter Communication <b>with<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>43<\qid>
+<rank>80<\rank>
+<doc>CACM-1335<\doc>
+<snippet>
+Set <b>for<\b> <b>Optical<\b> <b>CharacterRecognition<\b> <b>(Proposed<\b> <b>American<\b> <b>Stand<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>43<\qid>
+<rank>81<\rank>
+<doc>CACM-2811<\doc>
+<snippet>
+cardiovasculardisease.  The syntax-driven waveform analysis system has been applied 
+<\snippet>
+<\document>
+
+<document>
+<qid>43<\qid>
+<rank>82<\rank>
+<doc>CACM-1265<\doc>
+<snippet>
+the Relative Efficiencies of Context-Free Grammar <b>RecognizersA<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>43<\qid>
+<rank>83<\rank>
+<doc>CACM-0084<\doc>
+<snippet>
+of Progress <b>and<\b> Trend of Developmentand Use 
+<\snippet>
+<\document>
+
+<document>
+<qid>43<\qid>
+<rank>84<\rank>
+<doc>CACM-2322<\doc>
+<snippet>
+View of computer <b>ArchitectureAn<\b> <b>attempt<\b> <b>is<\b> <b>made<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>43<\qid>
+<rank>85<\rank>
+<doc>CACM-0320<\doc>
+<snippet>
+TablesLogic tables are an excellent way of 
+<\snippet>
+<\document>
+
+<document>
+<qid>43<\qid>
+<rank>86<\rank>
+<doc>CACM-0643<\doc>
+<snippet>
+and Analysis of Biochemcial <b>Systems(II.<\b> Solution of 
+<\snippet>
+<\document>
+
+<document>
+<qid>43<\qid>
+<rank>87<\rank>
+<doc>CACM-1653<\doc>
+<snippet>
+Performance Evaluation: Survey and AppraisalThe state <b>of<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>43<\qid>
+<rank>88<\rank>
+<doc>CACM-2253<\doc>
+<snippet>
+<b>Ranges<\b> for Matrix CalculiThe paper describes a 
+<\snippet>
+<\document>
+
+<document>
+<qid>43<\qid>
+<rank>89<\rank>
+<doc>CACM-0461<\doc>
+<snippet>
+<b>of<\b> Medical Case History Data for Computer 
+<\snippet>
+<\document>
+
+<document>
+<qid>43<\qid>
+<rank>90<\rank>
+<doc>CACM-0086<\doc>
+<snippet>
+of <b>Progress<\b> and Trend of Developmentand Use 
+<\snippet>
+<\document>
+
+<document>
+<qid>43<\qid>
+<rank>91<\rank>
+<doc>CACM-0329<\doc>
+<snippet>
+is a summary of automatic analysis studies published as of 
+<\snippet>
+<\document>
+
+<document>
+<qid>43<\qid>
+<rank>92<\rank>
+<doc>CACM-2339<\doc>
+<snippet>
+Codes from Verbal ResponsesIt is often desirable 
+<\snippet>
+<\document>
+
+<document>
+<qid>43<\qid>
+<rank>93<\rank>
+<doc>CACM-2050<\doc>
+<snippet>
+AnalysisAlthough automatic syntactic and <b>semantic<\b> analysis is not yet possible 
+<\snippet>
+<\document>
+
+<document>
+<qid>43<\qid>
+<rank>94<\rank>
+<doc>CACM-2187<\doc>
+<snippet>
+Science: A Conceptual Framework <b>for<\b> <b>Curriculum<\b> <b>PlanningTwo<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>43<\qid>
+<rank>95<\rank>
+<doc>CACM-0057<\doc>
+<snippet>
+and Its Computer <b>CenterCACM<\b> October, 1959CA591002 JB 
+<\snippet>
+<\document>
+
+<document>
+<qid>43<\qid>
+<rank>96<\rank>
+<doc>CACM-0006<\doc>
+<snippet>
+<b>Use<\b> of Computers in Inspection ProceduresCACM November, 
+<\snippet>
+<\document>
+
+<document>
+<qid>43<\qid>
+<rank>97<\rank>
+<doc>CACM-0561<\doc>
+<snippet>
+Differentiation By ComputerCACM June, 1962Hanson, J. W.Caviness, 
+<\snippet>
+<\document>
+
+<document>
+<qid>43<\qid>
+<rank>98<\rank>
+<doc>CACM-2287<\doc>
+<snippet>
+New Approach to Automatic <b>Scanning<\b> of Contour 
+<\snippet>
+<\document>
+
+<document>
+<qid>43<\qid>
+<rank>99<\rank>
+<doc>CACM-1427<\doc>
+<snippet>
+of Radioisotope <b>Scans<\b> by ComputerIn radioisotope scanning, 
+<\snippet>
+<\document>
+
+<document>
+<qid>43<\qid>
+<rank>100<\rank>
+<doc>CACM-0758<\doc>
+<snippet>
+Structure of PERT and CPA <b>Computer<\b> ProgramsAn 
+<\snippet>
+<\document>

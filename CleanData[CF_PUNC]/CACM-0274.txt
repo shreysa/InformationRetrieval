@@ -1,0 +1,1 @@
+dynamic storage allocation in the atlas Computer, including an automatic use of a backing store cacm October, 1961 Fotheringham, J. ca611007 jb march 16, 1978 12:57 pm

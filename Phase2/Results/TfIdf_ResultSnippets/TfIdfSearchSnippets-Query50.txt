@@ -1,0 +1,900 @@
+
+<document>
+<qid>50<\qid>
+<rank>1<\rank>
+<doc>CACM-2278<\doc>
+<snippet>
+Foster's Information Storage and Retrieval <b>Using<\b> AVL 
+<\snippet>
+<\document>
+
+<document>
+<qid>50<\qid>
+<rank>2<\rank>
+<doc>CACM-0634<\doc>
+<snippet>
+of Trees in Information Retrieval*CACM February, 1962Salton, 
+<\snippet>
+<\document>
+
+<document>
+<qid>50<\qid>
+<rank>3<\rank>
+<doc>CACM-2288<\doc>
+<snippet>
+Organization: The Consecutive Retrieval <b>PropertyThe<\b> consecutive retrieval 
+<\snippet>
+<\document>
+
+<document>
+<qid>50<\qid>
+<rank>4<\rank>
+<doc>CACM-2714<\doc>
+<snippet>
+|A|=m,|B|=n, and p, parallel processors working synchronously.  
+<\snippet>
+<\document>
+
+<document>
+<qid>50<\qid>
+<rank>5<\rank>
+<doc>CACM-1927<\doc>
+<snippet>
+Science in a Ph. Computer Science ProgramThis 
+<\snippet>
+<\document>
+
+<document>
+<qid>50<\qid>
+<rank>6<\rank>
+<doc>CACM-0275<\doc>
+<snippet>
+Storage Allocation <b>for<\b> an Information Retrieval SystemCACM 
+<\snippet>
+<\document>
+
+<document>
+<qid>50<\qid>
+<rank>7<\rank>
+<doc>CACM-0651<\doc>
+<snippet>
+Survey of Languages and Systems for Information 
+<\snippet>
+<\document>
+
+<document>
+<qid>50<\qid>
+<rank>8<\rank>
+<doc>CACM-1830<\doc>
+<snippet>
+Times for <b>a<\b> Packed Direct Access Inverted 
+<\snippet>
+<\document>
+
+<document>
+<qid>50<\qid>
+<rank>9<\rank>
+<doc>CACM-2070<\doc>
+<snippet>
+Formal System for <b>Information<\b> <b>Retrieval<\b> <b>from<\b> <b>FilesCACM<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>50<\qid>
+<rank>10<\rank>
+<doc>CACM-0082<\doc>
+<snippet>
+Identifiers <b>as<\b> Internal Symbols in Language ProcessorsSubstitution 
+<\snippet>
+<\document>
+
+<document>
+<qid>50<\qid>
+<rank>11<\rank>
+<doc>CACM-0891<\doc>
+<snippet>
+Information Retrieval SystemThe <b>information<\b> retrieval problem <b>whose<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>50<\qid>
+<rank>12<\rank>
+<doc>CACM-1457<\doc>
+<snippet>
+Manipulation and Programming Problemsin Automatic <b>Information<\b> RetrievalAutomatic 
+<\snippet>
+<\document>
+
+<document>
+<qid>50<\qid>
+<rank>13<\rank>
+<doc>CACM-3075<\doc>
+<snippet>
+Parallel Sorting AlgorithmsA parallel <b>bucket-sort<\b> algorithm is presentedthat 
+<\snippet>
+<\document>
+
+<document>
+<qid>50<\qid>
+<rank>14<\rank>
+<doc>CACM-3156<\doc>
+<snippet>
+on Parallel ComputersWe present a parallel algorithm which uses n2 
+<\snippet>
+<\document>
+
+<document>
+<qid>50<\qid>
+<rank>15<\rank>
+<doc>CACM-1699<\doc>
+<snippet>
+Evaluation of InformationRetrieval Through a TeletypewriterExperiments <b>designed<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>50<\qid>
+<rank>16<\rank>
+<doc>CACM-3134<\doc>
+<snippet>
+Use <b>of<\b> Normal Multiplication Tablesfor Information Storage 
+<\snippet>
+<\document>
+
+<document>
+<qid>50<\qid>
+<rank>17<\rank>
+<doc>CACM-0141<\doc>
+<snippet>
+<b>Thoughts<\b> on Parallel ProcessingCACM October, 1960Yarbrough, L. 
+<\snippet>
+<\document>
+
+<document>
+<qid>50<\qid>
+<rank>18<\rank>
+<doc>CACM-0239<\doc>
+<snippet>
+of the Use of Boolean <b>Functionsfor<\b> Information 
+<\snippet>
+<\document>
+
+<document>
+<qid>50<\qid>
+<rank>19<\rank>
+<doc>CACM-2532<\doc>
+<snippet>
+Harrison's <b>Substring<\b> Testing TechniqueCACM March, 1973Bookstein, A.string, 
+<\snippet>
+<\document>
+
+<document>
+<qid>50<\qid>
+<rank>20<\rank>
+<doc>CACM-1746<\doc>
+<snippet>
+in an <b>Information<\b> Processing UtilityOne of the 
+<\snippet>
+<\document>
+
+<document>
+<qid>50<\qid>
+<rank>21<\rank>
+<doc>CACM-2575<\doc>
+<snippet>
+<b>Best-Match<\b> Problem in Document RetrievalCACM November, 1974Van 
+<\snippet>
+<\document>
+
+<document>
+<qid>50<\qid>
+<rank>22<\rank>
+<doc>CACM-2530<\doc>
+<snippet>
+Algorithm for Extracting Phrases ina Space-Optimal <b>Fashion<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>50<\qid>
+<rank>23<\rank>
+<doc>CACM-0392<\doc>
+<snippet>
+on A <b>Paper<\b> on Parallel <b>ProcessingCACM<\b> February, 
+<\snippet>
+<\document>
+
+<document>
+<qid>50<\qid>
+<rank>24<\rank>
+<doc>CACM-1302<\doc>
+<snippet>
+Signaling Speeds for <b>Data<\b> Transmission(Proposed American Stand 
+<\snippet>
+<\document>
+
+<document>
+<qid>50<\qid>
+<rank>25<\rank>
+<doc>CACM-2965<\doc>
+<snippet>
+<b>Optimal<\b> <b>Evaluation<\b> <b>of<\b> <b>Boolean<\b> <b>Expressions<\b> <b>in<\b> <b>an<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>50<\qid>
+<rank>26<\rank>
+<doc>CACM-2976<\doc>
+<snippet>
+Block Accesses in Database OrganizationsCACM April, <b>1977Yao,<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>50<\qid>
+<rank>27<\rank>
+<doc>CACM-0292<\doc>
+<snippet>
+Information Retrieval <b>Language<\b> for Legal StudiesCACM September, 
+<\snippet>
+<\document>
+
+<document>
+<qid>50<\qid>
+<rank>28<\rank>
+<doc>CACM-1831<\doc>
+<snippet>
+Comment on Optimal <b>Tree<\b> StructuresCACM October, 1969Stanfel, 
+<\snippet>
+<\document>
+
+<document>
+<qid>50<\qid>
+<rank>29<\rank>
+<doc>CACM-1681<\doc>
+<snippet>
+English,a Language for InformationRetrieval Through <b>a<\b> Remote 
+<\snippet>
+<\document>
+
+<document>
+<qid>50<\qid>
+<rank>30<\rank>
+<doc>CACM-3168<\doc>
+<snippet>
+on "An Optimal <b>Evaluation<\b> of BooleanExpressions in 
+<\snippet>
+<\document>
+
+<document>
+<qid>50<\qid>
+<rank>31<\rank>
+<doc>CACM-1262<\doc>
+<snippet>
+brackets in establishinga range of parallel operation and partly to 
+<\snippet>
+<\document>
+
+<document>
+<qid>50<\qid>
+<rank>32<\rank>
+<doc>CACM-2882<\doc>
+<snippet>
+Stochastic Evaluation Model for DatabaseOrganization in <b>Data<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>50<\qid>
+<rank>33<\rank>
+<doc>CACM-2685<\doc>
+<snippet>
+LoopsMethods are developed for the <b>parallel<\b> executionof different iterations of 
+<\snippet>
+<\document>
+
+<document>
+<qid>50<\qid>
+<rank>34<\rank>
+<doc>CACM-2896<\doc>
+<snippet>
+in Proving Parallel Programs CorrectA <b>parallel<\b> program, Dijkstra's on-the-fly garbagecollector, 
+<\snippet>
+<\document>
+
+<document>
+<qid>50<\qid>
+<rank>35<\rank>
+<doc>CACM-0798<\doc>
+<snippet>
+Catalogue Entry Retrieval SystemScheff, <b>B.<\b> H.CACM July, 
+<\snippet>
+<\document>
+
+<document>
+<qid>50<\qid>
+<rank>36<\rank>
+<doc>CACM-2973<\doc>
+<snippet>
+C. D.Kung, H. T.parallel computer, parallel sorting, parallel merge,routing and 
+<\snippet>
+<\document>
+
+<document>
+<qid>50<\qid>
+<rank>37<\rank>
+<doc>CACM-3169<\doc>
+<snippet>
+on "An Optimal Evaluation <b>of<\b> Boolean Expressions 
+<\snippet>
+<\document>
+
+<document>
+<qid>50<\qid>
+<rank>38<\rank>
+<doc>CACM-0763<\doc>
+<snippet>
+Syntax <b>Controlled<\b> Generator of Formal Language ProcessorsCACM 
+<\snippet>
+<\document>
+
+<document>
+<qid>50<\qid>
+<rank>39<\rank>
+<doc>CACM-1158<\doc>
+<snippet>
+Structures <b>for<\b> <b>Parallel<\b> <b>ProcessingConstructs<\b> <b>for<\b> <b>organizing<\b> <b>and<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>50<\qid>
+<rank>40<\rank>
+<doc>CACM-1811<\doc>
+<snippet>
+December, 1969Rosenfeld, J. L.parallel-processor, parallelism, parallel programming,multiprocessor, multiprogramming, tasking, storage 
+<\snippet>
+<\document>
+
+<document>
+<qid>50<\qid>
+<rank>41<\rank>
+<doc>CACM-2552<\doc>
+<snippet>
+<b>Note<\b> on When To Chain Overflow Items 
+<\snippet>
+<\document>
+
+<document>
+<qid>50<\qid>
+<rank>42<\rank>
+<doc>CACM-0652<\doc>
+<snippet>
+of Semantic Structure in Information SystemsCACM January, 
+<\snippet>
+<\document>
+
+<document>
+<qid>50<\qid>
+<rank>43<\rank>
+<doc>CACM-2345<\doc>
+<snippet>
+Recommendations for GraduateProfessional Programs in <b>Information<\b> SystemsThe 
+<\snippet>
+<\document>
+
+<document>
+<qid>50<\qid>
+<rank>44<\rank>
+<doc>CACM-2140<\doc>
+<snippet>
+Speed Tradeoffs Using Combined IndicesIn a paper 
+<\snippet>
+<\document>
+
+<document>
+<qid>50<\qid>
+<rank>45<\rank>
+<doc>CACM-1601<\doc>
+<snippet>
+methods of interest in a parallel processing environment.  Convergence 
+<\snippet>
+<\document>
+
+<document>
+<qid>50<\qid>
+<rank>46<\rank>
+<doc>CACM-0653<\doc>
+<snippet>
+of Retrieval Requests <b>Couchedin<\b> a "Semiformal" English-Like 
+<\snippet>
+<\document>
+
+<document>
+<qid>50<\qid>
+<rank>47<\rank>
+<doc>CACM-1935<\doc>
+<snippet>
+Binary Search TechniqueA mathematical model is <b>developed<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>50<\qid>
+<rank>48<\rank>
+<doc>CACM-2412<\doc>
+<snippet>
+on Brent's Scatter Storage <b>AlgorithmCACM<\b> November, 1973Feldman, 
+<\snippet>
+<\document>
+
+<document>
+<qid>50<\qid>
+<rank>49<\rank>
+<doc>CACM-2781<\doc>
+<snippet>
+Algorithm <b>Sequential<\b> Access Method:An Alternative to Index 
+<\snippet>
+<\document>
+
+<document>
+<qid>50<\qid>
+<rank>50<\rank>
+<doc>CACM-2990<\doc>
+<snippet>
+Information Retrieval Using Term <b>AccuracyThe<\b> performance of 
+<\snippet>
+<\document>
+
+<document>
+<qid>50<\qid>
+<rank>51<\rank>
+<doc>CACM-0797<\doc>
+<snippet>
+Standard Code <b>for<\b> <b>Information<\b> <b>InterchangeCACM<\b> <b>August,<\b> <b>1963CA630801<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>50<\qid>
+<rank>52<\rank>
+<doc>CACM-2519<\doc>
+<snippet>
+the Problem of Communicating Complex InformationThe nature 
+<\snippet>
+<\document>
+
+<document>
+<qid>50<\qid>
+<rank>53<\rank>
+<doc>CACM-2516<\doc>
+<snippet>
+<b>Storage<\b> in Information RetrievalA probabilistic analysis is 
+<\snippet>
+<\document>
+
+<document>
+<qid>50<\qid>
+<rank>54<\rank>
+<doc>CACM-3012<\doc>
+<snippet>
+Use of an Interactive Information Storageand <b>Retrieval<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>50<\qid>
+<rank>55<\rank>
+<doc>CACM-2182<\doc>
+<snippet>
+Driven ProgrammingCACM <b>July,<\b> 1971Zelkowitz, M.interrupts, supervisors, monitors, 
+<\snippet>
+<\document>
+
+<document>
+<qid>50<\qid>
+<rank>56<\rank>
+<doc>CACM-1267<\doc>
+<snippet>
+of Systems Used <b>for<\b> Data TransmissionTransfer Rate 
+<\snippet>
+<\document>
+
+<document>
+<qid>50<\qid>
+<rank>57<\rank>
+<doc>CACM-2700<\doc>
+<snippet>
+Parallel ProgramsWhen proving that a parallel program has agiven property 
+<\snippet>
+<\document>
+
+<document>
+<qid>50<\qid>
+<rank>58<\rank>
+<doc>CACM-0690<\doc>
+<snippet>
+Participation in an <b>InternationalStandard<\b> glossary on Information 
+<\snippet>
+<\document>
+
+<document>
+<qid>50<\qid>
+<rank>59<\rank>
+<doc>CACM-1251<\doc>
+<snippet>
+Standard and IFIP/ICC Vocabularies comparedThe "Proposed <b>American<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>50<\qid>
+<rank>60<\rank>
+<doc>CACM-2832<\doc>
+<snippet>
+Retrieval <b>from<\b> Context Trees (Corrigendum)Context trees provide 
+<\snippet>
+<\document>
+
+<document>
+<qid>50<\qid>
+<rank>61<\rank>
+<doc>CACM-2407<\doc>
+<snippet>
+Recommendations for UndergraduatePrograms in Information <b>SystemsThe<\b> need 
+<\snippet>
+<\document>
+
+<document>
+<qid>50<\qid>
+<rank>62<\rank>
+<doc>CACM-1514<\doc>
+<snippet>
+the Expected Gain <b>From<\b> <b>Adjust<\b> <b>ing<\b> <b>Matched<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>50<\qid>
+<rank>63<\rank>
+<doc>CACM-0626<\doc>
+<snippet>
+Method <b>of<\b> Representation, Storage and Retrievalof 13 
+<\snippet>
+<\document>
+
+<document>
+<qid>50<\qid>
+<rank>64<\rank>
+<doc>CACM-1745<\doc>
+<snippet>
+Position Paper on Computing and CommunicationsThe effective 
+<\snippet>
+<\document>
+
+<document>
+<qid>50<\qid>
+<rank>65<\rank>
+<doc>CACM-1289<\doc>
+<snippet>
+Revised American Standard Code <b>for<\b> Information InterchangeCACM 
+<\snippet>
+<\document>
+
+<document>
+<qid>50<\qid>
+<rank>66<\rank>
+<doc>CACM-1971<\doc>
+<snippet>
+Magnetic Tape <b>for<\b> Information Interchange (1600CPI, Phase 
+<\snippet>
+<\document>
+
+<document>
+<qid>50<\qid>
+<rank>67<\rank>
+<doc>CACM-1032<\doc>
+<snippet>
+Considerations in Information Retrieval SystemsInformation storage <b>and<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>50<\qid>
+<rank>68<\rank>
+<doc>CACM-1516<\doc>
+<snippet>
+<b>Data<\b> <b>CompressionThe<\b> <b>"information<\b> <b>explosion"<\b> <b>noted<\b> <b>in<\b> <b>recentyears<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>50<\qid>
+<rank>69<\rank>
+<doc>CACM-2293<\doc>
+<snippet>
+on Average Binary Search LengthCACM <b>August,<\b> 1972Jones, 
+<\snippet>
+<\document>
+
+<document>
+<qid>50<\qid>
+<rank>70<\rank>
+<doc>CACM-1795<\doc>
+<snippet>
+Code for Serial and Parallel ComputationCACM December, 
+<\snippet>
+<\document>
+
+<document>
+<qid>50<\qid>
+<rank>71<\rank>
+<doc>CACM-1064<\doc>
+<snippet>
+Tape Code for InformationInterchange (Proposed American <b>Standard)CACM<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>50<\qid>
+<rank>72<\rank>
+<doc>CACM-1414<\doc>
+<snippet>
+Punched-Card Code <b>for<\b> <b>InformationInterchange*<\b> <b>(Proposed<\b> <b>American<\b> <b>Standard)CACM<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>50<\qid>
+<rank>73<\rank>
+<doc>CACM-1508<\doc>
+<snippet>
+Tape Labels <b>for<\b> Information Interchange (Proposed USA 
+<\snippet>
+<\document>
+
+<document>
+<qid>50<\qid>
+<rank>74<\rank>
+<doc>CACM-2175<\doc>
+<snippet>
+Ordering in the Execution of Arithmetic ExpressionsAn 
+<\snippet>
+<\document>
+
+<document>
+<qid>50<\qid>
+<rank>75<\rank>
+<doc>CACM-1937<\doc>
+<snippet>
+A Data <b>Display<\b> SystemCODAS, a <b>Customer<\b> Oriented 
+<\snippet>
+<\document>
+
+<document>
+<qid>50<\qid>
+<rank>76<\rank>
+<doc>CACM-2497<\doc>
+<snippet>
+Processors with Memory-Content-Generated <b>InterruptsImplementations<\b> of the "Lock-Unlock" 
+<\snippet>
+<\document>
+
+<document>
+<qid>50<\qid>
+<rank>77<\rank>
+<doc>CACM-2266<\doc>
+<snippet>
+algorithm, whichis conceptually suitable for parallel computation, determines its own 
+<\snippet>
+<\document>
+
+<document>
+<qid>50<\qid>
+<rank>78<\rank>
+<doc>CACM-1063<\doc>
+<snippet>
+Perforated <b>Paper<\b> Tape for InformationInterchange (Proposed American 
+<\snippet>
+<\document>
+
+<document>
+<qid>50<\qid>
+<rank>79<\rank>
+<doc>CACM-2479<\doc>
+<snippet>
+Recommendations for Graduate ProfessionalPrograms in Information <b>Systems:<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>50<\qid>
+<rank>80<\rank>
+<doc>CACM-2852<\doc>
+<snippet>
+Technology of Computer Center Management: AProposed Course 
+<\snippet>
+<\document>
+
+<document>
+<qid>50<\qid>
+<rank>81<\rank>
+<doc>CACM-2631<\doc>
+<snippet>
+Information-Theoretic Approach <b>toText<\b> <b>Searching<\b> <b>in<\b> <b>Direct<\b> <b>Access<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>50<\qid>
+<rank>82<\rank>
+<doc>CACM-2895<\doc>
+<snippet>
+the in tended behaviorof communicating parallel processes is described.  
+<\snippet>
+<\document>
+
+<document>
+<qid>50<\qid>
+<rank>83<\rank>
+<doc>CACM-2583<\doc>
+<snippet>
+for Humanizing Computerized InformationSystems: A Report <b>from<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>50<\qid>
+<rank>84<\rank>
+<doc>CACM-2785<\doc>
+<snippet>
+someof the problems associated with parallel computer architectures.CACM March, 1975Lawrie, 
+<\snippet>
+<\document>
+
+<document>
+<qid>50<\qid>
+<rank>85<\rank>
+<doc>CACM-2570<\doc>
+<snippet>
+Comparison of List <b>Schedules<\b> for Parallel Processing 
+<\snippet>
+<\document>
+
+<document>
+<qid>50<\qid>
+<rank>86<\rank>
+<doc>CACM-1569<\doc>
+<snippet>
+Phrase-Structure Productions in <b>PL/IA<\b> method is described 
+<\snippet>
+<\document>
+
+<document>
+<qid>50<\qid>
+<rank>87<\rank>
+<doc>CACM-1825<\doc>
+<snippet>
+Practical Method for Constructing <b>LR(k)<\b> ProcessorsA practical 
+<\snippet>
+<\document>
+
+<document>
+<qid>50<\qid>
+<rank>88<\rank>
+<doc>CACM-0975<\doc>
+<snippet>
+New Program of Work for <b>the<\b> InternationalStandard 
+<\snippet>
+<\document>
+
+<document>
+<qid>50<\qid>
+<rank>89<\rank>
+<doc>CACM-1065<\doc>
+<snippet>
+Sequencing of the American Standard Code forInformation 
+<\snippet>
+<\document>
+
+<document>
+<qid>50<\qid>
+<rank>90<\rank>
+<doc>CACM-1085<\doc>
+<snippet>
+for General-Purpose Paper Cards <b>forInformation<\b> Processing (Proposed 
+<\snippet>
+<\document>
+
+<document>
+<qid>50<\qid>
+<rank>91<\rank>
+<doc>CACM-1136<\doc>
+<snippet>
+of a Theory of Information Handling*CACM <b>February,<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>50<\qid>
+<rank>92<\rank>
+<doc>CACM-1490<\doc>
+<snippet>
+Inch Perforated Paper Tape for <b>InformationInterchange<\b> (Proposed 
+<\snippet>
+<\document>
+
+<document>
+<qid>50<\qid>
+<rank>93<\rank>
+<doc>CACM-1773<\doc>
+<snippet>
+Purpose Alphanumeric Keyboard <b>Arrangementfor<\b> Information Interchange* (Proposed 
+<\snippet>
+<\document>
+
+<document>
+<qid>50<\qid>
+<rank>94<\rank>
+<doc>CACM-1970<\doc>
+<snippet>
+Magnetic Tape for Information Interchange <b>(9<\b> Track-200 
+<\snippet>
+<\document>
+
+<document>
+<qid>50<\qid>
+<rank>95<\rank>
+<doc>CACM-2157<\doc>
+<snippet>
+Binary Search Length <b>for<\b> Dense Ordered ListsCACM 
+<\snippet>
+<\document>
+
+<document>
+<qid>50<\qid>
+<rank>96<\rank>
+<doc>CACM-0950<\doc>
+<snippet>
+for real-time computations of highly parallel computers as can beexpected 
+<\snippet>
+<\document>
+
+<document>
+<qid>50<\qid>
+<rank>97<\rank>
+<doc>CACM-3059<\doc>
+<snippet>
+October, 1978Towsley, D.Chandy, K.Browne, J.Multiprogramming, parallel processing, queueingnetwork models, multiprocessing 
+<\snippet>
+<\document>
+
+<document>
+<qid>50<\qid>
+<rank>98<\rank>
+<doc>CACM-2870<\doc>
+<snippet>
+Lattice Model of <b>Secure<\b> Information FlowThis paper 
+<\snippet>
+<\document>
+
+<document>
+<qid>50<\qid>
+<rank>99<\rank>
+<doc>CACM-2455<\doc>
+<snippet>
+Generalization of AVL <b>TreesA<\b> generalization of AVL 
+<\snippet>
+<\document>
+
+<document>
+<qid>50<\qid>
+<rank>100<\rank>
+<doc>CACM-2114<\doc>
+<snippet>
+serial processing oflists, prime keyword, parallel processing of lists 3.70 
+<\snippet>
+<\document>

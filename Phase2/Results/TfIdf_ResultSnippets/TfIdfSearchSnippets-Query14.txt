@@ -1,0 +1,900 @@
+
+<document>
+<qid>14<\qid>
+<rank>1<\rank>
+<doc>CACM-1724<\doc>
+<snippet>
+Generalized Partial <b>Pass<\b> Block SortThe design of 
+<\snippet>
+<\document>
+
+<document>
+<qid>14<\qid>
+<rank>2<\rank>
+<doc>CACM-2348<\doc>
+<snippet>
+Sort Algorithm [M1] (Algorithm A426)CACM May, <b>1972Bron,<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>14<\qid>
+<rank>3<\rank>
+<doc>CACM-2976<\doc>
+<snippet>
+<b>Block<\b> Accesses in <b>Database<\b> OrganizationsCACM April, <b>1977Yao,<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>14<\qid>
+<rank>4<\rank>
+<doc>CACM-2964<\doc>
+<snippet>
+Approach <b>to<\b> Optimal Design of Storage Parameters 
+<\snippet>
+<\document>
+
+<document>
+<qid>14<\qid>
+<rank>5<\rank>
+<doc>CACM-1566<\doc>
+<snippet>
+Starting Values for <b>Newton-Raphson<\b> Calculation of SQRT(x)The 
+<\snippet>
+<\document>
+
+<document>
+<qid>14<\qid>
+<rank>6<\rank>
+<doc>CACM-0132<\doc>
+<snippet>
+Sort (Algorithm 23)CACM November, 1960Feurzeig, W.CA601103 JB 
+<\snippet>
+<\document>
+
+<document>
+<qid>14<\qid>
+<rank>7<\rank>
+<doc>CACM-2563<\doc>
+<snippet>
+<b>Sort<\b> Algorithm (R426)CACM December, 1974Bron, C.CA741211 JB 
+<\snippet>
+<\document>
+
+<document>
+<qid>14<\qid>
+<rank>8<\rank>
+<doc>CACM-3011<\doc>
+<snippet>
+Utilization of Computers in American Local <b>GovernmentsTraditional<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>14<\qid>
+<rank>9<\rank>
+<doc>CACM-0662<\doc>
+<snippet>
+Sort (Algorithm 175)CACM December, <b>1963Juelich,<\b> <b>O.<\b> <b>C.CA631212<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>14<\qid>
+<rank>10<\rank>
+<doc>CACM-0701<\doc>
+<snippet>
+Sort (Algorithm 175)CACM October, 1963Schubert, G. <b>R.CA631024<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>14<\qid>
+<rank>11<\rank>
+<doc>CACM-0853<\doc>
+<snippet>
+COBOL <b>Sort<\b> VerbCACM May, 1963Paterson, J. B.CA630514 
+<\snippet>
+<\document>
+
+<document>
+<qid>14<\qid>
+<rank>12<\rank>
+<doc>CACM-0862<\doc>
+<snippet>
+Distribution for the Polyphase <b>SortCACM<\b> May, 1963Malcolm 
+<\snippet>
+<\document>
+
+<document>
+<qid>14<\qid>
+<rank>13<\rank>
+<doc>CACM-0307<\doc>
+<snippet>
+(Algorithm 65)CACM July, 1961Hoare, C. <b>A.<\b> R.CA610710 
+<\snippet>
+<\document>
+
+<document>
+<qid>14<\qid>
+<rank>14<\rank>
+<doc>CACM-2679<\doc>
+<snippet>
+Performance Tests of "quicksort" and DescendantsDetailed <b>performance<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>14<\qid>
+<rank>15<\rank>
+<doc>CACM-2397<\doc>
+<snippet>
+the Polyphase <b>Sort<\b> (Corrigendum)CACM January, 1972Shell, D. 
+<\snippet>
+<\document>
+
+<document>
+<qid>14<\qid>
+<rank>16<\rank>
+<doc>CACM-1191<\doc>
+<snippet>
+Precedence Functions (Algorithm 265 [L2])CACM October, <b>1965Wirth,<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>14<\qid>
+<rank>17<\rank>
+<doc>CACM-1999<\doc>
+<snippet>
+<b>Starting<\b> Approximations for GeneratingSquare Root for Slow 
+<\snippet>
+<\document>
+
+<document>
+<qid>14<\qid>
+<rank>18<\rank>
+<doc>CACM-0622<\doc>
+<snippet>
+Classification of Objects (Algorithm 83)CACM March, <b>1962Mayoh,<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>14<\qid>
+<rank>19<\rank>
+<doc>CACM-0841<\doc>
+<snippet>
+Sort (Algorithm 175)CACM <b>June,<\b> 1963Shaw, C. J.Trimble, 
+<\snippet>
+<\document>
+
+<document>
+<qid>14<\qid>
+<rank>20<\rank>
+<doc>CACM-3131<\doc>
+<snippet>
+Microcomputer <b>Number<\b> SystemFOCUS is a number system 
+<\snippet>
+<\document>
+
+<document>
+<qid>14<\qid>
+<rank>21<\rank>
+<doc>CACM-0507<\doc>
+<snippet>
+Quicksort, Find (Algorithm 63, 64, <b>65)CACM<\b> August, 
+<\snippet>
+<\document>
+
+<document>
+<qid>14<\qid>
+<rank>22<\rank>
+<doc>CACM-3169<\doc>
+<snippet>
+<b>on<\b> "An Optimal <b>Evaluation<\b> of Boolean <b>Expressions<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>14<\qid>
+<rank>23<\rank>
+<doc>CACM-2325<\doc>
+<snippet>
+Mathematics and Computer ScienceNumerical mathematics is <b>viewed<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>14<\qid>
+<rank>24<\rank>
+<doc>CACM-2819<\doc>
+<snippet>
+ The analysis program attemptsto find an optimal set of 
+<\snippet>
+<\document>
+
+<document>
+<qid>14<\qid>
+<rank>25<\rank>
+<doc>CACM-3087<\doc>
+<snippet>
+English <b>Language<\b> Question Answering Systemfor a Large 
+<\snippet>
+<\document>
+
+<document>
+<qid>14<\qid>
+<rank>26<\rank>
+<doc>CACM-2882<\doc>
+<snippet>
+Stochastic <b>Evaluation<\b> Model for DatabaseOrganization in Data 
+<\snippet>
+<\document>
+
+<document>
+<qid>14<\qid>
+<rank>27<\rank>
+<doc>CACM-0059<\doc>
+<snippet>
+<b>of<\b> Progress and Trend of Developmentand Use 
+<\snippet>
+<\document>
+
+<document>
+<qid>14<\qid>
+<rank>28<\rank>
+<doc>CACM-0371<\doc>
+<snippet>
+on Algorithms 2 and 3, Algorithm 15 
+<\snippet>
+<\document>
+
+<document>
+<qid>14<\qid>
+<rank>29<\rank>
+<doc>CACM-1795<\doc>
+<snippet>
+Code for Serial and Parallel ComputationCACM December, 
+<\snippet>
+<\document>
+
+<document>
+<qid>14<\qid>
+<rank>30<\rank>
+<doc>CACM-2226<\doc>
+<snippet>
+Evidence for the Analysis <b>of<\b> Algorithmsfor the 
+<\snippet>
+<\document>
+
+<document>
+<qid>14<\qid>
+<rank>31<\rank>
+<doc>CACM-1873<\doc>
+<snippet>
+LP AlgorithmsIt is shown how <b>a<\b> novel 
+<\snippet>
+<\document>
+
+<document>
+<qid>14<\qid>
+<rank>32<\rank>
+<doc>CACM-0717<\doc>
+<snippet>
+Algorithms for Finite SetsThe partitions of a 
+<\snippet>
+<\document>
+
+<document>
+<qid>14<\qid>
+<rank>33<\rank>
+<doc>CACM-3166<\doc>
+<snippet>
+<b>Standard<\b> Deviations: AccuracyFour algorithms for the numerical 
+<\snippet>
+<\document>
+
+<document>
+<qid>14<\qid>
+<rank>34<\rank>
+<doc>CACM-2170<\doc>
+<snippet>
+of Symbol <b>Manipulation<\b> in Theoretical PhysicsThis paper 
+<\snippet>
+<\document>
+
+<document>
+<qid>14<\qid>
+<rank>35<\rank>
+<doc>CACM-2691<\doc>
+<snippet>
+on the Algorithms of <b>Verhelst<\b> for theConversion 
+<\snippet>
+<\document>
+
+<document>
+<qid>14<\qid>
+<rank>36<\rank>
+<doc>CACM-0776<\doc>
+<snippet>
+Quicksort, and Find <b>(Algorithm<\b> 62, 64, & 
+<\snippet>
+<\document>
+
+<document>
+<qid>14<\qid>
+<rank>37<\rank>
+<doc>CACM-2876<\doc>
+<snippet>
+Resolution of Privacy Protection in Database <b>SystemsTraditionally,<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>14<\qid>
+<rank>38<\rank>
+<doc>CACM-1961<\doc>
+<snippet>
+uses an exhaustive search to find all of the elementarycircuits 
+<\snippet>
+<\document>
+
+<document>
+<qid>14<\qid>
+<rank>39<\rank>
+<doc>CACM-2007<\doc>
+<snippet>
+Policy/Revised August 1970CACM August, <b>1970CA700814<\b> JB February 
+<\snippet>
+<\document>
+
+<document>
+<qid>14<\qid>
+<rank>40<\rank>
+<doc>CACM-2950<\doc>
+<snippet>
+Unifying Approach to SchedulingThis paper <b>presents<\b> a 
+<\snippet>
+<\document>
+
+<document>
+<qid>14<\qid>
+<rank>41<\rank>
+<doc>CACM-2997<\doc>
+<snippet>
+Hulls <b>of<\b> Finite Sets of Poin ts 
+<\snippet>
+<\document>
+
+<document>
+<qid>14<\qid>
+<rank>42<\rank>
+<doc>CACM-2902<\doc>
+<snippet>
+Memory Allocation in Computer SimulationThis <b>paper<\b> investigates 
+<\snippet>
+<\document>
+
+<document>
+<qid>14<\qid>
+<rank>43<\rank>
+<doc>CACM-0086<\doc>
+<snippet>
+of Progress and <b>Trend<\b> of Developmentand Use 
+<\snippet>
+<\document>
+
+<document>
+<qid>14<\qid>
+<rank>44<\rank>
+<doc>CACM-0084<\doc>
+<snippet>
+of Progress and Trend <b>of<\b> Developmentand Use 
+<\snippet>
+<\document>
+
+<document>
+<qid>14<\qid>
+<rank>45<\rank>
+<doc>CACM-2863<\doc>
+<snippet>
+Optimal Variable-Space <b>Page<\b> Replacement AlgorithmA criterion for 
+<\snippet>
+<\document>
+
+<document>
+<qid>14<\qid>
+<rank>46<\rank>
+<doc>CACM-2577<\doc>
+<snippet>
+On-Site Data Management System Application <b>in<\b> Field 
+<\snippet>
+<\document>
+
+<document>
+<qid>14<\qid>
+<rank>47<\rank>
+<doc>CACM-1932<\doc>
+<snippet>
+Logarithmic Error and <b>Newton's<\b> Method for the 
+<\snippet>
+<\document>
+
+<document>
+<qid>14<\qid>
+<rank>48<\rank>
+<doc>CACM-2884<\doc>
+<snippet>
+<b>Enumeration:<\b> Four New Permutation AlgorithmsClassical permutation enumeration 
+<\snippet>
+<\document>
+
+<document>
+<qid>14<\qid>
+<rank>49<\rank>
+<doc>CACM-2817<\doc>
+<snippet>
+<b>Notions<\b> <b>of<\b> <b>Consistency<\b> <b>and<\b> <b>Predicate<\b> <b>Locks<\b> <b>in<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>14<\qid>
+<rank>50<\rank>
+<doc>CACM-0804<\doc>
+<snippet>
+of Series (Algorithms 134)CACM July, 1963Thacher Jr., 
+<\snippet>
+<\document>
+
+<document>
+<qid>14<\qid>
+<rank>51<\rank>
+<doc>CACM-0089<\doc>
+<snippet>
+Routine <b>to<\b> Find the Solution of SimultaneousLinear 
+<\snippet>
+<\document>
+
+<document>
+<qid>14<\qid>
+<rank>52<\rank>
+<doc>CACM-0860<\doc>
+<snippet>
+Comparison Between <b>the<\b> Polyphase and Oscillating Sort 
+<\snippet>
+<\document>
+
+<document>
+<qid>14<\qid>
+<rank>53<\rank>
+<doc>CACM-0022<\doc>
+<snippet>
+Applications Department--AutomaticImplementation of Computer LogicCACM May, 1958Morris, 
+<\snippet>
+<\document>
+
+<document>
+<qid>14<\qid>
+<rank>54<\rank>
+<doc>CACM-0270<\doc>
+<snippet>
+for Storage <b>Allocation<\b> Algorithms CACM October, 1961Kelley 
+<\snippet>
+<\document>
+
+<document>
+<qid>14<\qid>
+<rank>55<\rank>
+<doc>CACM-2174<\doc>
+<snippet>
+criterion has been extended to find all the stable marriage 
+<\snippet>
+<\document>
+
+<document>
+<qid>14<\qid>
+<rank>56<\rank>
+<doc>CACM-1658<\doc>
+<snippet>
+of Algorithms for <b>the<\b> Zero-One Programming ProblemThis 
+<\snippet>
+<\document>
+
+<document>
+<qid>14<\qid>
+<rank>57<\rank>
+<doc>CACM-1752<\doc>
+<snippet>
+Management for a Medium Scale <b>Time-Sharing<\b> Operating 
+<\snippet>
+<\document>
+
+<document>
+<qid>14<\qid>
+<rank>58<\rank>
+<doc>CACM-1374<\doc>
+<snippet>
+of <b>Determinant;<\b> DeterminantEvaluation (Algorithms 41[F3]; 269[F3])CACM September, 
+<\snippet>
+<\document>
+
+<document>
+<qid>14<\qid>
+<rank>59<\rank>
+<doc>CACM-3164<\doc>
+<snippet>
+Acyclic Digraphs-A Tool for Database <b>IntegrityA<\b> progressive 
+<\snippet>
+<\document>
+
+<document>
+<qid>14<\qid>
+<rank>60<\rank>
+<doc>CACM-2856<\doc>
+<snippet>
+Synthetic Approach to <b>Decision<\b> Table ConversionPrevious approaches 
+<\snippet>
+<\document>
+
+<document>
+<qid>14<\qid>
+<rank>61<\rank>
+<doc>CACM-0677<\doc>
+<snippet>
+of Strings for a Merge <b>SortDetailed<\b> statistics 
+<\snippet>
+<\document>
+
+<document>
+<qid>14<\qid>
+<rank>62<\rank>
+<doc>CACM-2272<\doc>
+<snippet>
+by Natural SelectionA family of <b>sorting<\b> algorithms 
+<\snippet>
+<\document>
+
+<document>
+<qid>14<\qid>
+<rank>63<\rank>
+<doc>CACM-2289<\doc>
+<snippet>
+Arrays for the Solution of <b>Graph<\b> ProblemsA 
+<\snippet>
+<\document>
+
+<document>
+<qid>14<\qid>
+<rank>64<\rank>
+<doc>CACM-3006<\doc>
+<snippet>
+with Variable Partition Paging AlgorithmsFive types <b>of<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>14<\qid>
+<rank>65<\rank>
+<doc>CACM-3075<\doc>
+<snippet>
+Parallel Sorting AlgorithmsA parallel bucket-sort algorithm is 
+<\snippet>
+<\document>
+
+<document>
+<qid>14<\qid>
+<rank>66<\rank>
+<doc>CACM-3036<\doc>
+<snippet>
+Selection of Optimal Tab SettingsA new generation 
+<\snippet>
+<\document>
+
+<document>
+<qid>14<\qid>
+<rank>67<\rank>
+<doc>CACM-1551<\doc>
+<snippet>
+Compiling Algorithms for Arithmetic ExpressionsThis <b>paper<\b> deals 
+<\snippet>
+<\document>
+
+<document>
+<qid>14<\qid>
+<rank>68<\rank>
+<doc>CACM-1660<\doc>
+<snippet>
+<b>By<\b> Subject To algorithms, 1960-1968CACM December, 1968CA681206 
+<\snippet>
+<\document>
+
+<document>
+<qid>14<\qid>
+<rank>69<\rank>
+<doc>CACM-2834<\doc>
+<snippet>
+<b>Generation<\b> of the BinaryReflected Gray Code and 
+<\snippet>
+<\document>
+
+<document>
+<qid>14<\qid>
+<rank>70<\rank>
+<doc>CACM-0049<\doc>
+<snippet>
+and Business Applications <b>(Oracle<\b> Curve Plotter)CACM October, 
+<\snippet>
+<\document>
+
+<document>
+<qid>14<\qid>
+<rank>71<\rank>
+<doc>CACM-2337<\doc>
+<snippet>
+Sorting Problem and Its ComplexityA <b>technique<\b> for 
+<\snippet>
+<\document>
+
+<document>
+<qid>14<\qid>
+<rank>72<\rank>
+<doc>CACM-2900<\doc>
+<snippet>
+Theorems <b>to<\b> Aid in Solving the File 
+<\snippet>
+<\document>
+
+<document>
+<qid>14<\qid>
+<rank>73<\rank>
+<doc>CACM-2227<\doc>
+<snippet>
+of a Program: FINDA proof is given 
+<\snippet>
+<\document>
+
+<document>
+<qid>14<\qid>
+<rank>74<\rank>
+<doc>CACM-3151<\doc>
+<snippet>
+Optimal Real-Time Algorithm for Planar Convex HullsAn 
+<\snippet>
+<\document>
+
+<document>
+<qid>14<\qid>
+<rank>75<\rank>
+<doc>CACM-2674<\doc>
+<snippet>
+Conversion Algorithms <b>for<\b> <b>a<\b> <b>Cell<\b> <b>Organized<\b> <b>Raster<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>14<\qid>
+<rank>76<\rank>
+<doc>CACM-2146<\doc>
+<snippet>
+the Polyphase SortVarious dispersion algorithms for the 
+<\snippet>
+<\document>
+
+<document>
+<qid>14<\qid>
+<rank>77<\rank>
+<doc>CACM-1886<\doc>
+<snippet>
+of Optimal Code for Expressions via FactorizationGiven 
+<\snippet>
+<\document>
+
+<document>
+<qid>14<\qid>
+<rank>78<\rank>
+<doc>CACM-2181<\doc>
+<snippet>
+State of Computer <b>Oriented<\b> Curricula in Business 
+<\snippet>
+<\document>
+
+<document>
+<qid>14<\qid>
+<rank>79<\rank>
+<doc>CACM-0655<\doc>
+<snippet>
+as an IR LanguageMany <b>of<\b> the features 
+<\snippet>
+<\document>
+
+<document>
+<qid>14<\qid>
+<rank>80<\rank>
+<doc>CACM-1196<\doc>
+<snippet>
+of Differential Equations in General <b>Problem<\b> <b>SolvingA<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>14<\qid>
+<rank>81<\rank>
+<doc>CACM-2797<\doc>
+<snippet>
+First Order Approximation to the OptimalCheckpoint Interval 
+<\snippet>
+<\document>
+
+<document>
+<qid>14<\qid>
+<rank>82<\rank>
+<doc>CACM-1342<\doc>
+<snippet>
+Problem (Algorithms 293 [H])CACM December, 1966Bayer, <b>G.CA661207a<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>14<\qid>
+<rank>83<\rank>
+<doc>CACM-3038<\doc>
+<snippet>
+Encryption for Authentication in Large Networks of 
+<\snippet>
+<\document>
+
+<document>
+<qid>14<\qid>
+<rank>84<\rank>
+<doc>CACM-3085<\doc>
+<snippet>
+ An O(n) algorithm to find <b>an<\b> <b>order<\b> <b>of<\b> <b>computation<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>14<\qid>
+<rank>85<\rank>
+<doc>CACM-2716<\doc>
+<snippet>
+the Performance of a Relational Algebra Database 
+<\snippet>
+<\document>
+
+<document>
+<qid>14<\qid>
+<rank>86<\rank>
+<doc>CACM-1098<\doc>
+<snippet>
+Comparison of <b>List-Processing<\b> Computer Languages(Including a Detailed 
+<\snippet>
+<\document>
+
+<document>
+<qid>14<\qid>
+<rank>87<\rank>
+<doc>CACM-2725<\doc>
+<snippet>
+Comparison <b>of<\b> Simulation Event List Algorithms (Corrigendum)CACM 
+<\snippet>
+<\document>
+
+<document>
+<qid>14<\qid>
+<rank>88<\rank>
+<doc>CACM-2885<\doc>
+<snippet>
+<b>Self-Organizing<\b> Sequential Search HeuristicsThis paper examines a 
+<\snippet>
+<\document>
+
+<document>
+<qid>14<\qid>
+<rank>89<\rank>
+<doc>CACM-2586<\doc>
+<snippet>
+Optimal Code Generation for <b>ArithmeticExpressions<\b> to the 
+<\snippet>
+<\document>
+
+<document>
+<qid>14<\qid>
+<rank>90<\rank>
+<doc>CACM-2816<\doc>
+<snippet>
+Reorganization of Distributed Space Disk FilesIn most 
+<\snippet>
+<\document>
+
+<document>
+<qid>14<\qid>
+<rank>91<\rank>
+<doc>CACM-3058<\doc>
+<snippet>
+Searching: A Fast Sequential Search TechniqueWhen sequential 
+<\snippet>
+<\document>
+
+<document>
+<qid>14<\qid>
+<rank>92<\rank>
+<doc>CACM-2752<\doc>
+<snippet>
+of All the Cycles of <b>a<\b> Graph 
+<\snippet>
+<\document>
+
+<document>
+<qid>14<\qid>
+<rank>93<\rank>
+<doc>CACM-2017<\doc>
+<snippet>
+in a Paging EnvironmentThis <b>sorting<\b> <b>study<\b> <b>was<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>14<\qid>
+<rank>94<\rank>
+<doc>CACM-2015<\doc>
+<snippet>
+<b>Technique<\b> for Generating Almost OptimalFloyd-Evans Productions for 
+<\snippet>
+<\document>
+
+<document>
+<qid>14<\qid>
+<rank>95<\rank>
+<doc>CACM-2907<\doc>
+<snippet>
+Optimal Approach to Recursive <b>ProgramsThe<\b> classical fixed 
+<\snippet>
+<\document>
+
+<document>
+<qid>14<\qid>
+<rank>96<\rank>
+<doc>CACM-2963<\doc>
+<snippet>
+<b>Fast<\b> Algorithm for Computing Longest Common SubsequencesPreviously 
+<\snippet>
+<\document>
+
+<document>
+<qid>14<\qid>
+<rank>97<\rank>
+<doc>CACM-2426<\doc>
+<snippet>
+SCALE1, <b>SCALE2,<\b> and SCALE3 for Determinationof Scales 
+<\snippet>
+<\document>
+
+<document>
+<qid>14<\qid>
+<rank>98<\rank>
+<doc>CACM-3057<\doc>
+<snippet>
+T(j).  The objectiveis to find a transformed digital picture 
+<\snippet>
+<\document>
+
+<document>
+<qid>14<\qid>
+<rank>99<\rank>
+<doc>CACM-3037<\doc>
+<snippet>
+is also easily extended to find the prime factorization of 
+<\snippet>
+<\document>
+
+<document>
+<qid>14<\qid>
+<rank>100<\rank>
+<doc>CACM-0630<\doc>
+<snippet>
+Evaluation of <b>Autocode<\b> <b>ReadabilityOf<\b> <b>the<\b> <b>many<\b> <b>requirements<\b> 
+<\snippet>
+<\document>

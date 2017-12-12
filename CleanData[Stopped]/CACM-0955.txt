@@ -1,0 +1,1 @@
+class matrices test inversion procedures cacm December, 1964 Cline, R. E. ca641216 jb march 9, 1978 3:16 pm

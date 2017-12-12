@@ -1,0 +1,1 @@
+best-match problem document retrieval cacm November, 1974 van Rijsbergen, C. J. document retrieval match clustering searching matching dissimilarity hierarchy classification 3.73 3.74 3.79 5.30 ca741109 jb january 16, 1978 10:09

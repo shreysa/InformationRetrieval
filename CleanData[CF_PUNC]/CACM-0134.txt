@@ -1,0 +1,1 @@
+bessel function for a set of integer ordersalgorithm 21 cacm November, 1960 Borsch-Supan, W. ca601101 jb march 20, 1978 8:05 pm

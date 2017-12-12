@@ -1,0 +1,900 @@
+
+<document>
+<qid>57<\qid>
+<rank>1<\rank>
+<doc>CACM-1106<\doc>
+<snippet>
+of <b>Digital<\b> <b>ComputersCACM<\b> <b>April,<\b> <b>1964Perlis,<\b> <b>A.<\b> <b>J.CA640402<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>57<\qid>
+<rank>2<\rank>
+<doc>CACM-1137<\doc>
+<snippet>
+<b>Format<\b> Language*CACM February, 1964Perlis, A. J.CA640206 JB 
+<\snippet>
+<\document>
+
+<document>
+<qid>57<\qid>
+<rank>3<\rank>
+<doc>CACM-0437<\doc>
+<snippet>
+Matrix OperationsCACM December, 1962Galler, B. A.Perlis, A. 
+<\snippet>
+<\document>
+
+<document>
+<qid>57<\qid>
+<rank>4<\rank>
+<doc>CACM-0001<\doc>
+<snippet>
+Report-International Algebraic LanguageCACM December, 1958Perlis, A. J.Samelson,K.CA581203 
+<\snippet>
+<\document>
+
+<document>
+<qid>57<\qid>
+<rank>5<\rank>
+<doc>CACM-3077<\doc>
+<snippet>
+Programming Be Liberated from the von NeumannStyle? 
+<\snippet>
+<\document>
+
+<document>
+<qid>57<\qid>
+<rank>6<\rank>
+<doc>CACM-1132<\doc>
+<snippet>
+Extension to ALGOL <b>for<\b> Manipulating Formulae*CACM February, 
+<\snippet>
+<\document>
+
+<document>
+<qid>57<\qid>
+<rank>7<\rank>
+<doc>CACM-0209<\doc>
+<snippet>
+Manipulation by Threaded ListsCACM April, 1960Perlis, <b>A.<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>57<\qid>
+<rank>8<\rank>
+<doc>CACM-0196<\doc>
+<snippet>
+on the Algorithmic Language ALGOL <b>60Naur,<\b> P.Backus, 
+<\snippet>
+<\document>
+
+<document>
+<qid>57<\qid>
+<rank>9<\rank>
+<doc>CACM-0176<\doc>
+<snippet>
+<b>Manipulation<\b> by Threaded Lists (Corrigendum)CACM June, 1960Perlis, 
+<\snippet>
+<\document>
+
+<document>
+<qid>57<\qid>
+<rank>10<\rank>
+<doc>CACM-0065<\doc>
+<snippet>
+Sub-Committee Report - <b>ExtensionsCACM<\b> September, 1959Dijkstra, E. 
+<\snippet>
+<\document>
+
+<document>
+<qid>57<\qid>
+<rank>11<\rank>
+<doc>CACM-0406<\doc>
+<snippet>
+Use of Threaded Lists in <b>Constructing<\b> a 
+<\snippet>
+<\document>
+
+<document>
+<qid>57<\qid>
+<rank>12<\rank>
+<doc>CACM-3140<\doc>
+<snippet>
+<b>Processes<\b> and Proofs of Theorems and ProgramsIt 
+<\snippet>
+<\document>
+
+<document>
+<qid>57<\qid>
+<rank>13<\rank>
+<doc>CACM-0689<\doc>
+<snippet>
+of a Visit to Discuss Common ProgrammingLanguages 
+<\snippet>
+<\document>
+
+<document>
+<qid>57<\qid>
+<rank>14<\rank>
+<doc>CACM-0632<\doc>
+<snippet>
+Diagnosis With The <b>Aid<\b> of ALGOLCACM February, 
+<\snippet>
+<\document>
+
+<document>
+<qid>57<\qid>
+<rank>15<\rank>
+<doc>CACM-0291<\doc>
+<snippet>
+of MOBOL in PreparingRetrieval ProgramsCACM September, 1961Hoffman, 
+<\snippet>
+<\document>
+
+<document>
+<qid>57<\qid>
+<rank>16<\rank>
+<doc>CACM-0682<\doc>
+<snippet>
+programming in FORTRAN IICACM November, 1963Ayers, J. 
+<\snippet>
+<\document>
+
+<document>
+<qid>57<\qid>
+<rank>17<\rank>
+<doc>CACM-0011<\doc>
+<snippet>
+Problem of Programming <b>Communication<\b> withChanging Machines A 
+<\snippet>
+<\document>
+
+<document>
+<qid>57<\qid>
+<rank>18<\rank>
+<doc>CACM-0412<\doc>
+<snippet>
+Processes and ALGOL TranslationCACM January, 1961Gray, A. 
+<\snippet>
+<\document>
+
+<document>
+<qid>57<\qid>
+<rank>19<\rank>
+<doc>CACM-0905<\doc>
+<snippet>
+<b>of<\b> Sets (Algorithm 156)CACM March, 1963Mifsud, C. 
+<\snippet>
+<\document>
+
+<document>
+<qid>57<\qid>
+<rank>20<\rank>
+<doc>CACM-0014<\doc>
+<snippet>
+<b>Problem<\b> of Programming Communication withChanging Machines A 
+<\snippet>
+<\document>
+
+<document>
+<qid>57<\qid>
+<rank>21<\rank>
+<doc>CACM-0134<\doc>
+<snippet>
+Function for a Set of Integer Orders(Algorithm 
+<\snippet>
+<\document>
+
+<document>
+<qid>57<\qid>
+<rank>22<\rank>
+<doc>CACM-1070<\doc>
+<snippet>
+A System for <b>Input<\b> Card ReplicationCACM May, 
+<\snippet>
+<\document>
+
+<document>
+<qid>57<\qid>
+<rank>23<\rank>
+<doc>CACM-1755<\doc>
+<snippet>
+of the ACM Symposium on Operating system 
+<\snippet>
+<\document>
+
+<document>
+<qid>57<\qid>
+<rank>24<\rank>
+<doc>CACM-0177<\doc>
+<snippet>
+of Polynomial Equation by BairstowHitchcock <b>Method,<\b> A. 
+<\snippet>
+<\document>
+
+<document>
+<qid>57<\qid>
+<rank>25<\rank>
+<doc>CACM-1914<\doc>
+<snippet>
+Scaling by Integer <b>Programming<\b> (Algorithm 348 [F1])CACM 
+<\snippet>
+<\document>
+
+<document>
+<qid>57<\qid>
+<rank>26<\rank>
+<doc>CACM-0218<\doc>
+<snippet>
+Preparation of <b>a<\b> Poetry ConcordanceCACM February, 1960Painter, 
+<\snippet>
+<\document>
+
+<document>
+<qid>57<\qid>
+<rank>27<\rank>
+<doc>CACM-0376<\doc>
+<snippet>
+(Algorithm 36)CACM March, 1961Gianni, A. J.CA610306 JB 
+<\snippet>
+<\document>
+
+<document>
+<qid>57<\qid>
+<rank>28<\rank>
+<doc>CACM-0238<\doc>
+<snippet>
+and Analysis of Biochemical SystemsCACM December, 1961Garfinkel, 
+<\snippet>
+<\document>
+
+<document>
+<qid>57<\qid>
+<rank>29<\rank>
+<doc>CACM-0556<\doc>
+<snippet>
+Translation of Boolean <b>ExpressionsCACM<\b> July, 1972Bottenbirruch, H. 
+<\snippet>
+<\document>
+
+<document>
+<qid>57<\qid>
+<rank>30<\rank>
+<doc>CACM-1133<\doc>
+<snippet>
+<b>Programming<\b> Package for Some General Modes of 
+<\snippet>
+<\document>
+
+<document>
+<qid>57<\qid>
+<rank>31<\rank>
+<doc>CACM-0133<\doc>
+<snippet>
+Functions of First And Second Kind <b>(Algorithm<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>57<\qid>
+<rank>32<\rank>
+<doc>CACM-1242<\doc>
+<snippet>
+Graeffe Method (Algorithm 256 <b>[C2])CACM<\b> June, 1965Grau, 
+<\snippet>
+<\document>
+
+<document>
+<qid>57<\qid>
+<rank>33<\rank>
+<doc>CACM-0057<\doc>
+<snippet>
+and <b>Its<\b> Computer CenterCACM October, 1959CA591002 JB 
+<\snippet>
+<\document>
+
+<document>
+<qid>57<\qid>
+<rank>34<\rank>
+<doc>CACM-0226<\doc>
+<snippet>
+of Polynomial Equation byBairstow-Hitchcock Method (Algorithm 3)CACM 
+<\snippet>
+<\document>
+
+<document>
+<qid>57<\qid>
+<rank>35<\rank>
+<doc>CACM-0744<\doc>
+<snippet>
+(Algorithm 205)CACM September, 1963Haubrich, J. G. <b>A.CA630914<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>57<\qid>
+<rank>36<\rank>
+<doc>CACM-2460<\doc>
+<snippet>
+Quadrature (Algorithm R424)CACM August, 1973Good, A. <b>J.CA730814<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>57<\qid>
+<rank>37<\rank>
+<doc>CACM-1942<\doc>
+<snippet>
+a Solution of N Functional Equationsin <b>N<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>57<\qid>
+<rank>38<\rank>
+<doc>CACM-0931<\doc>
+<snippet>
+Mistake Analysis of Digital Computer ProgramsCACM <b>February,<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>57<\qid>
+<rank>39<\rank>
+<doc>CACM-0398<\doc>
+<snippet>
+SLANG SystemCACM January, 1961Sibley, R. A.CA610116 JB 
+<\snippet>
+<\document>
+
+<document>
+<qid>57<\qid>
+<rank>40<\rank>
+<doc>CACM-0296<\doc>
+<snippet>
+Note on Multiple Precision ArithmeticCACM August, 1961Cox, 
+<\snippet>
+<\document>
+
+<document>
+<qid>57<\qid>
+<rank>41<\rank>
+<doc>CACM-2705<\doc>
+<snippet>
+Languages, Natural Languages, and MathematicsSome social aspects 
+<\snippet>
+<\document>
+
+<document>
+<qid>57<\qid>
+<rank>42<\rank>
+<doc>CACM-0017<\doc>
+<snippet>
+Programming <b>of<\b> Arithmetic OperationsCACM August, 1958Ershov, A. 
+<\snippet>
+<\document>
+
+<document>
+<qid>57<\qid>
+<rank>43<\rank>
+<doc>CACM-1119<\doc>
+<snippet>
+Open Letter to X3.4.3 (FORTRAN Standards -- 
+<\snippet>
+<\document>
+
+<document>
+<qid>57<\qid>
+<rank>44<\rank>
+<doc>CACM-2700<\doc>
+<snippet>
+A <b>Method<\b> of Proving Properties of Parallel 
+<\snippet>
+<\document>
+
+<document>
+<qid>57<\qid>
+<rank>45<\rank>
+<doc>CACM-0957<\doc>
+<snippet>
+for Partial Rewriting <b>of<\b> Magnetic TapeCACM December, 
+<\snippet>
+<\document>
+
+<document>
+<qid>57<\qid>
+<rank>46<\rank>
+<doc>CACM-0191<\doc>
+<snippet>
+Words <b>SystematicallyCACM<\b> May, 1960Barrett, J. A.Grems, M.CA600506 
+<\snippet>
+<\document>
+
+<document>
+<qid>57<\qid>
+<rank>47<\rank>
+<doc>CACM-0433<\doc>
+<snippet>
+Arrays in Variable-Word-Length <b>ComputersCACM<\b> December, 1962Sonquist, J. 
+<\snippet>
+<\document>
+
+<document>
+<qid>57<\qid>
+<rank>48<\rank>
+<doc>CACM-0890<\doc>
+<snippet>
+Definitions A selection of the definitions prepared 
+<\snippet>
+<\document>
+
+<document>
+<qid>57<\qid>
+<rank>49<\rank>
+<doc>CACM-0956<\doc>
+<snippet>
+Family of Test MatricesCACM <b>December,<\b> 1964Newbery, A. 
+<\snippet>
+<\document>
+
+<document>
+<qid>57<\qid>
+<rank>50<\rank>
+<doc>CACM-1339<\doc>
+<snippet>
+Contribution to the Development <b>of<\b> ALGOLCACM December, 
+<\snippet>
+<\document>
+
+<document>
+<qid>57<\qid>
+<rank>51<\rank>
+<doc>CACM-0628<\doc>
+<snippet>
+a Floating-Point Number RepresentationFor <b>Use<\b> with Algorithmic 
+<\snippet>
+<\document>
+
+<document>
+<qid>57<\qid>
+<rank>52<\rank>
+<doc>CACM-2587<\doc>
+<snippet>
+the Construction of a Representative Synthetic <b>Workload<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>57<\qid>
+<rank>53<\rank>
+<doc>CACM-0758<\doc>
+<snippet>
+Structure of PERT and CPA Computer ProgramsAn 
+<\snippet>
+<\document>
+
+<document>
+<qid>57<\qid>
+<rank>54<\rank>
+<doc>CACM-1391<\doc>
+<snippet>
+Experiments in Finite <b>AlgebraA<\b> medium-scale programming <b>system<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>57<\qid>
+<rank>55<\rank>
+<doc>CACM-0914<\doc>
+<snippet>
+and Its DocumentationCACM March, 1963Shaw, C. <b>J.CA630307<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>57<\qid>
+<rank>56<\rank>
+<doc>CACM-0114<\doc>
+<snippet>
+of Punched Card CodesCACM December, 1960Smith, <b>H.<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>57<\qid>
+<rank>57<\rank>
+<doc>CACM-2802<\doc>
+<snippet>
+New Math <b>of<\b> Computer ProgrammingStructured programming has 
+<\snippet>
+<\document>
+
+<document>
+<qid>57<\qid>
+<rank>58<\rank>
+<doc>CACM-0161<\doc>
+<snippet>
+Words <b>Systematically<\b> (Corrigendum)CACM August, 1960Barrett, J. A.Grems, 
+<\snippet>
+<\document>
+
+<document>
+<qid>57<\qid>
+<rank>59<\rank>
+<doc>CACM-0025<\doc>
+<snippet>
+<b>Purpose<\b> Programming SystemsCACM May, 1958Holt, A. W.CA580503 
+<\snippet>
+<\document>
+
+<document>
+<qid>57<\qid>
+<rank>60<\rank>
+<doc>CACM-0574<\doc>
+<snippet>
+of Jacobi Symbol <b>(Algorithm<\b> <b>99)CACM<\b> <b>June,<\b> <b>1962Garland,<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>57<\qid>
+<rank>61<\rank>
+<doc>CACM-1614<\doc>
+<snippet>
+Proposal for Definitions in ALGOLAn extension to 
+<\snippet>
+<\document>
+
+<document>
+<qid>57<\qid>
+<rank>62<\rank>
+<doc>CACM-0674<\doc>
+<snippet>
+of IBM 1620 EDP Methods <b>to<\b> the 
+<\snippet>
+<\document>
+
+<document>
+<qid>57<\qid>
+<rank>63<\rank>
+<doc>CACM-0953<\doc>
+<snippet>
+Text with a 1401CACM <b>December,<\b> 1964Baker, J. 
+<\snippet>
+<\document>
+
+<document>
+<qid>57<\qid>
+<rank>64<\rank>
+<doc>CACM-1473<\doc>
+<snippet>
+Stability of the Fourth Order Runge-KuttaMethod for 
+<\snippet>
+<\document>
+
+<document>
+<qid>57<\qid>
+<rank>65<\rank>
+<doc>CACM-1458<\doc>
+<snippet>
+<b>ProgrammingWhen<\b> <b>the<\b> <b>transition<\b> <b>has<\b> <b>been<\b> <b>made<\b> <b>from<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>57<\qid>
+<rank>66<\rank>
+<doc>CACM-0143<\doc>
+<snippet>
+List of Computer Systems <b>Programs<\b> forthe IBM 
+<\snippet>
+<\document>
+
+<document>
+<qid>57<\qid>
+<rank>67<\rank>
+<doc>CACM-0762<\doc>
+<snippet>
+Remarks on the Syntax <b>of<\b> Symbolic Programming 
+<\snippet>
+<\document>
+
+<document>
+<qid>57<\qid>
+<rank>68<\rank>
+<doc>CACM-2386<\doc>
+<snippet>
+Microprogramming: Processor Organizationand Programming (Corrigendum)CACM <b>February,<\b> 1972Tucker, 
+<\snippet>
+<\document>
+
+<document>
+<qid>57<\qid>
+<rank>69<\rank>
+<doc>CACM-0231<\doc>
+<snippet>
+Proposal for a Set of Publication <b>Standards<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>57<\qid>
+<rank>70<\rank>
+<doc>CACM-1834<\doc>
+<snippet>
+Axiomatic Basis for <b>Computer<\b> ProgrammingIn this paper 
+<\snippet>
+<\document>
+
+<document>
+<qid>57<\qid>
+<rank>71<\rank>
+<doc>CACM-2312<\doc>
+<snippet>
+the Present and Future of <b>Scientific<\b> ComputationA 
+<\snippet>
+<\document>
+
+<document>
+<qid>57<\qid>
+<rank>72<\rank>
+<doc>CACM-1086<\doc>
+<snippet>
+Proposal for Input-Output Conventions in ALGOL60-A <b>Report<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>57<\qid>
+<rank>73<\rank>
+<doc>CACM-0333<\doc>
+<snippet>
+of an Improved* Transmission/Data Processing <b>CodeCACM<\b> May, 
+<\snippet>
+<\document>
+
+<document>
+<qid>57<\qid>
+<rank>74<\rank>
+<doc>CACM-2414<\doc>
+<snippet>
+Overa <b>Finite<\b> Field [A1] (Algorithm A469)CACM November, 
+<\snippet>
+<\document>
+
+<document>
+<qid>57<\qid>
+<rank>75<\rank>
+<doc>CACM-0349<\doc>
+<snippet>
+Set of Test MatricesCACM April, 1961Herndon, J. 
+<\snippet>
+<\document>
+
+<document>
+<qid>57<\qid>
+<rank>76<\rank>
+<doc>CACM-1059<\doc>
+<snippet>
+(Algorithm 232)CACM June, 1964Williams, J. W. J.CA640608 
+<\snippet>
+<\document>
+
+<document>
+<qid>57<\qid>
+<rank>77<\rank>
+<doc>CACM-0307<\doc>
+<snippet>
+(Algorithm 65)CACM July, <b>1961Hoare,<\b> C. A. R.CA610710 
+<\snippet>
+<\document>
+
+<document>
+<qid>57<\qid>
+<rank>78<\rank>
+<doc>CACM-0308<\doc>
+<snippet>
+<b>(Algorithm<\b> <b>64)CACM<\b> <b>July,<\b> <b>1961Hoare,<\b> <b>C.<\b> <b>A.<\b> <b>R.CA610709<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>57<\qid>
+<rank>79<\rank>
+<doc>CACM-0309<\doc>
+<snippet>
+(Algorithm 63)CACM July, 1961Hoare, C. A. <b>R.CA610708<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>57<\qid>
+<rank>80<\rank>
+<doc>CACM-0566<\doc>
+<snippet>
+<b>Inversion<\b> (Algorithm 58)CACM June, 1962Conger, R. A.CA620619 
+<\snippet>
+<\document>
+
+<document>
+<qid>57<\qid>
+<rank>81<\rank>
+<doc>CACM-0750<\doc>
+<snippet>
+Matrix EigenvectorsCACM September, 1963Newbery, <b>A.<\b> C. R.CA630908 
+<\snippet>
+<\document>
+
+<document>
+<qid>57<\qid>
+<rank>82<\rank>
+<doc>CACM-2385<\doc>
+<snippet>
+<b>of<\b> a Complex <b>Polynomial<\b> [C2] (Algorithm <b>A419)CACM<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>57<\qid>
+<rank>83<\rank>
+<doc>CACM-1469<\doc>
+<snippet>
+Next <b>700<\b> Programming Languages A family of 
+<\snippet>
+<\document>
+
+<document>
+<qid>57<\qid>
+<rank>84<\rank>
+<doc>CACM-2864<\doc>
+<snippet>
+of Program LocalitiesThe <b>term<\b> "locality" has been 
+<\snippet>
+<\document>
+
+<document>
+<qid>57<\qid>
+<rank>85<\rank>
+<doc>CACM-2464<\doc>
+<snippet>
+Complex Method for Constrained Optimization [E4] (Algorithm 
+<\snippet>
+<\document>
+
+<document>
+<qid>57<\qid>
+<rank>86<\rank>
+<doc>CACM-0635<\doc>
+<snippet>
+Note on <b>Multiplying<\b> Boolean MatricesCACM February, 1962Baker, 
+<\snippet>
+<\document>
+
+<document>
+<qid>57<\qid>
+<rank>87<\rank>
+<doc>CACM-1150<\doc>
+<snippet>
+<b>Fortran<\b> Post-Mortem ProcedureCACM January, 1964Kahan, W.Leppik, J. 
+<\snippet>
+<\document>
+
+<document>
+<qid>57<\qid>
+<rank>88<\rank>
+<doc>CACM-3155<\doc>
+<snippet>
+Paradigms of ProgrammingCACM August, 1979Floyd, <b>R.CA790801<\b> DB 
+<\snippet>
+<\document>
+
+<document>
+<qid>57<\qid>
+<rank>89<\rank>
+<doc>CACM-0285<\doc>
+<snippet>
+of Tridiagonal MatricesCACM <b>September,<\b> 1961Wenrick, R. C.Houghton, 
+<\snippet>
+<\document>
+
+<document>
+<qid>57<\qid>
+<rank>90<\rank>
+<doc>CACM-1183<\doc>
+<snippet>
+Note on <b>the<\b> Use of a Digital 
+<\snippet>
+<\document>
+
+<document>
+<qid>57<\qid>
+<rank>91<\rank>
+<doc>CACM-2412<\doc>
+<snippet>
+on Brent's Scatter Storage AlgorithmCACM November, 1973Feldman, 
+<\snippet>
+<\document>
+
+<document>
+<qid>57<\qid>
+<rank>92<\rank>
+<doc>CACM-0496<\doc>
+<snippet>
+Set of Matrices <b>for<\b> Testing Computer ProgramsCACM 
+<\snippet>
+<\document>
+
+<document>
+<qid>57<\qid>
+<rank>93<\rank>
+<doc>CACM-0259<\doc>
+<snippet>
+(Algorithm 71)CACM November, 1961Coveyou, R. <b>R.Sullivan,<\b> J. 
+<\snippet>
+<\document>
+
+<document>
+<qid>57<\qid>
+<rank>94<\rank>
+<doc>CACM-1599<\doc>
+<snippet>
+Solution <b>of<\b> the Polynomial Equation (Algorithm 300 
+<\snippet>
+<\document>
+
+<document>
+<qid>57<\qid>
+<rank>95<\rank>
+<doc>CACM-0915<\doc>
+<snippet>
+of IPL-VCACM March, 1963Newell, A.CA630306 JB March 
+<\snippet>
+<\document>
+
+<document>
+<qid>57<\qid>
+<rank>96<\rank>
+<doc>CACM-2782<\doc>
+<snippet>
+Reply to Gentleman and MarovichCACM March, 1975Karp, 
+<\snippet>
+<\document>
+
+<document>
+<qid>57<\qid>
+<rank>97<\rank>
+<doc>CACM-1835<\doc>
+<snippet>
+IITRAN Programming LanguageThe IITRAN language, developed to 
+<\snippet>
+<\document>
+
+<document>
+<qid>57<\qid>
+<rank>98<\rank>
+<doc>CACM-2675<\doc>
+<snippet>
+Computer Routine for Quadratic and LinearProgramming Problems 
+<\snippet>
+<\document>
+
+<document>
+<qid>57<\qid>
+<rank>99<\rank>
+<doc>CACM-2324<\doc>
+<snippet>
+Science: <b>A<\b> <b>View<\b> <b>from<\b> <b>Nonlinear<\b> <b>ProgrammingA<\b> <b>brief<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>57<\qid>
+<rank>100<\rank>
+<doc>CACM-0769<\doc>
+<snippet>
+of Sets (Algorithm 156)CACM August, 1963Bosworth, K. 
+<\snippet>
+<\document>

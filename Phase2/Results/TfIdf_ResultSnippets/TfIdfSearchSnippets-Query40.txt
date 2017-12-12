@@ -1,0 +1,900 @@
+
+<document>
+<qid>40<\qid>
+<rank>1<\rank>
+<doc>CACM-2316<\doc>
+<snippet>
+Languages: History and FutureThis paper <b>discusses<\b> both 
+<\snippet>
+<\document>
+
+<document>
+<qid>40<\qid>
+<rank>2<\rank>
+<doc>CACM-0249<\doc>
+<snippet>
+Languages <b>for<\b> Mechanical Languagesand Their Processors*-A Baker's 
+<\snippet>
+<\document>
+
+<document>
+<qid>40<\qid>
+<rank>3<\rank>
+<doc>CACM-2603<\doc>
+<snippet>
+Equivalence of Reducing TransitionLanguages and <b>Deterministic<\b> LanguagesThe 
+<\snippet>
+<\document>
+
+<document>
+<qid>40<\qid>
+<rank>4<\rank>
+<doc>CACM-1466<\doc>
+<snippet>
+Summary on Graphical <b>LanguagesCACM<\b> March, 1966CA660306 JB 
+<\snippet>
+<\document>
+
+<document>
+<qid>40<\qid>
+<rank>5<\rank>
+<doc>CACM-2406<\doc>
+<snippet>
+Data Definition and <b>Mapping<\b> LanguageA data definition 
+<\snippet>
+<\document>
+
+<document>
+<qid>40<\qid>
+<rank>6<\rank>
+<doc>CACM-2651<\doc>
+<snippet>
+Treatment of Data Types in EL1In constructing 
+<\snippet>
+<\document>
+
+<document>
+<qid>40<\qid>
+<rank>7<\rank>
+<doc>CACM-2295<\doc>
+<snippet>
+on the <b>Composition<\b> of Semantics in Algol 
+<\snippet>
+<\document>
+
+<document>
+<qid>40<\qid>
+<rank>8<\rank>
+<doc>CACM-2956<\doc>
+<snippet>
+Ideas on <b>Data<\b> Types in High-Level LanguagesA 
+<\snippet>
+<\document>
+
+<document>
+<qid>40<\qid>
+<rank>9<\rank>
+<doc>CACM-0463<\doc>
+<snippet>
+Ambiguity in Phrase <b>Structure<\b> <b>LanguagesCACM<\b> <b>October,<\b> <b>1962Floyd,<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>40<\qid>
+<rank>10<\rank>
+<doc>CACM-1138<\doc>
+<snippet>
+<b>in<\b> Programming Languages*CACM February, 1964Iverson, K. E.CA640205 
+<\snippet>
+<\document>
+
+<document>
+<qid>40<\qid>
+<rank>11<\rank>
+<doc>CACM-1098<\doc>
+<snippet>
+Comparison of List-Processing Computer Languages(Including <b>a<\b> Detailed 
+<\snippet>
+<\document>
+
+<document>
+<qid>40<\qid>
+<rank>12<\rank>
+<doc>CACM-1588<\doc>
+<snippet>
+List ProcessingThe concepts of list processing have been introducedinto 
+<\snippet>
+<\document>
+
+<document>
+<qid>40<\qid>
+<rank>13<\rank>
+<doc>CACM-1459<\doc>
+<snippet>
+for Real-Time <b>LanguagesReal-time<\b> languages have different requirementsfrom 
+<\snippet>
+<\document>
+
+<document>
+<qid>40<\qid>
+<rank>14<\rank>
+<doc>CACM-0628<\doc>
+<snippet>
+a Floating-Point Number RepresentationFor Use with Algorithmic 
+<\snippet>
+<\document>
+
+<document>
+<qid>40<\qid>
+<rank>15<\rank>
+<doc>CACM-3105<\doc>
+<snippet>
+Language Extension for Expressing Constraints on Data 
+<\snippet>
+<\document>
+
+<document>
+<qid>40<\qid>
+<rank>16<\rank>
+<doc>CACM-2941<\doc>
+<snippet>
+Experience with MesaThe experiences <b>of<\b> Mesa's first 
+<\snippet>
+<\document>
+
+<document>
+<qid>40<\qid>
+<rank>17<\rank>
+<doc>CACM-1102<\doc>
+<snippet>
+Languages: A Course SpecificationCACM April, 1964Gorn, <b>S.CA640406<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>40<\qid>
+<rank>18<\rank>
+<doc>CACM-1485<\doc>
+<snippet>
+evaluated.  Many examples,frequently from list processing languages, illustrate the 
+<\snippet>
+<\document>
+
+<document>
+<qid>40<\qid>
+<rank>19<\rank>
+<doc>CACM-0762<\doc>
+<snippet>
+Remarks on the Syntax of Symbolic <b>Programming<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>40<\qid>
+<rank>20<\rank>
+<doc>CACM-2975<\doc>
+<snippet>
+on Uniform Insertion in Structured Data StructuresCACM 
+<\snippet>
+<\document>
+
+<document>
+<qid>40<\qid>
+<rank>21<\rank>
+<doc>CACM-1457<\doc>
+<snippet>
+text, sparse matrices,and tree or list structures.  The main 
+<\snippet>
+<\document>
+
+<document>
+<qid>40<\qid>
+<rank>22<\rank>
+<doc>CACM-1142<\doc>
+<snippet>
+Extension of ALGOL-Like LanguagesCACM February, 1964 Rose, 
+<\snippet>
+<\document>
+
+<document>
+<qid>40<\qid>
+<rank>23<\rank>
+<doc>CACM-3198<\doc>
+<snippet>
+  Microprogramming, Emulators and Programming Languages 
+<\snippet>
+<\document>
+
+<document>
+<qid>40<\qid>
+<rank>24<\rank>
+<doc>CACM-1366<\doc>
+<snippet>
+Simulation-Discussion of <b>theTechnique<\b> and Comparison of Languages 
+<\snippet>
+<\document>
+
+<document>
+<qid>40<\qid>
+<rank>25<\rank>
+<doc>CACM-1703<\doc>
+<snippet>
+Standards <b>and<\b> Identification of Programming LanguagesThe user 
+<\snippet>
+<\document>
+
+<document>
+<qid>40<\qid>
+<rank>26<\rank>
+<doc>CACM-2513<\doc>
+<snippet>
+the newnodes into which the list is to be moved, 
+<\snippet>
+<\document>
+
+<document>
+<qid>40<\qid>
+<rank>27<\rank>
+<doc>CACM-2958<\doc>
+<snippet>
+Data Types and the Development of Data 
+<\snippet>
+<\document>
+
+<document>
+<qid>40<\qid>
+<rank>28<\rank>
+<doc>CACM-1612<\doc>
+<snippet>
+<b>Parsing<\b> Rehabilitated?This note is concerned with the 
+<\snippet>
+<\document>
+
+<document>
+<qid>40<\qid>
+<rank>29<\rank>
+<doc>CACM-2814<\doc>
+<snippet>
+of Programming Languages for 1974-75 CACM December, 
+<\snippet>
+<\document>
+
+<document>
+<qid>40<\qid>
+<rank>30<\rank>
+<doc>CACM-0627<\doc>
+<snippet>
+List StructuresCACM <b>March,<\b> 1962Weizenbaum, J.CA620305 JB March 
+<\snippet>
+<\document>
+
+<document>
+<qid>40<\qid>
+<rank>31<\rank>
+<doc>CACM-2317<\doc>
+<snippet>
+Systems and <b>Languages<\b> 1965-1975In spite of impressive 
+<\snippet>
+<\document>
+
+<document>
+<qid>40<\qid>
+<rank>32<\rank>
+<doc>CACM-2265<\doc>
+<snippet>
+Model <b>for<\b> Type CheckingMost current programming languages 
+<\snippet>
+<\document>
+
+<document>
+<qid>40<\qid>
+<rank>33<\rank>
+<doc>CACM-3188<\doc>
+<snippet>
+  Semiotics and Programming Languages  
+<\snippet>
+<\document>
+
+<document>
+<qid>40<\qid>
+<rank>34<\rank>
+<doc>CACM-2940<\doc>
+<snippet>
+and Verification in Alphard: Definingand Specifying Iteration 
+<\snippet>
+<\document>
+
+<document>
+<qid>40<\qid>
+<rank>35<\rank>
+<doc>CACM-0793<\doc>
+<snippet>
+List StructuresCACM August, 1963Baecker, <b>H.<\b> D.CA630805 JB 
+<\snippet>
+<\document>
+
+<document>
+<qid>40<\qid>
+<rank>36<\rank>
+<doc>CACM-0651<\doc>
+<snippet>
+Survey <b>of<\b> Languages and Systems for Information 
+<\snippet>
+<\document>
+
+<document>
+<qid>40<\qid>
+<rank>37<\rank>
+<doc>CACM-1051<\doc>
+<snippet>
+List ItemsThe list <b>concept<\b> <b>as<\b> <b>originally<\b> <b>proposed<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>40<\qid>
+<rank>38<\rank>
+<doc>CACM-1972<\doc>
+<snippet>
+Compacting Algorithm A simple nonrecursive list structure <b>compacting<\b> scheme or 
+<\snippet>
+<\document>
+
+<document>
+<qid>40<\qid>
+<rank>39<\rank>
+<doc>CACM-2710<\doc>
+<snippet>
+Queries as Relational Expressions:The SQUARE Data <b>SublanguageThis<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>40<\qid>
+<rank>40<\rank>
+<doc>CACM-1678<\doc>
+<snippet>
+Formal Languages, Abstract Switching,and Computability in a 
+<\snippet>
+<\document>
+
+<document>
+<qid>40<\qid>
+<rank>41<\rank>
+<doc>CACM-2645<\doc>
+<snippet>
+Languages <b>for<\b> Estimating Program EfficiencyTwo languages enabling 
+<\snippet>
+<\document>
+
+<document>
+<qid>40<\qid>
+<rank>42<\rank>
+<doc>CACM-2051<\doc>
+<snippet>
+program tabulates the correspondences,and uses <b>list<\b> processing techniques to sort 
+<\snippet>
+<\document>
+
+<document>
+<qid>40<\qid>
+<rank>43<\rank>
+<doc>CACM-1853<\doc>
+<snippet>
+convenient, the Swym system permitsa list to be chained, compact, 
+<\snippet>
+<\document>
+
+<document>
+<qid>40<\qid>
+<rank>44<\rank>
+<doc>CACM-3185<\doc>
+<snippet>
+  The <b>Humble<\b> Programmer   
+<\snippet>
+<\document>
+
+<document>
+<qid>40<\qid>
+<rank>45<\rank>
+<doc>CACM-0920<\doc>
+<snippet>
+Better Documentation of <b>Programming<\b> LanguagesCACM March, 1963Yngve, 
+<\snippet>
+<\document>
+
+<document>
+<qid>40<\qid>
+<rank>46<\rank>
+<doc>CACM-0527<\doc>
+<snippet>
+concept is described by a list structure.  A one-to-one 
+<\snippet>
+<\document>
+
+<document>
+<qid>40<\qid>
+<rank>47<\rank>
+<doc>CACM-1878<\doc>
+<snippet>
+by SLIP is that reentrant <b>list<\b> structures are not recovered 
+<\snippet>
+<\document>
+
+<document>
+<qid>40<\qid>
+<rank>48<\rank>
+<doc>CACM-1549<\doc>
+<snippet>
+an essential part of any list processing system.  In 
+<\snippet>
+<\document>
+
+<document>
+<qid>40<\qid>
+<rank>49<\rank>
+<doc>CACM-2254<\doc>
+<snippet>
+Partitioning for Array <b>LanguagesThe<\b> classical process of 
+<\snippet>
+<\document>
+
+<document>
+<qid>40<\qid>
+<rank>50<\rank>
+<doc>CACM-2705<\doc>
+<snippet>
+<b>Languages,<\b> Natural Languages, and MathematicsSome social aspects 
+<\snippet>
+<\document>
+
+<document>
+<qid>40<\qid>
+<rank>51<\rank>
+<doc>CACM-2470<\doc>
+<snippet>
+Axiomatic Basis <b>for<\b> Program SemanticsA formal system 
+<\snippet>
+<\document>
+
+<document>
+<qid>40<\qid>
+<rank>52<\rank>
+<doc>CACM-1852<\doc>
+<snippet>
+<b>Base<\b> for a Mobile Programming SystemAn algorithm 
+<\snippet>
+<\document>
+
+<document>
+<qid>40<\qid>
+<rank>53<\rank>
+<doc>CACM-3197<\doc>
+<snippet>
+  Structures of Standards-Processing Organizations in 
+<\snippet>
+<\document>
+
+<document>
+<qid>40<\qid>
+<rank>54<\rank>
+<doc>CACM-2939<\doc>
+<snippet>
+Mechanisms in CLUCLU is a new programming 
+<\snippet>
+<\document>
+
+<document>
+<qid>40<\qid>
+<rank>55<\rank>
+<doc>CACM-3103<\doc>
+<snippet>
+Data Structure Selection: <b>An<\b> Example and OverviewThe 
+<\snippet>
+<\document>
+
+<document>
+<qid>40<\qid>
+<rank>56<\rank>
+<doc>CACM-2198<\doc>
+<snippet>
+to "Feature Analysis ofGeneralized Data Base Management 
+<\snippet>
+<\document>
+
+<document>
+<qid>40<\qid>
+<rank>57<\rank>
+<doc>CACM-2450<\doc>
+<snippet>
+Working Set BehaviorThe working set <b>model<\b> for 
+<\snippet>
+<\document>
+
+<document>
+<qid>40<\qid>
+<rank>58<\rank>
+<doc>CACM-2937<\doc>
+<snippet>
+Experimental Evaluation of Data Type ConventionsThe language 
+<\snippet>
+<\document>
+
+<document>
+<qid>40<\qid>
+<rank>59<\rank>
+<doc>CACM-2594<\doc>
+<snippet>
+StructuresProgramming systems which permit <b>arbitrarylinked<\b> list structures enable the user 
+<\snippet>
+<\document>
+
+<document>
+<qid>40<\qid>
+<rank>60<\rank>
+<doc>CACM-2078<\doc>
+<snippet>
+for Space PlanningProblems involving the arrangement <b>of<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>40<\qid>
+<rank>61<\rank>
+<doc>CACM-1467<\doc>
+<snippet>
+Graphical ServiceSystem <b>With<\b> Variable SyntaxMan-machine interaction in 
+<\snippet>
+<\document>
+
+<document>
+<qid>40<\qid>
+<rank>62<\rank>
+<doc>CACM-0303<\doc>
+<snippet>
+Basic <b>Terminology<\b> Connected WithMechanical Languages and Their 
+<\snippet>
+<\document>
+
+<document>
+<qid>40<\qid>
+<rank>63<\rank>
+<doc>CACM-2084<\doc>
+<snippet>
+Note on the Complement of <b>Inherently<\b> Ambiguous 
+<\snippet>
+<\document>
+
+<document>
+<qid>40<\qid>
+<rank>64<\rank>
+<doc>CACM-1431<\doc>
+<snippet>
+<b>a<\b> Storage Mapping Function For Data StructuresSome 
+<\snippet>
+<\document>
+
+<document>
+<qid>40<\qid>
+<rank>65<\rank>
+<doc>CACM-2264<\doc>
+<snippet>
+Semantics for Some Programming Language <b>ConstructsThe<\b> constructs 
+<\snippet>
+<\document>
+
+<document>
+<qid>40<\qid>
+<rank>66<\rank>
+<doc>CACM-2305<\doc>
+<snippet>
+"Plankalkul" of Konrad <b>Zuse:<\b> A Forerunnerof Today's 
+<\snippet>
+<\document>
+
+<document>
+<qid>40<\qid>
+<rank>67<\rank>
+<doc>CACM-2665<\doc>
+<snippet>
+new algorithms are presented for list <b>structurecopying<\b> using bounded workspace. 
+<\snippet>
+<\document>
+
+<document>
+<qid>40<\qid>
+<rank>68<\rank>
+<doc>CACM-1835<\doc>
+<snippet>
+IITRAN Programming LanguageThe <b>IITRAN<\b> language, developed to 
+<\snippet>
+<\document>
+
+<document>
+<qid>40<\qid>
+<rank>69<\rank>
+<doc>CACM-2647<\doc>
+<snippet>
+on <b>Algorithms<\b> that Reveal Propertiesof Floating Point 
+<\snippet>
+<\document>
+
+<document>
+<qid>40<\qid>
+<rank>70<\rank>
+<doc>CACM-1424<\doc>
+<snippet>
+black diagrams of digital circuitsto list structures is described, together 
+<\snippet>
+<\document>
+
+<document>
+<qid>40<\qid>
+<rank>71<\rank>
+<doc>CACM-1488<\doc>
+<snippet>
+Decision Tables in FORTRAN, COBOL or ALGOLA 
+<\snippet>
+<\document>
+
+<document>
+<qid>40<\qid>
+<rank>72<\rank>
+<doc>CACM-1306<\doc>
+<snippet>
+Class of Unambiguous Computer LanguagesDiscussed in this 
+<\snippet>
+<\document>
+
+<document>
+<qid>40<\qid>
+<rank>73<\rank>
+<doc>CACM-0943<\doc>
+<snippet>
+<b>Frequently<\b> Combined in Problem DescriptionCACM January, 1963Grems, 
+<\snippet>
+<\document>
+
+<document>
+<qid>40<\qid>
+<rank>74<\rank>
+<doc>CACM-1923<\doc>
+<snippet>
+approach to system interfaces for <b>highlevel<\b> languages 
+<\snippet>
+<\document>
+
+<document>
+<qid>40<\qid>
+<rank>75<\rank>
+<doc>CACM-2772<\doc>
+<snippet>
+Maintenance of the Opportunity Listfor Class-Teacher Timetable 
+<\snippet>
+<\document>
+
+<document>
+<qid>40<\qid>
+<rank>76<\rank>
+<doc>CACM-2060<\doc>
+<snippet>
+typeless language, applicative language,lambda calculus, list processing, nondeterministic algorithm4.20 4.22 
+<\snippet>
+<\document>
+
+<document>
+<qid>40<\qid>
+<rank>77<\rank>
+<doc>CACM-0343<\doc>
+<snippet>
+<b>Frequently<\b> Occurring Errors <b>in<\b> ALGOL 60 <b>Programs<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>40<\qid>
+<rank>78<\rank>
+<doc>CACM-1496<\doc>
+<snippet>
+Formal <b>Semantics<\b> for Computer Languagesand its Application 
+<\snippet>
+<\document>
+
+<document>
+<qid>40<\qid>
+<rank>79<\rank>
+<doc>CACM-2838<\doc>
+<snippet>
+avoidssuspending the operations of a list processor for the <b>long<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>40<\qid>
+<rank>80<\rank>
+<doc>CACM-1359<\doc>
+<snippet>
+<b>Filtering<\b> Applied to <b>Information<\b> Storage and <b>Retrieval<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>40<\qid>
+<rank>81<\rank>
+<doc>CACM-2916<\doc>
+<snippet>
+Fast String Searching AlgorithmAn algorithm is presented 
+<\snippet>
+<\document>
+
+<document>
+<qid>40<\qid>
+<rank>82<\rank>
+<doc>CACM-2155<\doc>
+<snippet>
+an Understanding of Data StructuresThis paper presents 
+<\snippet>
+<\document>
+
+<document>
+<qid>40<\qid>
+<rank>83<\rank>
+<doc>CACM-2717<\doc>
+<snippet>
+A High Level TranslationDefinition Language for <b>Data<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>40<\qid>
+<rank>84<\rank>
+<doc>CACM-2652<\doc>
+<snippet>
+of Compilation Costs Through Language ContractionProgramming <b>languages<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>40<\qid>
+<rank>85<\rank>
+<doc>CACM-1035<\doc>
+<snippet>
+allows suitablemixtures, in an input/output list or in an expression, 
+<\snippet>
+<\document>
+
+<document>
+<qid>40<\qid>
+<rank>86<\rank>
+<doc>CACM-1937<\doc>
+<snippet>
+A Data Display SystemCODAS, a Customer <b>Oriented<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>40<\qid>
+<rank>87<\rank>
+<doc>CACM-1625<\doc>
+<snippet>
+the Automatic <b>Simplification<\b> <b>of<\b> <b>Source-Language<\b> <b>ProgramsMethods<\b> <b>of<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>40<\qid>
+<rank>88<\rank>
+<doc>CACM-3028<\doc>
+<snippet>
+<b>Manchester<\b> Mark I and Atlas: A His 
+<\snippet>
+<\document>
+
+<document>
+<qid>40<\qid>
+<rank>89<\rank>
+<doc>CACM-3150<\doc>
+<snippet>
+Programming LanguagesAs computer technology <b>matures,<\b> our growing 
+<\snippet>
+<\document>
+
+<document>
+<qid>40<\qid>
+<rank>90<\rank>
+<doc>CACM-2855<\doc>
+<snippet>
+algorithm is presented for <b>movingarbitrary<\b> list structures, using no storage 
+<\snippet>
+<\document>
+
+<document>
+<qid>40<\qid>
+<rank>91<\rank>
+<doc>CACM-1050<\doc>
+<snippet>
+Parts Breakdown <b>Technique<\b> Using List StructuresList structured 
+<\snippet>
+<\document>
+
+<document>
+<qid>40<\qid>
+<rank>92<\rank>
+<doc>CACM-0171<\doc>
+<snippet>
+Computers in <b>Universities<\b> (Part I) <b>CACM<\b> July, 
+<\snippet>
+<\document>
+
+<document>
+<qid>40<\qid>
+<rank>93<\rank>
+<doc>CACM-1957<\doc>
+<snippet>
+Construct for Evaluating Set ExpressionsThe list set <b>generator<\b> is defined 
+<\snippet>
+<\document>
+
+<document>
+<qid>40<\qid>
+<rank>94<\rank>
+<doc>CACM-2034<\doc>
+<snippet>
+Mobile Programming System: <b>STAGE2STAGE2<\b> is the second 
+<\snippet>
+<\document>
+
+<document>
+<qid>40<\qid>
+<rank>95<\rank>
+<doc>CACM-1463<\doc>
+<snippet>
+on Extensible MachinesOne of <b>the<\b> most salient 
+<\snippet>
+<\document>
+
+<document>
+<qid>40<\qid>
+<rank>96<\rank>
+<doc>CACM-0265<\doc>
+<snippet>
+<b>Level<\b> Language Subroutines for Use Within FortranThis 
+<\snippet>
+<\document>
+
+<document>
+<qid>40<\qid>
+<rank>97<\rank>
+<doc>CACM-3148<\doc>
+<snippet>
+<b>Level<\b> Programming for Distributed ComputingProgramming for distributed 
+<\snippet>
+<\document>
+
+<document>
+<qid>40<\qid>
+<rank>98<\rank>
+<doc>CACM-1046<\doc>
+<snippet>
+Compiler-Building System Developed by Brooker and <b>MorrisIn<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>40<\qid>
+<rank>99<\rank>
+<doc>CACM-2782<\doc>
+<snippet>
+Reply to Gentleman and MarovichCACM March, 1975Karp, 
+<\snippet>
+<\document>
+
+<document>
+<qid>40<\qid>
+<rank>100<\rank>
+<doc>CACM-2807<\doc>
+<snippet>
+the Stability of Gauss-Jordan Elimination with PivotingThe 
+<\snippet>
+<\document>

@@ -1,0 +1,1 @@
+least squares solution with constraints algorithm 177 cacm June, 1963 Synge, M. J. ca630610 jb march 14, 1978 10:17 am

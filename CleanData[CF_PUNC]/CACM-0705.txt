@@ -1,0 +1,1 @@
+combinatorial of m things taken n at a time algorithm 160 cacm October, 1963 Blakely, R. E. ca631020 jb march 13, 1978 5:36 pm

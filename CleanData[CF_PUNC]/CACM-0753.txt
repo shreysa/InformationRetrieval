@@ -1,0 +1,1 @@
+a procedure for converting logic table conditions into an efficient sequence of test instructions cacm September, 1963 Egler, J. F. ca630905 jb march 13, 1978 7:40 pm

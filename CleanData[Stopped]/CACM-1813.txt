@@ -1,0 +1,1 @@
+generation permutations pseudo-lexicographic order algorithm 308 g6 cacm November, 1969 Ord-Smith, R. J. permutations lexicographic order lexicographic generation permutation generation 5.39 ca691117 jb february 15, 1978 11:59

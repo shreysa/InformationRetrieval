@@ -1,0 +1,1 @@
+magic square even order algorithm 117 cacm August, 1962 Collison, D. M. ca620809 jb march 17, 1978 9:46 pm

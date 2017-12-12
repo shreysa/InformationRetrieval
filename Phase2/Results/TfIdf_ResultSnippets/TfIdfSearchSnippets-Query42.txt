@@ -1,0 +1,900 @@
+
+<document>
+<qid>42<\qid>
+<rank>1<\rank>
+<doc>CACM-2641<\doc>
+<snippet>
+Minimal Spanning Tree clustering <b>Method<\b> <b>[Z]<\b> <b>(Algorithm<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>42<\qid>
+<rank>2<\rank>
+<doc>CACM-0204<\doc>
+<snippet>
+Theorems <b>by<\b> <b>Pattern<\b> <b>Recognition<\b> <b>ICACM<\b> <b>April,<\b> <b>1960Wang,<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>42<\qid>
+<rank>3<\rank>
+<doc>CACM-2318<\doc>
+<snippet>
+for evaluating the performance of computer systems and establishes circumstances 
+<\snippet>
+<\document>
+
+<document>
+<qid>42<\qid>
+<rank>4<\rank>
+<doc>CACM-1653<\doc>
+<snippet>
+Performance Evaluation: Survey <b>and<\b> AppraisalThe state of 
+<\snippet>
+<\document>
+
+<document>
+<qid>42<\qid>
+<rank>5<\rank>
+<doc>CACM-1374<\doc>
+<snippet>
+<b>of<\b> Determinant; DeterminantEvaluation (Algorithms 41[F3]; 269[F3])CACM September, 
+<\snippet>
+<\document>
+
+<document>
+<qid>42<\qid>
+<rank>6<\rank>
+<doc>CACM-2231<\doc>
+<snippet>
+Reconstruction <b>of<\b> Binary Patterns from Their ProjectionsGiven 
+<\snippet>
+<\document>
+
+<document>
+<qid>42<\qid>
+<rank>7<\rank>
+<doc>CACM-0633<\doc>
+<snippet>
+and Analysis of Biochemical Systems(III. Analysis and 
+<\snippet>
+<\document>
+
+<document>
+<qid>42<\qid>
+<rank>8<\rank>
+<doc>CACM-2984<\doc>
+<snippet>
+A Measure of System PerformanceA <b>method<\b> is 
+<\snippet>
+<\document>
+
+<document>
+<qid>42<\qid>
+<rank>9<\rank>
+<doc>CACM-0436<\doc>
+<snippet>
+of Polynomials <b>by<\b> ComputerCACM December, 1962Knuth, D. 
+<\snippet>
+<\document>
+
+<document>
+<qid>42<\qid>
+<rank>10<\rank>
+<doc>CACM-2528<\doc>
+<snippet>
+Pattern Reconstruction from <b>Projections<\b> [Z] (Algorithm R445)CACM 
+<\snippet>
+<\document>
+
+<document>
+<qid>42<\qid>
+<rank>11<\rank>
+<doc>CACM-2529<\doc>
+<snippet>
+Pattern Reconstruction from Projections [Z] (Algorithm A445)CACM 
+<\snippet>
+<\document>
+
+<document>
+<qid>42<\qid>
+<rank>12<\rank>
+<doc>CACM-2788<\doc>
+<snippet>
+Circles by an Array of AccumulatorsCACM February, 
+<\snippet>
+<\document>
+
+<document>
+<qid>42<\qid>
+<rank>13<\rank>
+<doc>CACM-2789<\doc>
+<snippet>
+Minimal Spanning Tree Clustering Method (Algorithm R479)CACM 
+<\snippet>
+<\document>
+
+<document>
+<qid>42<\qid>
+<rank>14<\rank>
+<doc>CACM-2019<\doc>
+<snippet>
+Techniques for Hand printed NumeralsFamily of pattern 
+<\snippet>
+<\document>
+
+<document>
+<qid>42<\qid>
+<rank>15<\rank>
+<doc>CACM-2910<\doc>
+<snippet>
+of Hough Curve Detection <b>to<\b> Template MatchingCACM 
+<\snippet>
+<\document>
+
+<document>
+<qid>42<\qid>
+<rank>16<\rank>
+<doc>CACM-2545<\doc>
+<snippet>
+<b>Theory<\b> of Discrete <b>Patterns<\b> and Their <b>Implementation<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>42<\qid>
+<rank>17<\rank>
+<doc>CACM-2107<\doc>
+<snippet>
+Quadratic Quotient Method: A HashCode Eliminating Secondary 
+<\snippet>
+<\document>
+
+<document>
+<qid>42<\qid>
+<rank>18<\rank>
+<doc>CACM-0462<\doc>
+<snippet>
+Pattern Recognition Techniques: Electrocardiographic DiagnosisThe <b>use<\b> of 
+<\snippet>
+<\document>
+
+<document>
+<qid>42<\qid>
+<rank>19<\rank>
+<doc>CACM-2942<\doc>
+<snippet>
+Algol-Based Implementation of SNOBOL 4 PatternsCACM July, 
+<\snippet>
+<\document>
+
+<document>
+<qid>42<\qid>
+<rank>20<\rank>
+<doc>CACM-2215<\doc>
+<snippet>
+"alpha-beta procedure," respectively.  Some computer simulated experiments in character 
+<\snippet>
+<\document>
+
+<document>
+<qid>42<\qid>
+<rank>21<\rank>
+<doc>CACM-1050<\doc>
+<snippet>
+Parts Breakdown Technique Using <b>List<\b> StructuresList structured 
+<\snippet>
+<\document>
+
+<document>
+<qid>42<\qid>
+<rank>22<\rank>
+<doc>CACM-2811<\doc>
+<snippet>
+Pattern Recognition Of Carotid PulseWaves Using <b>A<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>42<\qid>
+<rank>23<\rank>
+<doc>CACM-0961<\doc>
+<snippet>
+Bit <b>Manipulation<\b> Using FORTRAN IITechniques are developed 
+<\snippet>
+<\document>
+
+<document>
+<qid>42<\qid>
+<rank>24<\rank>
+<doc>CACM-2370<\doc>
+<snippet>
+Experimental Laboratory for Pattern Recognition and <b>Signal<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>42<\qid>
+<rank>25<\rank>
+<doc>CACM-0819<\doc>
+<snippet>
+Evaluation RevisedCACM July, 1963 Eisman, S. H.CA630705 
+<\snippet>
+<\document>
+
+<document>
+<qid>42<\qid>
+<rank>26<\rank>
+<doc>CACM-1335<\doc>
+<snippet>
+Set for Optical CharacterRecognition (Proposed <b>American<\b> Stand 
+<\snippet>
+<\document>
+
+<document>
+<qid>42<\qid>
+<rank>27<\rank>
+<doc>CACM-1689<\doc>
+<snippet>
+of a Polynomial and its DerivativeValues <b>by<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>42<\qid>
+<rank>28<\rank>
+<doc>CACM-2402<\doc>
+<snippet>
+Pattern <b>Recognition<\b> and thePhase Problem of X-ray 
+<\snippet>
+<\document>
+
+<document>
+<qid>42<\qid>
+<rank>29<\rank>
+<doc>CACM-1940<\doc>
+<snippet>
+of a Polynomial and its <b>DerivativeValues<\b> by 
+<\snippet>
+<\document>
+
+<document>
+<qid>42<\qid>
+<rank>30<\rank>
+<doc>CACM-3089<\doc>
+<snippet>
+of Rollback <b>Recovery<\b> Systems under Intermittent FailuresA 
+<\snippet>
+<\document>
+
+<document>
+<qid>42<\qid>
+<rank>31<\rank>
+<doc>CACM-1177<\doc>
+<snippet>
+<b>Evaluation<\b> (Algorithm 269 [F3])CACM November, 1965Pfann, J.CA651104 
+<\snippet>
+<\document>
+
+<document>
+<qid>42<\qid>
+<rank>32<\rank>
+<doc>CACM-2494<\doc>
+<snippet>
+<b>Generated<\b> Aid for Cluster AnalysisA computer generated graphic method, whichcan 
+<\snippet>
+<\document>
+
+<document>
+<qid>42<\qid>
+<rank>33<\rank>
+<doc>CACM-1719<\doc>
+<snippet>
+Methodology for Calculating andOptimizing Real-Time System PerformanceThe 
+<\snippet>
+<\document>
+
+<document>
+<qid>42<\qid>
+<rank>34<\rank>
+<doc>CACM-1938<\doc>
+<snippet>
+Criteria for <b>Time-Sharing<\b> System PerformanceTime-sharing systems, as 
+<\snippet>
+<\document>
+
+<document>
+<qid>42<\qid>
+<rank>35<\rank>
+<doc>CACM-2329<\doc>
+<snippet>
+Vicious CircleCACM June, 1972Kandel, A.education, computer engineering, computerscience curriculum, systems 
+<\snippet>
+<\document>
+
+<document>
+<qid>42<\qid>
+<rank>36<\rank>
+<doc>CACM-2894<\doc>
+<snippet>
+to enable external, user-oriented assessmentof computer performance, instead of the 
+<\snippet>
+<\document>
+
+<document>
+<qid>42<\qid>
+<rank>37<\rank>
+<doc>CACM-0360<\doc>
+<snippet>
+<b>of<\b> Determinant (Algorithm 41)CACM April, 1961Solomon, J. 
+<\snippet>
+<\document>
+
+<document>
+<qid>42<\qid>
+<rank>38<\rank>
+<doc>CACM-0741<\doc>
+<snippet>
+of Determinant (Algorithm <b>41)CACM<\b> September, 1963Freed, <b>B.<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>42<\qid>
+<rank>39<\rank>
+<doc>CACM-0742<\doc>
+<snippet>
+<b>of<\b> Determinant (Algorithm 41)CACM September, 1963Freed, B. 
+<\snippet>
+<\document>
+
+<document>
+<qid>42<\qid>
+<rank>40<\rank>
+<doc>CACM-1093<\doc>
+<snippet>
+of Determinant (Algorithm 224)CACM April, 1964Rotenberg, <b>L.<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>42<\qid>
+<rank>41<\rank>
+<doc>CACM-1128<\doc>
+<snippet>
+of Determinant (Algorithm 41)CACM March, <b>1964Rotenberg,<\b> L. 
+<\snippet>
+<\document>
+
+<document>
+<qid>42<\qid>
+<rank>42<\rank>
+<doc>CACM-2232<\doc>
+<snippet>
+be made precise so that computer algorithms for feature extractionmay 
+<\snippet>
+<\document>
+
+<document>
+<qid>42<\qid>
+<rank>43<\rank>
+<doc>CACM-3169<\doc>
+<snippet>
+on <b>"An<\b> Optimal Evaluation of Boolean Expressions 
+<\snippet>
+<\document>
+
+<document>
+<qid>42<\qid>
+<rank>44<\rank>
+<doc>CACM-0860<\doc>
+<snippet>
+PolyphaseSort techniques <b>is<\b> developed for computer systems having from four 
+<\snippet>
+<\document>
+
+<document>
+<qid>42<\qid>
+<rank>45<\rank>
+<doc>CACM-0827<\doc>
+<snippet>
+File SortingSorting techniques using an IBM 1401 
+<\snippet>
+<\document>
+
+<document>
+<qid>42<\qid>
+<rank>46<\rank>
+<doc>CACM-1785<\doc>
+<snippet>
+Storage TechniquesScatter storage <b>techniques<\b> as a method 
+<\snippet>
+<\document>
+
+<document>
+<qid>42<\qid>
+<rank>47<\rank>
+<doc>CACM-2319<\doc>
+<snippet>
+go about modularizing operating and computer systems.CACM July, 1972Lynch, W. 
+<\snippet>
+<\document>
+
+<document>
+<qid>42<\qid>
+<rank>48<\rank>
+<doc>CACM-3119<\doc>
+<snippet>
+<b>Impact<\b> of Distributions and Disciplineson Multiple Processor 
+<\snippet>
+<\document>
+
+<document>
+<qid>42<\qid>
+<rank>49<\rank>
+<doc>CACM-0444<\doc>
+<snippet>
+of Jacobi <b>Symbol<\b> (Algorithm 99)CACM November, 1962May, 
+<\snippet>
+<\document>
+
+<document>
+<qid>42<\qid>
+<rank>50<\rank>
+<doc>CACM-0678<\doc>
+<snippet>
+major component of a bit-time computer simulationprogram is the Boolean 
+<\snippet>
+<\document>
+
+<document>
+<qid>42<\qid>
+<rank>51<\rank>
+<doc>CACM-2542<\doc>
+<snippet>
+Software Design and Evaluation SystemA critical failure 
+<\snippet>
+<\document>
+
+<document>
+<qid>42<\qid>
+<rank>52<\rank>
+<doc>CACM-1399<\doc>
+<snippet>
+Top-to-Bottom Recognition and Left RecursionA procedure is 
+<\snippet>
+<\document>
+
+<document>
+<qid>42<\qid>
+<rank>53<\rank>
+<doc>CACM-0362<\doc>
+<snippet>
+Look-At TechniquesCACM April, 1961Sherman, P. M.CA610406 JB 
+<\snippet>
+<\document>
+
+<document>
+<qid>42<\qid>
+<rank>54<\rank>
+<doc>CACM-1931<\doc>
+<snippet>
+Arithmetic Determinant <b>Evaluationand<\b> Its Use in Testing 
+<\snippet>
+<\document>
+
+<document>
+<qid>42<\qid>
+<rank>55<\rank>
+<doc>CACM-0268<\doc>
+<snippet>
+Evaluation of <b>a<\b> Static Storage AllocationCACM October, 
+<\snippet>
+<\document>
+
+<document>
+<qid>42<\qid>
+<rank>56<\rank>
+<doc>CACM-0517<\doc>
+<snippet>
+of Pert Network (Algorithm 119)CACM August, 1962Eisenman, 
+<\snippet>
+<\document>
+
+<document>
+<qid>42<\qid>
+<rank>57<\rank>
+<doc>CACM-0966<\doc>
+<snippet>
+<b>of<\b> Determinant (Algorithm 224 [F3])CACM December, 1964Hasselblad, 
+<\snippet>
+<\document>
+
+<document>
+<qid>42<\qid>
+<rank>58<\rank>
+<doc>CACM-0535<\doc>
+<snippet>
+Walk <b>Pattern<\b> for the Down-hillMethod of Solving 
+<\snippet>
+<\document>
+
+<document>
+<qid>42<\qid>
+<rank>59<\rank>
+<doc>CACM-2553<\doc>
+<snippet>
+Education-DiscussionCACM January, 1973Blount, S. E.education, computer engineering, computerscience curriculum, systems 
+<\snippet>
+<\document>
+
+<document>
+<qid>42<\qid>
+<rank>60<\rank>
+<doc>CACM-1792<\doc>
+<snippet>
+<b>Experimental<\b> Studies ComparingOnline and Off line Programming 
+<\snippet>
+<\document>
+
+<document>
+<qid>42<\qid>
+<rank>61<\rank>
+<doc>CACM-0575<\doc>
+<snippet>
+<b>of<\b> Definite Complex Line Integrals (Algorithm 98)CACM 
+<\snippet>
+<\document>
+
+<document>
+<qid>42<\qid>
+<rank>62<\rank>
+<doc>CACM-0589<\doc>
+<snippet>
+<b>of<\b> the Fresnel Cosine Integral (Algorithm 90)CACM 
+<\snippet>
+<\document>
+
+<document>
+<qid>42<\qid>
+<rank>63<\rank>
+<doc>CACM-0590<\doc>
+<snippet>
+<b>of<\b> the Fresnel Sine Integral (Algorithm 89)CACM 
+<\snippet>
+<\document>
+
+<document>
+<qid>42<\qid>
+<rank>64<\rank>
+<doc>CACM-0708<\doc>
+<snippet>
+of the Fresnel Integrals (Algorithm 88, 89, 
+<\snippet>
+<\document>
+
+<document>
+<qid>42<\qid>
+<rank>65<\rank>
+<doc>CACM-0591<\doc>
+<snippet>
+of Asymptotic Expression for theFresnel <b>Sine<\b> and 
+<\snippet>
+<\document>
+
+<document>
+<qid>42<\qid>
+<rank>66<\rank>
+<doc>CACM-0175<\doc>
+<snippet>
+Solution of Simultaneous Ordinary DifferentialEquations Using <b>a<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>42<\qid>
+<rank>67<\rank>
+<doc>CACM-0057<\doc>
+<snippet>
+and Its <b>Computer<\b> CenterCACM October, 1959CA591002 JB 
+<\snippet>
+<\document>
+
+<document>
+<qid>42<\qid>
+<rank>68<\rank>
+<doc>CACM-2575<\doc>
+<snippet>
+Best-Match <b>Problem<\b> in Document RetrievalCACM November, 1974Van 
+<\snippet>
+<\document>
+
+<document>
+<qid>42<\qid>
+<rank>69<\rank>
+<doc>CACM-2255<\doc>
+<snippet>
+heuristic programming,models of cognitive processes, computer music, computer composition, music 
+<\snippet>
+<\document>
+
+<document>
+<qid>42<\qid>
+<rank>70<\rank>
+<doc>CACM-2504<\doc>
+<snippet>
+heuristic programming,models of cognitive processes, computer music, computer composition,music theory3.44 
+<\snippet>
+<\document>
+
+<document>
+<qid>42<\qid>
+<rank>71<\rank>
+<doc>CACM-0851<\doc>
+<snippet>
+implemented on a Sylvania 9400 computer system with 32,000 fixed-length 
+<\snippet>
+<\document>
+
+<document>
+<qid>42<\qid>
+<rank>72<\rank>
+<doc>CACM-1771<\doc>
+<snippet>
+contains recommendations on academicprograms in computer science which were developed 
+<\snippet>
+<\document>
+
+<document>
+<qid>42<\qid>
+<rank>73<\rank>
+<doc>CACM-3048<\doc>
+<snippet>
+Evaluation <b>of<\b> <b>Highly<\b> <b>ConcurrentComputers<\b> <b>by<\b> <b>Deterministic<\b> <b>SimulationSimulation<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>42<\qid>
+<rank>74<\rank>
+<doc>CACM-0179<\doc>
+<snippet>
+<b>of<\b> the Legendre Polynomial Pn(X) by Recursion 
+<\snippet>
+<\document>
+
+<document>
+<qid>42<\qid>
+<rank>75<\rank>
+<doc>CACM-0180<\doc>
+<snippet>
+of the Laguerre Polynomial Ln(X) <b>by<\b> Recursion 
+<\snippet>
+<\document>
+
+<document>
+<qid>42<\qid>
+<rank>76<\rank>
+<doc>CACM-0181<\doc>
+<snippet>
+of the Hermite Polynomial <b>Hn(X)<\b> by Recursion 
+<\snippet>
+<\document>
+
+<document>
+<qid>42<\qid>
+<rank>77<\rank>
+<doc>CACM-0182<\doc>
+<snippet>
+of the <b>Chebyshev<\b> Polynomial Tn(X) by Recursion 
+<\snippet>
+<\document>
+
+<document>
+<qid>42<\qid>
+<rank>78<\rank>
+<doc>CACM-0574<\doc>
+<snippet>
+of Jacobi Symbol (Algorithm <b>99)CACM<\b> June, 1962Garland, 
+<\snippet>
+<\document>
+
+<document>
+<qid>42<\qid>
+<rank>79<\rank>
+<doc>CACM-2974<\doc>
+<snippet>
+on Weighted Increment Linear <b>Search<\b> for Scatter 
+<\snippet>
+<\document>
+
+<document>
+<qid>42<\qid>
+<rank>80<\rank>
+<doc>CACM-2437<\doc>
+<snippet>
+Performance Analysis of Key-to-AddressTransformation Methods Using an 
+<\snippet>
+<\document>
+
+<document>
+<qid>42<\qid>
+<rank>81<\rank>
+<doc>CACM-1908<\doc>
+<snippet>
+of problem-solvingusing time-sharing and batch-processing computer systems conducted at MIT 
+<\snippet>
+<\document>
+
+<document>
+<qid>42<\qid>
+<rank>82<\rank>
+<doc>CACM-3132<\doc>
+<snippet>
+with Some Algorithms that FindCentral Solutions for 
+<\snippet>
+<\document>
+
+<document>
+<qid>42<\qid>
+<rank>83<\rank>
+<doc>CACM-2746<\doc>
+<snippet>
+String Matching: An <b>Aid<\b> to Bibliographic SearchThis 
+<\snippet>
+<\document>
+
+<document>
+<qid>42<\qid>
+<rank>84<\rank>
+<doc>CACM-1827<\doc>
+<snippet>
+<b>Monitoring<\b> in a Time-Sharing SystemA software measurement 
+<\snippet>
+<\document>
+
+<document>
+<qid>42<\qid>
+<rank>85<\rank>
+<doc>CACM-2502<\doc>
+<snippet>
+EducationCACM May, 1973Estell, R. G.education, computer engineering, computersciences curriculum, systems 
+<\snippet>
+<\document>
+
+<document>
+<qid>42<\qid>
+<rank>86<\rank>
+<doc>CACM-2054<\doc>
+<snippet>
+Computer Processing SystemAn on-line digital computer processing system is considered 
+<\snippet>
+<\document>
+
+<document>
+<qid>42<\qid>
+<rank>87<\rank>
+<doc>CACM-1620<\doc>
+<snippet>
+of Evaluating Polynomial Approximationsin Function Evaluation <b>RoutinesThe<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>42<\qid>
+<rank>88<\rank>
+<doc>CACM-0003<\doc>
+<snippet>
+Department on Matrix Program SchemesCACM December, 1958Friedman, 
+<\snippet>
+<\document>
+
+<document>
+<qid>42<\qid>
+<rank>89<\rank>
+<doc>CACM-0270<\doc>
+<snippet>
+for Storage <b>Allocation<\b> Algorithms CACM October, 1961Kelley 
+<\snippet>
+<\document>
+
+<document>
+<qid>42<\qid>
+<rank>90<\rank>
+<doc>CACM-1992<\doc>
+<snippet>
+on <b>Bell's<\b> Quadratic Quotient Method for Hash 
+<\snippet>
+<\document>
+
+<document>
+<qid>42<\qid>
+<rank>91<\rank>
+<doc>CACM-2485<\doc>
+<snippet>
+to four stages of the computer budget: StageI (computer acquisition), 
+<\snippet>
+<\document>
+
+<document>
+<qid>42<\qid>
+<rank>92<\rank>
+<doc>CACM-2310<\doc>
+<snippet>
+the HumanitiesThe use of the computer in the language-orientedhumanities for 
+<\snippet>
+<\document>
+
+<document>
+<qid>42<\qid>
+<rank>93<\rank>
+<doc>CACM-0601<\doc>
+<snippet>
+Report on Bureau of Ships COBOL <b>Evaluation<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>42<\qid>
+<rank>94<\rank>
+<doc>CACM-3070<\doc>
+<snippet>
+Simulation Models of Computer <b>SystemsThis<\b> paper describes 
+<\snippet>
+<\document>
+
+<document>
+<qid>42<\qid>
+<rank>95<\rank>
+<doc>CACM-0004<\doc>
+<snippet>
+of Computer Engineering and Programming TerminologyCACM November, 
+<\snippet>
+<\document>
+
+<document>
+<qid>42<\qid>
+<rank>96<\rank>
+<doc>CACM-0007<\doc>
+<snippet>
+of Computer Engineering and Programming TerminologyCACM October, 
+<\snippet>
+<\document>
+
+<document>
+<qid>42<\qid>
+<rank>97<\rank>
+<doc>CACM-0010<\doc>
+<snippet>
+<b>of<\b> Computer Engineering and Programming TerminologyCACM September, 
+<\snippet>
+<\document>
+
+<document>
+<qid>42<\qid>
+<rank>98<\rank>
+<doc>CACM-0013<\doc>
+<snippet>
+<b>of<\b> Computer Engineering and Programming TerminologyCACM August, 
+<\snippet>
+<\document>
+
+<document>
+<qid>42<\qid>
+<rank>99<\rank>
+<doc>CACM-0019<\doc>
+<snippet>
+of Computer Engineering and <b>Programming<\b> TerminologyCACM June, 
+<\snippet>
+<\document>
+
+<document>
+<qid>42<\qid>
+<rank>100<\rank>
+<doc>CACM-0058<\doc>
+<snippet>
+of a general purpose digital computer using contactless magnetic (ferrite)and 
+<\snippet>
+<\document>

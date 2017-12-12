@@ -1,0 +1,1 @@
+roots of matrix pencils the generalized eigenvalue problem f2 algorithm 405 cacm February, 1971 Dell, A. M. Weil, R. L. Thompson, G. L. eigenvalues matrix roots pencil roots 5.1 5.3 ca710208 jb february 8, 1978 8:37 am

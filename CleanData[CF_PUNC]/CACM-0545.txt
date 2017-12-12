@@ -1,0 +1,1 @@
+adjust inverse of a matrix when an element is perturbed algorithm 51 cacm July, 1962 George, R. ca620716 jb march 17, 1978 8:22 pm

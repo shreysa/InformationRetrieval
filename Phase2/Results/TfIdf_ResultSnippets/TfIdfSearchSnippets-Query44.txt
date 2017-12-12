@@ -1,0 +1,900 @@
+
+<document>
+<qid>44<\qid>
+<rank>1<\rank>
+<doc>CACM-2829<\doc>
+<snippet>
+this algorithm inthe areas of texture simulation and lighting models. 
+<\snippet>
+<\document>
+
+<document>
+<qid>44<\qid>
+<rank>2<\rank>
+<doc>CACM-1732<\doc>
+<snippet>
+Analysis of Variance (Algorithm 330 [G1])CACM June, 
+<\snippet>
+<\document>
+
+<document>
+<qid>44<\qid>
+<rank>3<\rank>
+<doc>CACM-2825<\doc>
+<snippet>
+BMD and BMDP Series <b>of<\b> Statistical Computer 
+<\snippet>
+<\document>
+
+<document>
+<qid>44<\qid>
+<rank>4<\rank>
+<doc>CACM-1823<\doc>
+<snippet>
+Analysis of Variance (Algorithm [G1])CACM November, 1969Howell, 
+<\snippet>
+<\document>
+
+<document>
+<qid>44<\qid>
+<rank>5<\rank>
+<doc>CACM-1801<\doc>
+<snippet>
+of Variance for Balanced Experiments <b>(Algorithm<\b> 367 
+<\snippet>
+<\document>
+
+<document>
+<qid>44<\qid>
+<rank>6<\rank>
+<doc>CACM-1404<\doc>
+<snippet>
+Aspects of Multiple CovarianceAnalysis on a <b>Multifactor<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>44<\qid>
+<rank>7<\rank>
+<doc>CACM-1802<\doc>
+<snippet>
+Using <b>Certain<\b> Direct Product Matrices (Algorithm 366 
+<\snippet>
+<\document>
+
+<document>
+<qid>44<\qid>
+<rank>8<\rank>
+<doc>CACM-2325<\doc>
+<snippet>
+Mathematics and Computer ScienceNumerical mathematics is <b>viewed<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>44<\qid>
+<rank>9<\rank>
+<doc>CACM-2523<\doc>
+<snippet>
+<b>Region<\b> Coloring Technique for Scene AnalysisA method 
+<\snippet>
+<\document>
+
+<document>
+<qid>44<\qid>
+<rank>10<\rank>
+<doc>CACM-0525<\doc>
+<snippet>
+<b>Computer<\b> Technique for Handling Analysis of VarianceCACM 
+<\snippet>
+<\document>
+
+<document>
+<qid>44<\qid>
+<rank>11<\rank>
+<doc>CACM-0633<\doc>
+<snippet>
+<b>and<\b> Analysis of Biochemical Systems(III. Analysis and 
+<\snippet>
+<\document>
+
+<document>
+<qid>44<\qid>
+<rank>12<\rank>
+<doc>CACM-2478<\doc>
+<snippet>
+Science-Seminars for UndergraduatesCACM July, 1973Kandel, A.education, <b>computer<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>44<\qid>
+<rank>13<\rank>
+<doc>CACM-0931<\doc>
+<snippet>
+Mistake Analysis of Digital Computer ProgramsCACM <b>February,<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>44<\qid>
+<rank>14<\rank>
+<doc>CACM-2719<\doc>
+<snippet>
+<b>Program<\b> AnalysisOne means of analyzing program performanceis 
+<\snippet>
+<\document>
+
+<document>
+<qid>44<\qid>
+<rank>15<\rank>
+<doc>CACM-0461<\doc>
+<snippet>
+of Medical Case History Data for Computer 
+<\snippet>
+<\document>
+
+<document>
+<qid>44<\qid>
+<rank>16<\rank>
+<doc>CACM-1141<\doc>
+<snippet>
+Context Syntactic AnalysisCACM February, 1964Floyd, <b>R.<\b> W.CA640202 
+<\snippet>
+<\document>
+
+<document>
+<qid>44<\qid>
+<rank>17<\rank>
+<doc>CACM-2494<\doc>
+<snippet>
+Computer Generated Aid <b>for<\b> Cluster AnalysisA computer 
+<\snippet>
+<\document>
+
+<document>
+<qid>44<\qid>
+<rank>18<\rank>
+<doc>CACM-1782<\doc>
+<snippet>
+Numerical Integration Formula Useful in Fourier AnalysisA 
+<\snippet>
+<\document>
+
+<document>
+<qid>44<\qid>
+<rank>19<\rank>
+<doc>CACM-1780<\doc>
+<snippet>
+Analysis <b>for<\b> SymmetricallyDistributed Data (Algorithm 320 [C6])CACM 
+<\snippet>
+<\document>
+
+<document>
+<qid>44<\qid>
+<rank>20<\rank>
+<doc>CACM-2050<\doc>
+<snippet>
+Parsing for Content AnalysisAlthough automatic <b>syntactic<\b> and 
+<\snippet>
+<\document>
+
+<document>
+<qid>44<\qid>
+<rank>21<\rank>
+<doc>CACM-1855<\doc>
+<snippet>
+Program for the Syntactic Analysis of English 
+<\snippet>
+<\document>
+
+<document>
+<qid>44<\qid>
+<rank>22<\rank>
+<doc>CACM-0912<\doc>
+<snippet>
+an Array <b>Yi<\b> in k-Dimensionsby Fortran for 
+<\snippet>
+<\document>
+
+<document>
+<qid>44<\qid>
+<rank>23<\rank>
+<doc>CACM-0167<\doc>
+<snippet>
+ALGOL Statement Analysis <b>with<\b> Validity CheckingCACM July, 
+<\snippet>
+<\document>
+
+<document>
+<qid>44<\qid>
+<rank>24<\rank>
+<doc>CACM-1104<\doc>
+<snippet>
+Undergraduate <b>Curriculum<\b> in Numerical AnalysisCACM April, 1964Forsythe, 
+<\snippet>
+<\document>
+
+<document>
+<qid>44<\qid>
+<rank>25<\rank>
+<doc>CACM-1809<\doc>
+<snippet>
+Analysis <b>in<\b> a Ph. Computer Science ProgramNumerical 
+<\snippet>
+<\document>
+
+<document>
+<qid>44<\qid>
+<rank>26<\rank>
+<doc>CACM-1260<\doc>
+<snippet>
+Analysis of Resonance Spectra on <b>Small<\b> ComputersThe 
+<\snippet>
+<\document>
+
+<document>
+<qid>44<\qid>
+<rank>27<\rank>
+<doc>CACM-0085<\doc>
+<snippet>
+Analysis <b>in<\b> Floating Point ArithmeticCACM May, 1959Carr 
+<\snippet>
+<\document>
+
+<document>
+<qid>44<\qid>
+<rank>28<\rank>
+<doc>CACM-0631<\doc>
+<snippet>
+Translation Through Syntactical Analysis*CACM March, 1962Ledley, R.Wilson, 
+<\snippet>
+<\document>
+
+<document>
+<qid>44<\qid>
+<rank>29<\rank>
+<doc>CACM-0826<\doc>
+<snippet>
+on Fortran Subroutines for Time Series <b>AnalysisCACM<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>44<\qid>
+<rank>30<\rank>
+<doc>CACM-0238<\doc>
+<snippet>
+and <b>Analysis<\b> of Biochemical SystemsCACM December, 1961Garfinkel, 
+<\snippet>
+<\document>
+
+<document>
+<qid>44<\qid>
+<rank>31<\rank>
+<doc>CACM-1045<\doc>
+<snippet>
+Analysis of Variance by <b>Sequencesof<\b> Operators and 
+<\snippet>
+<\document>
+
+<document>
+<qid>44<\qid>
+<rank>32<\rank>
+<doc>CACM-0643<\doc>
+<snippet>
+and <b>Analysis<\b> of Biochemcial Systems(II. Solution of 
+<\snippet>
+<\document>
+
+<document>
+<qid>44<\qid>
+<rank>33<\rank>
+<doc>CACM-2923<\doc>
+<snippet>
+Data Flow AnalysisIn contrast to the <b>predominant<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>44<\qid>
+<rank>34<\rank>
+<doc>CACM-1507<\doc>
+<snippet>
+Multiprogramming Environment for Online Data <b>Acquis<\b> <b>ition<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>44<\qid>
+<rank>35<\rank>
+<doc>CACM-2831<\doc>
+<snippet>
+of the PFF Replacement Algorithmvia <b>a<\b> Semi-Markov 
+<\snippet>
+<\document>
+
+<document>
+<qid>44<\qid>
+<rank>36<\rank>
+<doc>CACM-1679<\doc>
+<snippet>
+Fast Fourier Transform Algorithm <b>for<\b> Real-Valued SeriesA 
+<\snippet>
+<\document>
+
+<document>
+<qid>44<\qid>
+<rank>37<\rank>
+<doc>CACM-1989<\doc>
+<snippet>
+Network <b>Grammars<\b> for Natural Language AnalysisThe use 
+<\snippet>
+<\document>
+
+<document>
+<qid>44<\qid>
+<rank>38<\rank>
+<doc>CACM-1669<\doc>
+<snippet>
+<b>Procedures<\b> for the Fast Fourier Transform (Algorithm 
+<\snippet>
+<\document>
+
+<document>
+<qid>44<\qid>
+<rank>39<\rank>
+<doc>CACM-2125<\doc>
+<snippet>
+Note on Minimal Length Polygonal Approximation to 
+<\snippet>
+<\document>
+
+<document>
+<qid>44<\qid>
+<rank>40<\rank>
+<doc>CACM-2221<\doc>
+<snippet>
+on the Conversion of Decision Tables to 
+<\snippet>
+<\document>
+
+<document>
+<qid>44<\qid>
+<rank>41<\rank>
+<doc>CACM-0436<\doc>
+<snippet>
+of Polynomials by ComputerCACM December, 1962Knuth, <b>D.<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>44<\qid>
+<rank>42<\rank>
+<doc>CACM-1668<\doc>
+<snippet>
+Algol Procedure for the Fast Fourier Transformwith 
+<\snippet>
+<\document>
+
+<document>
+<qid>44<\qid>
+<rank>43<\rank>
+<doc>CACM-1424<\doc>
+<snippet>
+Analysis of Electronic Digital Circuits Using List 
+<\snippet>
+<\document>
+
+<document>
+<qid>44<\qid>
+<rank>44<\rank>
+<doc>CACM-2329<\doc>
+<snippet>
+<b>Science-A<\b> Vicious CircleCACM June, 1972Kandel, A.education, computer 
+<\snippet>
+<\document>
+
+<document>
+<qid>44<\qid>
+<rank>45<\rank>
+<doc>CACM-0329<\doc>
+<snippet>
+Abstracting and Indexing Survey and <b>RecommendationsIn<\b> preparation 
+<\snippet>
+<\document>
+
+<document>
+<qid>44<\qid>
+<rank>46<\rank>
+<doc>CACM-1683<\doc>
+<snippet>
+matrix Methods for the <b>Detection<\b> of Simple 
+<\snippet>
+<\document>
+
+<document>
+<qid>44<\qid>
+<rank>47<\rank>
+<doc>CACM-2286<\doc>
+<snippet>
+Error Analysis for Determining PrecisionThe problem <b>considered<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>44<\qid>
+<rank>48<\rank>
+<doc>CACM-1917<\doc>
+<snippet>
+Algol Procedure for the Fast <b>Fourier<\b> Transformwith 
+<\snippet>
+<\document>
+
+<document>
+<qid>44<\qid>
+<rank>49<\rank>
+<doc>CACM-0974<\doc>
+<snippet>
+Technique for Reading Gapless Tapes Makes <b>ElectrocardiographAnalysis<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>44<\qid>
+<rank>50<\rank>
+<doc>CACM-2553<\doc>
+<snippet>
+Practical Aspect <b>of<\b> Computer Science Education-DiscussionCACM January, 
+<\snippet>
+<\document>
+
+<document>
+<qid>44<\qid>
+<rank>51<\rank>
+<doc>CACM-1034<\doc>
+<snippet>
+automated <b>data<\b> system analysis technique isdescribed. The 
+<\snippet>
+<\document>
+
+<document>
+<qid>44<\qid>
+<rank>52<\rank>
+<doc>CACM-2771<\doc>
+<snippet>
+Synthesis of Solids Bounded <b>by<\b> Many FacesA 
+<\snippet>
+<\document>
+
+<document>
+<qid>44<\qid>
+<rank>53<\rank>
+<doc>CACM-2505<\doc>
+<snippet>
+Permutations, Rosary Permutations,and <b>Adjacent<\b> Transposition AlgorithmsCACM May, 
+<\snippet>
+<\document>
+
+<document>
+<qid>44<\qid>
+<rank>54<\rank>
+<doc>CACM-2735<\doc>
+<snippet>
+in <b>the<\b> Employment of Women in the 
+<\snippet>
+<\document>
+
+<document>
+<qid>44<\qid>
+<rank>55<\rank>
+<doc>CACM-1208<\doc>
+<snippet>
+of Computer Logic <b>by<\b> Fortran ArithmeticCACM August, 
+<\snippet>
+<\document>
+
+<document>
+<qid>44<\qid>
+<rank>56<\rank>
+<doc>CACM-1435<\doc>
+<snippet>
+of Computer Simulation Experiments for Industrial <b>SystemsThe<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>44<\qid>
+<rank>57<\rank>
+<doc>CACM-1837<\doc>
+<snippet>
+Algol Convolution Procedure Based <b>on<\b> theFast Fourier 
+<\snippet>
+<\document>
+
+<document>
+<qid>44<\qid>
+<rank>58<\rank>
+<doc>CACM-1921<\doc>
+<snippet>
+Algol Convolution Procedure <b>Based<\b> on theFast Fourier 
+<\snippet>
+<\document>
+
+<document>
+<qid>44<\qid>
+<rank>59<\rank>
+<doc>CACM-2025<\doc>
+<snippet>
+t-Distribution; Jacobi Polynomials;Modified Romberg <b>Quadrature;Factorial<\b> Analysis of 
+<\snippet>
+<\document>
+
+<document>
+<qid>44<\qid>
+<rank>60<\rank>
+<doc>CACM-2671<\doc>
+<snippet>
+Note on a Combinatorial <b>Problem<\b> of Burnett 
+<\snippet>
+<\document>
+
+<document>
+<qid>44<\qid>
+<rank>61<\rank>
+<doc>CACM-1002<\doc>
+<snippet>
+Rapid Method for <b>Digital<\b> FilteringSince much of 
+<\snippet>
+<\document>
+
+<document>
+<qid>44<\qid>
+<rank>62<\rank>
+<doc>CACM-3055<\doc>
+<snippet>
+Analysis <b>of<\b> Algorithms for the Dutch National 
+<\snippet>
+<\document>
+
+<document>
+<qid>44<\qid>
+<rank>63<\rank>
+<doc>CACM-2754<\doc>
+<snippet>
+Syntactic Algorithm for Peak Detectionin Waveforms <b>with<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>44<\qid>
+<rank>64<\rank>
+<doc>CACM-2877<\doc>
+<snippet>
+Program <b>Data<\b> Flow Analysis ProcedureThe global data 
+<\snippet>
+<\document>
+
+<document>
+<qid>44<\qid>
+<rank>65<\rank>
+<doc>CACM-2310<\doc>
+<snippet>
+Analysis <b>in<\b> the HumanitiesThe use of the 
+<\snippet>
+<\document>
+
+<document>
+<qid>44<\qid>
+<rank>66<\rank>
+<doc>CACM-2502<\doc>
+<snippet>
+Comment on the Practical Aspects <b>of<\b> Computer 
+<\snippet>
+<\document>
+
+<document>
+<qid>44<\qid>
+<rank>67<\rank>
+<doc>CACM-2812<\doc>
+<snippet>
+Analysis and Design of Information <b>SystemsThis<\b> paper 
+<\snippet>
+<\document>
+
+<document>
+<qid>44<\qid>
+<rank>68<\rank>
+<doc>CACM-1529<\doc>
+<snippet>
+Programming An Analysis of Matrix Substructure A 
+<\snippet>
+<\document>
+
+<document>
+<qid>44<\qid>
+<rank>69<\rank>
+<doc>CACM-2871<\doc>
+<snippet>
+<b>Analysis<\b> of ProgramsMost present systems for verification 
+<\snippet>
+<\document>
+
+<document>
+<qid>44<\qid>
+<rank>70<\rank>
+<doc>CACM-1014<\doc>
+<snippet>
+Controls for Analysis of <b>VarianceA<\b> major problem 
+<\snippet>
+<\document>
+
+<document>
+<qid>44<\qid>
+<rank>71<\rank>
+<doc>CACM-1637<\doc>
+<snippet>
+in the <b>Statistical<\b> <b>Analysis<\b> <b>of<\b> <b>SimulationExperiments:<\b> <b>The<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>44<\qid>
+<rank>72<\rank>
+<doc>CACM-1771<\doc>
+<snippet>
+68 <b>--<\b> Recommendations for AcademicPrograms in Computer 
+<\snippet>
+<\document>
+
+<document>
+<qid>44<\qid>
+<rank>73<\rank>
+<doc>CACM-1916<\doc>
+<snippet>
+<b>of<\b> Boolean Program <b>Models<\b> for Time-Shared, <b>Paged<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>44<\qid>
+<rank>74<\rank>
+<doc>CACM-2824<\doc>
+<snippet>
+Improvement to Martin's Algorithm forComputation of Linear 
+<\snippet>
+<\document>
+
+<document>
+<qid>44<\qid>
+<rank>75<\rank>
+<doc>CACM-1709<\doc>
+<snippet>
+Modification of Efroymson's Technique for Stepwise <b>Regression<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>44<\qid>
+<rank>76<\rank>
+<doc>CACM-0464<\doc>
+<snippet>
+Analysis by <b>Digital<\b> ComputerThis paper provides an 
+<\snippet>
+<\document>
+
+<document>
+<qid>44<\qid>
+<rank>77<\rank>
+<doc>CACM-2255<\doc>
+<snippet>
+on Moorer's Music and Computer CompositionCACM <b>November,<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>44<\qid>
+<rank>78<\rank>
+<doc>CACM-2504<\doc>
+<snippet>
+Music and Computer <b>Composition<\b> in Computational LinguisticsCACM 
+<\snippet>
+<\document>
+
+<document>
+<qid>44<\qid>
+<rank>79<\rank>
+<doc>CACM-2437<\doc>
+<snippet>
+Performance Analysis of Key-to-AddressTransformation Methods Using <b>an<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>44<\qid>
+<rank>80<\rank>
+<doc>CACM-3149<\doc>
+<snippet>
+<b>Cyclic<\b> Order Property of Vertices as an 
+<\snippet>
+<\document>
+
+<document>
+<qid>44<\qid>
+<rank>81<\rank>
+<doc>CACM-2446<\doc>
+<snippet>
+of Skew Representations of the Symmetric Group 
+<\snippet>
+<\document>
+
+<document>
+<qid>44<\qid>
+<rank>82<\rank>
+<doc>CACM-3069<\doc>
+<snippet>
+Practical Interprocedural Data Flow <b>Analysis<\b> AlgorithmA new 
+<\snippet>
+<\document>
+
+<document>
+<qid>44<\qid>
+<rank>83<\rank>
+<doc>CACM-1632<\doc>
+<snippet>
+the Tabular Method of Analysisof Variance for 
+<\snippet>
+<\document>
+
+<document>
+<qid>44<\qid>
+<rank>84<\rank>
+<doc>CACM-2798<\doc>
+<snippet>
+of Interleaved <b>Memory<\b> Systems Using Blockage BuffersA 
+<\snippet>
+<\document>
+
+<document>
+<qid>44<\qid>
+<rank>85<\rank>
+<doc>CACM-2701<\doc>
+<snippet>
+Fast and Usually Linear Algorithm <b>for<\b> <b>GlobalFlow<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>44<\qid>
+<rank>86<\rank>
+<doc>CACM-1325<\doc>
+<snippet>
+On-Line, <b>Real-time<\b> Computer Diagnosisof the Clinical ElectrocardiogramPresented 
+<\snippet>
+<\document>
+
+<document>
+<qid>44<\qid>
+<rank>87<\rank>
+<doc>CACM-2447<\doc>
+<snippet>
+Kernels for Certain Bivariate <b>CubaturesAn<\b> error analysis 
+<\snippet>
+<\document>
+
+<document>
+<qid>44<\qid>
+<rank>88<\rank>
+<doc>CACM-3078<\doc>
+<snippet>
+of <b>the<\b> Availability of ComputerSystems Using Computer- 
+<\snippet>
+<\document>
+
+<document>
+<qid>44<\qid>
+<rank>89<\rank>
+<doc>CACM-0561<\doc>
+<snippet>
+Differentiation By ComputerCACM June, 1962Hanson, J. W.Caviness, 
+<\snippet>
+<\document>
+
+<document>
+<qid>44<\qid>
+<rank>90<\rank>
+<doc>CACM-2835<\doc>
+<snippet>
+Analysis for Compiler <b>OptimizationA<\b> relatively simple method 
+<\snippet>
+<\document>
+
+<document>
+<qid>44<\qid>
+<rank>91<\rank>
+<doc>CACM-0557<\doc>
+<snippet>
+of Computer <b>Timing<\b> DeviceCACM July, <b>1962CA620704<\b> JB 
+<\snippet>
+<\document>
+
+<document>
+<qid>44<\qid>
+<rank>92<\rank>
+<doc>CACM-2062<\doc>
+<snippet>
+Application of Sequential <b>Samplingto<\b> Simulation: An Example 
+<\snippet>
+<\document>
+
+<document>
+<qid>44<\qid>
+<rank>93<\rank>
+<doc>CACM-1686<\doc>
+<snippet>
+Synthesis of Holograms <b>for<\b> 3-D DisplayOptical and 
+<\snippet>
+<\document>
+
+<document>
+<qid>44<\qid>
+<rank>94<\rank>
+<doc>CACM-2485<\doc>
+<snippet>
+the Computer Resource: A Stage HypothesisBased <b>on<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>44<\qid>
+<rank>95<\rank>
+<doc>CACM-2560<\doc>
+<snippet>
+Queuing Model of a <b>MultiprogrammedComputer<\b> with a 
+<\snippet>
+<\document>
+
+<document>
+<qid>44<\qid>
+<rank>96<\rank>
+<doc>CACM-0533<\doc>
+<snippet>
+Synthesis of Correlated Stationary NoiseIn <b>this<\b> note 
+<\snippet>
+<\document>
+
+<document>
+<qid>44<\qid>
+<rank>97<\rank>
+<doc>CACM-2391<\doc>
+<snippet>
+Symmetric Polynomials [Z] (Algorithm R391)CACM January, <b>1972Schrack,<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>44<\qid>
+<rank>98<\rank>
+<doc>CACM-1365<\doc>
+<snippet>
+Monotonous Mathematics with FORMACThe FORMAC (FORmula MAnipulation 
+<\snippet>
+<\document>
+
+<document>
+<qid>44<\qid>
+<rank>99<\rank>
+<doc>CACM-0093<\doc>
+<snippet>
+Formulas to Computer Oriented LanguageA <b>technique<\b> is 
+<\snippet>
+<\document>
+
+<document>
+<qid>44<\qid>
+<rank>100<\rank>
+<doc>CACM-2210<\doc>
+<snippet>
+Automatic <b>Program<\b> SynthesisAn elementary outline of the 
+<\snippet>
+<\document>

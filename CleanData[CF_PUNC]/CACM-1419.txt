@@ -1,0 +1,1 @@
+chebyshev quadrature algorithm 279 d1 cacm June, 1966 Hopgood, F. R. A. Litherland, C. ca660603b jb march 23, 1978 7:09 pm

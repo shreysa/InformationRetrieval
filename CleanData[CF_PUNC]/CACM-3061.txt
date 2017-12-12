@@ -1,0 +1,1 @@
+simulations of dynamic sequential search algorithms none cacm September, 1978 Tenenbaum, A. Searching, list processing sequential searching dynamic reordering simulation 3.74 8.1 ca780911 dh january 29, 1979 6:30 pm

@@ -1,0 +1,1 @@
+floating-point arithmetic with 84-bit numbers a classic and straightforward technique is presented which is not limited to the size or type of number representation used or multiple precision arithmetic cacm January, 1964 Gregory, R. T. Raney, J. L. ca640102 jb march 10, 1978 5:41 am

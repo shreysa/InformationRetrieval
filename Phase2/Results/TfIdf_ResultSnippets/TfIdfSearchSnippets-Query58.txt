@@ -1,0 +1,900 @@
+
+<document>
+<qid>58<\qid>
+<rank>1<\rank>
+<doc>CACM-1344<\doc>
+<snippet>
+Computations Based <b>Upon<\b> Algebraically Specified ModelsBased upon 
+<\snippet>
+<\document>
+
+<document>
+<qid>58<\qid>
+<rank>2<\rank>
+<doc>CACM-2418<\doc>
+<snippet>
+t Frequency [S14] (Algorithm A465)CACM November, <b>1973Hill,<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>58<\qid>
+<rank>3<\rank>
+<doc>CACM-1816<\doc>
+<snippet>
+Least Squares Fit By OrthogonalPolynomials <b>(Algorithm<\b> 296 
+<\snippet>
+<\document>
+
+<document>
+<qid>58<\qid>
+<rank>4<\rank>
+<doc>CACM-2101<\doc>
+<snippet>
+Squares <b>Fit<\b> By f(x) = Acos(Bx+C) (Algorithm 
+<\snippet>
+<\document>
+
+<document>
+<qid>58<\qid>
+<rank>5<\rank>
+<doc>CACM-2634<\doc>
+<snippet>
+Evaluation of Statistical <b>Software<\b> in the Social 
+<\snippet>
+<\document>
+
+<document>
+<qid>58<\qid>
+<rank>6<\rank>
+<doc>CACM-2395<\doc>
+<snippet>
+Programming for Nonlinear RegressionA quadratic programming <b>algorithm<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>58<\qid>
+<rank>7<\rank>
+<doc>CACM-1578<\doc>
+<snippet>
+Least Squares Fit By OrthogonalPolynomials (Algorithm 296 
+<\snippet>
+<\document>
+
+<document>
+<qid>58<\qid>
+<rank>8<\rank>
+<doc>CACM-1631<\doc>
+<snippet>
+a Random Number GeneratorThe first 1,000,000 <b>numbers<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>58<\qid>
+<rank>9<\rank>
+<doc>CACM-1709<\doc>
+<snippet>
+Modification of Efroymson's <b>Technique<\b> for Stepwise Regression 
+<\snippet>
+<\document>
+
+<document>
+<qid>58<\qid>
+<rank>10<\rank>
+<doc>CACM-0050<\doc>
+<snippet>
+Programs for the IBM 650-Part IICACM <b>October,<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>58<\qid>
+<rank>11<\rank>
+<doc>CACM-2238<\doc>
+<snippet>
+Squares Surface Fit (Algorithm R176)CACM <b>December,<\b> 1972Schuegraf, 
+<\snippet>
+<\document>
+
+<document>
+<qid>58<\qid>
+<rank>12<\rank>
+<doc>CACM-0069<\doc>
+<snippet>
+Programs for the IBM 650-Part <b>IA<\b> collection 
+<\snippet>
+<\document>
+
+<document>
+<qid>58<\qid>
+<rank>13<\rank>
+<doc>CACM-0382<\doc>
+<snippet>
+Programs at <b>the<\b> University of North CarolinaCACM 
+<\snippet>
+<\document>
+
+<document>
+<qid>58<\qid>
+<rank>14<\rank>
+<doc>CACM-2351<\doc>
+<snippet>
+Optimality of Winograd's FormulaCACM May, 1972Harter, <b>R.inner<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>58<\qid>
+<rank>15<\rank>
+<doc>CACM-1876<\doc>
+<snippet>
+of <b>Test<\b> Matrices Having CertainSign Patterns and 
+<\snippet>
+<\document>
+
+<document>
+<qid>58<\qid>
+<rank>16<\rank>
+<doc>CACM-1644<\doc>
+<snippet>
+the Computation of Least Squares <b>PolynomialsRounding<\b> error 
+<\snippet>
+<\document>
+
+<document>
+<qid>58<\qid>
+<rank>17<\rank>
+<doc>CACM-0840<\doc>
+<snippet>
+Squares Surface Fit (Algorithm 176)CACM June, 1963Arthurs, 
+<\snippet>
+<\document>
+
+<document>
+<qid>58<\qid>
+<rank>18<\rank>
+<doc>CACM-1396<\doc>
+<snippet>
+of <b>Formula<\b> ManipulationThe field of formula manipulation 
+<\snippet>
+<\document>
+
+<document>
+<qid>58<\qid>
+<rank>19<\rank>
+<doc>CACM-1474<\doc>
+<snippet>
+of Probabilistic Models for Propagation <b>of<\b> Roundoff 
+<\snippet>
+<\document>
+
+<document>
+<qid>58<\qid>
+<rank>20<\rank>
+<doc>CACM-0266<\doc>
+<snippet>
+Spheres by the <b>Method<\b> of Least SquaresCACM 
+<\snippet>
+<\document>
+
+<document>
+<qid>58<\qid>
+<rank>21<\rank>
+<doc>CACM-1802<\doc>
+<snippet>
+Using Certain Direct <b>Product<\b> Matrices (Algorithm 366 
+<\snippet>
+<\document>
+
+<document>
+<qid>58<\qid>
+<rank>22<\rank>
+<doc>CACM-0801<\doc>
+<snippet>
+Squares Solution with Constraints (Algorithm 177)CACM July, 
+<\snippet>
+<\document>
+
+<document>
+<qid>58<\qid>
+<rank>23<\rank>
+<doc>CACM-0839<\doc>
+<snippet>
+Squares Solution with Constraints <b>(Algorithm<\b> 177)CACM June, 
+<\snippet>
+<\document>
+
+<document>
+<qid>58<\qid>
+<rank>24<\rank>
+<doc>CACM-2779<\doc>
+<snippet>
+Least Squares Polynomial FitsThe recurrence relation between 
+<\snippet>
+<\document>
+
+<document>
+<qid>58<\qid>
+<rank>25<\rank>
+<doc>CACM-2533<\doc>
+<snippet>
+Code <b>and<\b> the +- Sign Sequence when+-f 
+<\snippet>
+<\document>
+
+<document>
+<qid>58<\qid>
+<rank>26<\rank>
+<doc>CACM-1252<\doc>
+<snippet>
+Notations for Statistical Tablesand an Approach Towards 
+<\snippet>
+<\document>
+
+<document>
+<qid>58<\qid>
+<rank>27<\rank>
+<doc>CACM-3138<\doc>
+<snippet>
+Mathematical Programming Updating Method <b>Using<\b> ModifiedGivens Transformations 
+<\snippet>
+<\document>
+
+<document>
+<qid>58<\qid>
+<rank>28<\rank>
+<doc>CACM-0126<\doc>
+<snippet>
+Squares Fit By Orthogonal polynomials <b>(Algorithm<\b> <b>28)CACM<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>58<\qid>
+<rank>29<\rank>
+<doc>CACM-0765<\doc>
+<snippet>
+Polynomial <b>Least<\b> Squares Surface Fit (Algorithm 164)CACM 
+<\snippet>
+<\document>
+
+<document>
+<qid>58<\qid>
+<rank>30<\rank>
+<doc>CACM-2225<\doc>
+<snippet>
+Integer Partitioning <b>[A1]<\b> (Algorithm 403)CACM January, 1971Coleman, 
+<\snippet>
+<\document>
+
+<document>
+<qid>58<\qid>
+<rank>31<\rank>
+<doc>CACM-2670<\doc>
+<snippet>
+Implementation of a Variable ProjectionAlgorithm <b>for<\b> Nonlinear 
+<\snippet>
+<\document>
+
+<document>
+<qid>58<\qid>
+<rank>32<\rank>
+<doc>CACM-2488<\doc>
+<snippet>
+Squares Piecewise Cubic Curve FittingThe <b>matrices<\b> involved 
+<\snippet>
+<\document>
+
+<document>
+<qid>58<\qid>
+<rank>33<\rank>
+<doc>CACM-0122<\doc>
+<snippet>
+Squares Fitting of a <b>Great<\b> Circle Through 
+<\snippet>
+<\document>
+
+<document>
+<qid>58<\qid>
+<rank>34<\rank>
+<doc>CACM-0297<\doc>
+<snippet>
+<b>Note<\b> <b>on<\b> <b>Fitting<\b> <b>Great<\b> <b>Circles<\b> <b>by<\b> <b>Least<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>58<\qid>
+<rank>35<\rank>
+<doc>CACM-1598<\doc>
+<snippet>
+Squares Fit By Orthogonal Polynomials (Algorithm 28 
+<\snippet>
+<\document>
+
+<document>
+<qid>58<\qid>
+<rank>36<\rank>
+<doc>CACM-1848<\doc>
+<snippet>
+Damped Taylor's Series Method for Minimizinga Sum 
+<\snippet>
+<\document>
+
+<document>
+<qid>58<\qid>
+<rank>37<\rank>
+<doc>CACM-0371<\doc>
+<snippet>
+<b>on<\b> Algorithms 2 and 3, Algorithm 15 
+<\snippet>
+<\document>
+
+<document>
+<qid>58<\qid>
+<rank>38<\rank>
+<doc>CACM-1986<\doc>
+<snippet>
+t-Quantiles $S14) (Algorithm 396)CACM October, 1970Hill, G. 
+<\snippet>
+<\document>
+
+<document>
+<qid>58<\qid>
+<rank>39<\rank>
+<doc>CACM-2585<\doc>
+<snippet>
+Implementation of a Variable ProjectionAlgorithm for Nonlinear 
+<\snippet>
+<\document>
+
+<document>
+<qid>58<\qid>
+<rank>40<\rank>
+<doc>CACM-2825<\doc>
+<snippet>
+BMD and BMDP Series of Statistical Computer 
+<\snippet>
+<\document>
+
+<document>
+<qid>58<\qid>
+<rank>41<\rank>
+<doc>CACM-1640<\doc>
+<snippet>
+Least <b>Squared<\b> Fit By <b>OrthogonalPolynomials<\b> (Algorithm 296 
+<\snippet>
+<\document>
+
+<document>
+<qid>58<\qid>
+<rank>42<\rank>
+<doc>CACM-1732<\doc>
+<snippet>
+Analysis <b>of<\b> Variance (Algorithm 330 [G1])CACM June, 
+<\snippet>
+<\document>
+
+<document>
+<qid>58<\qid>
+<rank>43<\rank>
+<doc>CACM-1366<\doc>
+<snippet>
+Simulation-Discussion <b>of<\b> theTechnique and Comparison of Languages 
+<\snippet>
+<\document>
+
+<document>
+<qid>58<\qid>
+<rank>44<\rank>
+<doc>CACM-3166<\doc>
+<snippet>
+Standard Deviations: AccuracyFour algorithms for the numerical computationof 
+<\snippet>
+<\document>
+
+<document>
+<qid>58<\qid>
+<rank>45<\rank>
+<doc>CACM-1823<\doc>
+<snippet>
+Analysis of Variance <b>(Algorithm<\b> [G1])CACM November, 1969Howell, 
+<\snippet>
+<\document>
+
+<document>
+<qid>58<\qid>
+<rank>46<\rank>
+<doc>CACM-1637<\doc>
+<snippet>
+in the Statistical Analysis of <b>SimulationExperiments:<\b> The 
+<\snippet>
+<\document>
+
+<document>
+<qid>58<\qid>
+<rank>47<\rank>
+<doc>CACM-1944<\doc>
+<snippet>
+t-Distribution (Algorithm <b>344<\b> [S14])CACM January, 1969Levine, D. 
+<\snippet>
+<\document>
+
+<document>
+<qid>58<\qid>
+<rank>48<\rank>
+<doc>CACM-1987<\doc>
+<snippet>
+t-Distribution $S14) <b>(Algorithm<\b> 395)CACM October, 1970Hill, G. 
+<\snippet>
+<\document>
+
+<document>
+<qid>58<\qid>
+<rank>49<\rank>
+<doc>CACM-2325<\doc>
+<snippet>
+Mathematics and Computer <b>ScienceNumerical<\b> mathematics is viewed 
+<\snippet>
+<\document>
+
+<document>
+<qid>58<\qid>
+<rank>50<\rank>
+<doc>CACM-1434<\doc>
+<snippet>
+Monte Carlo Algorithm <b>for<\b> Assigning Students to 
+<\snippet>
+<\document>
+
+<document>
+<qid>58<\qid>
+<rank>51<\rank>
+<doc>CACM-2592<\doc>
+<snippet>
+Generation of <b>Test<\b> Problems for Linear Programming 
+<\snippet>
+<\document>
+
+<document>
+<qid>58<\qid>
+<rank>52<\rank>
+<doc>CACM-2994<\doc>
+<snippet>
+Linear Algorithm for Incremental Digital Display of 
+<\snippet>
+<\document>
+
+<document>
+<qid>58<\qid>
+<rank>53<\rank>
+<doc>CACM-1629<\doc>
+<snippet>
+A Biostatistical <b>Programming<\b> PackageA package of FORTRAN 
+<\snippet>
+<\document>
+
+<document>
+<qid>58<\qid>
+<rank>54<\rank>
+<doc>CACM-2102<\doc>
+<snippet>
+<b>Data<\b> To One Exponential (Algorithm 375 $E2))CACM 
+<\snippet>
+<\document>
+
+<document>
+<qid>58<\qid>
+<rank>55<\rank>
+<doc>CACM-2771<\doc>
+<snippet>
+<b>together<\b> or subtracted.  Two algorithms to perform addition are 
+<\snippet>
+<\document>
+
+<document>
+<qid>58<\qid>
+<rank>56<\rank>
+<doc>CACM-1698<\doc>
+<snippet>
+Statistical Model <b>for<\b> Console Behavior in Multiuser 
+<\snippet>
+<\document>
+
+<document>
+<qid>58<\qid>
+<rank>57<\rank>
+<doc>CACM-1519<\doc>
+<snippet>
+3-A General Purpose Time Sharing and Operating 
+<\snippet>
+<\document>
+
+<document>
+<qid>58<\qid>
+<rank>58<\rank>
+<doc>CACM-2907<\doc>
+<snippet>
+Optimal Approach to Recursive ProgramsThe classical fixed 
+<\snippet>
+<\document>
+
+<document>
+<qid>58<\qid>
+<rank>59<\rank>
+<doc>CACM-2999<\doc>
+<snippet>
+Approach to Multidimensional <b>Data<\b> Array Processing <b>by<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>58<\qid>
+<rank>60<\rank>
+<doc>CACM-1393<\doc>
+<snippet>
+A System for Polynomial ManipulationPM is an 
+<\snippet>
+<\document>
+
+<document>
+<qid>58<\qid>
+<rank>61<\rank>
+<doc>CACM-1264<\doc>
+<snippet>
+<b>1401<\b> Operating System with Braille CapabilitiesBLNSYS is 
+<\snippet>
+<\document>
+
+<document>
+<qid>58<\qid>
+<rank>62<\rank>
+<doc>CACM-3010<\doc>
+<snippet>
+Orientation of Computer <b>Science<\b> StudentsTechnological and nontechnological 
+<\snippet>
+<\document>
+
+<document>
+<qid>58<\qid>
+<rank>63<\rank>
+<doc>CACM-1880<\doc>
+<snippet>
+Solution to an OverdeterminedLinear System <b>(Algorithm<\b> 328 
+<\snippet>
+<\document>
+
+<document>
+<qid>58<\qid>
+<rank>64<\rank>
+<doc>CACM-3087<\doc>
+<snippet>
+English Language Question Answering Systemfor <b>a<\b> Large 
+<\snippet>
+<\document>
+
+<document>
+<qid>58<\qid>
+<rank>65<\rank>
+<doc>CACM-0845<\doc>
+<snippet>
+Test <b>Matrix<\b> for Determinants and InversesCACM June, 
+<\snippet>
+<\document>
+
+<document>
+<qid>58<\qid>
+<rank>66<\rank>
+<doc>CACM-0884<\doc>
+<snippet>
+<b>Polynomial<\b> Least Squares Surface Fit (Algorithm 164)CACM 
+<\snippet>
+<\document>
+
+<document>
+<qid>58<\qid>
+<rank>67<\rank>
+<doc>CACM-2078<\doc>
+<snippet>
+for <b>Space<\b> PlanningProblems involving the arrangement of 
+<\snippet>
+<\document>
+
+<document>
+<qid>58<\qid>
+<rank>68<\rank>
+<doc>CACM-1864<\doc>
+<snippet>
+of Hilbert Derived Test Matrix <b>(Algorithm<\b> 274 
+<\snippet>
+<\document>
+
+<document>
+<qid>58<\qid>
+<rank>69<\rank>
+<doc>CACM-0944<\doc>
+<snippet>
+and Search Properties of a <b>Tree-Organized<\b> Memory 
+<\snippet>
+<\document>
+
+<document>
+<qid>58<\qid>
+<rank>70<\rank>
+<doc>CACM-2098<\doc>
+<snippet>
+<b>Probabilities<\b> (Algorithm 321);Student's t-Distribution (Algorithm 344)CACM February, 
+<\snippet>
+<\document>
+
+<document>
+<qid>58<\qid>
+<rank>71<\rank>
+<doc>CACM-0378<\doc>
+<snippet>
+Generalized Technique for SymbolManipulation and <b>Numerical<\b> Calculation 
+<\snippet>
+<\document>
+
+<document>
+<qid>58<\qid>
+<rank>72<\rank>
+<doc>CACM-0529<\doc>
+<snippet>
+and Coded Patterns in Data EditingCACM July, 
+<\snippet>
+<\document>
+
+<document>
+<qid>58<\qid>
+<rank>73<\rank>
+<doc>CACM-1977<\doc>
+<snippet>
+Interactive Display <b>for<\b> Approximation by Linear ProgrammingAn 
+<\snippet>
+<\document>
+
+<document>
+<qid>58<\qid>
+<rank>74<\rank>
+<doc>CACM-2490<\doc>
+<snippet>
+Graph Manipulation [H] (Algorithm A447)Efficient algorithms are presented for partitioninga 
+<\snippet>
+<\document>
+
+<document>
+<qid>58<\qid>
+<rank>75<\rank>
+<doc>CACM-1691<\doc>
+<snippet>
+Comparison of the <b>Correlational<\b> Behaviorof Random Number 
+<\snippet>
+<\document>
+
+<document>
+<qid>58<\qid>
+<rank>76<\rank>
+<doc>CACM-1195<\doc>
+<snippet>
+of Pittsburgh Linear File <b>Tandem<\b> <b>SystemA<\b> <b>series<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>58<\qid>
+<rank>77<\rank>
+<doc>CACM-2249<\doc>
+<snippet>
+Comparison of Multivariate Normal GeneratorsThree methods for 
+<\snippet>
+<\document>
+
+<document>
+<qid>58<\qid>
+<rank>78<\rank>
+<doc>CACM-2318<\doc>
+<snippet>
+Role <b>of<\b> Computer System Models in Performance 
+<\snippet>
+<\document>
+
+<document>
+<qid>58<\qid>
+<rank>79<\rank>
+<doc>CACM-1734<\doc>
+<snippet>
+Solution to <b>an<\b> OverdeterminedLinear System (Algorithm 328 
+<\snippet>
+<\document>
+
+<document>
+<qid>58<\qid>
+<rank>80<\rank>
+<doc>CACM-1755<\doc>
+<snippet>
+of the ACM Symposium on Operating <b>system<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>58<\qid>
+<rank>81<\rank>
+<doc>CACM-1171<\doc>
+<snippet>
+the number of iterationsbetween the algorithms is not only the 
+<\snippet>
+<\document>
+
+<document>
+<qid>58<\qid>
+<rank>82<\rank>
+<doc>CACM-1719<\doc>
+<snippet>
+Methodology <b>for<\b> Calculating andOptimizing Real-Time System PerformanceThe 
+<\snippet>
+<\document>
+
+<document>
+<qid>58<\qid>
+<rank>83<\rank>
+<doc>CACM-2930<\doc>
+<snippet>
+GRE <b>Advanced<\b> Test in Computer ScienceThis report 
+<\snippet>
+<\document>
+
+<document>
+<qid>58<\qid>
+<rank>84<\rank>
+<doc>CACM-3070<\doc>
+<snippet>
+Simulation Models of Computer SystemsThis paper describes 
+<\snippet>
+<\document>
+
+<document>
+<qid>58<\qid>
+<rank>85<\rank>
+<doc>CACM-0432<\doc>
+<snippet>
+Regression (Algorithm 142)CACM December, 1962Hafley, <b>W.<\b> L.Lewis, 
+<\snippet>
+<\document>
+
+<document>
+<qid>58<\qid>
+<rank>86<\rank>
+<doc>CACM-1586<\doc>
+<snippet>
+Generalized Bairstow <b>AlgorithmThe<\b> Bairstow algorithm is generalized 
+<\snippet>
+<\document>
+
+<document>
+<qid>58<\qid>
+<rank>87<\rank>
+<doc>CACM-3049<\doc>
+<snippet>
+Simply Extended and Modified <b>BatchEnvironment<\b> <b>Graphical<\b> <b>System<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>58<\qid>
+<rank>88<\rank>
+<doc>CACM-2188<\doc>
+<snippet>
+Approach to <b>the<\b> <b>Optimum<\b> <b>Design<\b> <b>of<\b> <b>Computer<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>58<\qid>
+<rank>89<\rank>
+<doc>CACM-2993<\doc>
+<snippet>
+of Cycling and Other PhenomenaArising in a 
+<\snippet>
+<\document>
+
+<document>
+<qid>58<\qid>
+<rank>90<\rank>
+<doc>CACM-1484<\doc>
+<snippet>
+Language for Describing the Functions of <b>Synchronous<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>58<\qid>
+<rank>91<\rank>
+<doc>CACM-1650<\doc>
+<snippet>
+Unifying Computational Method for theAnalysis of <b>Complete<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>58<\qid>
+<rank>92<\rank>
+<doc>CACM-0660<\doc>
+<snippet>
+Test Matrices for <b>Determinants<\b> and Inverses (Pracnique)CACM 
+<\snippet>
+<\document>
+
+<document>
+<qid>58<\qid>
+<rank>93<\rank>
+<doc>CACM-2849<\doc>
+<snippet>
+<b>Distributed<\b> Packet Switching for Local Computer NetworksEthernet 
+<\snippet>
+<\document>
+
+<document>
+<qid>58<\qid>
+<rank>94<\rank>
+<doc>CACM-1554<\doc>
+<snippet>
+Computer Technique for Displaying n-Dimensional HyperobjectsA digital 
+<\snippet>
+<\document>
+
+<document>
+<qid>58<\qid>
+<rank>95<\rank>
+<doc>CACM-0028<\doc>
+<snippet>
+<b>for<\b> Methods or ProgramsCACM April, 1958Corley, H. 
+<\snippet>
+<\document>
+
+<document>
+<qid>58<\qid>
+<rank>96<\rank>
+<doc>CACM-3059<\doc>
+<snippet>
+for Parallel Processing WIthin Programs:Application to CPU:I/O 
+<\snippet>
+<\document>
+
+<document>
+<qid>58<\qid>
+<rank>97<\rank>
+<doc>CACM-0356<\doc>
+<snippet>
+(Algorithm 45)CACM April, 1961Ingerman, P. Z.CA610412 <b>JB<\b> 
+<\snippet>
+<\document>
+
+<document>
+<qid>58<\qid>
+<rank>98<\rank>
+<doc>CACM-0740<\doc>
+<snippet>
+(Algorithm 45)CACM September, 1963Wright, C. <b>B.CA630918<\b> JB 
+<\snippet>
+<\document>
+
+<document>
+<qid>58<\qid>
+<rank>99<\rank>
+<doc>CACM-1619<\doc>
+<snippet>
+discussed computational error generatedby some algorithms <b>used<\b> to compute various 
+<\snippet>
+<\document>
+
+<document>
+<qid>58<\qid>
+<rank>100<\rank>
+<doc>CACM-1188<\doc>
+<snippet>
+ALGOL-like Computer Design <b>LanguageThe<\b> idea of constructing 
+<\snippet>
+<\document>
