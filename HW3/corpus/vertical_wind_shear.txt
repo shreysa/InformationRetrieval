@@ -1,0 +1,153 @@
+for other uses see  
+
+
+
+ uncinus ice crystal plumes showing high level wind shear with changes in wind speed and direction 
+
+wind shear  or windshear  sometimes referred to as  is a difference in   and or  over a relatively short distance in the  atmospheric wind shear is normally described as either vertical or horizontal wind shear vertical wind shear is a change in wind speed or direction with change in altitude horizontal wind shear is a change in wind speed with change in lateral position for a given altitude wind shear is a  phenomenon occurring over a very small distance but it can be associated with  or  weather features such as squall lines and cold fronts it is commonly observed near  and  caused by  fronts areas of locally higher low-level winds referred to as low level jets near  radiation inversions that occur due to clear skies and calm winds buildings wind turbines and sailboats wind shear has significant effects on control of an aircraft effect and it has been a sole or contributing cause of many aircraft accidents wind shear is sometimes experienced by pedestrians at ground level when walking across a plaza towards a tower block and suddenly encountering a strong wind stream that is flowing around the base of the tower sound movement through the atmosphere is affected by wind shear which can bend the wave front causing sounds to be heard where they normally would not or vice versa strong vertical wind shear within the  also inhibits  development but helps to organize individual thunderstorms into longer life cycles which can then produce  the  concept explains how differences in wind speed at different heights are dependent on horizontal temperature differences and explains the existence of the  
+
+
+
+down draft winds with associated  allow these  in the eastern sky at civil  to mimic  in the 
+
+
+
+
+
+contents
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+definition 
+wind shear refers to the variation of wind over either horizontal or vertical distances airplane pilots generally regard significant wind shear to be a horizontal change in airspeed of 30   15m s  for light aircraft and near 45   22m s  for airliners at flight altitude vertical speed changes greater than 4.9knots  2.5m s  also qualify as significant wind shear for aircraft low level wind shear can affect aircraft airspeed during take off and landing in disastrous ways and airliner pilots are trained to avoid all microburst wind shear  headwind loss in excess of 30 knots  the rationale for this additional caution includes   1  microburst intensity can double in a minute or less  2  the winds can shift to excessive cross wind  3  40-50 knots is the threshold for survivability at some stages of low-altitude operations and  4  several of the historical wind shear accidents involved 35-45 knot microbursts wind shear is also a key factor in the creation of severe thunderstorms the additional hazard of  is often associated with wind shear where and when it is strongly observed 
+see also  
+
+
+
+
+ schematic from nasa note the downward motion of the air until it hits ground level then spreads outward in all directions the wind regime in a microburst is completely opposite to a tornado 
+
+weather situations where shear is observed include 
+
+ significant shear is observed when the temperature difference across the front is 5c  9f  or more and the front moves at 30  or faster because fronts are three-dimensional phenomena frontal shear can be observed at any altitude between surface and  and therefore be seen both horizontally and vertically vertical wind shear above warm fronts is more of an aviation concern than near and behind cold fronts due to their greater duration upper-level jet streams associated with upper level jet streams is a phenomenon known as   cat  caused by vertical and horizontal wind shear connected to the wind gradient at the edge of the jet streams the cat is strongest on the anticyclonic shear side of the jet usually next to or just below the axis of the jet low-level jet streams when a nocturnal low-level jet forms overnight above the earth s surface ahead of a cold front significant low level vertical wind shear can develop near the lower portion of the low level jet this is also known as nonconvective wind shear since it is not due to nearby thunderstorms mountains when winds blow over a mountain vertical shear is observed on the  side if the flow is strong enough turbulent  known as  rotors  associated with  may form which are dangerous to ascending and descending aircraft  when on a clear and calm night a radiation inversion is formed near the ground the  does not affect wind above the top of the inversion layer the change in wind can be 90degrees in direction and 40kt in speed even a nocturnal  overnight  low level jet can sometimes be observed it tends to be strongest towards sunrise density differences cause additional problems to aviation  when an outflow boundary forms due to a shallow layer of rain-cooled air spreading out near ground level from the parent thunderstorm both speed and directional wind shear can result at the leading edge of the three dimensional boundary the stronger the  is the stronger the resultant vertical wind shear will become 
+horizontal component
+main article  
+weather fronts are boundaries between two masses of air of different  or different temperature and moisture properties which normally are  in the wind field and are the principal cause of significant weather within surface weather analyses they are depicted using various colored lines and symbols the air masses usually differ in  and may also differ in  wind shear in the horizontal occurs near these boundaries  feature narrow bands of  and  and may be preceded by  and  cold fronts are sharper surface boundaries with more significant horizontal wind shear than warm fronts when a front becomes  it can degenerate into a line which separates regions of differing wind speed known as a  though the wind direction across the front normally remains constant in the   move from east to west across the  and eastern  directional and speed shear can occur across the axis of stronger tropical waves as northerly winds precede the wave axis and southeast winds are seen behind the wave axis horizontal wind shear can also occur along local land breeze and  boundaries near coastlines 
+
+
+
+
+
+wind shear along the coast with low level clouds moving towards the east and higher level clouds moving towards the south-west
+
+
+the magnitude of winds offshore are nearly double the wind speed observed onshore this is attributed to the differences in friction between land masses and offshore waters sometimes there are even directional differences particularly if local sea breezes change the wind on shore during daylight hours vertical component
+main article  
+thermal wind is a meteorological term not referring to an actual  but a difference in the  between two   and  with   in essence wind shear it is only present in an atmosphere with horizontal changes in   or in an ocean with horizontal gradients of   i.e  in a  atmosphere where temperature is uniform the geostrophic wind is independent of height the name stems from the fact that this wind flows around areas of low  and high  temperature in the same manner as the  flows around areas of   and    the thermal wind equation is
+
+ 
+where the  are  fields with   is the  and  is the upward-pointing  in the  the thermal wind equation does not determine the wind in the  since  is small or zero such as near the equator the equation reduces to stating that  is small this equation basically describes the existence of the jet stream a westerly current of air with maximum wind speeds close to the  which is  even though other factors are also important  the result of the temperature contrast between equator and pole effects on tropical cyclones 
+
+
+
+
+strong wind shear in the high  forms the anvil-shaped top of this mature  cloud or thunderstorm 
+
+main article  
+ are basically  that are fueled by the  between the warm tropical ocean surface and the colder upper atmosphere tropical cyclone development requires relatively low values of vertical wind shear so that their warm core can remain above their surface circulation center thereby promoting intensification vertical wind shear tears up the  machinery  of the heat engine causing it to break down strongly sheared tropical cyclones weaken as the upper circulation is blown away from the low level center the vertical wind shear in a tropical cyclone s environment is very important when the wind shear is weak the storms that are part of the cyclone grow vertically and the  from  is released into the air directly above the storm aiding in development when there is stronger wind shear this means that the storms become more slanted and the latent heat release is dispersed over a much larger area 
+effects on thunderstorms and severe weather 
+main article  
+severe thunderstorms which can spawn  and hailstorms require wind shear to organize the storm in such a way as to maintain the  for a longer period of time this occurs as the storm s inflow becomes separated from its rain-cooled outflow an increasing nocturnal or overnight low level jet can increase the severe weather potential by increasing the vertical wind shear through the troposphere thunderstorms in an atmosphere with virtually no vertical wind shear weaken as soon as they send out an outflow boundary in all directions which then quickly cuts off its inflow of relatively warm moist air and kills the thunderstorm 
+planetary boundary layer 
+
+
+
+
+depiction of where the planetary boundary layer lies on a sunny day
+
+
+see also     and 
+the atmospheric effect of surface friction with winds aloft force surface winds to slow and back counterclockwise near the surface of the  blowing inward across isobars  lines of equal pressure  when compared to the winds in frictionless flow well above the earth s surface this layer where friction slows and changes the wind is known as the  sometimes the  and it is thickest during the day and thinnest at night daytime heating thickens the boundary layer as winds at the surface become increasingly mixed with winds aloft due to  or solar heating radiative cooling overnight further enhances wind decoupling between the winds at the surface and the winds above the boundary layer by calming the surface wind which increases wind shear these wind changes force wind shear between the boundary layer and the wind aloft and is most emphasized at night effects on flight 
+main articles   and 
+gliding 
+
+
+
+
+glider ground launch affected by wind shear 
+
+in gliding wind gradients just above the surface affect the takeoff and landing phases of flight of a  wind gradient can have a noticeable effect on  also known as winch launches or wire launches if the wind gradient is significant or sudden or both and the pilot maintains the same pitch attitude the indicated airspeed will increase possibly exceeding the maximum ground launch tow speed the pilot must adjust the airspeed to deal with the effect of the gradient when landing wind shear is also a hazard particularly when the winds are strong as the glider descends through the wind gradient on final approach to landing airspeed decreases while sink rate increases and there is insufficient time to accelerate prior to ground contact the pilot must anticipate the wind gradient and use a higher approach speed to compensate for it wind shear is also a hazard for aircraft making steep turns near the ground it is a particular problem for gliders which have a relatively long  which exposes them to a greater wind speed difference for a given  angle the different airspeed experienced by each wing tip can result in an aerodynamic stall on one wing causing a loss of control accident parachuting 
+wind shear or wind gradients are a threat to parachutists particularly to  and  skydivers have been pushed off of their course by sudden shifts in wind direction and speed and have collided with bridges cliffsides trees other skydivers the ground and other obstacles  skydivers routinely make adjustments to the position of their open canopies to compensate for changes in direction while making landings to prevent accidents such as canopy collisions and canopy inversion soaring 
+soaring related to wind shear also called  is a technique used by  like  who can maintain flight without wing flapping if the wind shear is of sufficient magnitude a bird can climb into the wind gradient trading ground speed for height while maintaining airspeed by then turning downwind and diving through the wind gradient they can also gain energy it has also been used by  on rare occasions wind shear can also create  this occurs when an  separates two layers with a marked difference in wind direction if the wind encounters distortions in the inversion layer caused by  coming up from below it will create significant shear waves that can be used for soaring impact on passenger aircraft 
+
+
+
+
+effect of wind shear on aircraft trajectory note how merely correcting for the initial gust front can have dire consequences 
+
+strong outflow from thunderstorms causes rapid changes in the three-dimensional wind velocity just above ground level initially this outflow causes a headwind that increases airspeed which normally causes a pilot to reduce engine power if they are unaware of the wind shear as the aircraft passes into the region of the downdraft the localized headwind diminishes reducing the aircraft s airspeed and increasing its sink rate then when the aircraft passes through the other side of the downdraft the headwind becomes a tailwind reducing lift generated by the wings and leaving the aircraft in a low-power low-speed descent this can lead to an accident if the aircraft is too low to effect a recovery before ground contact 
+
+
+
+wreckage of  tail section after a microburst slammed the aircraft into the ground another aircraft can be seen flying in the background past the crash scene 
+
+as the result of the accidents in the 1970s and 1980s most notably following the 1985 crash of  in 1988 the u.s  mandated that all commercial aircraft have  by 1993 between 1964 and 1985 wind shear directly caused or contributed to 26 major civil transport aircraft accidents in the u.s that led to 620 deaths and 200 injuries since 1995 the number of major civil aircraft accidents caused by wind shear has dropped to approximately one every ten years due to the mandated on-board detection as well as the addition of doppler  units on the ground    the installation of high-resolution  stations at many u.s airports that are commonly affected by wind shear has further aided the ability of pilots and ground controllers to avoid wind shear conditions sailing 
+wind shear affects  in motion by presenting a different wind speed and direction at different heights along the  the effect of low level wind shear can be factored into the selection of  in the sail design but this can be difficult to predict since wind shear may vary widely in different weather conditions  may also adjust the trim of the sail to account for low level wind shear for example using a  sound propagation 
+see also  
+wind shear can have a pronounced effect upon sound propagation in the lower atmosphere where waves can be  bent  by  phenomenon the audibility of sounds from distant sources such as  or  is very dependent on the amount of shear the result of these differing sound levels is key in  considerations for example from  and  and must be considered in the design of  this phenomenon was first applied to the field of  study in the 1960s contributing to the design of urban highways as well as  
+
+
+
+ plot of wind vectors at various heights in the troposphere meteorologists can use this plot to evaluate vertical wind shear in weather forecasting  source   
+
+
+the  varies with temperature since temperature and sound velocity normally decrease with increasing altitude sound is  upward away from listeners on the ground creating an  at some distance from the source in the 1862 during the   an acoustic shadow believed to have been enhanced by a northeast wind kept two divisions of union soldiers out of the battle because they could not hear the sounds of battle only six miles downwind effects on architecture 
+ is a field of  devoted to the analysis of  effects on the natural and  it includes strong winds which may cause discomfort as well as extreme winds such as   and storms which may cause widespread destruction wind engineering draws upon   and a number of specialist  disciplines the tools used include climate models atmospheric boundary layer wind tunnels and numerical models it involves among other topics how wind impacting buildings must be accounted for in engineering  are affected by wind shear vertical wind-speed profiles result in different wind speeds at the blades nearest to the ground level compared to those at the top of blade travel and this in turn affects the turbine operation this low level wind shear can create a large bending moment in the shaft of a two bladed turbine when the blades are vertical the reduced wind shear over water means shorter and less expensive wind turbine towers can be used in shallow seas see also
+
+
+  ^     publishing integrated     retrieved on 2007-12-15   nasa archived from  on 2007-10-09 retrieved 2007-10-09   bbc archived from  on january 18 2008 retrieved 2008-05-08  knox john a  1997   retrieved on 2015-01-13  clark t l hall w d kerr r m middleton d radke l ralph f m neiman p j levinson d  retrieved on 2008-05-08  national center for atmospheric research  retrieved on 2006-10-21    1985   the downburst microburst and macroburst  smrp research paper 210 122 pp  david m roth hydrometeorological prediction center  retrieved on 2006-10-22  franklin b schwing and jackson o blanton  retrieved on 2007-10-03 ^   james r holton  2004  an introduction to dynamic meteorology 
+ mcilveen j  1992  fundamentals of weather and climate london  chapman   hall p.339   university of illinois  retrieved 2006-10-21   university of illinois  university of illinois  retrieved on 2006-10-21    retrieved 2015-02-15   u.s government printing office washington d.c  u.s federal aviation administration 2003 pp.716 faa-8083-13 gfh ^   piggott derek  1997  gliding  a handbook on soaring flight knauff   grove pp.8586 130132   knauff thomas  1984  glider basics from first flight to solo thomas knauff   alexander r  2002  principles of animal locomotion princeton  princeton university press p.206   alerstam thomas  1990  bird migration cambridge  cambridge university press p.275   eckey bernard  2007  advanced soaring made easy eqip verbung   verlag gmbh   national aeronautics and space administration   june 1992   archived from  on march 29 2010 retrieved 2012-11-16   national weather service retrieved 4 august 2009  garrett ross  1996  the symmetry of sailing dobbs ferry  sheridan house pp.9799   foss rene n  june 1978   wa-rd 033.1 washington state department of transportation retrieved 2007-05-30     everest f  2001  the master handbook of acoustics new york  mcgraw-hill pp.262263   cornwall sir  1996  grant as military commander barnes   noble inc p.92   cozzens peter  2006  the darkest days of the war  the battles of iuka and corinth chapel hill  the university of north carolina press   professor john twidell  retrieved on 2007-11-25  heier siegfried  2005  grid integration of wind energy conversion systems chichester  john wiley   sons p.45   harrison robert  2001  large wind turbines chichester  john wiley   sons p.30   lubosny zbigniew  2003  wind turbine operation in electric power systems  advanced modeling berlin  springer p.17  
+
+external links 
+
+
+
+
+
+
+

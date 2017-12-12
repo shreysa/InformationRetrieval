@@ -1,0 +1,38 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+BeautifulSoup	../crawler.py	/^from bs4 import BeautifulSoup$/;"	kind:namespace	line:12
+Crawler	../crawler.py	/^class Crawler:$/;"	kind:class	line:15
+ROOT_URL	../crawler.py	/^ROOT_URL = '\/wiki\/Tropical_cyclone'$/;"	kind:variable	line:251
+URL_BASE	../crawler.py	/^URL_BASE = 'https:\/\/en.wikipedia.org'$/;"	kind:variable	line:250
+__init__	../crawler.py	/^    def __init__(self, base_url, root_url, urls_limit, depth_limit, delay, keyword=None):$/;"	kind:member	line:17
+add_element	../crawler.py	/^    def add_element(self, url, depth, index, container):$/;"	kind:member	line:61
+argparse	../crawler.py	/^import argparse$/;"	kind:namespace	line:9
+args	../crawler.py	/^    args = parser.parse_args()$/;"	kind:variable	line:260
+contains_keyword	../crawler.py	/^    def contains_keyword(self, url, url_text):$/;"	kind:member	line:96
+crawl_pages	../crawler.py	/^    def crawl_pages(self, url, depth, index):$/;"	kind:member	line:164
+crawler.py	../crawler.py	1;"	kind:file	line:1
+delay	../crawler.py	/^    delay = args.delay$/;"	kind:variable	line:265
+depth_limit	../crawler.py	/^    depth_limit = args.depth_limit$/;"	kind:variable	line:264
+get_links_in_page	../crawler.py	/^    def get_links_in_page(self, request_data, depth):$/;"	kind:member	line:141
+get_page	../crawler.py	/^    def get_page(self, url):$/;"	kind:member	line:44
+logging	../crawler.py	/^import logging$/;"	kind:namespace	line:8
+os	../crawler.py	/^import os$/;"	kind:namespace	line:3
+parse	../crawler.py	/^from urllib import parse$/;"	kind:namespace	line:11
+parser	../crawler.py	/^    parser = argparse.ArgumentParser(description="Crawl wikipedia starting at the provided root_url")$/;"	kind:variable	line:254
+process_links	../crawler.py	/^    def process_links(self, found_urls, depth):$/;"	kind:member	line:121
+process_url	../crawler.py	/^    def process_url(self, url):$/;"	kind:member	line:84
+re	../crawler.py	/^import re$/;"	kind:namespace	line:4
+requests	../crawler.py	/^import requests$/;"	kind:namespace	line:10
+root_url	../crawler.py	/^    root_url = args.root_url$/;"	kind:variable	line:262
+shutil	../crawler.py	/^import shutil$/;"	kind:namespace	line:7
+start	../crawler.py	/^    def start(self):$/;"	kind:member	line:222
+stem	../crawler.py	/^from stemming.porter2 import stem$/;"	kind:namespace	line:13
+sys	../crawler.py	/^import sys$/;"	kind:namespace	line:5
+time	../crawler.py	/^import time$/;"	kind:namespace	line:6
+url_limit	../crawler.py	/^    url_limit = args.url_limit$/;"	kind:variable	line:263
+write_page	../crawler.py	/^    def write_page(self, request_data, depth, index):$/;"	kind:member	line:214
+write_url_files	../crawler.py	/^    def write_url_files(self):$/;"	kind:member	line:203

@@ -1,0 +1,207 @@
+for reader help on isbns see  
+the international standard book number  isbn  is a unique numeric commercial book identifier an isbn is assigned to each edition and variation  except reprintings  of a book for example an  a  and a  edition of the same book would each have a different isbn the isbn is 13 digits long if assigned on or after 1 january 2007 and 10 digits long if assigned before 2007 the method of assigning an isbn is nation-based and varies from country to country often depending on how large the publishing industry is within a country the initial isbn configuration of recognition  was generated in 1967 based upon the 9-digit standard book numbering  sbn  created in 1966 the 10-digit isbn format was developed by the   iso  and was published in 1970 as international standard iso 2108  the sbn code can be converted to a ten digit isbn by prefixing it with a zero  a book can be printed without a printed isbn if it is printed privately or the author does not follow the usual isbn procedure  however this can be rectified later another identifier the   issn  identifies periodical publications such as   and the   ismn  covers for musical scores 
+
+
+contents
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+history
+the standard book numbering  sbn   is a 9-digit commercial   system created by  emeritus professor of statistics at  for the booksellers and stationers  and others in 1965 the isbn configuration of recognition was generated in 1967 in the united kingdom by david whitaker  regarded as the  father of the isbn  and in 1968 in the us by emery koltay  who later became director of the u.s isbn agency   the 10-digit isbn format was developed by the   iso  and was published in 1970 as international standard iso 2108 the united kingdom continued to use the 9-digit sbn code until 1974 iso has appointed the international isbn agency as the registration authority for isbn worldwide and the isbn standard is developed under the control of iso technical committee 46 subcommittee 9  the  on-line facility only refers back to 1978 an sbn may be converted to an isbn by prefixing the digit  0  for example the second edition of  published by hodder in 1965 has  sbn 340 01381 8   340 indicating the publisher 01381 their serial number and 8 being the check digit this can be converted to   the check digit does not need to be re-calculated since 1 january 2007 isbns have contained 13 digits a format that is compatible with   european article number13s overview
+an isbn is assigned to each edition and variation  except reprintings  of a book for example an ebook a paperback and a hardcover edition of the same book would each have a different isbn the isbn is 13 digits long if assigned on or after 1 january 2007 and 10 digits long if assigned before 2007 an international standard book number consists of 4 parts  if it is a 10 digit isbn  or 5 parts  for a 13 digit isbn 
+
+
+
+
+the parts of a 10-digit isbn and the corresponding ean13 and barcode note the different check digits in each the part of the ean13 labeled  ean  is the  country code 
+
+
+for a 13-digit isbn a prefix element  a  prefix  so far 978 or 979 have been made available by gs1 the registration group element  language-sharing country group individual country or territory  the registrant element the publication element and
+a  character or  
+a 13-digit isbn can be separated into its parts  prefix element registration group registrant publication and check digit  and when this is done it is customary to separate the parts with  or spaces separating the parts  registration group registrant publication and check digit  of a 10-digit isbn is also done with either hyphens or spaces figuring out how to correctly separate a given isbn is complicated because most of the parts do not use a fixed number of digits how isbns are issued
+isbn issuance is country-specific in that isbns are issued by the isbn registration agency that is responsible for that country or territory regardless of the publication language the ranges of isbns assigned to any particular country are based on the publishing profile of the country concerned and so the ranges will vary depending on the number of books and the number type and size of publishers that are active some isbn registration agencies are based in national libraries or within ministries of culture and thus may receive direct funding from government to support their services in other cases the isbn registration service is provided by organisations such as bibliographic data providers that are not government funded in canada isbns are issued at no cost with the stated purpose of encouraging canadian culture in the united kingdom united states and some other countries where the service is provided by non-government-funded organisations the issuing of isbns requires payment of a fee australia  isbns are issued by the commercial library services agency thorpe-bowker and prices range from  42 for a single isbn  plus a  55 registration fee for new publishers  to  2,890 for a block of 1,000 isbns access is immediate when requested via their website brazil   a government agency is responsible for issuing isbns and there is a cost of r 16 
+canada   a government agency is responsible for issuing isbns and there is no cost works in french are issued an isbn by the  colombia   a ngo is responsible for issuing isbns cost of issuing an isbn is about usd 20 hong kong  the books registration office  bro  under the hong kong public libraries issues isbns in hong kong there is no fee india  the raja rammohun roy national agency for isbn  book promotion and copyright division  under department of higher education a constituent of the  is responsible for registration of indian publishers authors universities institutions and government departments that are responsible for publishing books there is no fee associated in getting isbn in india italy  the privately held company ediser srl owned by associazione italiana editori  italian publishers association  is responsible for issuing isbns the original national prefix 978-88 is reserved for publishing companies starting at 49 for a ten-codes block while a new prefix 979-12 is dedicated to self-publishing authors at a fixed price of 25 for a single code maldives  the  is responsible for isbn registrations for publishers who are publishing in the maldives 
+malta  the national book council   il-kunsill nazzjonali tal-ktieb  issues isbn registrations in  morocco  the national library of morocco is responsible for isbn registrations for publishing in  and  new zealand  the  is responsible for isbn registrations for publishers who are publishing in new zealand pakistan  the  is responsible for isbn registrations for pakistani publishers authors universities institutions and government departments that are responsible for publishing books south africa  the  is responsible for isbn issuance for south african publishing institutions and authors united kingdom and republic of ireland  the privately held company nielsen book services ltd part of  n.v is responsible for issuing isbns in blocks of 10 100 or 1000 prices start from 120  plus   for the smallest block on a standard turnaround of ten days united states  in the united states the privately held company  issues isbns there is a charge that varies depending upon the number of isbns purchased with prices starting at  125 for a single number access is immediate when requested via their website publishers and authors in other countries obtain isbns from their respective national isbn registration agency a directory of isbn agencies is available on the  website registration group identifier
+ the  is a 1 to 5-digit number that is valid within a single prefix element  i.e one of 978 or 979  registration group identifiers have primarily been allocated within the 978 prefix element the single-digit group identifiers within the 978 prefix element are  0 or 1 for english-speaking countries  2 for french-speaking countries  3 for german-speaking countries  4 for japan  5 for russian-speaking countries  and 7 for people s republic of china an example 5-digit group identifier is 99936 for  the allocated group ids are  05 600621 7 8094 950989 99269989 and 9990199976 books published in rare languages typically have longer group identifiers within the 979 prefix element the registration group identifier 0 is reserved for compatibility with   ismns  but such material is not actually assigned an isbn the registration group identifiers within prefix element 979 that have been assigned are 10 for france 11 for the republic of korea and 12 for italy the original 9-digit standard book number  sbn  had no registration group identifier but prefixing a zero  0  to a 9-digit sbn creates a valid 10-digit isbn registrant element
+the national isbn agency assigns the registrant element     and an accompanying series of isbns within that registrant element to the publisher  the publisher then allocates one of the isbns to each of its books in most countries a book publisher is not required by law to assign an isbn  however most bookstores only handle isbn bearing publications 
+a listing of more than 900,000 assigned publisher codes is published and can be ordered in book form  1399 1959  the web site of the isbn agency does not offer any free method of looking up publisher codes partial lists have been compiled  from library catalogs  for the english-language groups   and  publishers receive blocks of isbns with larger blocks allotted to publishers expecting to need them  a small publisher may receive isbns of one or more digits for the registration group identifier several digits for the registrant and a single digit for the publication element once that block of isbns is used the publisher may receive another block of isbns with a different registrant element consequently a publisher may have different allotted registrant elements there also may be more than one registration group identifier used in a country this might occur once all the registrant elements from a particular registration group have been allocated to publishers by using variable block lengths registration agencies are able to customise the allocations of isbns that they make to publishers for example a large publisher may be given a block of isbns where fewer digits are allocated for the registrant element and many digits are allocated for the publication element  likewise countries publishing many titles have few allocated digits for the registration group identifier and many for the registrant and publication elements here are some sample isbn-10 codes illustrating block length variations 
+pattern for english language isbns
+english-language registration group elements are 0 and 1  2 of more than 220 registration group elements  these two registration group elements are divided into registrant elements in a systematic pattern which allows their length to be determined as follows 
+
+check digits
+a  is a form of redundancy check used for  the decimal equivalent of a binary  it consists of a single digit computed from the other digits in the number the method for the ten digit code is an extension of that for sbns the two systems are compatible and sbn prefixed with  0  will give the same check-digit as without  the digit is base eleven and can be 0-9 or x the system for thirteen digit codes is not compatible and will in general give a different check digit from the corresponding 10 digit isbn and does not provide the same protection against transposition this is because the thirteen digit code was required to be compatible with the ean format and hence could not contain an  x  isbn-10 check digits
+the 2001 edition of the official manual of the  says that the isbn-10   which is the last digit of the ten-digit isbn  must range from 0 to 10  the symbol x is used for 10  and must be such that the sum of all the ten digits each multiplied by its  integer  weight descending from 10 to 1 is a multiple of  for example for an isbn-10 of 0-306-40615-2 
+
+
+
+formally using  we can say 
+
+
+
+it is also true for isbn-10 s that the sum of all the ten digits each multiplied by its weight in ascending order from 1 to 10 is a multiple of 11 for this example 
+
+
+
+formally we can say 
+
+
+
+the two most common errors in handling an isbn  e.g typing or writing it  are a single altered digit or the transposition of adjacent digits it can be  that all possible valid isbn-10 s have at least two digits different from each other it can also be proved that there are no pairs of valid isbn-10 s with eight identical digits and two transposed digits  these are true only because the isbn is less than 11 digits long and because 11 is a   the isbn check digit method therefore ensures that it will always be possible to detect these two most common types of error i.e if either of these types of error has occurred the result will never be a valid isbn the sum of the digits multiplied by their weights will never be a multiple of 11 however if the error occurs in the publishing house and goes undetected the book will be issued with an invalid isbn in contrast it is possible for other types of error such as two altered non-transposed digits or three altered digits to result in a valid isbn  although it is still unlikely  isbn-10 check digit calculation
+each of the first nine digits of the ten-digit isbnexcluding the check digit itselfis multiplied by its  integer  weight descending from 10 to 2 and the sum of these nine products found the value of the check digit is simply the one number between 0 and 10 which when added to this sum means the total is a multiple of 11 for example the check digit for an isbn-10 of 0-306-40615  is calculated as follows 
+
+
+
+adding 2 to 130 gives a multiple of 11  132   12 x 11   this is the only number between 0 and 10 which does so therefore the check digit has to be 2 and the complete sequence is isbn 0-306-40615-2 the value  required to satisfy this condition might be 10  if so an  x  should be used alternatively  is convenient for calculating the check digit using modulus 11 the  of this sum when it is divided by 11  i.e its value modulo 11  is computed this remainder plus the check digit must equal either 0 or 11 therefore the check digit is  11 minus the remainder of the sum of the products modulo 11  modulo 11 taking the remainder modulo 11 a second time accounts for the possibility that the first remainder is 0 without the second modulo operation the calculation could end up with 11  0   11 which is invalid  strictly speaking the first  modulo 11  is unneeded but it may be considered to simplify the calculation 
+for example the check digit for the isbn-10 of 0-306-40615  is calculated as follows 
+
+
+
+thus the check digit is 2 it is possible to avoid the multiplications in a software implementation by using two accumulators repeatedly adding t into s computes the necessary multiples 
+
+
+  returns isbn error syndrome zero for a valid isbn non-zero for an invalid one   digits must be between 0 and 10 int checkisbn int const digits 
+ 
+        int i s   0 t   0 
+
+        for  i   0  i   10  i   
+                t   digits 
+                s   t 
+         
+        return s  11 
+ 
+
+the modular reduction can be done once at the end as shown above  in which case s could hold a value as large as 496 for the invalid isbn 99999-999-9-x  or s and t could be reduced by a conditional subtract after each addition isbn-13 check digit calculation
+the 2005 edition of the international isbn agency s official manual describes how the 13-digit isbn  is calculated the isbn-13 check digit which is the last digit of the isbn must range from 0 to 9 and must be such that the sum of all the thirteen digits each multiplied by its  integer  weight alternating between 1 and 3 is a multiple of  formally using  we can say 
+
+
+
+the calculation of an isbn-13 check digit begins with the first 12 digits of the thirteen-digit isbn  thus excluding the check digit itself  each digit from left to right is alternately multiplied by 1 or 3 then those products are summed  10 to give a value ranging from 0 to 9 subtracted from 10 that leaves a result from 1 to 10 a zero  0  replaces a ten  10  so in all cases a single check digit results for example the isbn-13 check digit of 978-0-306-40615  is calculated as follows 
+
+s   91   73   81   03   31   03   61   43   01   63   11   53
+      9    21     8     0     3     0     6    12     0    18     1    15
+    93
+93   10   9 remainder 3
+10   3   7
+
+thus the check digit is 7 and the complete sequence is isbn 978-0-306-40615-7 in general the isbn-13 check digit is calculated as follows let
+
+
+
+then
+
+
+
+this check system similar to the  check digit formula does not catch all errors of adjacent digit transposition specifically if the difference between two adjacent digits is 5 the check digit will not catch their transposition for instance the above example allows this situation with the 6 followed by a 1 the correct order contributes 36 11   19 to the sum  while if the digits are transposed  1 followed by a 6  the contribution of those two digits will be 31 16   9 however 19 and 9 are congruent modulo 10 and so produce the same final result  both isbns will have a check digit of 7 the isbn-10 formula uses the  modulus 11 which avoids this blind spot but requires more than the digits 0-9 to express the check digit additionally if the sum of the 2nd 4th 6th 8th 10th and 12th digits is tripled then added to the remaining digits  1st 3rd 5th 7th 9th 11th and 13th  the total will always be divisible by 10  i.e end in 0  isbn-10 to isbn-13 conversion
+the conversion is quite simple as one only needs to prefix  978  to the existing number and calculate the new checksum using the isbn-13 algorithm errors in usage
+publishers and  have varied policies about the use of the isbn check digit publishers sometimes fail to check the correspondence of a book title and its isbn before publishing it  that failure causes book identification problems for libraries booksellers and readers for example  is shared by two books  ninja gaiden  a novel based on the best-selling game by tecmo  1990  and wacky laws  1997  both published by  most libraries and booksellers display the book record for an invalid isbn issued by the publisher the  catalogue contains books published with invalid isbns which it usually tags with the phrase  cancelled isbn  however book-ordering systems such as  will not search for a book if an invalid isbn is entered to its search engine   often indexes by invalid isbns if the book is indexed in that way by a member library eisbn
+only the term  isbn  should be used  the terms  eisbn  and  e-isbn  have historically been sources of confusion and should be avoided if a book exists in one or more digital   formats each of those formats must have its own isbn in other words each of the three separate   and  formats of a particular book will have its own specific isbn they should not share the isbn of the paper version and there is no generic  eisbn  which encompasses all the e-book formats for a title ean format used in barcodes and upgrading
+currently the  on a book s back cover  or inside a mass-market  book s front cover  are   they may have a separate barcode encoding five digits for the  and the  for 10 digit isbns the number  978  the   country code  is prefixed to the isbn in the barcode data and the check digit is recalculated according to the ean13 formula  modulo 10 1x and 3x weighting on alternate digits  partly because of an expected shortage in certain isbn categories the   iso  decided to migrate to a thirteen-digit isbn  isbn-13  the process began 1 january 2005 and was planned to conclude 1 january 2007 as of 2011 all the 13-digit isbns began with 978 as the 978 isbn supply is exhausted the 979 prefix was introduced part of the 979 prefix is reserved for use with the  code for  with an  10 digit ismn codes differed visually as they began with an  m  letter  the bar code represents the  m  as a zero  0  and for checksum purposes it counted as a 3 all ismns are now 13 digits commencing 979-0  979-1 to 979-9 will be used by isbn publisher identification code numbers are unlikely to be the same in the 978 and 979 isbns likewise there is no guarantee that language area code numbers will be the same moreover the ten-digit isbn check digit generally is not the same as the thirteen-digit isbn check digit because the gtin-13 is part of the   gtin  system  that includes the gtin-14 the gtin-12 and the gtin-8  the 13-digit isbn falls within the 14-digit data field range barcode format compatibility is maintained because  aside from the group breaks  the isbn-13 barcode format is identical to the ean barcode format of existing 10-digit isbns so migration to an ean-based system allows booksellers the use of a single numbering system for both books and non-book products that is compatible with existing isbn based data with only minimal changes to  systems hence many   e.g   migrated to ean barcodes as early as march 2005 although many american and canadian booksellers were able to read ean-13 barcodes before 2005 most general retailers could not read them the upgrading of the   to full ean-13 in 2005 eased migration to the isbn-13 in north america see also
+
+  amazon standard identification number 
+  serial publication identifier currently used by libraries  replaced by the issn for new works 
+  digital object identifier 
+  english short title catalogue 
+  electronic textbook track number 
+  international standard audiovisual number 
+  international standard music number 
+  international standard musical work code 
+  international standard recording code 
+  international standard serial number 
+  international standard text code 
+  international standard wine number 
+  library of congress control number 
+
+
+ number  online computer library center number 
+
+  book item and component identifier 
+  serial item and contribution identifier 
+ wikipedia s isbn search page
+  verzeichnis der im deutschen sprachbereich erschienenen drucke des 16 jahrhunderts in english  bibliography of books printed in the german speaking countries of the sixteenth century 
+  verzeichnis der im deutschen sprachraum erschienenen drucke des 17 jahrhunderts in english  bibliography of books printed in the german speaking countries of the seventeenth century 
+
+notes
+
+
+
+ occasionally publishers erroneously assign an isbn to more than one titlethe first edition of  and the ultimate alphabet workbook have the same isbn 0-8050-0076-3 conversely books are published with several isbns  a german second-language edition of  has the isbns 87-23-90157-8  denmark  0-8219-1069-8  united states  91-21-15628-x  sweden  0-85048-548-7  united kingdom  and 3-12-675495-3  germany   in some cases books sold only as sets share isbns for example the  used only two isbns for 44 books 
+
+
+references
+
+
+ bradley philip  1992    pdf  245kb  the indexer 18  1  2526  foster gordon  1966   informaticsdevelopmentinstitute.net archived from  on 30 april 2011 retrieved 20 april 2014 ^    isbn.org 20 april 2014  from the original on 20 april 2014 retrieved 20 april 2014 ^       pdf   in maltese   6th ed    kunsill nazzjonali tal-ktieb 2016 p.5  archived from   pdf  on 17 august 2016 ^     pdf  8  3  iso july 1996 p.12
+ us isbn agency  commerce.bowker.com retrieved 2015-06-11  gregory daniel  printrs retrieved 2015-06-11    pdf  iso
+ tc 46 sc 9  ca  lacbac
+   pdf  548kb 
+^      international isbn agency  2012    pdf  isbn-international.org  sixth international ed  pp.7 23    pdf  from the original on 29 april 2014 retrieved 29 april 2014  some books have several codes in the first block  e.g a m yaglom s correlation theory published by  has two isbns 0-387-96331-6 and 3-540-96331-6 though springer s 387 and 540 codes are different for english  0  and german  3  the same item number 96331 produces the same check digit  6 springer uses 431 as their publisher code for japanese  4  and 4-431-96331  would also have check digit    6 other springer books in english have publisher code 817 and 0-817-96331  would also get check digit    6 this suggests special considerations were made for assigning springer s publisher codes as random assignments of different publisher codes would not lead the same item number to get the same check digit every time finding publisher codes for english and german say with this effect amounts to solving a linear equation in modular arithmetic  the international isbn agency s isbn user s manual says   the ten-digit number is divided into four parts of variable length which must be separated clearly by hyphens or spaces  although omission of separators is permitted for internal data processing if present hyphens must be correctly placed  see  the actual definition for hyphenation contains more than 220 different registration group elements with each one broken down into a few to several ranges for the length of the registrant element  more than 1,000 total  the document defining the ranges listed by agency is 29 pages  canada library and archives  www.bac-lac.gc.ca retrieved 2016-01-19     thorpe-bowker 5 jan 2009 retrieved 29 march 2012   biblioteca nacional government of brazil retrieved 8 september 2015   hong kong public libraries retrieved 12 january 2017         in italian  ediser srl retrieved 3 january 2015     in italian  ediser srl retrieved 3 january 2015   kunsill nazzjonali tal-ktieb 2016 archived from  on 23 october 2016    pdf   in maltese   6th ed    kunsill nazzjonali tal-ktieb 2016 pp.140  archived from   pdf  on 17 august 2016    pdf  government gazette 23 january 2015 p.582 archived from   pdf  on 23 november 2016   national library of new zealand new zealand government retrieved 19 january 2016   nielsen uk isbn agency retrieved 2 january 2015   rr bowker 8 march 2013 retrieved 8 march 2013   isbn-international.org 29 april 2014 select the format you desire and click on the generate button  from the original on 29 april 2014 retrieved 29 april 2014  see  isbn.org sometimes calls them group numbers their table of identifiers now refers to isbn prefix ranges which must be assumed to be group identifier ranges  hailman jack parker  2008  coding and redundancy  man-made and animal-evolved signals harvard university press p.209   international isbn agency  5 december 2014    pdf  isbn-international.org p.29 retrieved 15 december 2014  see 
+ splane lily  2002  the book book  a complete guide to creating a book on your computer anaphase ii publishing p.37    isbn-international.org international isbn agency 15 september 2014 retrieved 15 september 2014   isbn.org archived from  on 22 may 2013 retrieved 2013-05-27  for example i saka  a sketch grammar of a language of north-central new guinea pacific linguistics isbn  0-85883-554-4     pdf  archived from   pdf  on 29 april 2014 284kb 
+ lorimer rowland  shoichet jillian  maxwell john w  2005  book publishing i ccsp press p.299    library of congress   publishing services for self publishing authors and businesses 2013-06-28 retrieved 2017-01-16     isbn 12 march 2014  including a detailed description of the ean-13 format   iso tc49sc9  faq    collections
+  standards isbn
+  xisbn.worldcat.org retrieved 2013-05-27 
+
+external links
+
+
+
+find more aboutinternational standard book numberat wikipedia s 
+
+ from wiktionary
+ from commons
+ from wikidata
+ from mediawiki
+
+
+
+
+coordinates and supervises the worldwide use of the isbn system
+
+list of language region prefixes
+ from the  also shows correct hyphenation   verifies if isbns are valid or not 
+
+  pdf 51.0kb  for the 13-digit isbn code
+ at 
+ r r bowker llc using international standard book numbers as   urn 
+
+
+
+
+
+
+
+
+
+
+
+
+
+

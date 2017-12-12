@@ -1,0 +1,139 @@
+
+
+
+
+ a united states weather satellite of the 
+
+
+the weather satellite is a type of  that is primarily used to monitor the  and  of the  satellites can be  covering the entire earth asynchronously or  hovering over the same spot on the  meteorological  see more than clouds and  city lights fires effects of pollution  sand and  snow cover ice mapping boundaries of  energy flows etc other types of environmental information are collected using weather satellites weather satellite images helped in monitoring the volcanic ash cloud from  and activity from other volcanoes such as  smoke from  in the western united states such as  and  have also been monitored other  can detect changes in the earth s vegetation  ocean color and ice fields for example the 2002  off the northwest coast of spain was watched carefully by the european  which though not a weather satellite flies an instrument  asar  which can see changes in the sea surface  and its effects on weather are monitored daily from satellite images the antarctic  is mapped from weather satellite data collectively weather satellites flown by the u.s europe india china russia and japan provide nearly continuous observations for a global weather watch 
+
+
+contents
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+history 
+
+
+
+
+the first television image of earth from space from the tiros-1 weather satellite in 1960
+
+
+
+
+
+
+a mosaic of photographs of the  from the  weather satellite taken on june 26 1969
+
+
+as early as 1946 the idea of cameras in orbit to observe the weather was being developed this was due to sparse data observation coverage and the expense of using cloud cameras on rockets by 1958 the early prototypes for tiros and vanguard  developed by the army signal corps  were created the first weather satellite  was launched on february17 1959 it was designed to measure cloud cover and resistance but a poor axis of rotation and its elliptical orbit kept it from collecting a notable amount of useful data the explorer vi and vii satellites also contained weather-related experiments the first weather satellite to be considered a success was  launched by nasa on april1 1960 tiros operated for 78days and proved to be much more successful than vanguard2 tiros paved the way for the  whose technology and findings are the heritage of most of the earth-observing satellites nasa and noaa have launched since then beginning with the nimbus3 satellite in 1969 temperature information through the  column began to be retrieved by satellites from the eastern atlantic and most of the pacific ocean which led to significant improvements to  the essa and noaa polar orbiting satellites followed suit from the late 1960s onward geostationary satellites followed beginning with the ats and sms series in the late1960s and early1970s then continuing with the goes series from the 1970s onward polar orbiting satellites such as  and  began to relay wind information near the ocean s surface starting in the late1970s with microwave imagery which resembled radar displays which significantly improved the diagnoses of  strength intensification and location during the 2000s and 2010s observation 
+observation is typically made via different  channels  of the  in particular the  and  portions some of these channels include 
+
+visible and near infrared  0.61.6m for recording cloud cover during the day
+infrared  3.97.3m  water vapor  8.713.4m  thermal imaging 
+
+visible spectrum 
+visible-light images from weather satellites during local daylight hours are easy to interpret even by the average person  clouds cloud systems such as fronts and tropical storms lakes forests mountains snow ice fires and pollution such as smoke smog dust and haze are readily apparent even wind can be determined by cloud patterns alignments and movement from successive photos infrared spectrum 
+the  or infrared images recorded by sensors called scanning  enable a trained analyst to determine cloud heights and types to calculate land and surface water temperatures and to locate ocean surface features  satellite imagery can be used effectively for  with a visible  pattern using the  where the difference between the temperature of the warm eye and the surrounding cold cloud tops can be used to determine its intensity  colder cloud tops generally indicate a more intense storm  infrared pictures depict ocean eddies or vortices and map currents such as the gulf stream which are valuable to the shipping industry  and farmers are interested in knowing land and water temperatures to protect their crops against frost or increase their catch from the sea even el nio phenomena can be spotted using color-digitized techniques the gray shaded  can be converted to color for easier identification of desired information types 
+
+
+
+
+the geostationary  satellites first true-color composite png image
+
+
+each meteorological satellite is designed to use one of two different classes of orbit   and  geostationary 
+ geostationary meteorological satellite  redirects here for the japanese satellites called  geostationary meteorological satellite  see  geostationary weather satellites orbit the earth above the  at altitudes of 35,880km  22,300 miles  because of this  they remain stationary with respect to the rotating earth and thus can record or transmit images of the entire hemisphere below continuously with their visible-light and infrared sensors the news media use the geostationary photos in their daily weather presentation as single images or made into movie loops these are also available on the city forecast pages of www.noaa.gov  example dallas tx  several geostationary meteorological spacecraft are in operation the united states has three in operation 12 goes-13 and goes-15 goes-12 previously designated goes-east and now used for south america is located at 60 degrees west goes-13 took over the role of goes-east on april 14 2010 and is located at 75 degrees west goes-11 was goes-west over the eastern pacific ocean until it was decommissioned december 2011 and replaced by goes-15  s new-generation weather satellite   operates at 76e over the indian ocean the japanese have the2 located over the mid pacific at 145e and the  at 140e the europeans have four in operation8  3.5w  and meteosat-9  0  over the atlantic ocean and have meteosat-6  63e  and meteosat-7  57.5e  over the indian ocean china currently has three    geostationary satellites  fy-2e at 86.5e fy-2f at 123.5e and fy-2g at 105e  operated  also operates geostationary satellites called  which carry instruments for meteorological purposes polar orbiting 
+
+
+
+
+computer-controlled motorized parabolic dish antenna for tracking  weather satellites 
+
+polar orbiting weather satellites circle the earth at a typical altitude of 850km  530 miles  in a north to south  or vice versa  path passing over the poles in their continuous flight polar orbiting weather satellites are in  which means they are able to observe any place on earth and will view every location twice each day with the same general lighting conditions due to the near-constant local  polar orbiting weather satellites offer a much better resolution than their geostationary counterparts due their closeness to the earth the united states has the  series of polar orbiting meteorological satellites presently noaa 17 and noaa 18 as primary spacecraft noaa 15 and noaa 16 as secondary spacecraft noaa 14 in standby and noaa 12 europe has thea andb satellites operated by  russia has the  and resurs series of satellites china has3a 3b and 3c india has polar orbiting satellites as well dmsp 
+
+
+
+
+ for reception of 137 mhz  weather satellite transmissions
+
+
+the  s meteorological satellite   can  see  the best of all weather vehicles with its ability to detect objects almost as  small  as a huge  in addition of all the weather satellites in orbit only dmsp can  see  at night in the visual some of the most spectacular photos have been recorded by the night visual sensor  city lights  fires lightning  oil field burn-offs as well as the  and  have been captured by this 450-mile-high space vehicle s low moonlight sensor at the same time energy use and city growth can be monitored since both major and even minor cities as well as highway lights are conspicuous this informs  of  the  was captured by one of the night orbiter dmsp space vehicles in addition to monitoring city lights these photos are a life saving asset in the detection and monitoring of fires not only do the satellites see the fires visually day and night but the thermal and  scanners on board these weather satellites detect potential fire sources below the surface of the earth where smoldering occurs once the fire is detected the same weather satellites provide vital information about wind that could fan or spread the fires these same cloud photos from space tell the  when it will rain some of the most dramatic photos showed the 600  that the fleeing  started on february 23 1991 the night photos showed huge flashes far outstripping the glow of large populated areas the fires consumed millions of gallons of oil  the last was doused on november 6 1991 uses 
+snowfield monitoring especially in the  can be helpful to the hydrologist keeping track of available  for runoff vital to the  of the western united states this information is gleaned from existing satellites of all agencies of the u.s government  in addition to local on-the-ground measurements  ice floes packs and bergs can also be located and tracked from weather space craft even pollution whether it is nature-made or man-made can be pinpointed the visual and infrared photos show effects of pollution from their respective areas over the entire earth aircraft and  pollution as well as  can also be spotted the ocean current and low level wind information gleaned from the space photos can help predict oceanic oil spill coverage and movement almost every summer sand and dust from the  in africa drifts across the equatorial regions of the atlantic ocean goes-east photos enable meteorologists to observe track and forecast this sand cloud in addition to reducing visibilities and causing respiratory problems sand clouds suppress  formation by modifying the  balance of the tropics other  in asia and  are common and easy to spot and monitor with recent examples of dust moving across the pacific ocean and reaching north america in remote areas of the world with few local observers fires could rage out of control for days or even weeks and consume millions of acres before authorities are alerted weather satellites can be a tremendous asset in such situations nighttime photos also show the burn-off in gas and oil fields atmospheric temperature and moisture profiles have been taken by weather satellites since 1969 see also
+
+
+   retrieved on july 4 2008    retrieved on july 4 2008 ^   janice hill  1991  weather from above  america s meteorological satellites smithsonian institution pp.47    nasa archived from  on 2008-05-09   u.s launches camera weather satellite    and  april 1 1960 pp.1a 4a  national environmental satellite center  january 1970   sirs and the improved marine weather forecast   environmental science services administration 14  1  1215    pdf 
+ 
+ a f hasler k palaniappan c kambhammetu p black e uhlhorn and d chesters  retrieved on 2008-07-04    retrieved on january 3 2009  service us department of commerce noaa national weather    noaa satellite and information service archived from  on september 29 2006 retrieved december 13 2010   noaa satellite and information service archived from  on january 13 2011 retrieved february 15 2012   noaa satellite and information service archived from  on april 15 2012 retrieved february 15 2012    national satellite meteorological center of cma  in chinese  archived from  on august 28 2015  ann k cook  july 1969    pdf  essa world environmental satellite services administration  2831 retrieved 2012-04-21 
+
+external links 
+
+
+theory
+
+
+ralph e taggard  1994  weather satellite handbook  5th edition  newington ct    
+
+
+
+
+
+
+
+
+
+
+
+
+data
+
+
+ by intellicast
+ online geostationary weather satellite viewer with 2 months of archived data  by nasa
+
+ near real-time and archived satellite imagery and cloud products isccp global isccp b1 browse system  gibbs  
+
+
+government policy
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+

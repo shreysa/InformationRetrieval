@@ -1,0 +1,87 @@
+
+
+
+
+hurricane qpf
+
+
+
+tropical cyclone rainfall forecasting involves using scientific models and other tools to predict the precipitation expected in  such as hurricanes and typhoons knowledge of  is helpful in the determination of a tropical cyclone rainfall forecast more rainfall falls in advance of the center of the cyclone than in its wake the heaviest rainfall falls within its  and  slow moving tropical cyclones like  and  can lead to the highest rainfall amounts due to prolonged heavy rains over a specific location however vertical  leads to decreased rainfall amounts as rainfall is favored downshear and slightly left of the center and the upshear side is left devoid of rainfall the presence of hills or mountains near the coast as is the case across much of   the  much of     and  act to magnify amounts on their windward side due to forced ascent causing heavy rainfall in the mountains a strong system moving through the mid latitudes such as a  can lead to high amounts from tropical systems occurring well in advance of its center movement of a tropical cyclone over cool water will also limit its rainfall potential a combination of factors can lead to exceptionally high rainfall amounts as was seen during  in  use of forecast models can help determine the magnitude and pattern of the rainfall expected  and persistence models such as r-cliper can create a baseline for tropical cyclone rainfall  simplified forecast models such as the kraft technique and the eight and sixteen-inch rules can create quick and simple rainfall forecasts but come with a variety of assumptions which may not be true such as assuming average forward motion average storm size and a knowledge of the rainfall observing network the tropical cyclone is moving towards the forecast method of trap assumes that the rainfall structure the tropical cyclone currently has changes little over the next 24hours the global forecast model which shows the most skill in forecasting tropical cyclone-related rainfall in the  is the ecmwf ifs  integrated forecasting system    
+
+
+contents
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+rainfall distribution around a tropical cyclone 
+see also  
+
+
+the relative sizes of   and the united states 
+
+a larger proportion of rainfall falls in advance of the center  or   than after the center s passage with the highest percentage falling in the right-front  a tropical cyclone s highest rainfall rates can lie in the right rear quadrant within a training  non-moving  inflow band rainfall is found to be strongest in their inner core within a degree of  of the center with lesser amounts farther away from the center most of the rainfall in hurricanes is concentrated within its radius of  larger tropical cyclones have larger rain shields which can lead to higher rainfall amounts farther from the cyclone s center storms which have moved slowly or loop lead to the highest rainfall amounts riehl calculated that 33.97 inches  863mm  of rainfall per day can be expected within one-half degree or 35 miles  56km  of the center of a mature tropical cyclone many tropical cyclones progress at a forward motion of 10knots which would limit the duration of this excessive rainfall to around one-quarter of a day which would yield about 8.50 inches  216mm  of rainfall this would be true over water within 100 miles  160km  of the coastline and outside topographic features as a cyclone moves farther inland and is cut off from its supply of warmth and moisture  the ocean  rainfall amounts from tropical cyclones and their remains decrease quickly vertical wind shear 
+
+
+
+
+circulation around the east side of  forcing rainfall near and behind a front to its northeast
+
+
+vertical  forces the rainfall pattern around a tropical cyclone to become highly asymmetric with most of the precipitation falling to the left and downwind of the shear vector or downshear left in other words southwesterly shear forces the bulk of the rainfall north-northeast of the center if the wind shear is strong enough the bulk of the rainfall will move away from the center leading to what is known as an exposed circulation center when this occurs the potential magnitude of rainfall with the tropical cyclone will be significantly reduced interaction with frontal boundaries and upper level troughs 
+as a  interacts with an upper-level  and the related  a distinct northern area of precipitation is seen along the front ahead of the axis of the upper level trough surface fronts with precipitable water amounts of 1.46 inches  37mm  or more and upper level divergence overhead east of an upper level trough can lead to significant rainfall this type of interaction can lead to the appearance of the heaviest rainfall falling along and to the left of the tropical cyclone track with the precipitation streaking hundreds of miles or kilometers downwind from the tropical cyclone mountains 
+moist air forced up the slopes of coastal hills and mountain chains can lead to much heavier rainfall than in the coastal plain this heavy rainfall can lead to landslides which still cause significant loss of life such as seen during  in  where several thousand perished tools used in preparation of forecast 
+
+
+
+
+r-cliper for isabel  2003 
+
+
+climatology and persistence 
+the hurricane research division of the  created the r-cliper    and persistence  model to act as a baseline for all verification regarding  rainfall the theory is if the global forecast models cannot beat predictions based on climatology then there is no  in their use there is a definite advantage to using the forecast track with r-cliper because it could be run out 120hours 5days with the forecast track of any tropical cyclone globally within a short amount of time the short range variation which uses persistence is the tropical rainfall potential technique  trap  technique which uses satellite-derived rainfall amounts from   and extrapolates the current rainfall configuration forward for 24hours along the current forecast track this technique s main flaw is that it assumes a  tropical cyclone which undergoes little structural change with time which is why it is only run forward for 24hours into the future 
+
+
+
+
+gfs for isabel  2003 
+
+
+numerical weather prediction 
+further information  
+computer models can be used to diagnose the magnitude of tropical cyclone rainfall since forecast models output their information on a grid they only give a general idea as to the areal coverage of moderate to heavy rainfall no current forecast models run at a small enough grid scale  1km or smaller  to be able to detect the absolute maxima measured within tropical cyclones of the  forecasting models the best performing model for tropical cyclone rainfall forecasting is known as the gfs or global forecasting system the  model has been shown to have a high bias concerning the magnitude of heavier core rains within tropical cyclones beginning in 2007 the  hurricane-wrf became available to help predict rainfall from tropical cyclones recent verification shows that both the european  forecast model and   nam  show a low bias with heavier rainfall amounts within tropical cyclones 
+kraft rule 
+during the late 1950s this  came into being developed by r h kraft it was noted from rainfall amounts  in imperial units  reported by the first order rainfall network in the  that the storm total rainfall fit a simple equation  100 divided by the speed of motion in knots this rule works even in other countries as long as a tropical cyclone is moving and only the first order or synoptic station network  with observations spaced about 60 miles  97km  apart  are used to derive storm totals canada uses a modified version of the kraft rule which divides the results by a factor of two which takes into account the lower sea surface temperatures seen around atlantic canada and the prevalence of systems undergoing vertical wind shear at their northerly latitudes the main problem with this rule is that the rainfall observing network is denser than either the synoptic reporting network or the first order station networks which means the absolute maximum is likely to be underestimated another problem is that it does not take the size of the tropical cyclone or topography into account see also
+
+
+ federal emergency management agency  retrieved on 2006-04-05  
+ 
+  hurricanes princeton university press  princeton 1942 pages 70-76 ^   corene j matyas  retrieved on 2007-02-14  herbert riehl tropical meteorology mcgraw-hill book company inc  new york 1954 pages 293-297  russell pfost  retrieved on 2007-02-25  roth david m  weather prediction center  january 7 2013   maximum rainfall caused by tropical cyclones and their remnants per state  19502012   united states national oceanic and atmospheric administration s national weather service retrieved march 15 2013  shuyi s chen john a knaff and frank d marks jr  retrieved on 2007-03-28  norman w junker  retrieved on 2007-06-24  norman w junker  retrieved on 2006-02-13  yuh-lang lin s chiao j a thurman d b ensley and j j charney  retrieved on 2007-04-26  john l guiney and miles b lawrence  retrieved on 2007-04-26  frank marks   2006-10-06 at the  retrieved on 2007-03-15  elizabeth ebert sheldon kusselson and michael turk  retrieved on 2007-03-28  stanley q kidder sheldon j kusselson john a knaff and robert j kuligowski   2007-08-17 at the  retrieved on 2007-03-15  timothy p marchok robert f rogers and robert e tuleya   2006-10-10 at the  retrieved on 2007-03-15  robert e tuleya mark demaria and robert j kuligowski 
+ wrf program coordinator  retrieved on 2007-04-10 ^   david m roth  retrieved on 2009-05-07  frank marks  retrieved on 2007-04-13  norman w junker  retrieved on 2007-03-15 
+
+external links 
+
+
+
+
+
+
+

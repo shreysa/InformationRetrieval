@@ -1,0 +1,170 @@
+for other uses see  not to be confused with  
+the comma      is a  mark that appears in several variants in different languages it has the same shape as an  or single closing  in many  but it differs from them in being placed on the baseline of the text some typefaces render it as a small line slightly curved or straight but inclined from the vertical  or with the appearance of a small filled-in figure 9 the comma is used in many contexts and languages mainly for separating parts of a  such as  and items in lists particularly when there are three or more items listed the word comma comes from the    kmma  which originally meant a cut-off piece  specifically in grammar a short clause a comma-shaped mark is used as a  in several writing systems and is considered distinct from the  the  and      appear above the letter in  and the  appears below the letter in   and  
+
+
+contents
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+comma variants 
+
+the basic comma is defined in unicode as u 002c  comma  html 44  and many variants by typography or language are also defined 
+some languages use a completely different sort of character for the purpose of the comma 
+there are also a number of comma-like  with  comma  in their unicode names these do not serve a  function a comma-like low quotation mark is also available  shown below  raised single quotation marks are not shown  
+various other unicode characters combine commas or comma-like figures with other characters and are not shown here history 
+in the 3rd century bc  invented a system of single   distinctiones  that separated verses  colometry  and indicated the amount of breath needed to complete each fragment of text when  aloud the different lengths were signified by a dot at the bottom middle or top of the line for a short passage  a komma  a media distinctio dot was placed mid-level   this is the origin of the concept of a comma although the name came to be used for the mark itself instead of the clause it separated the mark used today is descended from a diagonal  or virgula suspensiva   used from the 13th to 17th centuries to represent a pause the modern comma was first used by  uses in english 
+in general the comma shows that the words immediately before the comma are less closely or exclusively linked  to those immediately after the comma than they might be otherwise the comma performs a number of functions in  writing it is used in generally similar ways in other languages particularly european ones although the rules on comma usage  and their rigidity  vary from language to language in lists 
+commas are placed between items in lists as in they own a cat a dog two rabbits and seven mice some english style guides recommend that a comma be used before the final   and or nor  in a list of more than two elements a comma used in such a position is variously called a  an oxford comma or a harvard comma  after the  and  both prominent advocates of this style  such use of a comma sometimes prevents ambiguity 
+
+the sentence i spoke to the boys sam and tom could mean either i spoke to the boys and sam and tom  i spoke to more than three people  or i spoke to the boys who are sam and tom  i spoke to two people 
+i spoke to the boys sam and tom  must be the boys and sam and tom  i spoke to more than three people  
+the serial comma does not eliminate all confusion consider the following sentence 
+
+i thank my mother anne smith and thomas this could mean either my mother and anne smith and thomas  three people  or my mother who is anne smith  and thomas  two people  this sentence might be recast as  my mother  anne smith  and thomas  for clarity i thank my mother anne smith and thomas because the comma after  mother  is conventionally used to prepare the reader for an   that is a renaming of or further information about a noun  this construction suggests that my mother s name is  anne smith and thomas  compare  i thank my friend smith and wesson  in which the ambiguity is obvious 
+as a   style guide suggests that straightforward lists  he ate ham eggs and chips  do not need a comma before the final  and  but sometimes it can help the reader  he ate cereal kippers bacon eggs toast and marmalade and tea  the chicago manual of style and other academic writing guides require the serial comma  all lists must have a comma before the  and  prefacing the last item in a series if the individual items of a list are long complex affixed with description or themselves contain commas  may be preferred as separators and the list may be introduced with a  in  a comma might replace the word  and  even if there are only two items in order to save space as in this headline from reuters 
+
+trump macron engage in a little handshake diplomacy 
+separation of clauses 
+commas are often used to separate  in english a comma is used to separate a  from the  if the dependent clause comes first  after i fed the cat i brushed my clothes  compare this with i brushed my clothes after i fed the cat  a  takes commas if it is non as in i cut down all the trees which were over six feet tall  without the comma this would mean that only those trees over six feet tall were cut down 
+some style guides prescribe that two  joined by a coordinating   for and nor but or yet so  must be separated by a comma placed before the conjunction in the following sentences where the second clause is independent  because it can stand alone as a sentence  the comma is considered by those guides to be necessary 
+
+mary walked to the party but she was unable to walk home designer clothes are silly and i can t afford them anyway don t push that button or twelve tons of high explosives will go off right under our feet 
+
+in the following sentences where the second half of the sentence is not an independent clause  because it does not contain an explicit   those guides prescribe that the comma be omitted 
+
+mary walked to the party but was unable to walk home i think designer clothes are silly and can t afford them anyway 
+however such guides permit the comma to be omitted if the second independent clause is very short typically when the second independent clause is an  as in 
+
+sit down and shut up 
+the above guidance is not universally accepted or applied long coordinating clauses are nonetheless usually separated by commas 
+
+she had very little to live on but she would never have dreamed of taking what was not hers 
+in some languages such as  and  stricter rules apply on comma usage between clauses with dependent clauses always being set off with commas and commas being generally proscribed before certain coordinating conjunctions the joining of two independent sentences with a comma and no conjunction  as in  it is nearly half past five we cannot reach town before dark  is known as a  and is sometimes considered an error in english  in most cases a semicolon should be used instead a comma splice should not be confused though with  a literary device used for a specific effect in which coordinating conjunctions are purposely omitted certain adverbs 
+commas are always used to set off certain  at the beginning of a sentence including however in fact therefore nevertheless moreover furthermore and still 
+therefore a comma would be appropriate in this sentence nevertheless i will not use one 
+if these adverbs appear in the middle of a sentence they are followed and preceded by a comma as in the second of the two below examples if the two sentences are separated by a semicolon and the second sentence starts with an adverb then it is preceded by a semicolon and followed by a comma 
+in this sentence furthermore commas would also be called for this sentence is similar  however a semicolon is necessary as well 
+using commas to offset certain adverbs is optional including then so yet instead and too  meaning also  
+so that s it for this rule or
+so that s it for this rule a comma would be appropriate in this sentence too or
+a comma would be appropriate in this sentence too 
+parenthetical phrases 
+ commas are often used to enclose  words and phrases within a sentence  i.e information that is not essential to the meaning of the sentence  such phrases are both preceded and followed by a comma unless that would result in a doubling of punctuation marks or the parenthetical is at the start or end of the sentence the following are examples of types of parenthetical phrases 
+
+introductory phrase  once upon a time my father ate a muffin interjection  my father ate the muffin gosh darn it 
+aside  my father if you don t mind me telling you this ate the muffin   my father a jaded and bitter man ate the muffin absolute phrase  my father his eyes flashing with rage ate the muffin free modifier  my father chewing with unbridled fury ate the muffin resumptive modifier  my father ate the muffin a muffin which no man had yet chewed summative modifier  my father ate the muffin a feat which no man had attempted 
+between adjectives 
+a comma is used to separate coordinate adjectives  i.e  that directly and equally modify the following noun  adjectives are considered coordinate if the meaning would be the same if their order were reversed or if and were placed between them for example 
+
+the dull incessant droning but the cute little cottage the devious lazy red frog suggests there are lazy red frogs  one of which is devious  while the devious lazy red frog does not carry this connotation 
+before quotations 
+some writers precede quoted material that is the grammatical object of an active verb of speaking or writing with a comma as in mr kershner says  you should know how to use a comma  quotations that follow and support an assertion are often preceded by a  rather than a comma other writers do not put a comma before quotations unless one would occur anyway thus they would write mr kershner says  you should know how to use a comma 
+in dates 
+month day year 
+when a date is written as a month followed by a day followed by a year a comma separates the day from the year  december 19 1941 this style is common in american english the comma is used to avoid confusing consecutive numbers  december 191941 most style manuals including  and the  also recommend that the year be treated as a parenthetical requiring a second comma after it   feb 14 1987 was the target date 
+if just month and year are given no commas are used   her daughter april may return in june 2009 for the reunion 
+day month year 
+when the day precedes the month the month name separates the numeric day and year so commas are not necessary to separate them   the  was carried out on 19december1941 
+in geographical names 
+commas are used to separate parts of geographical references such as city and state  dallas texas  or city and country  kampala uganda  additionally most style manuals including  and the ap stylebook recommend that the second element be treated as a parenthetical requiring a second comma after   the plane landed in kampala  that evening 
+the  and  recommend leaving out punctuation when writing addresses on actual letters and packages as the marks hinder  in numbers 
+main article  
+in representing large numbers from the right side to the left english texts usually use commas to separate each group of three digits in front of the decimal this is almost always done for numbers of six or more digits and often for five or four digits but not in front of the number itself however in much of europe southern africa and latin america  or spaces are used instead  the comma is used as a decimal separator equivalent to the use in english of the  in india the groups are two digits except for the rightmost group in some styles the comma may not be used for this purpose at all  e.g in the   a space may be used to separate groups of three digits instead in names 
+commas are used when writing names that are presented surname first generally in instances of alphabetization by surname  smith john they are also used before many titles that follow a name  john smith ph.d 
+
+ the big final rule for the comma is one that you won t find in any books by grammarians don t use commas like a stupid person 
+
+ eats shoots and leaves similarly in lists that are presented with an inversion    socks green  3 pairs  socks red  2 pairs  tie regimental  1 ellipsis 
+commas may be used to indicate that a word or a group of words has been omitted as in the cat was white  the dog brown  here the comma replaces was 
+vocative 
+commas are placed before after or around a noun or pronoun used independently in speaking to some person place or thing 
+
+i hope john that you will read this 
+between the subject and predicate 
+in his 1785 essay on punctuation  advocated a comma between the subject and predicate of long sentences for clarity  however this usage is regarded as an error in modern times 
+the good taste of the present age has not allowed us to neglect the cultivation of the english language whoever is capable of forgetting a benefit is an enemy to society 
+differences between american and british usage 
+the comma and the  pairing can be used in several ways in american english the comma is commonly included inside a quotation mark 
+
+my mother gave me the nickname  bobby bobby bob bob boy  which really made me angry 
+in great britain and many other parts of the world punctuation is usually placed within quotation marks only if it is part of what is being quoted or referred to 
+
+my mother gave me the nickname  bobby bobby bob bob boy  which really made me angry 
+there is also some difference regarding the use of the  which is an optional comma placed before the coordinating conjunction in a list of three or more items 
+
+they served apples peaches and bananas  serial comma used 
+we cleaned up cores pits and skins  serial comma omitted 
+
+the serial comma is also known as the oxford comma harvard comma or series comma it is sometimes perceived as overly careful or an americanism  but its usage occurs within both american and british english it is called the oxford comma because of its long history of use by oxford university press opinions among writers and editors differ on whether to use the serial comma a majority of american style guides mandate use of the serial comma including the chicago manual of style  and  s  and the  style manual the ap stylebook for journalistic writing advises against it it is used less often in british english but some british style guides require it including the  style manual and  s  some writers of british english use it only where necessary to avoid ambiguity according to new hart s rules  house style will dictate  whether to use the serial comma and  the general rule is that one style or the other should be used consistently  no association with region or dialect is suggested other than that its use has been strongly advocated by oxford university press barbara child advises that  it is a good idea to put a comma before the last item in a series  but claims that in the  there is a trend toward a decreased use of the comma generally this is reinforced by an article by  in   says that general decline in usage of commas is equally true in the uk where it has been a slow steady trend for at least a century 
+
+nowadays a passage peppered with commaswhich in the past would have indicated painstaking and authoritative editorial attentionsmacks simply of no backbone people who put in all the commas betray themselves as moral weaklings with empty lives and out-of-date reference books  truss 2004 pp 9798 
+
+in his 1963 book of spies and stratagems stanley p lovell recalls that during the second world war the british carried the comma over into abbreviations specifically  special operations executive  was written  s.o.,e  nowadays even the  are frequently discarded in other languages 
+punctuation has been added to many languages which originally developed without it including a number of different comma forms european languages like german french italian spanish and portuguese use the same comma as english with similar spacing though usage may be somewhat different for instance in standard german subordinate clauses are always preceded by commas   uses the same  comma for its kmma   and it is officially  as a latin comma but it has additional roles owing to its conflation with the former  a curved  used to disambiguate certain homonyms the comma therefore functions as a  in a handful of greek words principally distinguishing  ti  whatever  from   ti  that  the enumeration or ideographic commau 3001  ideographic commais used in   and somewhat in korean punctuation in the  and in north south korea this comma    dnho  is usually used only to separate items in lists while in  it is the more common form of comma   tten lit reading mark  in documents that mix  and  the full-width comma  u ff0c  fullwidth comma  is used  this is the standard form of comma    duho  in  since east asian typography permits commas to join clauses dealing with certain topics or lines of thought commas may separate subjects and predicates and constructions that would be considered a   in english are acceptable and commonly encountered  uses both commas and  for lists the comma in the   used by   and  etc  is inverted upside-down     u 060c  arabic comma  in order to distinguish it from the  ammah     representing the vowel  u  which is similarly comma-shaped in arabic texts western-styled comma   is used as a  reversed comma  u 2e41  reversed comma  is used in sindhi when written in arabic script it is different from the standard arabic comma  is also written from right to left however  includes only a regular comma    dravidian languages such as tamil telugu kannada and malayalam also use the punctuation mark in similar usage to that of european languages with similar spacing computing 
+in the common  encoding systems  and  character 44   corresponds to the comma symbol the   is  44  in many computer languages commas are used as a field delimiter to separate arguments to a  to separate elements in a  and to perform data designation on multiple variables at once in the  the comma symbol is an  which evaluates its first   which may have side-effects  and then returns the value of its evaluated second argument this is useful in for  and  in  the comma operator is used to  collections including strings in  the comma is used to denote   and  the   csv  format is very commonly used in exchanging text data between database and spreadsheet formats diacritical usage 
+main articles    and 
+the comma is used as a  mark in  under the s     and under the t     a  is occasionally used instead of it  notably in the  glyph names  but this is technically incorrect the symbol d   was used as part of the   19th century  to indicate the sounds denoted by the latin letter  or letters dz where derived from a    dz  the comma and the cedilla are both derivative of a small cursive z   placed below the letter from this standpoint alone   and d could potentially be regarded as stand-ins for sz tz and dz respectively in  the comma is used on the letters     and historically also  to indicate  because the lowercase letter g has a  the comma is rotated 180 and placed over the letter although their   names are commas their names in the  standard are g k l n and r with a  they were introduced to the  standard before 1992 and their name cannot be altered in  and  the diacritic in the characters   and  resembles a superscript comma but it is used instead of a  because the letter has an  other ascender letters with carons such as letters   used in  and   and   used in   did not modify their carons to superscript commas in 16th-century  the archaic letter  with a comma     was used to write mayan languages digits with commas             are in the  unicode block see also
+
+
+    3rd ed   september 2005 subscription or  required 
+ chisholm hugh ed  1911     6  11th ed  cambridge university press p.765  truss lynn  2004  eats shoot   leaves  the zero tolerance approach to punctuation new york  gotham books p.72     september 2 2006 at the   introduction to latin literature pamphlet 
+     punctuation glossary
+  the guardian london 2008-12-19 retrieved april 1 2010   reuters 2017-05-25 retrieved 2017-07-10 ^       2000  the new fowler s modern english usage  third revised ed  oxford  oxford university press p.162cs1 maint  multiple names  authors list  
+^   nancy tuten  getitwriteonline.com retrieved 2012-03-25  swan michael  2006  practical english usage oxford university press  strunk william  may 2007  the elements of style filiquarian publishing llc p.12  do not join independent clauses by a comma  garner s modern american usage  oxford  2003 p 655 
+ chicago manual of style   it s conventional to put a comma after the year the commas are like parentheses here so it doesn t make sense to have only one 
+  when a phrase refers to a month day and year set off the year with commas feb 14 1987 was the target date   ap stylebook retrieved 2008-10-29   30 june 2008   mary traveled to seattle washington before going on to california   the chicago manual of style online retrieved 2008-10-29   acme pens was founded in padua italy in 2004   ap stylebook retrieved 2008-10-29  chicago manual of style 14th ed 5.67      
+ truss lynn  2004  eats shoots   leaves  the zero tolerance approach to punctuation new york  gotham books p.96    center for writing studies  retrieved 12 march 2017 a comma is sometimes used to indicate the omission of one or more words ^     blog  style guide of the american psychological association 2011 retrieved 2015-09-12 ^   stephen wilbers   web site  retrieved 2015-09-10    pdf  cambridge u.k  cambridge university press 2002 retrieved 2015-09-04 in the british style  oup 1983  all signs of punctuation used with words and quotation marks must be placed according to the sense   oxford dictionaries oxford university press retrieved 2015-09-15  ritter r m  2005  new hart s rules  second ed  oxford uk  oxford university press pp.77 300  child barbara  1992  drafting legal documents  principles and practices  2nd ed  west pub p.398   robert j samuelson  22 july 2007   newsweek p.41 ^   nicolas nick    2012-08-06 at   2005 accessed 7 october 2014      ellniks organisms typoposs    743 2   elot 743 2 ekdos  elot 743 2nd ed  elot  athens  2001  in greek   huda smitshuijzen abifars  2001   london  saqi books p.106  the comma used in arabic script is not only a mirror image of its latin counterpart but its tail is also turned upwards in order to avoid any possibility of confusing it with the dammah the u short vowel mark  
+   2006-01-30    pdf  retrieved 2017-02-04 
+
+
+this article is based on material taken from the  prior to 1 november 2008 and incorporated under the  relicensing  terms of the  version 1.3 or later 
+external links 
+
+
+ and exercises
+
+
+
+
+  a satirical suggestion to settle the problem of the oxford comma once and for all   another satirical compromise between the american and british traditions relating to quotes and commas  by jennifer frost
+
+
+
+
+
+
+
+

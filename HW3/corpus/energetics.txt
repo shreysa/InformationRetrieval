@@ -1,0 +1,57 @@
+
+
+energetics  also called energy economics  is the study of energy under  because energy flows at all scales from the  level to the  and  energetics is a very broad discipline encompassing for example     and  where each branch of energetics begins and ends is a topic of constant debate for example lehninger  1973 p.21  contended that when the science of thermodynamics deals with energy exchanges of all types it can be called energetics 
+
+
+contents
+
+
+
+
+
+
+
+
+
+
+
+aims 
+in general energetics is concerned with defining relationships to describe the tendencies of  and  under transformation defined here as phenomena which behave like historical invariants under repeated observations when some critical number of people have observed such invariance such a principle is usually then given the status of a   of science as in all scientific inquiry whether a theorem or principle is considered a fundamental law appears to depend on how many people agree to the proposition the ultimate aim of energetics therefore is the description of fundamental laws philosophers of science have held that the fundamental  can be treated as laws of energetics  reiser 1926 p.432  by continuing to more accurately describe these laws energetics aims to produce reliable predictions about energy flow and storage transformations at any scale history 
+energetics has a controversial history some authors maintain that the its origins may be found in the work of the ancient greeks but that the mathematical formalisation began with the work of    1928  said that  formulated the science of energetics in his paper outlines of the science of energetics published in the proceedings of the philosophical society of glasgow in 1855 w ostwald and e mach subsequently developed the study and by the late 1800s energetics was understood to be incompatible with the atomic view of the atom forwarded by  s gas theory proof of the atom settled the dispute but not without significant damage in the 1920s  attempted to build on boltzmann s views through a mathematical synthesis of energetics with biological evolutionary theory lotka proposed that the selective principle of evolution was one which favoured the maximum useful energy flow transformation this view subsequently influenced the further development of ecological energetics especially the work of  de villamil attempted to clarify the scope of energetics with respect to other branches of physics by positing a system that divides  into two branches  energetics  the science of   and  pure   abstract  or  rigid    the science of   according to villamil energetics can be mathematically characterised by scalar equations and rigid dynamics by vector equations in this division the dimensions for dynamics are space time and mass and for energetics length time and mass  villamil 1928 p.9  this division is made according to fundamental suppositions about the properties of bodies e.g 
+
+are the particles comprising the system rigidly fixed together 
+is there any machinery for stopping moving bodies 
+
+in villamil s classification system dynamics says yes to 1 and no to 2 whereas energetics says no to 1 and yes to 2 therefore in villamil s system dynamics assumes that particles are rigidly fixed together and cannot vibrate and consequently must all be at zero kelvin the  is a consequence of this view however it is considered valid only in logic and not to be a true representation of the facts  villamil p.96  in contrast energetics does not assume that particles are rigidly fixed together and thus are free to vibrate and consequently can be at non-zero temperatures theories of energetics 
+
+
+
+
+ecological analysis of co2 in an 
+
+
+as a general statement of energy flows under transformation the principles of energetics include the first four  which seek a rigorous description however the precise place of the laws of thermodynamics within the principles of energetics is a topic currently under debate if the ecologist  was right the principles of energetics take into consideration a hierarchical ordering of energy forms which aims to account for the concept of  and the evolution of the universe   1973 p.2  called these hierarchical orderings the
+
+ successive stages in the flow of energy through the biological macrocosm
+
+odum proposed 3 further energetic principles and one corollary that take  into account the first four principles of energetics are related to the same numbered laws of  and are expanded upon in that article see also
+
+s w angrist and l g helper  1973  order and chaos  laws of energy and entropy penguin australia p.34
+  1898   leipzig m giampietro k mayumi and a sorman  dec 2011  the energetics of modern societies springer heidelberg   1899  the principles of mechanics presented in a new form london  macmillan  reissued by dover new york 1956
+a lehninger  1973  bioenergetics w.a.benjamin inc h t odum and r c pinkerton  1955   time s speed regulator  american scientist vol 43 no 2 p.331 h t odum  1994  ecological and general systems  an introduction to systems ecology colorado university press h t odum  2000   an energy hierarchy law for biogeochemical cycles  in brown m t  ed  emergy synthesis  theory and applications of the emergy methodology proceedings of the first biennial emergy analysis research conference centre for environmental policy university of florida gainesville fl   1937  a short history of chemistry london  macmillan reissued by dover publications new york 1989 
+oliver l reiser 1926 probability natural law and emergence  i probability and purpose the journal of philosophy vol 23 no 16 pp.421435
+  1961  thermostatics and thermodynamics van nostrand university series in basic engineering pp.619622 de villamil r  1928  rational mechanics 
+external links 
+
+
+
+
+
+
+
+
+
+
+
+
+

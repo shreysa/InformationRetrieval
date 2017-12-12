@@ -1,0 +1,144 @@
+
+
+
+
+weather station at   
+
+a weather station is a facility either on land or sea with instruments and equipment for measuring  conditions to provide information for  and to study the  and  the measurements taken include      and  amounts  measurements are taken with as few other obstructions as possible while temperature and humidity measurements are kept free from direct solar radiation or  manual observations are taken at least once daily while automated measurements are taken at least once an hour weather conditions out at sea are taken by ships and buoys which measure slightly different meteorological quantities such as   sst  wave height and wave period drifting  outnumber their moored versions by a significant amount 
+
+
+contents
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+instruments 
+
+
+
+
+the  weather station at  harbor measures and transmits data on    and  
+
+typical weather stations have the following instruments 
+
+ for measuring air and sea surface temperature
+ for measuring 
+ for measuring humidity
+ for measuring wind speed
+ for measuring 
+ for measuring liquid precipitation over a set period of time 
+in addition at certain  additional instruments may be employed including 
+
+present weather precipitation identification sensor for identifying falling precipitation
+ for measuring drop size distribution
+ for measuring visibility
+ for measuring cloud ceiling
+
+more sophisticated stations may also measure the    soil temperature water temperature in ponds lakes creeks or rivers and occasionally other data exposure 
+except for those instruments requiring direct exposure to the elements  anemometer rain gauge  the instruments should be sheltered in a vented box usually a  to keep direct sunlight off the thermometer and wind off the hygrometer the instrumentation may be specialized to allow for periodic recording otherwise significant manual labour is required for record keeping automatic transmission of data in a format such as  is also desirable as many weather station s data is required for weather forecasting personal weather station 
+
+
+
+
+roof-mounted weather station instruments
+
+
+a personal weather station is a set of weather measuring instruments operated by a private individual club association or even business  where obtaining and distributing weather data is not a part of the entity s business operation  personal weather stations have become more advanced and can include many different sensors to measure weather conditions these sensors can vary between models but most measure wind speed wind direction outdoor and indoor temperatures outdoor and indoor humidity barometric pressure rainfall and finally uv or solar radiation other sensors that may be available can measure soil moisture soil temperature and leaf wetness the quality number of instruments and placement of personal weather stations can vary widely making the determination of which stations collect accurate meaningful and comparable data difficult personal weather stations also typically involve a digital console that provides readouts of the data being collected these consoles may interface to a personal computer where data can be displayed stored and uploaded to websites or data ingestion distribution systems  weather stations are available that are designed to be fully customizable by users personal weather stations may be operated solely for the enjoyment and education of the owner however some owners share their results with others they do this by either by manually compiling data and distributing it distributing data over the internet or sharing data via  the   cwop  is a service which facilitates the sharing of information from personal weather stations this data is submitted through use of software a personal computer and internet connection  or amateur radio  and are utilized by groups such as the   nws  when generating  each weather station submitting data to cwop will also have an individual web page that depicts the data submitted by that station the  internet site is another popular destination for the submittal and sharing of data with others around the world as with cwop each station submitting data to weather underground has a unique web page displaying their submitted data the uk  s weather observations website  wow  also allows such data to be shared and displayed home weather station 
+home weather stations include hygrometers thermometers barographs and barometers commonly wall mounted and made by manufacturers such as airguide taylor springfield sputnik and stormoguide 
+
+
+
+the weather ship  at sea 
+
+dedicated ships 
+main article  
+a  was a  stationed in the  as a platform for surface and upper air meteorological measurements for use in weather forecasting it was also meant to aid in search and rescue operations and to support transatlantic flights the establishment of weather ships proved to be so useful during  that the   icao  established a global network of 13 weather ships in 1948 of the 12 left in operation in 1996 nine were located in the northern  while three were located in the northern  the agreement of the weather ships ended in 1990 weather ship observations proved to be helpful in wind and wave studies as they did not avoid weather systems like merchant ships tended to and were considered a valuable resource the last weather ship was  known as weather station m  jilindras  at 66n 02e run by the  ms polarfront was removed from service january 1 2010 since the 1960s this role has been largely superseded by  long range  and  weather observations from ships continue from thousands of  in routine commercial operation  the   project transcribes naval logs from before the era of dedicated ships 
+
+
+
+weather buoy operated by the  national data buoy center
+
+
+dedicated buoys 
+main article  
+weather buoys are instruments which collect weather and  data within the world s oceans and lakes moored buoys have been in use since 1951 while drifting buoys have been used since the late 1970s moored buoys are connected with the seabed using either chains  or buoyant  with the decline of the  they have taken a more primary role in measuring conditions over the open seas since the 1970s during the 1980s and 1990s a network of buoys in the central and eastern tropical pacific ocean helped study the  moored weather buoys range from 1.5 metres  4.9ft  to 12 metres  39ft  in diameter while drifting buoys are smaller with diameters of 30 centimetres  12in  to 40 centimetres  16in  drifting buoys are the dominant form of weather buoy in sheer number with 1250 located worldwide wind data from buoys has smaller error than that from ships there are differences in the values of sea surface temperature measurements between the two platforms as well relating to the depth of the measurement and whether or not the water is heated by the ship which measures the quantity synoptic weather station 
+
+
+
+
+synoptic automatic weather station
+
+
+ weather stations are instruments which collect meteorological information at synoptic time 00h00 06h00 12h00 18h00  utc  and at intermediate synoptic hours 03h00 09h00 15h00 21h00  utc  the common instruments of measure are anemometer wind vane pressure sensor thermometer hygrometer and rain gauge the weather measures are formatted in special format and transmit to wmo to help the weather forecast model networks 
+a variety of land-based weather station networks have been set up globally some of these are basic to analyzing  and pressure systems such as the synoptic observation network while others are more regional in nature known as  global 
+
+  cwop 
+weather underground personal weather stations
+
+united states 
+
+arizona meteorological network  azmet 
+central pennsylvania volunteer weather station network
+florida automated weather network  fawn 
+georgia environmental monitoring network  gaemn 
+indiana purdue automated agricultural weather station network  paaws 
+iowa environmental mesonet  iem 
+
+michigan automated weather network  mawn 
+missouri weather stations
+national weather service cooperative observer  coop  program
+new york state mesonet
+
+the pacific northwest cooperative agricultural weather network
+
+southern hemisphere 
+
+antarctic automatic weather stations project
+australia bureau of meteorology aws network australia department of agriculture and food western australia
+australia lower murray water automatic weather station network
+
+see also
+
+
+ verbelen yannick  2016   circuitmaker retrieved 16 april 2017 the firmware is under active development and users are encouraged to contribute to it by forking the repository on github an initiative to further develop the hardware and make it commercially available is ongoing as spin-off project openobservatory    2011-02-11 ^    popular mechanics  136 june 1948 retrieved 2011-01-18  malcolm francis willoughby  pp.127130 retrieved 2011-01-18  stanislaw r massel  1996   world scientific pp.369371  retrieved 2011-01-18  
+ 
+ 
+ g l timpe   n van de voorde  october 1995   nomad buoys  an overview of forty years of use  oceans  95 mts ieee challenges of our changing global environment conference proceedings 1  309315   ^     2009-04-15   retrieved 2011-01-28 ^     2008-02-04    retrieved 2011-01-29  national research council  u.s  ocean science committee national research council  u.s  study panel on ocean atmosphere interaction  1974   national academies p.40 retrieved 2011-01-18  k a browning  robert j gurney  1999    p.62  retrieved 2011-01-09  r lumpkin   m pazos  2010-06-08   the global drifter program retrieved 2011-01-29  bridget r thomas  elizabeth c kent   val r swail  2005    pdf  international journal of climatology john wiley   sons ltd 25  979995     retrieved 2011-01-29  william j emery  richard e thomson  2001   gulf professional publishing pp.2425  retrieved 2011-01-09  russ chadwick  retrieved on 2008-06-11  weather underground  retrieved on 2008-06-11   retrieved on 2008-06-11  pennsylvania state climatologist  retrieved on 2008-06-11    retrieved on 2008-06-11    retrieved on 2010-09-01   retrieved on 2008-06-11   department of agronomy  retrieved on 2009-11-12    retrieved on 2008-06-11    retrieved on 2008-12-01   agricultural electronic bulletin board  retrieved on 2008-06-11    retrieved on 2008-06-11    retrieved on 2017-05-21    retrieved on 2008-06-11   retrieved on 2008-06-05  automatic weather stations project  retrieved on 2008-06-11    retrieved on 2008-06-11  department of agriculture and food western australia  retrieved on 2008-06-11  lower murray water resources  retrieved on 2008-06-11 
+
+external links 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

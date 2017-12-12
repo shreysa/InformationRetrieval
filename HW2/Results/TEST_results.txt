@@ -1,0 +1,22 @@
+Sources and Sinks
+-----------------
+Source Ratio : 0.000000
+Sink Ratio   : 0.000000
+
+PageRank results
+----------------
+[0] | PR: 0.249564 | A 
+[1] | PR: 0.190935 | E 
+[2] | PR: 0.149745 | C 
+[3] | PR: 0.149745 | F 
+[4] | PR: 0.138057 | B 
+[5] | PR: 0.121955 | D 
+
+Num incoming links results
+--------------------------
+[0] | num_incoming_links: 4 | E
+[1] | num_incoming_links: 3 | A
+[2] | num_incoming_links: 3 | C
+[3] | num_incoming_links: 3 | F
+[4] | num_incoming_links: 2 | B
+[5] | num_incoming_links: 2 | D

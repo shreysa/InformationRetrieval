@@ -1,0 +1,64 @@
+
+the tropopause is the boundary in the  between the  and the  it is a thermodynamic gradient stratification layer marking the end of  
+
+
+contents
+
+
+
+
+
+
+
+
+
+
+
+
+
+definition 
+
+
+
+
+schematic showing the different layers of the atmosphere  not to scale  the tropopause is located between the troposphere and the stratosphere 
+
+
+
+
+
+the tropopause lies higher in the tropics than at the poles 
+
+going upward from the surface it is the point where air ceases to cool with height and becomes almost completely dry more formally the tropopause is the region of the atmosphere where the  changes from positive as it behaves in the troposphere to the stratospheric negative one following is the exact definition used by the  
+
+the boundary between the troposphere and the stratosphere where an abrupt change in lapse rate usually occurs it is defined as the lowest level at which the lapse rate decreases to 2 c km or less provided that the average lapse rate between this level and all higher levels within 2 km does not exceed 2 c km 
+the tropopause as defined above renders as a  surface that is temperature as a function of height varies continuously through the atmosphere but the temperature gradient does not location 
+the troposphere is one of the lowest layers of the earth s atmosphere  it is located right above the  and is the layer in which most  phenomena take place the troposphere extends upwards from right above the  and ranges in height from an average of 9km  5.6mi  30,000ft  at the poles to 17km  11mi  56,000ft  at the  in the absence of  and not considering  the  for this layer is 6.5c per kilometer on average according to the u.s standard atmosphere a measurement of both the tropospheric and the stratospheric lapse rates helps identifying the location of the tropopause since temperature increases with height in the stratosphere and hence the lapse rate becomes negative the tropopause location coincides with the lowest point at which the lapse rate falls below a prescribed threshold since the tropopause responds to the average temperature of the entire layer that lies underneath it it is at its peak levels over the equator and reaches minimum heights over the poles on account of this the coolest layer in the atmosphere lies at about 17km over the equator due to the variation in starting height the tropopause extremes are referred to as the equatorial tropopause and the polar tropopause given that the lapse rate is not a conservative quantity when the tropopause is considered for stratosphere-troposphere exchanges studies there exists an alternative definition named dynamic tropopause it is formed with the aid of  which is defined as the product of the   i.e the density that arises from using  as the vertical coordinate and the  given that this quantity attains quite different values for the troposphere and the stratosphere instead of using the vertical temperature gradient as the defining variable the dynamic tropopause surface is expressed in   pvu  given that the absolute vorticity is positive in the northern hemisphere and negative in the  the threshold value should be taken as positive north of the equator and negative south of it theoretically to define a global tropopause in this way the two surfaces arising from the positive and negative thresholds need to be matched near the equator using another type of surface such as a constant  surface nevertheless the dynamic tropopause is useless at equatorial latitudes because the isentropes are almost vertical for the extratropical tropopause in the  the wmo established a value of 1.5 pvu but greater values ranging between 2 and 3.5 pvu have been traditionally used it is also possible to define the tropopause in terms of chemical composition for example the lower stratosphere has much higher  concentrations than the upper troposphere but much lower  concentrations so appropriate cutoffs can be used phenomena 
+the tropopause is not a  hard  boundary vigorous  for example particularly those of tropical origin will   the lower stratosphere and undergo a brief  hour-order or less  low-frequency vertical  such oscillation sets up a low-frequency atmospheric  capable of affecting both atmospheric and oceanic currents in the region 
+most commercial aircraft are flown in the lower stratosphere just above the tropopause where clouds are usually absent as also are significant weather perturbations see also
+
+
+
+ 1pvu 10-6km2kg-1s-1
+
+
+
+references 
+
+
+ international meteorological vocabulary  2nd ed    secretariat of the world meteorological organization 1992 p.636    p.129  hoinka k p  1999   temperature humidity and wind at the global tropopause    127  2248  2265      gettelman a    sassi f  2002   distribution and influence of convection in the tropical tropopause region    107       p.112   p.371  hoskins b j  mcintyre m e  robertson a w  1985   on the use and significance of isentropic potential vorticity maps   111  877  946     ^    tuck a f  browell e v  danielsen e f  holton j r  hoskins b j  johnson d r  kley d  krueger a j  megie g  newell r e  vaughan g  1985   strat-trop exchange  atmospheric ozone 1985  wmo global ozone research and monitoring project report no 16  1  151  240  hoinka klaus p  december 1998   statistics of the global tropopause pressure     126  3303  3325  zngl gnther  hoinka klaus p  15 july 2001   the tropopause in the polar regions   14  3117 3139      l l pan  w j randel  b l gary  m j mahoney  e j hintsa  2004   definitions and sharpness of the extratropical tropopause  a trace gas perspective   109  d23103      shenk w e  1974   cloud top height variability of strong convective cells    13  918922       p.21 
+
+bibliography 
+
+andrews d g  holton j r  leovy c b  1987  r dmowska  holton j r eds middle atmosphere dynamics  p.371  panchev stocho  1985   dynamic meteorology   petty grant w  2008  a first course in atmospheric thermodynamics    sundog publishing  
+external links 
+
+
+
+
+
+
+
+
+
+

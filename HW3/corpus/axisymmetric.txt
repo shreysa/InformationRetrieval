@@ -1,0 +1,65 @@
+
+
+
+
+
+the  appearing on the  has rotational symmetry because it appears the same when rotated by one third of a full turn about its center because its appearance is identical in three distinct orientations its rotational symmetry is three-fold 
+
+rotational symmetry also known as radial symmetry in biology is the property a shape has when it looks the same after some rotation by a partial turn an object s degree of rotational symmetry is the number of distinct orientations in which it looks the same 
+
+
+contents
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+formal treatment 
+see also  
+formally the rotational symmetry is  with respect to some or all  in m-dimensional  rotations are  i.e  preserving  therefore a  of rotational symmetry is a subgroup of e m   see   symmetry with respect to all rotations about all points implies  with respect to all translations so space is homogeneous and the symmetry group is the whole e m  with the  the symmetry group can also be e m  for symmetry with respect to rotations about a point we can take that point as origin these rotations form the special  so m  the group of mm  with determinant 1 for m   3 this is the  in another meaning of the word the rotation group of an object is the symmetry group within e n  the   in other words the intersection of the full symmetry group and the group of direct isometries for  objects it is the same as the full symmetry group laws of physics  if they do not distinguish different directions in space because of  rotational symmetry of a physical system is equivalent to the  conservation law discrete rotational symmetry 
+rotational symmetry of ordern also called n-fold rotational symmetry or discrete rotational symmetry of the nth order with respect to a particular point  in 2d  or axis  in 3d  means that rotation by an angle of 360 n  180 120 90 72 60 5137 etc  does not change the object note that  1-fold  symmetry is no symmetry  all objects look alike after a rotation of 360  the  for n-fold symmetry is cn or simply  n  the actual  is specified by the point or axis of symmetry together with the n for each point or axis of symmetry the abstract group type is  of ordern zn although for the latter also the notation cn is used the geometric and abstract cn should be distinguished  there are other symmetry groups of the same abstract group type which are geometrically different see  the  is a sector of 360 n examples without additional  
+
+n   2 180  the dyad  among the  the  which have this as a fully identifying  necessary and sufficient  feature  letters z n s  the outlines albeit not the colors of the  symbol  the   as divided along the flag s diagonal and rotated about the flag s center point 
+n   3 120  triad    sometimes the term trilateral symmetry is used 
+n   4 90  tetrad 
+n   6 60  hexad 
+n   8 45  octad octagonal  computer-generated  cg  ceiling
+
+cn is the rotation group of a regular n-sided  in 2d and of a regular n-sided  in 3d if there is e.g rotational symmetry with respect to an angle of 100 then also with respect to one of 20 the  of 100 and 360 a typical 3d object with rotational symmetry  possibly also with perpendicular axes  but no mirror symmetry is a  examples
+for  with multiple symmetry axes through the same point there are the following possibilities 
+
+in addition to an n-fold axis n perpendicular 2-fold axes  the  dn of order2n  n  2  this is the rotation group of a regular  or regular  although the same notation is used the geometric and abstract dn should be distinguished  there are other symmetry groups of the same abstract group type which are geometrically different see  43-fold and 32-fold axes  the rotation group t of order12 of a regular  the group is  to  a4 34-fold 43-fold and 62-fold axes  the rotation groupo of order24 of a  and a regular  the group is isomorphic to  s4 65-fold 103-fold and 152-fold axes  the rotation groupi of order60 of a  and an  the group is isomorphic to alternating groupa5 the group contains 10 versions of d3 and 6 versions of d5  rotational symmetries like prisms and antiprisms  
+in the case of the  the 2-fold axes are through the midpoints of opposite edges and the number of them is half the number of edges the other axes are through opposite vertices and through centers of opposite faces except in the case of the tetrahedron where the 3-fold axes are each through one vertex and the center of one face rotational symmetry with respect to any angle 
+rotational symmetry with respect to any angle is in two dimensions  the fundamental domain is a  in three dimensions we can distinguish cylindrical symmetry and spherical symmetry  no change when rotating about one axis or for any rotation  that is no dependence on the angle using  and no dependence on either angle using  the fundamental domain is a  through the axis and a radial half-line respectively axisymmetric or axisymmetrical are  which refer to an object having cylindrical symmetry or axisymmetry an example of approximate spherical symmetry is the earth  with respect to density and other physical and chemical properties  in 4d continuous or discrete rotational symmetry about a plane corresponds to corresponding 2d rotational symmetry in every perpendicular plane about the point of intersection an object can also have rotational symmetry about two perpendicular planes e.g if it is the  of two rotationally symmetry 2d figures as in the case of e.g the  and various regular  rotational symmetry with translational symmetry 
+
+2-fold rotational symmetry together with single  is one of the  there are two rotocenters per  together with double translational symmetry the rotation groups are the following  with axes per primitive cell 
+
+p2  2222  42-fold  rotation group of a   and   p3  333  33-fold  not the rotation group of any lattice  every lattice is upside-down the same but that does not apply for this symmetry  it is e.g the rotation group of the  with the equilateral triangles alternatingly colored p4  442  24-fold 22-fold  rotation group of a  lattice p6  632  16-fold 23-fold 32-fold  rotation group of a  lattice 2-fold rotocenters  including possible 4-fold and 6-fold  if present at all form the translate of a lattice equal to the translational lattice scaled by a factor 1 2 in the case translational symmetry in one dimension a similar property applies though the term  lattice  does not apply 3-fold rotocenters  including possible 6-fold  if present at all form a regular hexagonal lattice equal to the translational lattice rotated by 30  or equivalently 90  and scaled by a factor 
+4-fold rotocenters if present at all form a regular square lattice equal to the translational lattice rotated by 45 and scaled by a factor 
+6-fold rotocenters if present at all form a regular hexagonal lattice which is the translate of the translational lattice 
+scaling of a lattice divides the number of points per unit area by the square of the scale factor therefore the number of 2 3 4 and 6-fold rotocenters per primitive cell is 4 3 2 and 1 respectively again including 4-fold as a special case of 2-fold etc 3-fold rotational symmetry at one point and 2-fold at another one  or ditto in 3d with respect to parallel axes  implies rotation group p6 i.e double translational symmetry and 6-fold rotational symmetry at some point  or in 3d parallel axis  the translation distance for the symmetry generated by one such pair of rotocenters is 23 times their distance 
+see also
+
+
+  1982   symmetry princeton  princeton university press  
+external links 
+
+ media related to  at wikimedia commons
+ from 
+
+
+
+
+

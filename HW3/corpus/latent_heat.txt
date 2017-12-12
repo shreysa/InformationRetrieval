@@ -1,0 +1,85 @@
+
+latent heat is thermal energy released or absorbed by a body or a  during a constant-temperature process  usually a  latent heat can be understood as heat energy in hidden form which is supplied or extracted to change the state of a substance without changing its temperature examples are  and  involved in  i.e a substance condensing or vaporizing at a specified temperature and pressure the term was introduced around 1762 by    it is derived from the latin latere  to lie hidden  black used the term in the context of  where a heat transfer caused a volume change while the thermodynamic system s temperature was constant in contrast to latent heat  involves an energy transfer that results in a temperature change of the system 
+
+
+contents
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+usage 
+the terms sensible heat and latent heat are specific forms of energy  they are two properties of a material or in a thermodynamic system sensible heat is a body s  that may be sensed or felt latent heat is internal energy concerning the phase   solid   liquid   gas   of a material and does not affect the temperature both sensible and latent heats are observed in many processes of transport of energy in nature changes of latent heat is associated with the change of phase of atmospheric water  and  whereas sensible heat is energy that reflects the temperature of the atmosphere or ocean or ice the original usage of the term as introduced by black was applied to systems that were intentionally held at constant temperature such usage referred to latent heat of expansion and several other related latent heats these latent heats are defined independently of the conceptual framework of thermodynamics when a body is heated at constant temperature by thermal radiation in a microwave field for example it may expand by an amount described by its latent heat with respect to volume or latent heat of expansion or increase its pressure by an amount described by its latent heat with respect to pressure latent heat is energy released or absorbed by a body or a  during a constant-temperature process two common forms of latent heat are    and    these names describe the direction of energy flow when changing from one phase to the next  from solid to liquid and liquid to gas in both cases the change is  meaning that the system absorbs energy for example when water evaporates energy is required for the water molecules to overcome the forces of attraction between them the transition from water to vapor requires an input of energy if the vapor then condenses to a liquid on a surface then the vapor s latent energy absorbed during evaporation is released as the liquid s  onto the surface the large value of the  of condensation of water vapor is the reason that steam is a far more effective heating medium than boiling water and is more hazardous meteorology 
+in  latent heat flux is the  of heat from the earth s surface to the  that is associated with  or  of water at the surface and subsequent  of  in the  it is an important component of earth s surface energy budget latent heat flux has been commonly measured with the  technique or more recently since the mid-1900s by the   method history 
+the english word  comes from latin  meaning lying hidden the term latent heat was introduced into calorimetry around 1750 when  commissioned by producers of  in search of ideal quantities of fuel and water for their distilling process to studying system changes such as of volume and pressure when the thermodynamic system was held at constant temperature in a thermal bath  characterised latent energy as the energy of interaction in a given configuration of particles i.e a form of  and the sensible heat as an energy that was indicated by the thermometer relating the latter to  specific latent heat 
+a specific latent heat  l  expresses the amount of energy in the form of heat  q  required to completely effect a phase change of a unit of mass  m  usually 1kg of a substance as an  
+
+
+
+intensive properties are material characteristics and are not dependent on the size or extent of the sample commonly quoted and tabulated in the literature are the specific latent heat of fusion and the specific latent heat of vaporization for many substances from this definition the latent heat for a given mass of a substance is calculated by
+
+
+
+where 
+
+q is the amount of energy released or absorbed during the change of phase of the substance  in  or in   m is the mass of the substance  in  or in   and
+l is the specific latent heat for a particular substance  kj kg1 or in btu lb1  either lf for fusion or lv for vaporization 
+table of specific latent heats 
+the following table shows the specific latent heats and change of phase temperatures  at standard pressure  of some common fluids and gases 
+
+specific latent heat for condensation of water  in clouds 
+the specific latent heat of condensation of water in the temperature range from 25c to 40c is approximated by the following empirical cubic function 
+
+
+
+where the temperature  is taken to be the numerical value in c for  and  from and into ice the specific latent heat is almost constant in the temperature range from 40c to 0c and can be approximated by the following empirical quadratic function 
+
+
+
+variation with temperature  or pressure 
+
+
+
+
+temperature-dependency of the heats of vaporization for water methanol benzene and acetone 
+
+as the temperature  or pressure  rises to the  the lhov falls to zero 
+see also 
+
+
+ flux  eddy correlation eddy flux 
+
+
+
+
+
+references 
+
+
+ perrot pierre  1998  a to z of thermodynamics oxford university press   clark john o.e  2004  the essential dictionary of science barnes   noble bookscs1 maint  multiple names  authors list  
+ bryan g.h  1907  thermodynamics an introductory treatise dealing mainly with first principles and their direct applications b.g tuebner leipzig pages 9 2022  maxwell j.c  1872  theory of heat third edition longmans green and co london page 73  harper douglas    lewis charlton t  1890  an elementary latin dictionary entry for     1979   credit where it s due   episode 6 event occurs at 50  34 minutes  bbc  j p joule  1884  the scientific paper of james prescott joule the physical society of london p.274 i am inclined to believe that both of these hypotheses will be found to hold good,that in some instances particularly in the case of sensible heat or such as is indicated by the thermometer heat will be found to consist in the living force of the particles of the bodies in which it is induced  whilst in others particularly in the case of latent heat the phenomena are produced by the separation of particle from particle so as to cause them to attract one another through a greater space lecture on matter living force and heat may 5 and 12 1847
+ yaws  handbook of properties of the chemical elements 2011 knovel
+^    to table 2.1 r r rogers  m k yau  1989  a short course in cloud physics  3rd ed  pergamon press p.16  
+
+
+
+
+
+
+
+
+
+
+

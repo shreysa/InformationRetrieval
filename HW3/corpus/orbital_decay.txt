@@ -1,0 +1,59 @@
+ decaying orbit  redirects here for the 2007 film see  in  decay is a process that leads to gradual decrease of the  between two  bodies at their closest approach  the   over many orbital periods these orbiting bodies can be a  and its  a  and any object orbiting it or components of any  orbits do not decay without some friction-like mechanism which robs energy from the orbital motion this can be any of a number of   or  effects for bodies in a  the most significant effect is the  if left unchecked the decay eventually results in termination of the orbit when the smaller object  the surface of the primary  or for objects where the primary has an atmosphere the smaller object  in the larger object s   or for objects where the primary is a star ends with incineration by the star s radiation  such as for   and so on collisions and mergers of two stellar-mass objects usually produce cataclysmic effects  see  and  due to atmospheric drag the lowest altitude above the  at which an object in a circular orbit can complete at least one full revolution without propulsion is approximately 150km  90mi  
+
+
+contents
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+causes
+further information  
+atmospheric drag at orbital altitude is caused by frequent collisions of gas  with the satellite it is the major cause of orbital decay for satellites in  it results in the reduction in the  of a satellite s orbit for the case of earth atmospheric drag resulting in satellite re-entry can be described by the following sequence 
+
+lower altitude  denser atmosphere  increased drag  increased heat  usually burns on re-entry
+
+orbital decay thus involves a  effect where the more the orbit decays the lower its altitude drops and the lower the altitude the faster the decay decay is also particularly sensitive to external factors of the space environment such as solar activity which are not very predictable during  the earth s atmosphere causes significant drag up to a hundred kilometers higher than during  
+atmospheric drag exerts a significant effect at the altitudes of   and other manned earth-orbit spacecraft and satellites with relatively high  low earth orbits  such as the  space stations typically require a regular altitude boost to counteract orbital decay  see also   uncontrolled orbital decay brought down the  space station and  relatively  controlled orbital decay was used to de-orbit the  space station 
+regular orbital boosts are also needed by the hubble space telescope though on a longer time scale due to its much higher altitude however orbital decay is also a limiting factor to the length of time the hubble can go without a maintenance rendezvous the most recent performed successfully by  with space shuttle atlantis launching may 11 2009 though newer telescopes are in much higher orbits or in some cases in solar orbit so orbital boosting may not be needed tidal effects 
+
+further information  
+an orbit can also decay by  effects when the orbiting body is large enough to raise a significant   on the body it is orbiting and is either in a  or is below the  the resulting tidal interaction saps momentum from the orbiting body and transfers it to the primary s rotation lowering the orbit s altitude until frictional effects come into play examples of satellites undergoing tidal orbital decay are mars  moon  neptune s moon  and the extrasolar planet  light and thermal radiation 
+main articles   and 
+small objects in the  also experience an orbital decay due to the forces applied by asymmetric radiation pressure ideally energy absorbed would equal  energy emitted at any given point resulting in no net force however the yarkovsky effect is the phenomenon that because absorption and radiation of heat are not instantaneous objects which are not terminally locked absorb sunlight energy on surfaces exposed to the sun but those surfaces do not re-emit much of that energy until after the object has rotated so that the emission is parallel to the object s orbit this results in a very small acceleration parallel to the orbital path yet one which can be significant for small objects over millions of years the poynting-robertson effect is a force opposing the object s velocity caused by asymmetric incidence of light i.e  for an object with prograde rotation these two effects will apply opposing but generally unequal forces gravitational radiation 
+main article  
+ is another mechanism of orbital decay it is negligible for orbits of planets and planetary satellites but is noticeable for systems of  as seen in observations of neutron star orbits stellar collision 
+further information  
+the coming together of two  when they lose energy and approach each other several things can cause the loss of energy including   and  the stars describe the path of a  as they approach each other this sometimes results in a merger of the two stars or the creation of a  the last several revolutions of the stars around each other take only a few seconds in the latter case mass concentration 
+further information  
+while not a direct cause of orbital decay uneven mass distributions  known as mascons  of the body being orbited can perturb orbits over time and extreme distributions can cause orbits to be highly unstable the resulting unstable orbit can mutate into an orbit where one of the direct causes of orbital decay can take place references 
+
+
+
+ 
+  ligo retrieved 1 may 2015 
+
+
+
+
+
+
+
+
+
+
+
+
+
+

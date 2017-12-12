@@ -1,0 +1,339 @@
+ electric  redirects here for other uses see  and  
+
+
+
+ is one of the most dramatic effects of electricity 
+
+
+electricity is the set of  phenomena associated with the presence and motion of  although initially considered a phenomenon separate from  since the development of  both are recognized as part of a single phenomenon   various common phenomena are related to electricity including     and many others the presence of an electric charge which can be either positive or negative produces an  on the other hand the movement of electric charges which is known as  produces a  when a charge is placed in a location with a non-zero electric field a force will act on it the magnitude of this force is given by  thus if that charge were to move the electric field would be doing  on the electric charge thus we can speak of  at a certain point in space which is equal to the work done by an external agent in carrying a unit of positive charge from an arbitrarily chosen reference point to that point without any acceleration and is typically measured in  electricity is at the heart of many modern technologies being used for 
+
+ where electric current is used to energise equipment 
+ which deals with  that involve  such as    and  and associated passive interconnection technologies 
+electrical phenomena have been studied since antiquity though progress in theoretical understanding remained slow until the seventeenth and eighteenth centuries even then practical applications for electricity were few and it would not be until the late nineteenth century that  were able to put it to industrial and residential use the rapid expansion in electrical technology at this time transformed industry and society becoming a driving force for the  electricity s extraordinary versatility means it can be put to an almost limitless set of applications which include     and  electrical power is now the backbone of modern industrial society 
+
+
+contents
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+history
+
+
+
+
+ the earliest known researcher into electricity
+
+
+main articles   and 
+see also  
+long before any knowledge of electricity existed people were aware of shocks from   texts dating from  referred to these fish as the  thunderer of the   and described them as the  protectors  of all other fish electric fish were again reported millennia later by   and  and  several ancient writers such as  and  attested to the numbing effect of  delivered by  and  and knew that such shocks could travel along conducting objects patients suffering from ailments such as  or  were directed to touch electric fish in the hope that the powerful jolt might cure them possibly the earliest and nearest approach to the discovery of the identity of  and electricity from any other source is to be attributed to the  who before the 15th century had the  word for lightning raad   applied to the  ancient cultures around the  knew that certain objects such as rods of  could be rubbed with cat s fur to attract light objects like feathers  made a series of observations on  around 600 bce from which he believed that friction rendered amber  in contrast to minerals such as  which needed no rubbing thales was incorrect in believing the attraction was due to a magnetic effect but later science would prove a link between magnetism and electricity according to a controversial theory the  may have had knowledge of  based on the 1936 discovery of the  which resembles a  though it is uncertain whether the artifact was electrical in nature 
+
+
+
+ conducted extensive research on electricity in the 18th century as documented by   1767  history and present status of electricity with whom franklin carried on extended correspondence 
+
+electricity would remain little more than an intellectual curiosity for millennia until 1600 when the english scientist  made a careful study of electricity and magnetism distinguishing the  effect from static electricity produced by rubbing amber he coined the  word electricus  of amber  or  like amber  from  elektron the  word for  amber  to refer to the property of attracting small objects after being rubbed this association gave rise to the english words  electric  and  electricity  which made their first appearance in print in  s  of 1646 further work was conducted by    and  in the 18th century  conducted extensive research in electricity selling his possessions to fund his work in june 1752 he is reputed to have attached a metal key to the bottom of a dampened kite string and flown the kite in a storm-threatened sky a succession of sparks jumping from the key to the back of his hand showed that  was indeed electrical in nature he also explained the apparently paradoxical behavior of the  as a device for storing large amounts of electrical charge in terms of electricity consisting of both positive and negative charges 
+
+
+
+ s discoveries formed the foundation of electric motor technology
+
+
+in 1791  published his discovery of  demonstrating that electricity was the medium by which  passed signals to the muscles  s battery or  of 1800 made from alternating layers of zinc and copper provided scientists with a more reliable source of electrical energy than the  previously used the recognition of  the unity of electric and magnetic phenomena is due to  and  in 18191820  invented the  in 1821 and  mathematically analysed the electrical circuit in 1827 electricity and magnetism  and light  were definitively linked by  in particular in his   in 1861 and 1862 while the early 19th century had seen rapid progress in electrical science the late 19th century would see the greatest progress in  through such people as             and  electricity turned from a scientific curiosity into an essential tool for modern life becoming a driving force of the  in 1887  843844 discovered that  illuminated with ultraviolet light create  more easily in 1905  published a paper that explained experimental data from the  as being the result of light energy being carried in discrete quantized packets energising electrons this discovery led to the  revolution einstein was awarded the  in 1921 for  his discovery of the law of the photoelectric effect  the photoelectric effect is also employed in  such as can be found in  and this is frequently used to make electricity commercially the first  was the   first used in the 1900s in radio receivers a whisker-like wire is placed lightly in contact with a solid crystal  such as a  crystal  in order to detect a  signal by the contact junction effect in a solid-state component the  is confined to solid elements and compounds engineered specifically to switch and amplify it current flow can be understood in two forms  as negatively charged  and as positively charged electron deficiencies called  these charges and holes are understood in terms of quantum physics the building material is most often a crystalline  the solid-state device came into its own with the invention of the  in 1947 common solid-state devices include   chips and  a specialized type of ram called  is used in  and more recently  to replace mechanically rotating magnetic disc  solid state devices became prevalent in the 1950s and the 1960s during the transition from  to semiconductor     ic  and the   led  concepts
+electric charge
+main article  
+see also    and 
+
+
+
+
+charge on a  causes the leaves to visibly repel each other
+
+
+the presence of charge gives rise to an electrostatic force  charges exert a  on each other an effect that was known though not understood in antiquity 457 a lightweight ball suspended from a string can be charged by touching it with a glass rod that has itself been charged by rubbing with a cloth if a similar ball is charged by the same glass rod it is found to repel the first  the charge acts to force the two balls apart two balls that are charged with a rubbed amber rod also repel each other however if one ball is charged by the glass rod and the other by an amber rod the two balls are found to attract each other these phenomena were investigated in the late eighteenth century by  who deduced that charge manifests itself in two opposing forms this discovery led to the well-known axiom  like-charged objects repel and opposite-charged objects attract the force acts on the charged particles themselves hence charge has a tendency to spread itself as evenly as possible over a conducting surface the magnitude of the electromagnetic force whether attractive or repulsive is given by  which relates the force to the product of the charges and has an  relation to the distance between them 35 the electromagnetic force is very strong second only in strength to the  but unlike that force it operates over all distances in comparison with the much weaker  the electromagnetic force pushing two electrons apart is 1042 times that of the  attraction pulling them together study has shown that the origin of charge is from certain types of  which have the property of electric charge electric charge gives rise to and interacts with the  one of the four  of nature the most familiar carriers of electrical charge are the  and  experiment has shown charge to be a  that is the net charge within an  will always remain constant regardless of any changes taking place within that system within the system charge may be transferred between bodies either by direct contact or by passing along a conducting material such as a wire 25 the informal term  refers to the net presence  or  imbalance  of charge on a body usually caused when dissimilar materials are rubbed together transferring charge from one to the other the charge on electrons and protons is opposite in sign hence an amount of charge may be expressed as being either negative or positive by convention the charge carried by electrons is deemed negative and that by protons positive a custom that originated with the work of  the amount of charge is usually given the symbol q and expressed in   each electron carries the same charge of approximately 1.60221019 the proton has a charge that is equal and opposite and thus  1.60221019 coulomb charge is possessed not just by  but also by  each  bearing an equal and opposite charge to its corresponding particle charge can be measured by a number of means an early instrument being the  which although still in use for classroom demonstrations has been superseded by the electronic  25
+electric current
+main article  
+the movement of electric charge is known as an  the intensity of which is usually measured in  current can consist of any moving charged particles  most commonly these are electrons but any charge in motion constitutes a current electric current can flow through some things  but will not flow through an  by historical convention a positive current is defined as having the same direction of flow as any positive charge it contains or to flow from the most positive part of a circuit to the most negative part current defined in this manner is called  the motion of negatively charged electrons around an  one of the most familiar forms of current is thus deemed positive in the opposite direction to that of the electrons however depending on the conditions an electric current can consist of a flow of  in either direction or even in both directions at once the positive-to-negative convention is widely used to simplify this situation 
+
+
+
+an  provides an energetic demonstration of electric current
+
+
+the process by which electric current passes through a material is termed  and its nature varies with that of the charged particles and the material through which they are travelling examples of electric currents include metallic conduction where electrons flow through a  such as metal and  where   charged   flow through liquids or through  such as electrical sparks while the particles themselves can move quite slowly sometimes with an average  only fractions of a millimetre per second 17 the  that drives them itself propagates at close to the  enabling electrical signals to pass rapidly along wires current causes several observable effects which historically were the means of recognising its presence that water could be decomposed by the current from a voltaic pile was discovered by  and  in 1800 a process now known as  their work was greatly expanded upon by  in 1833 current through a  causes localised heating an effect  studied mathematically in 1840 2324 one of the most important discoveries relating to current was made accidentally by  in 1820 when while preparing a lecture he witnessed the current in a wire disturbing the needle of a magnetic compass he had discovered  a fundamental interaction between electricity and magnetics the level of electromagnetic emissions generated by  is high enough to produce  which can be detrimental to the workings of adjacent equipment in engineering or household applications current is often described as being either   dc  or   ac  these terms refer to how the current varies in time direct current as produced by example from a  and required by most  devices is a unidirectional flow from the positive part of a circuit to the negative 11 if as is most common this flow is carried by electrons they will be travelling in the opposite direction alternating current is any current that reverses direction repeatedly  almost always this takes the form of a  206207 alternating current thus pulses back and forth within a conductor without the charge moving any net distance over time the time-averaged value of an alternating current is zero but it delivers energy in first one direction and then the reverse alternating current is affected by electrical properties that are not observed under  direct current such as  and  223225 these properties however can become important when circuitry is subjected to  such as when first energised electric field
+main article  
+see also  
+the concept of the electric  was introduced by  an electric field is created by a charged body in the space that surrounds it and results in a force exerted on any other charges placed within the field the electric field acts between two charges in a similar manner to the way that the gravitational field acts between two  and like it extends towards infinity and shows an inverse square relationship with distance however there is an important difference gravity always acts in attraction drawing two masses together while the electric field can result in either attraction or repulsion since large bodies such as planets generally carry no net charge the electric field at a distance is usually zero thus gravity is the dominant force at distance in the universe despite being much weaker 
+
+
+
+field lines emanating from a positive charge above a plane conductor
+
+
+an electric field generally varies in space and its strength at any one point is defined as the force  per unit charge  that would be felt by a stationary negligible charge if placed at that point 469470 the conceptual charge termed a   must be vanishingly small to prevent its own electric field disturbing the main field and must also be stationary to prevent the effect of  as the electric field is defined in terms of  and force is a  so it follows that an electric field is also a vector having both  and  specifically it is a  469470
+the study of electric fields created by stationary charges is called  the field may be visualised by a set of imaginary lines whose direction at any point is the same as that of the field this concept was introduced by faraday whose term   still sometimes sees use the field lines are the paths that a point positive charge would seek to make as it was forced to move within the field  they are however an imaginary concept with no physical existence and the field permeates all the intervening space between the lines field lines emanating from stationary charges have several key properties  first that they originate at positive charges and terminate at negative charges  second that they must enter any good conductor at right angles and third that they may never cross nor close in on themselves 479
+a hollow conducting body carries all its charge on its outer surface the field is therefore zero at all places inside the body 88 this is the operating principal of the  a conducting metal shell which isolates its interior from outside electrical effects the principles of electrostatics are important when designing items of  equipment there is a finite limit to the electric field strength that may be withstood by any medium beyond this point  occurs and an  causes flashover between the charged parts air for example tends to arc across small gaps at electric field strengths which exceed 30kv per centimetre over larger gaps its breakdown strength is weaker perhaps 1kv per centimetre the most visible natural occurrence of this is  caused when charge becomes separated in the clouds by rising columns of air and raises the electric field in the air to greater than it can withstand the voltage of a large lightning cloud may be as high as 100mv and have discharge energies as great as 250kwh the field strength is greatly affected by nearby conducting objects and it is particularly intense when it is forced to curve around sharply pointed objects this principle is exploited in the  the sharp spike of which acts to encourage the lightning stroke to develop there rather than to the building it serves to protect 155
+electric potential
+main article  
+see also   and 
+
+
+
+
+a pair of  the  sign indicates the polarity of the potential difference between the battery terminals 
+
+the concept of electric potential is closely linked to that of the electric field a small charge placed within an electric field experiences a force and to have brought that charge to that point against the force requires  the electric potential at any point is defined as the energy required to bring a unit test charge from an  slowly to that point it is usually measured in  and one volt is the potential for which one  of work must be expended to bring a charge of one  from infinity 494498 this definition of potential while formal has little practical application and a more useful concept is that of  and is the energy required to move a unit charge between two specified points an electric field has the special property that it is  which means that the path taken by the test charge is irrelevant  all paths between two specified points expend the same energy and thus a unique value for potential difference may be stated 494498 the volt is so strongly identified as the unit of choice for measurement and description of electric potential difference that the term  sees greater everyday usage for practical purposes it is useful to define a common reference point to which potentials may be expressed and compared while this could be at infinity a much more useful reference is the  itself which is assumed to be at the same potential everywhere this reference point naturally takes the name  or  earth is assumed to be an infinite source of equal amounts of positive and negative charge and is therefore electrically unchargedand unchargeable electric potential is a  that is it has only magnitude and not direction it may be viewed as analogous to   just as a released object will fall through a difference in heights caused by a gravitational field so a charge will  fall  across the voltage caused by an electric field as relief maps show  marking points of equal height a set of lines marking points of equal potential  known as   may be drawn around an electrostatically charged object the equipotentials cross all lines of force at right angles they must also lie parallel to a  s surface otherwise this would produce a force that will move the charge carriers to even the potential of the surface the electric field was formally defined as the force exerted per unit charge but the concept of potential allows for a more useful and equivalent definition  the electric field is the local  of the electric potential usually expressed in voltspermetre the vector direction of the field is the line of greatest slope of potential and where the equipotentials lie closest together 60
+electromagnets
+main article  
+
+
+
+
+magnetic field circles around a current
+
+
+rsted s discovery in 1821 that a  existed around all sides of a wire carrying an electric current indicated that there was a direct relationship between electricity and magnetism moreover the interaction seemed different from gravitational and electrostatic forces the two forces of nature then known the force on the compass needle did not direct it to or away from the current-carrying wire but acted at right angles to it rsted s slightly obscure words were that  the electric conflict acts in a revolving manner  the force also depended on the direction of the current for if the flow was reversed then the force did too rsted did not fully understand his discovery but he observed the effect was reciprocal  a current exerts a force on a magnet and a magnetic field exerts a force on a current the phenomenon was further investigated by  who discovered that two parallel current-carrying wires exerted a force upon each other  two wires conducting currents in the same direction are attracted to each other while wires containing currents in opposite directions are forced apart the interaction is mediated by the magnetic field each current produces and forms the basis for the international  
+
+
+
+the electric motor exploits an important effect of electromagnetism  a current through a magnetic field experiences a force at right angles to both the field and current
+
+
+this relationship between magnetic fields and currents is extremely important for it led to michael faraday s invention of the  in 1821 faraday s  consisted of a  sitting in a pool of  a current was allowed through a wire suspended from a pivot above the magnet and dipped into the mercury the magnet exerted a tangential force on the wire making it circle around the magnet for as long as the current was maintained experimentation by faraday in 1831 revealed that a wire moving perpendicular to a magnetic field developed a potential difference between its ends further analysis of this process known as  enabled him to state the principle now known as  that the potential difference induced in a closed circuit is proportional to the rate of change of  through the loop exploitation of this discovery enabled him to invent the first  in 1831 in which he converted the mechanical energy of a rotating copper disc to electrical energy  was inefficient and of no use as a practical generator but it showed the possibility of generating electric power using magnetism a possibility that would be taken up by those that followed on from his work electrochemistry
+
+
+
+
+   showing his   to    in the early 19th century 
+
+main article  
+the ability of chemical reactions to produce electricity and conversely the ability of electricity to drive chemical reactions has a wide array of uses electrochemistry has always been an important part of electricity from the initial invention of the voltaic pile  have evolved into the many different types of batteries electroplating and electrolysis cells  is produced in vast quantities this way and many portable devices are electrically powered using rechargeable cells electric circuits
+main article  
+
+
+
+
+a basic  the  v on the left drives a  i around the circuit delivering  into the  r from the resistor the current returns to the source completing the circuit 
+
+an electric circuit is an interconnection of electric components such that electric charge is made to flow along a closed path  a circuit  usually to perform some useful task the components in an electric circuit can take many forms which can include elements such as     and   contain  usually  and typically exhibit  behaviour requiring complex analysis the simplest electric components are those that are termed  and   while they may temporarily store energy they contain no sources of it and exhibit linear responses to stimuli 1516
+the  is perhaps the simplest of passive circuit elements  as its name suggests it  the current through it dissipating its energy as heat the resistance is a consequence of the motion of charge through a conductor  in metals for example resistance is primarily due to collisions between electrons and ions  is a basic law of  stating that the current passing through a resistance is directly proportional to the potential difference across it the resistance of most materials is relatively constant over a range of temperatures and currents  materials under these conditions are known as  ohmic  the  the unit of resistance was named in honour of  and is symbolised by the greek letter  1 is the resistance that will produce a potential difference of one volt in response to a current of one amp 3035
+the  is a development of the leyden jar and is a device that can store charge and thereby storing electrical energy in the resulting field it consists of two conducting plates separated by a thin   layer  in practice thin metal foils are coiled together increasing the surface area per unit volume and therefore the  the unit of capacitance is the  named after  and given the symbol f  one farad is the capacitance that develops a potential difference of one volt when it stores a charge of one coulomb a capacitor connected to a voltage supply initially causes a current as it accumulates charge  this current will however decay in time as the capacitor fills eventually falling to zero a capacitor will therefore not permit a  current but instead blocks it 216220
+the  is a conductor usually a coil of wire that stores energy in a magnetic field in response to the current through it when the current changes the magnetic field does too  a voltage between the ends of the conductor the induced voltage is proportional to the  of the current the constant of proportionality is termed the  the unit of inductance is the  named after  a contemporary of faraday one henry is the inductance that will induce a potential difference of one volt if the current through it changes at a rate of one ampere per second the inductor s behaviour is in some regards converse to that of the capacitor  it will freely allow an unchanging current but opposes a rapidly changing one 226229
+electric power
+main article  
+electric power is the rate at which  is transferred by an  the  unit of  is the  one  per  electric power like  is the rate of doing  measured in  and represented by the letter p the term wattage is used colloquially to mean  electric power in watts  the electric power in  produced by an electric current i consisting of a charge of q coulombs every t seconds passing through an    difference of v is
+
+
+
+where
+
+q is electric charge in 
+t is time in seconds
+i is electric current in 
+v is electric potential or voltage in 
+
+ is often done with  but can also be supplied by chemical sources such as  or by other means from a wide variety of sources of energy electric power is generally supplied to businesses and homes by the  electricity is usually sold by the   3.6 mj  which is the product of power in kilowatts multiplied by running time in hours electric utilities measure power using  which keep a running total of the electric energy delivered to a customer unlike fossil fuels electricity is a low  form of energy and can be converted into motion or many other forms of energy with high efficiency electronics
+main article  
+
+
+
+
+ electronic components
+
+
+electronics deals with  that involve  such as      and  and associated passive interconnection technologies the  behaviour of active components and their ability to control electron flows makes amplification of weak signals possible and electronics is widely used in   and  the ability of electronic devices to act as  makes digital information processing possible interconnection technologies such as  electronics packaging technology and other varied forms of communication infrastructure complete circuit functionality and transform the mixed components into a regular working  today most electronic devices use  components to perform electron control the study of semiconductor devices and related technology is considered a branch of  whereas the design and construction of  to solve practical problems come under  electromagnetic wave
+main article  
+faraday s and ampre s work showed that a time-varying magnetic field acted as a source of an electric field and a time-varying electric field was a source of a magnetic field thus when either field is changing in time then a field of the other is necessarily induced 696700 such a phenomenon has the properties of a  and is naturally referred to as an  electromagnetic waves were analysed theoretically by  in 1864 maxwell developed a set of equations that could unambiguously describe the interrelationship between electric field magnetic field electric charge and electric current he could moreover prove that such a wave would necessarily travel at the  and thus light itself was a form of electromagnetic radiation  which unify light fields and charge are one of the great milestones of theoretical physics 696700
+thus the work of many researchers enabled the use of electronics to convert signals into  oscillating currents and via suitably shaped conductors electricity permits the transmission and reception of these signals via radio waves over very long distances production and uses
+generation and transmission
+main article  
+see also   and 
+
+
+
+
+early 20th-century alternator made in   in the power generating hall of a  station  photograph by  19051915  
+
+in the 6th century bc the greek philosopher  experimented with amber rods and these experiments were the first studies into the production of electrical energy while this method now known as the  can lift light objects and generate sparks it is extremely inefficient it was not until the invention of the voltaic pile in the eighteenth century that a viable source of electricity became available the voltaic pile and its modern descendant the  store energy chemically and make it available on demand in the form of electrical energy the battery is a versatile and very common power source which is ideally suited to many applications but its energy storage is finite and once discharged it must be disposed of or recharged for large electrical demands electrical energy must be generated and transmitted continuously over conductive transmission lines electrical power is usually generated by electro-mechanical  driven by  produced from  combustion or the heat released from nuclear reactions  or from other sources such as  extracted from wind or flowing water the modern  invented by  in 1884 today generates about 80 percent of the  in the world using a variety of heat sources such generators bear no resemblance to faraday s homopolar disc generator of 1831 but they still rely on his electromagnetic principle that a conductor linking a changing magnetic field induces a potential difference across its ends the invention in the late nineteenth century of the  meant that electrical power could be transmitted more efficiently at a higher voltage but lower current efficient  meant in turn that electricity could be generated at centralised  where it benefited from  and then be despatched relatively long distances to where it was needed 
+
+
+
+ is of increasing importance in many countries
+
+
+since electrical energy cannot easily be stored in quantities large enough to meet demands on a national scale at all times exactly as much must be produced as is required this requires  to make careful predictions of their electrical loads and maintain constant co-ordination with their power stations a certain amount of generation must always be held in  to cushion an electrical grid against inevitable disturbances and losses demand for electricity grows with great rapidity as a nation modernises and its economy develops the united states showed a 12 increase in demand during each year of the first three decades of the twentieth century a rate of growth that is now being experienced by emerging economies such as those of india or china historically the growth rate for electricity demand has outstripped that for other forms of energy 16
+ have led to an increased focus on generation from  in particular from  and  while debate can be expected to continue over the environmental impact of different means of electricity production its final form is relatively clean 89
+applications
+
+
+
+
+the  an early application of electricity operates by   the passage of  through  generating heat
+
+
+electricity is a very convenient way to transfer energy and it has been adapted to a huge and growing number of uses the invention of a practical  in the 1870s led to  becoming one of the first publicly available applications of electrical power although electrification brought with it its own dangers replacing the naked flames of gas lighting greatly reduced fire hazards within homes and factories public utilities were set up in many cities targeting the burgeoning market for electrical lighting in the late 20th century and in modern times the trend has started to flow in the direction of deregulation in the electrical power sector the resistive  effect employed in filament light bulbs also sees more direct use in  while this is versatile and controllable it can be seen as wasteful since most electrical generation has already required the production of heat at a power station a number of countries such as denmark have issued legislation restricting or banning the use of resistive electric heating in new buildings electricity is however still a highly practical energy source for heating and  with   representing a growing sector for electricity demand for heating and cooling the effects of which electricity utilities are increasingly obliged to accommodate electricity is used within  and indeed the  demonstrated commercially in 1837 by  and  was one of its earliest applications with the construction of first  and then  telegraph systems in the 1860s electricity had enabled communications in minutes across the globe  and  have taken a share of the market for communications systems but electricity can be expected to remain an essential part of the process the effects of electromagnetism are most visibly employed in the  which provides a clean and efficient means of motive power a stationary motor such as a  is easily provided with a supply of power but a motor that moves with its application such as an  is obliged to either carry along a power source such as a battery or to collect current from a sliding contact such as a  electronic devices make use of the  perhaps one of the most important inventions of the twentieth century and a fundamental building block of all modern circuitry a modern  may contain several billion miniaturised transistors in a region only a few centimetres square electricity is also used to fuel public transportation including electric buses and trains 
+electricity and the natural world
+physiological effects
+main article  
+a voltage applied to a human body causes an electric current through the tissues and although the relationship is non-linear the greater the voltage the greater the current the threshold for perception varies with the supply frequency and with the path of the current but is about 0.1ma to 1ma for mains-frequency electricity though a current as low as a microamp can be detected as an  effect under certain conditions if the current is sufficiently high it will cause muscle contraction  of the heart and  the lack of any visible sign that a conductor is electrified makes electricity a particular hazard the pain caused by an electric shock can be intense leading electricity at times to be employed as a method of  death caused by an electric shock is referred to as  electrocution is still the means of  in some jurisdictions though its use has become rarer in recent times electrical phenomena in nature
+
+
+
+
+the electric eel electrophorus electricus
+
+
+main article  
+electricity is not a human invention and may be observed in several forms in nature a prominent manifestation of which is  many interactions familiar at the macroscopic level such as   or  are due to interactions between electric fields on the atomic scale the  is thought to arise from a  of circulating currents in the planet s core certain crystals such as  or even  generate a potential difference across their faces when subjected to external pressure this phenomenon is known as  from the  piezein   meaning to press and was discovered in 1880 by  and  the effect is reciprocal and when a piezoelectric material is subjected to an electric field a small change in physical dimensions takes place some organisms such as  are able to detect and respond to changes in electric fields an ability known as  while others termed  are able to generate voltages themselves to serve as a predatory or defensive weapon the order  of which the best known example is the  detect or stun their prey via high voltages generated from modified muscle cells called  all animals transmit information along their cell membranes with voltage pulses called  whose functions include communication by the nervous system between  and  an electric shock stimulates this system and causes muscles to contract action potentials are also responsible for coordinating activities in certain plants cultural perception
+in 1850  asked the scientist  why electricity was valuable faraday answered one day sir you may tax it in the 19th and early 20th century electricity was not part of the everyday life of many people even in the industrialised  the  of the time accordingly often depicts it as a mysterious quasi-magical force that can slay the living revive the dead or otherwise bend the laws of nature this attitude began with the 1771 experiments of  in which the legs of dead frogs were shown to twitch on application of   revitalization  or resuscitation of apparently dead or drowned persons was reported in the medical literature shortly after galvani s work these results were known to  when she authored   1819  although she does not name the method of revitalization of the monster the revitalization of monsters with electricity later became a stock theme in horror films as the public familiarity with electricity as the lifeblood of the  grew its wielders were more often cast in a positive light such as the workers who  finger death at their gloves  end as they piece and repiece the living wires  in  s 1907 poem  electrically powered vehicles of every sort featured large in adventure stories such as those of  and the  books the masters of electricity whether fictional or realincluding scientists such as   or were popularly conceived of as having wizard-like powers with electricity ceasing to be a novelty and becoming a necessity of everyday life in the later half of the 20th century it required particular attention by popular culture only when it stops flowing an event that usually signals disaster the people who keep it flowing such as the nameless hero of s song    1968  are still often cast as heroic wizard-like figures see also
+
+
+
+
+
+
+
+ connects the direction of an electric current and its associated magnetic currents  the potential energy of a system of charges
+ the sale of electrical energy
+ an analogy between the flow of water and electric current
+
+notes
+
+
+
+ jones d.a  1991   electrical engineering  the backbone of society  proceedings of the iee  science measurement and technology 138  1  110  
+ moller peter  kramer bernd  december 1991   review  electric fish  bioscience american institute of biological sciences 41  11  7946    
+^    bullock theodore h  2005  electroreception springer pp.57 
+^   morris simon c  2003  life s solution  inevitable humans in a lonely universe cambridge university press pp.182185 
+ the   a library of universal knowledge  1918    encyclopedia americana corp
+^   stewart joseph  2001  intermediate electromagnetic theory world scientific p.50 
+ simpson brian  2003  electrical stimulation and the relief of pain elsevier health sciences pp.67 
+ diogenes laertius r.d hicks ed  perseus digital library tufts university retrieved 5 february 2017 aristotle and hippias affirm that arguing from the magnet and from amber he attributed a soul or life even to inanimate objects  aristotle daniel c stevenson ed  the internet classics archive translated by j.a smith retrieved 5 february 2017 thales too to judge from what is recorded about him seems to have held soul to be a motive force since he said that the magnet has a soul in it because it moves the iron  frood arran  27 february 2003   bbc retrieved 2008-02-16
+ baigrie brian  2006  electricity and magnetism  a historical perspective greenwood press pp.78 
+ chalmers gordon  1937   the lodestone and the understanding of matter in seventeenth century england  philosophy of science 4  1  7595  
+^    guarnieri m  2014   electricity in the age of enlightenment  ieee industrial electronics magazine 8  3  6063    srodes james  2002  franklin  the essential founding father regnery publishing pp.9294  it is uncertain if franklin personally carried out this experiment but it is popularly attributed to him    1987    pdf  dover publications 
+ riskin jessica  1998    pdf  p.327
+^   guarnieri m  2014   the big jump from the legs of a frog  ieee industrial electronics magazine 8  4  5961 69   ^    kirby richard s  1990  engineering in history courier dover publications pp.331333 
+ berkson william  1974   p.148 routledge 1974
+ markovi dragana  archived from  on 2007-11-19 retrieved 2007-12-09
+^           sears francis  et al  1982  university physics sixth edition addison wesley 
+ hertz heinrich  1887   ueber den einfluss des ultravioletten lichtes auf die electrische entladung   267  8  s 9831000       nobel foundation retrieved 2013-03-16   the free dictionary
+ john sydney blakemore solid state physics pp.13 cambridge university press 1985   richard c jaeger travis n blalock microelectronic circuit design pp.4647 mcgraw-hill professional 2003    the repulsive force between two small spheres charged with the same type of electricity is inversely proportional to the square of the distance between the centres of the two spheres  charles-augustin de coulomb histoire de l academie royal des sciences paris 1785 ^        duffin w.j  1980  electricity and magnetism 3rd edition mcgraw-hill 
+ national research council  1998  physics through the 1990s national academies press pp.215216 
+^   umashankar korada  1989  introduction to engineering electromagnetic fields world scientific pp.7779 
+^   hawking stephen  1988  a brief history of time bantam press p.77 
+ trefil james  2003  the nature of science  an az guide to the laws and principles governing our universe houghton mifflin books p.74 
+ shectman jonathan  2003  groundbreaking scientific experiments inventions and discoveries of the 18th century greenwood press pp.8791 
+ sewell tyson  1902  the elements of electrical engineering lockwood p.18 the q originally stood for  quantity of electricity  the term  electricity  now more commonly expressed as  charge   close frank  2007  the new cosmic onion  quarks and the nature of the universe crc press p.51 
+ shock and awe  the story of electricity  jim al-khalili bbc horizon
+ ward robert  1960  introduction to electrical engineering prentice-hall p.18
+ solymar l  1984  lectures on electromagnetic theory oxford university press p.140 
+^   berkson william  1974  fields of force  the development of a world view from faraday to einstein routledge p.370  accounts differ as to whether this was before during or after a lecture   arc suppression technologies april 2011 retrieved march 7 2012 ^    bird john  2007  electrical and electronic principles and technology 3rd edition newnes 
+ almost all electric fields vary in space an exception is the electric field surrounding a planar conductor of infinite extent the field of which is uniform ^   morely   hughes principles of electricity fifth edition p.73 
+ naidu m.s  kamataru v  1982  high voltage engineering tata mcgraw-hill p.2 
+ naidu m.s  kamataru v  1982  high voltage engineering tata mcgraw-hill pp.201202 
+   9 october 2002  oliver heaviside  the life work and times of an electrical genius of the victorian age jhu press   serway raymond a  2006  serway s college physics thomson brooks p.500 
+ saeli sue  macisaac dan  2007   the physics teacher 45  2  104     retrieved 2007-12-09
+ thompson silvanus p  2004  michael faraday  his life and work elibron classics p.79 
+^   morely   hughes principles of electricity fifth edition pp.9293
+^     archived from  on 2007-07-03 retrieved 2007-12-09
+^     alexander charles  sadiku matthew  2006  fundamentals of electric circuits  3 revised ed  mcgraw-hill 
+ environmental physics by clare smith 2001
+^   dell ronald  rand david  2001   understanding batteries  unknown royal society of chemistry 86  24   
+ mclaren peter g  1984  elementary electric power and machines ellis horwood pp.182183 
+^   patterson walter c  1999  transforming electricity  the coming generation of change earthscan pp.4448 
+ edison electric institute  archived from  on november 13 2007 retrieved 2007-12-08
+ edison electric institute  retrieved 2007-12-08
+ carbon sequestration leadership forum  archived from  on 2007-12-05 retrieved 2007-12-08
+ indexmundi  retrieved 2007-12-08
+^     1986  electricity in economic growth national academies press 
+ wald matthew  21 march 1990   new york times retrieved 2007-12-09
+ d alroy jones peter the consumer society  a history of american capitalism penguin books p.211
+  enpowered 2016-03-28  revelle charles and penelope  1992  the global environment  securing a sustainable future jones   bartlett p.298 
+ danish ministry of environment and energy  denmark s second national communication on climate change archived from  on january 8 2008 retrieved 2007-12-09
+ brown charles e  2002  power resources springer 
+ hojjati b  battles s   pdf  archived from   pdf  on 2008-02-16 retrieved 2007-12-09
+ herrick dennis f  2003  media management in the age of giants  business dynamics of journalism blackwell publishing 
+ das saswato r  2007-12-15   los angeles times
+  alternative energy news 2010-03-10
+^   tleis nasser  2008  power system modelling and fault analysis elsevier pp.552554 
+ grimnes sverre  2000  bioimpedance and bioelectricity basic academic press pp.301309 
+ lipschultz j.h  hilt m.l.j.h  2002  crime and local television news lawrence erlbaum associates p.95 
+ encrenaz thrse  2004  the solar system springer p.217 
+^   lima-de-faria jos  buerger martin j  1990  historical atlas of crystallography springer p.67 
+ ivancevic vladimir   tijana  2005  natural biodynamics world scientific p.602 
+^   kandel e  schwartz j  jessell t  2000  principles of neural science mcgraw-hill professional pp.2728 
+ davidovits paul  2007  physics in biology and medicine academic press pp.204205 
+ jackson mark  4 november 2013   the conversation
+ van riper a bowdoin  2002  science in popular culture  a reference guide westport   p.69 
+^         van riper op.cit p 71 
+
+
+references
+
+nahvi mahmood  joseph edminister  1965  electric circuits mcgraw-hill 
+hammond percy  1981   electromagnetism for engineers  nature pergamon 168  4262  4     
+morely a  hughes e  1994  principles of electricity  5th ed  longman 
+naidu m.s  kamataru v  1982  high voltage engineering tata mcgraw-hill 
+nilsson james  riedel susan  2007  electric circuits prentice hall 
+patterson walter c  1999  transforming electricity  the coming generation of change earthscan 
+benjamin p  1898   new york  j wiley   sons 
+external links
+ media related to  at wikimedia commons
+
+
+ chapter from  book and  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

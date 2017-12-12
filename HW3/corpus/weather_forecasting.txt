@@ -1,0 +1,282 @@
+ weather forecaster  redirects here for other uses see  
+
+
+
+forecast of surface pressures five days into the future for the  north america and the 
+
+
+weather forecasting is the application of science and technology to predict the conditions of the  for a given location and time human beings have attempted to predict the  informally for  and formally since the  weather forecasts are made by collecting quantitative  about the current state of the atmosphere at a given place and using  to project how the atmosphere will change once a human-only endeavor based mainly upon changes in  current weather conditions and sky condition weather forecasting now relies on  that take many atmospheric factors into account human input is still required to pick the best possible forecast model to base the forecast upon which involves pattern recognition skills  knowledge of model performance and knowledge of model biases the inaccuracy of forecasting is due to the  nature of the atmosphere the massive computational power required to solve the equations that describe the atmosphere the error involved in measuring the initial conditions and an incomplete understanding of atmospheric processes hence forecasts become less accurate as the difference between current time and the time for which the forecast is being made  the range of the forecast  increases the use of ensembles and model consensus help narrow the error and pick the most likely outcome there are a variety of end uses to weather forecasts weather warnings are important forecasts because they are used to protect life and property forecasts based on  and  are important to  and therefore to traders within commodity markets temperature forecasts are used by utility companies to estimate demand over coming days on an everyday basis people use weather forecasts to determine what to wear on a given day since outdoor activities are severely curtailed by heavy rain snow and  forecasts can be used to plan activities around these events and to plan ahead and survive them in 2014 the us spent  5.1 billion on weather forecasting 
+
+
+contents
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+history
+for millennia people have tried to forecast the weather in 650bc the  predicted the weather from cloud patterns as well as  in about 350bc  described weather patterns in  later  compiled a book on weather forecasting called the book of signs  weather prediction lore extends at least as far back as 300bc which was also around the same time ancient  developed weather-prediction methods in new testament times christ himself referred to deciphering and understanding local weather patterns by saying  when evening comes you say  it will be fair weather for the sky is red  and in the morning  today it will be stormy for the sky is red and overcast  you know how to interpret the appearance of the sky but you cannot interpret the signs of the times 
+in 904ad  s nabatean agriculture discussed the weather forecasting of atmospheric changes and signs from the planetary astral alterations  signs of rain based on observation of the   and weather forecasts based on the movement of winds ancient weather forecasting methods usually relied on observed patterns of events also termed pattern recognition for example it might be observed that if the sunset was particularly red the following day often brought fair weather this experience accumulated over the generations to produce  however not all  of these predictions prove reliable and many of them have since been found not to stand up to rigorous statistical testing modern methods 
+
+
+
+
+the royal charter sank in an 1859 storm stimulating the establishment of modern weather forecasting 
+
+it was not until the invention of the  in 1835 that the modern age of weather forecasting began before that the fastest that distant weather reports could travel was around 100 miles per day  160km d  but was more typically 4075 miles per day  60120km day   whether by land or by sea  by the late 1840s the telegraph allowed reports of weather conditions from a wide area to be received almost instantaneously allowing forecasts to be made from knowledge of weather conditions further  the two men credited with the birth of forecasting as a science were officer of the   and his   both were influential men in  naval and governmental circles and though ridiculed in the press at the time their work gained scientific credence was accepted by the  and formed the basis for all of today s weather forecasting knowledge beaufort developed the  and weather notation coding which he was to use in his journals for the remainder of his life he also promoted the development of reliable tide tables around british shores and with his friend  expanded weather record-keeping at 200 british  stations robert fitzroy was appointed in 1854 as chief of a new department within the  to deal with the collection of weather data at sea as a service to  this was the forerunner of the modern  all ship captains were tasked with collating data on the weather and computing it with the use of tested instruments that were loaned for this purpose 
+
+
+
+weather map of europe december 10 1887 
+
+a storm in 1859 that caused the loss of the  inspired fitzroy to develop charts to allow predictions to be made which he called  forecasting the weather  thus coining the term  weather forecast  fifteen land stations were established to use the new  to transmit to him daily reports of weather at set times leading to the first gale warning service his warning service for shipping was initiated in february 1861 with the use of  the first daily weather forecasts were published in  in 1861 in the following year a system was introduced of hoisting storm warning cones at the principal ports when a gale was expected the  weather book  which fitzroy published in 1863 was far in advance of the scientific opinion of the time as the electric telegraph network expanded allowing for the more rapid dissemination of warnings a national observational network was developed which could then be used to provide synoptic analyses instruments to continuously record variations in meteorological parameters using  were supplied to the observing stations from   these cameras had been invented by  in 1845 and his  had earlier been used by fitzroy to convey accurate information it soon became necessary to have a standard vocabulary describing clouds  this was achieved by means of a series of classifications first achieved by  in 1802 and standardized in the  of 1896 numerical prediction 
+main article  
+it was not until the 20th century that advances in the understanding of atmospheric physics led to the foundation of modern  in 1922 english scientist  published  weather prediction by numerical process  after finding notes and derivations he worked on as an ambulance driver in world war i he described therein how small terms in the prognostic fluid dynamics equations governing atmospheric flow could be neglected and a finite differencing scheme in time and space could be devised to allow numerical prediction solutions to be found richardson envisioned a large auditorium of thousands of people performing the calculations and passing them to others however the sheer number of calculations required was too large to be completed without the use of computers and the size of the grid and time steps led to unrealistic results in deepening systems it was later found through numerical analysis that this was due to  the first computerised weather forecast was performed by a team composed of american meteorologists  philip thompson larry gates and norwegian meteorologist  applied mathematician  and  programmer  practical use of numerical weather prediction began in 1955 spurred by the development of programmable electronic  broadcasts 
+
+
+
+
+  above  presented the first in-vision forecast on january 11 1954 for the bbc 
+
+the first ever daily weather forecasts were published in  on august 1 1861 and the first  were produced later in the same year in 1911 the  began issuing the first marine weather forecasts via radio transmission these included gale and storm warnings for areas around great britain in the united states the first public radio forecasts were made in 1925 by edward b  e.b  rideout on  the edison electric illuminating station in boston rideout came from the  as did  weather forecaster g harold noyes in 1931 the world s first  weather forecasts including the use of weather maps were experimentally broadcast by the  in 1936 this was brought into practice in 1949 after   gave the first weather forecast while being televised in front of the map in 1954 in america experimental television forecasts were made by james c fidler in cincinnati in either 1940 or 1947 on the  in the late 1970s and early 80s  the first weatherman on abc-tv s  pioneered the use of on-screen  information and  for television forecasts coleman was a co-founder of   twc  in 1982 twc is now a 24-hour cable network some weather channels have started broadcasting on  such as  and  to reach more viewers one meteorologist jeff matthews transformed the medium from forecasting live during television broadcasts to forecasting live on periscope under the name of   becoming the first meteorologist to deliver daily forecasts on a life-streaming application...and thus making weather forecasting interactive for the public how models create forecasts 
+
+
+
+
+an example of 500   and absolute  prediction from a numerical weather prediction model
+
+
+main article  
+the basic idea of numerical weather prediction is to sample the state of the fluid at a given time and use the equations of  and  to estimate the state of the fluid at some time in the future the main inputs from country-based weather services are surface observations from automated  at ground level over land and from weather buoys at sea the  acts to standardize the instrumentation observing practices and timing of these observations worldwide stations either report hourly in  reports or every six hours in  reports sites launch  which rise through the depth of the  and well into the  data from  are used in areas where traditional data sources are not available compared with similar data from radiosondes the satellite data has the advantage of global coverage however at a lower accuracy and resolution  provide information on precipitation location and intensity which can be used to estimate precipitation accumulations over time additionally if a   is used then wind speed and direction can be determined 
+
+
+
+modern weather predictions aid in timely evacuations and potentially save lives and prevent property damage
+
+
+commerce provides  along aircraft routes and ship reports along shipping routes research flights using  fly in and around weather systems of interest such as  reconnaissance aircraft are also flown over the open oceans during the cold season into systems that cause significant uncertainty in forecast guidance or are expected to be of high impact 37 days into the future over the downstream continent models are initialized using this observed data the irregularly spaced observations are processed by  and objective analysis methods which perform quality control and obtain values at locations usable by the model s mathematical algorithms  usually an evenly spaced grid  the data are then used in the model as the starting point for a forecast commonly the set of equations used to predict the known as the physics and dynamics of the atmosphere are called  these equations are initialized from the analysis data and rates of change are determined the rates of change predict the state of the atmosphere a short time into the future the equations are then applied to this new atmospheric state to find new rates of change and these new rates of change predict the atmosphere at a yet further time into the future this time stepping procedure is continually repeated until the solution reaches the desired forecast time the length of the time step is related to the distance between the points on the computational grid the length of the time step chosen within the model is related to the distance between the points on the computational grid and is chosen to maintain  time steps for global models are on the order of tens of minutes while time steps for regional models are between one and four minutes the global models are run at varying times into the future the  s  is run six days into the future the  model is run out to 10days into the future while the  model run by the  is run 16days into the future the visual output produced by a model solution is known as a  or prog the raw output is often modified before being presented as the forecast this can be in the form of statistical techniques to remove known  in the model or of adjustment to take into account consensus among other numerical weather forecasts mos or model output statistics is a technique used to interpret numerical model output and produce site-specific guidance this guidance is presented in coded numerical form and can be obtained for nearly all national weather service reporting stations in the united states as proposed by  in 1963 long range forecasts those made at a range of two weeks or more are impossible to definitively predict the state of the atmosphere owing to the  of the  equations involved in numerical models extremely small errors in initial values double roughly every five days for variables such as temperature and wind velocity essentially a model is a computer program that produces  information for future times at given locations and altitudes within any modern model is a set of equations known as the primitive equations used to predict the future state of the atmosphere these equationsalong with the are used to evolve the   and   and the   of the atmosphere through time additional transport equations for pollutants and other  are included in some primitive-equation mesoscale models as well the equations used are  partial differential equations which are impossible to solve exactly through analytical methods with the exception of a few idealized cases therefore numerical methods obtain approximate solutions different models use different solution methods  some global models use  for the horizontal dimensions and  for the vertical dimension while regional models and other global models usually use finite-difference methods in all three dimensions techniques
+the simplest method of forecasting the weather persistence relies upon today s conditions to forecast the conditions tomorrow this can be a valid way of forecasting the weather when it is in a steady state such as during the summer season in the tropics this method of forecasting strongly depends upon the presence of a stagnant weather pattern therefore when in a fluctuating weather pattern this method of forecasting becomes inaccurate it can be useful in both short range forecasts and  use of a barometer 
+measurements of barometric pressure and the pressure tendency  the change of pressure over time  have been used in forecasting since the late 19th century the larger the change in pressure especially if more than 3.5  2.6  the larger the change in weather can be expected if the pressure drop is rapid a  is approaching and there is a greater chance of rain  are associated with improving weather conditions such as clearing skies looking at the sky 
+
+
+marestail shows moisture at high altitude signalling the later arrival of wet weather 
+
+along with pressure tendency the condition of the sky is one of the more important parameters used to forecast weather in mountainous areas thickening of cloud cover or the invasion of a higher cloud deck is indicative of rain in the near future at night high thin  can lead to  around the  which indicates an approach of a  and its associated  morning  portends fair conditions as rainy conditions are preceded by wind or clouds that prevent fog formation the approach of a line of  could indicate the approach of a  cloud-free skies are indicative of fair weather for the near future a  can indicate a coming tropical cyclone the use of sky cover in weather prediction has led to various  over the centuries nowcasting 
+main article  
+the forecasting of the weather within the next six hours is often referred to as nowcasting in this time range it is possible to forecast smaller features such as individual showers and thunderstorms with reasonable accuracy as well as other features too small to be resolved by a computer model a human given the latest radar satellite and observational data will be able to make a better analysis of the small scale features present and so will be able to make a more accurate forecast for the following few hours however there are now  using those data and mesoscale numerical model to make better extrapolation including evolution of those features in time use of forecast models 
+
+
+
+
+an example of 500   prediction from a numerical weather prediction model
+
+
+in the past the human forecaster was responsible for generating the entire weather forecast based upon available observations today human input is generally confined to choosing a model based on various parameters such as model biases and performance using a consensus of forecast models as well as ensemble members of the various models can help reduce forecast error however regardless how small the average error becomes with any individual system large errors within any particular piece of guidance are still possible on any given model run humans are required to interpret the model data into weather forecasts that are understandable to the end user humans can use knowledge of local effects that may be too small in size to be resolved by the model to add information to the forecast while increasing accuracy of forecast models implies that humans may no longer be needed in the forecast process at some point in the future there is currently still a need for human intervention analog technique 
+the analog technique is a complex way of making a forecast requiring the forecaster to remember a previous weather event that is expected to be mimicked by an upcoming event what makes it a difficult technique to use is that there is rarely a perfect analog for an event in the future some call this type of forecasting pattern recognition it remains a useful method of observing rainfall over data voids such as oceans as well as the forecasting of precipitation amounts and distribution in the future a similar technique is used in medium range forecasting which is known as teleconnections when systems in other locations are used to help pin down the location of another system within the surrounding regime an example of teleconnections are by using   enso  related phenomena quality assessment 
+
+mathematical models are often developed to map the  of a weather prediction methodology communicating forecasts to the public 
+
+
+an example of a two-day weather forecast in the  that an american newspaper might use temperatures are given in fahrenheit 
+
+most end users of forecasts are members of the general public thunderstorms can create strong winds and dangerous  strikes that can lead to deaths power outages and widespread hail damage heavy snow or rain can bring transportation and commerce to a stand-still as well as cause flooding in low-lying areas excessive  or  can sicken or kill those with inadequate utilities and  can impact water usage and destroy vegetation several countries employ government agencies to provide forecasts and watches warnings advisories to the public in order to protect life and property and maintain commercial interests knowledge of what the end user needs from a weather forecast must be taken into account to present the information in a useful and understandable way examples include the  s   nws  and  s   msc  traditionally newspaper television and radio have been the primary outlets for presenting weather forecast information to the public increasingly the internet is being used due to the vast amount of specific information that can be found in all cases these outlets update their forecasts on a regular basis severe weather alerts and advisories 
+a major part of modern weather forecasting is the severe weather alerts and advisories that the national weather services issue in the case that severe or hazardous weather is expected this is done to protect life and property some of the most commonly known of severe weather advisories are the  and  as well as the  and  other forms of these advisories include winter weather high wind   and fog severe weather advisories and alerts are broadcast through the media including radio using emergency systems as the  which break into regular programming low temperature forecast 
+the low temperature forecast for the current day is calculated using the lowest temperature found between 7pm that evening through 7am the following morning so in short today s forecasted low is most likely tomorrow s low temperature specialist forecasting 
+there are a number of sectors with their own specific needs for weather forecasts and specialist services are provided to these users air traffic 
+
+
+
+
+ash cloud from the 2008 eruption of  stretching across  from the pacific to the atlantic ocean
+
+
+see also  
+because the aviation industry is especially sensitive to the weather accurate weather forecasting is essential fog or exceptionally low  can prevent many aircraft from landing and taking off  and  are also significant in-flight hazards thunderstorms are a problem for all aircraft because of severe turbulence due to their  and  icing due to the heavy precipitation as well as large  strong winds and lightning all of which can cause severe damage to an aircraft in flight  is also a significant problem for aviation as aircraft can lose engine power within ash clouds on a day-to-day basis airliners are routed to take advantage of the  tailwind to improve fuel efficiency aircrews are briefed prior to  on the conditions to expect en route and at their destination additionally airports often change which  is being used to take advantage of a  this reduces the distance required for takeoff and eliminates potential  marine 
+see also  
+commercial and recreational use of waterways can be limited significantly by wind direction and speed  periodicity and heights tides and precipitation these factors can each influence the safety of marine transit consequently a variety of codes have been established to efficiently transmit detailed marine weather forecasts to vessel pilots via radio for example the   marine forecast  typical weather forecasts can be received at sea through the use of   and  agriculture 
+ rely on weather forecasts to decide what work to do on any particular day for example drying  is only feasible in dry weather prolonged periods of dryness can ruin   and  crops while corn crops can be ruined by drought their dried remains can be used as a cattle feed substitute in the form of   and freezes play havoc with crops both during the spring and fall for example  trees in full bloom can have their potential peach crop decimated by a spring freeze  groves can suffer significant damage during frosts and freezes regardless of their timing forestry 
+weather forecasting of wind precipitations and humidity is essential for preventing and controlling  different indices like the  and the  have been developed to predict the areas more at risk to experience fire from natural or human causes conditions for the development of harmful insects can be predicted by forecasting the evolution of weather too utility companies 
+
+
+
+
+an  is used for the heating and cooling of air in a central location  click on image for legend  
+
+main article  
+electricity and gas companies rely on weather forecasts to anticipate demand which can be strongly affected by the weather they use the quantity termed the degree day to determine how strong of a use there will be for heating   or cooling  cooling degree day  these quantities are based on a daily average temperature of 65f  18c  cooler temperatures force heating degree days  one per degree fahrenheit  while warmer temperatures force cooling degree days in winter severe cold weather can cause a surge in demand as people turn up their heating similarly in summer a surge in demand can be linked with the increased use of  systems in hot weather by anticipating a surge in demand utility companies can purchase additional supplies of power or natural gas before the price increases or in some circumstances supplies are restricted through the use of  and  other commercial companies 
+increasingly private companies pay for weather forecasts tailored to their needs so that they can increase their profits or avoid large losses for example supermarket chains may change the stocks on their shelves in anticipation of different consumer spending habits in different weather conditions weather forecasts can be used to invest in the commodity market such as futures in oranges corn soybeans and oil military applications
+royal navy
+the uk  working with the uk  has its own specialist branch of weather observers and forecasters as part of the hydrographic and meteorological  hm  specialisation who monitor and forecast operational conditions across the globe to provide accurate and timely weather and oceanographic information to submarines ships and  aircraft royal air force 
+a mobile unit in the  working with the uk  forecasts the weather for regions in which british allied servicemen and women are deployed a group based at  provides forecasts for the british armed forces in  united states armed forces
+
+
+
+
+emblem of jtwc joint typhoon warning center
+
+
+similar to the private sector military weather forecasters present weather conditions to the war fighter community military weather forecasters provide pre-flight and in-flight weather briefs to pilots and provide real time resource protection services for military installations naval forecasters cover the waters and ship weather forecasts the  provides a special service to both themselves and the rest of the federal government by issuing forecasts for tropical cyclones across the pacific and indian oceans through their  us air force 
+within the united states air force weather provides weather forecasting for the air force and the army  forecasters cover air operations in both wartime and peacetime operations and provide  support   marine science technicians provide ship forecasts for ice breakers and other various operations within their realm  and marine forecasters provide support for ground and air-based  operations all four military branches take their initial enlisted meteorology technical training at  military and civilian forecasters actively cooperate in analyzing creating and critiquing weather forecast products see also
+
+
+ dirmeyer paul a  schlosser c adam  brubaker kaye l  february 1 2009   journal of hydrometeorology 10  278288     retrieved december 30 2016   economics and statistics administration office of the chief economist july 2014 p.15  
+ 
+  museum of paleontology   retrieved 2008-01-12     pdf  pp.141195  retrieved 2010-03-01   bible gateway retrieved 2016-12-01  fahd toufic  842 missing or empty  title    in rashed roshdi  morelon rgis  1996   3  pp.813852   jerry wilson  retrieved 2007-04-15  david hochfelder  1998   smithsonian institution archived from  on june 26 2006 retrieved 2006-06-29  ausman megaera  about the united states postal service usps retrieved april 28 2013  mail royal  british postal museum postal heritage trust retrieved april 28 2013  encyclopdia britannica  retrieved 2007-05-05  eric d craft  2003   archived from  on may 3 2007 retrieved april 15 2007 ^     bbc news april 30 2015 retrieved april 30 2015 ^   mellersh h e l  1968  fitzroy of the beagle hart-davis 
+ kington john  1997  mike hulme and elaine barrow ed climates of the british isles  present past and future routledge p.147  ronalds b f  2016  sir francis ronalds  father of the electric telegraph london  imperial college press   ronalds b f  june 2016   sir francis ronalds and the early years of the kew observatory  weather      richardson lewis fry weather prediction by numerical process  cambridge england  cambridge university press 1922  available on-line at      2006  the emergence of numerical weather prediction cambridge university press
+ charney fjrtoft and von neumann 1950 numerical integration of the barotropic vorticity equation tellus 2 237-254
+ witman sarah  june 16 2017   smithsonian retrieved july 22 2017  edwards paul n  2010   the mit press   paul n edwards   2008-03-25 at the  retrieved 2007-02-16  helen czerski  august 1 2011   bbc retrieved november 5 2013  met office  2012    pdf  1 pp.35 retrieved 2013-04-10 ^    encyclopedia.com retrieved 2014-02-21   bbc weather 
+ hunt roger  weather june 2007 v.62 no.6 pp.143-146
+  usa today 2006-02-08    reprint first published in the january february 2010 issue    retrieved 2008-03-09     2007-12-30 at the  retrieved 2008-05-25  gaffen dian j  2007-06-07   retrieved 2008-05-25    retrieved 2008-05-25    retrieved 2008-05-25    retrieved 2008-05-25  tony reale  retrieved 2008-05-25  andrew treloar and peter brookhouse  retrieved 2008-05-25 
+ university of washington  retrieved 2007-04-15 
+ ballish bradley a and v krishna kumar  2008-05-23   retrieved 2008-05-25  403rd wing  2011    retrieved 2006-03-30  lee christopher  october 8 2007   the washington post retrieved 2008-02-22    january 12 2010 retrieved 2010-12-22    2007-08-14   retrieved 2008-05-25  pielke roger a  2002  mesoscale meteorological modeling  pp.285287   sunderam v s  van albada g dick  peter m a  sloot j j dongarra  2005   springer p.132  retrieved 2011-01-02  zwieflhofer walter  kreitz norbert  european centre for medium range weather forecasts  2001   world scientific p.276  retrieved 2011-01-02.cs1 maint  multiple names  authors list  
+ chan johnny c l   jeffrey d kepert  2010   world scientific pp.295296  retrieved 2011-02-24  holton james r  2004   academic press p.480  retrieved 2011-02-24  brown molly e  2008   springer p.121  retrieved 2011-02-24  ahrens c donald  2008   cengage learning p.244  retrieved 2011-02-11  daniel andersson  2007   retrieved 2008-05-25  cox john d  2002  storm watchers john wiley   sons inc pp.222224   pielke roger a  2002  mesoscale meteorological modeling  pp.4849   pielke roger a  2002  mesoscale meteorological modeling  pp.1819  ^   strikwerda john c  2004   siam pp.165170  retrieved 2010-12-31  pielke roger a  2002  mesoscale meteorological modeling  p.65   university of illinois at urbana-champaign  retrieved 2007-02-16    retrieved 2008-05-25  weather doctor  retrieved 2008-05-25  dennis eskow  march 1983    vol.159 no.3 p.148 retrieved 2011-04-02  mark moore  2009-03-25   retrieved 2012-02-15  jerry wilson  retrieved 2008-05-25 
+ glossary of meteorology  retrieved 2015-05-26  e-notes.com  retrieved 2011-09-08    retrieved 2008-05-25  klaus weickmann jeff whitaker andres roubicek and catherine smith  2001-12-01    retrieved 2007-02-16 
+ todd kimberlain  june 2007   powerpoint retrieved 2007-07-21  richard j pasch mike fiorino and   retrieved 2008-05-05 
+ roebber p j  bosart l f  1996   weather and forecasting american meteorological society 11  4  544559  retrieved 2008-05-25 check date values in   date   
+  retrieved 2006-02-16  kenneth c allen  retrieved 2007-02-16 
+ weather associates inc  retrieved 2007-02-16 
+ thinkquest.org  retrieved 2007-02-16 
+ university of illinois at urbana-champaign  retrieved 2007-02-16    february 10 2007   nbc news retrieved 2008-05-25  national flood insurance program  retrieved 2008-05-25 
+ national weather service  retrieved 2007-02-16  environment canada  retrieved 2007-02-16  canadian heritage  retrieved 2008-05-26 
+   retrieved 2008-05-25 
+    2006-07-03 at the  retrieved 2008-05-26    retrieved 2008-05-26     
+   retrieved 2008-05-26 
+ aircraft owners and pilots association  retrieved 2008-05-26 
+  forecast office dodge city kansas  retrieved 2008-05-26 
+   2006   retrieved 2008-05-26   retrieved 2008-05-26 
+ ned rozell  retrieved 2008-05-08 
+   retrieved 2008-05-26 
+ eric c king  retrieved 2008-05-26 
+ great lakes and seaway shipping  retrieved 2008-05-27  blair fannin  retrieved 2008-05-26 
+ dr terry mader  retrieved 2008-05-26 
+ kathryn c taylor  retrieved 2008-05-26 
+  the new york times  january 14 1991 retrieved 2008-05-26    retrieved 2008-05-25   cite news  date february 26 1993  newspaper   url   title futures options  cold weather brings surge in prices of heating fuels  accessdate 2008-05-25    july 25 2006   retrieved 2008-05-25  toronto catholic schools  retrieved 2008-05-25 
+ csiro  retrieved 2008-05-25 
+ stephen jewson and rodrigo caballero  retrieved 2008-05-25 
+   retrieved 2012-10-23     2008-04-09 at the  retrieved 2008-05-27   retrieved 2008-05-26    retrieved 2008-05-26  rod powers  retrieved 2008-05-26   military officers usually received their education from a civilian institution   retrieved 2008-05-26 
+ian roulstone   john norbury  2013   princeton university press 
+external links
+these are academic or governmental meteorology organizations most provide at least a limited forecast for their area of interest on their website 
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  in english 
+
+
+  in spanish 
+  in spanish 
+ based on  application server and webmet
+ at   brazil 
+ united states of america
+
+other external links 
+
+ from eh.net
+ iowa state university s online educational tool for weather forecasting
+ popular mechanics january 1930 pp.5055 article on international weather report systems set up after world war one using wireless broadcasting from various stations and ships worldwide
+ april 17 2012
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

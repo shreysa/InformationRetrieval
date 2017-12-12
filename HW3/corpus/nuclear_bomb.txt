@@ -1,0 +1,317 @@
+ atom bomb  redirects here for other uses see  
+
+
+
+the  of the  on august 9 1945 rose some 11mi  18km  above the bomb s  
+
+
+
+a nuclear weapon is an explosive device that derives its destructive force from  either    or from a combination of fission and  reactions   both bomb types release large quantities of energy from relatively small amounts of matter the  of a  released an amount of energy approximately equal to 20,000   84  the first   released energy approximately equal to 10million tons of tnt  42pj  a thermonuclear weapon weighing little more than 2,400 pounds  1,100kg  can release energy equal to more than 1.2million tons of tnt  5.0pj  a nuclear device no larger than traditional bombs can devastate an entire city by blast fire and  since they are  the  of nuclear weapons is a focus of  policy nuclear weapons have been used twice in  both times by the  against  near the end of  on august 6 1945 the  detonated a  gun-type  nicknamed   over the japanese city of   three days later on august 9 the u.s army air forces detonated a  implosion-type fission bomb nicknamed   over the japanese city of  these bombings resulted in the deaths of approximately 200,000  and  from injuries sustained from the explosions the ethics of these bombings and their role in  are subjects of  since the  nuclear weapons have been detonated over two thousand times for  and demonstration only  possess such weapons or are suspected of seeking them the only countries known to have detonated nuclear weaponsand acknowledge possessing themare  chronologically by date of first test  the  the   succeeded as a nuclear power by   the      and   is believed to possess nuclear weapons though in a  it does not acknowledge having them     and the  are  states  is the only country to have  and then  its nuclear weapons the  aims to reduce the spread of nuclear weapons but its effectiveness has been questioned and political tensions remained high in the 1970s and 1980s modernisation of weapons continues to this day 
+
+
+contents
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+types
+main article  
+there are two basic types of nuclear weapons  those that derive the majority of their energy from nuclear fission reactions alone and those that use fission reactions to begin  reactions that produce a large amount of the total energy output fission weapons
+
+
+
+
+the two basic  weapon designs
+
+
+all existing nuclear weapons derive some of their explosive energy from nuclear fission reactions weapons whose explosive output is exclusively from fission reactions are commonly referred to as atomic bombs or atom bombs  abbreviated as a-bombs  this has long been noted as something of a  as their energy comes from the nucleus of the atom just as it does with fusion weapons in fission weapons a mass of    or   is forced into allowing an  of either by shooting one piece of sub-critical material into another  the  gun  method  or by compressing using  a sub-critical sphere of material using  to many times its original density  the  implosion  method  the latter approach is considered more sophisticated than the former and only the latter approach can be used if the fissile material is plutonium a major challenge in all nuclear weapon designs is to ensure that a significant fraction of the fuel is consumed before the weapon destroys itself the amount of energy released by fission bombs can range from the equivalent of just under a ton to upwards of 500,000 tons  500   of   4.2 to 2.1108gj  all fission reactions generate  the remains of the split atomic nuclei many fission products are either highly radioactive  but short-lived  or moderately radioactive  but long-lived  and as such they are a serious form of  if not fully contained fission products are the principal radioactive component of  the most commonly used fissile materials for nuclear weapons applications have been  and  less commonly used has been   and some isotopes of  may be usable for nuclear explosives as well but it is not clear that this has ever been implemented and their plausible use in nuclear weapons is a matter of dispute fusion weapons
+main article  
+
+
+
+
+the basics of the  for a hydrogen bomb  a fission bomb uses radiation to compress and heat a separate section of fusion fuel 
+
+the other basic type of nuclear weapon produces a large proportion of its energy in nuclear fusion reactions such fusion weapons are generally referred to as thermonuclear weapons or more colloquially as hydrogen bombs  abbreviated as h-bombs  as they rely on fusion reactions between isotopes of    and   all such weapons derive a significant portion of their energy from fission reactions used to  trigger  fusion reactions and fusion reactions can themselves trigger additional fission reactions only six countriesunited states russia united kingdom china france and indiahave conducted thermonuclear weapon tests  whether india has detonated a  true  multi-staged  is controversial   claims to have tested a fusion weapon as of january 2016 though this claim is disputed thermonuclear weapons are considered much more difficult to successfully design and execute than primitive fission weapons almost all of the nuclear weapons deployed today use the thermonuclear design because it is more efficient 
+thermonuclear bombs work by using the energy of a fission bomb to compress and heat fusion fuel in the  which accounts for all multi-megaton yield hydrogen bombs this is accomplished by placing a fission bomb and fusion fuel    or   in proximity within a special radiation-reflecting container when the fission bomb is detonated  and  emitted first compress the fusion fuel then heat it to thermonuclear temperatures the ensuing fusion reaction creates enormous numbers of high-speed  which can then induce fission in materials not normally prone to it such as  each of these components is known as a  stage  with the fission bomb as the  primary  and the fusion capsule as the  secondary  in large megaton-range hydrogen bombs about half of the yield comes from the final fissioning of depleted uranium virtually all thermonuclear weapons deployed today use the  two-stage  design described above but it is possible to add additional fusion stageseach stage igniting a larger amount of fusion fuel in the next stage this technique can be used to construct thermonuclear weapons of arbitrarily large yield in contrast to fission bombs which are limited in their explosive force the largest nuclear weapon ever detonated the  of the ussr which released an energy equivalent of over 50 megatons of tnt  210pj  was a three-stage weapon most thermonuclear weapons are considerably smaller than this due to practical constraints from missile warhead space and weight requirements 
+
+
+
+ often referred to as the  father of the hydrogen bomb 
+
+
+fusion reactions do not create fission products and thus contribute far less to the creation of nuclear fallout than fission reactions but because all thermonuclear weapons contain at least one fission stage and many high-yield thermonuclear devices have a final fission stage thermonuclear weapons can generate at least as much nuclear fallout as fission-only weapons other types
+main articles     and 
+there are other types of nuclear weapons as well for example a  is a fission bomb that increases its explosive yield through a small amount of fusion reactions but it is not a fusion bomb in the boosted bomb the neutrons produced by the fusion reactions serve primarily to increase the efficiency of the fission bomb there are two types of boosted fission bomb  internally boosted in which a deuterium-tritium mixture is injected into the bomb core and externally boosted in which concentric shells of lithium-deuteride and depleted uranium are layered on the outside of the fission bomb core some nuclear weapons are designed for special purposes  a  is a thermonuclear weapon that yields a relatively small explosion but a relatively large amount of neutron   such a device could theoretically be used to cause massive casualties while leaving infrastructure mostly intact and creating a minimal amount of fallout the detonation of any nuclear weapon is accompanied by a blast of  surrounding a nuclear weapon with suitable materials  such as  or   creates a weapon known as a  this device can produce exceptionally large quantities of long-lived  it has been conjectured that such a device could serve as a  doomsday weapon  because such a large quantity of radioactivities with half-lives of decades lifted into the stratosphere where winds would distribute it around the globe would make all life on the planet extinct in connection with the  research into the  was conducted under the dod program  but this did not result in a working weapon the concept involves the tapping of the energy of an exploding nuclear bomb to power a single-shot laser which is directed at a distant target during the  high-altitude nuclear test in 1962 an unexpected effect was produced which is called a  this is an intense flash of electromagnetic energy produced by a rain of high energy electrons which in turn are produced by a nuclear bomb s gamma rays this flash of energy can permanently destroy or disrupt electronic equipment if insufficiently shielded it has been proposed to use this effect to disable an enemy s military and civilian infrastructure as an adjunct to other nuclear or conventional military operations against that enemy because the effect is produced by high altitude nuclear detonations it can produce damage to electronics over a wide even continental geographical area research has been done into the possibility of   nuclear weapons that consist of fusion reactions without requiring a fission bomb to initiate them such a device might provide a simpler path to thermonuclear weapons than one that required development of fission weapons first and pure fusion weapons would create significantly less nuclear fallout than other thermonuclear weapons because they would not disperse fission products in 1998 the  divulged that the united states had made a substantial investment  in the past to develop pure fusion weapons but that  the u.s does not have and is not developing a pure fusion weapon  and that  no credible design for a pure fusion weapon resulted from the doe investment   which consists of  resembling ordinary  particles in most of their properties but having opposite  has been considered as a trigger mechanism for nuclear weapons a major obstacle is the difficulty of producing antimatter in large enough quantities and there is no evidence that it is feasible beyond the military domain however the u.s air force funded studies of the physics of antimatter in the  and began considering its possible use in weapons not just as a trigger but as the explosive itself a fourth generation nuclear weapon design is related to and relies upon the same principle as  most variation in  is for the purpose of achieving  and in manipulating design elements to attempt to minimize weapon size weapons delivery
+see also      and 
+
+
+
+
+the first nuclear weapons were  such as this   weapon dropped on  japan they were large and could only be delivered by  aircraft
+
+
+
+
+
+
+a demilitarized  of the russian  r-36   also known by the nato reporting name   upon its first fielding in the late 1960s the ss-18 remains the single highest  missile delivery system ever built 
+
+the system used to  a nuclear weapon to its target is an important factor affecting both  and  the design development and maintenance of delivery systems are among the most expensive parts of a nuclear weapons program  they account for example for 57 of the financial resources spent by the united states on nuclear weapons projects since 1940 the simplest method for delivering a nuclear weapon is a  dropped from   this was the method used by the united states against japan this method places few restrictions on the size of the weapon it does however limit attack range response time to an impending attack and the number of weapons that a country can field at the same time with miniaturization nuclear bombs can be delivered by both  and tactical  this method is the primary means of nuclear weapons delivery  the majority of u.s nuclear warheads for example are free-fall gravity bombs namely the  
+
+
+
+
+montage of an inert test of a united states    submarine launched ballistic missile  from submerged to the  or re-entry phase of the 
+
+
+more preferable from a strategic point of view is a nuclear weapon mounted on a  which can use a  trajectory to deliver the warhead over the horizon although even short-range missiles allow for a faster and less vulnerable attack the development of long-range   icbms  and   slbms  has given some nations the ability to plausibly deliver missiles anywhere on the globe with a high likelihood of success more advanced systems such as   mirvs  can launch multiple warheads at different targets from one missile reducing the chance of a successful  today missiles are most common among systems designed for delivery of nuclear weapons making a warhead small enough to fit onto a missile though can be difficult  have involved the most variety of delivery types including not only gravity bombs and missiles but also  shells  and  and  for  an atomic  has been tested by the united states small two-man portable tactical weapons  somewhat misleadingly referred to as   such as the  have been developed although the difficulty of combining sufficient yield with portability limits their military utility nuclear strategy
+main articles   and 
+see also      and 
+nuclear warfare strategy is a set of policies that deal with preventing or fighting a nuclear war the policy of trying to prevent an attack by a nuclear weapon from another country by threatening nuclear retaliation is known as the strategy of  the goal in deterrence is to always maintain a second strike capability  the ability of a country to respond to a nuclear attack with one of its own  and potentially to strive for  status  the ability to destroy an enemy s nuclear forces before they could retaliate  during the cold war policy and military theorists considered the sorts of policies that might prevent a nuclear attack and they developed  models that could lead to stable  conditions 
+
+
+
+the now decommissioned united states   was an  developed to replace the  in the late 1980s each missile like the  russian  could contain up to ten nuclear warheads  shown in red  each of which could be aimed at a different target a factor in the development of  was to make complete  difficult for an enemy country 
+
+different forms of   see above  allow for different types of nuclear strategies the goals of any strategy are generally to make it difficult for an enemy to launch a pre-emptive strike against the weapon system and difficult to defend against the delivery of the weapon during a potential conflict this can mean keeping weapon locations hidden such as deploying them on  or land mobile  whose locations are difficult to track or it can mean protecting weapons by burying them in hardened  bunkers other components of nuclear strategies included using missile defenses to destroy the missiles before they land or implementing  measures using early-warning systems to evacuate citizens to safe areas before an attack weapons designed to threaten large populations or to deter attacks are known as  nuclear weapons for use on a  in military situations are called  critics of nuclear war strategy often suggest that a nuclear war between two nations would result in mutual annihilation from this point of view the significance of nuclear weapons is to deter war because any nuclear war would escalate out of mutual distrust and fear resulting in  this threat of national if not global destruction has been a strong motivation for anti-nuclear weapons activism critics from the peace movement and within the military establishment  have questioned the usefulness of such weapons in the current military climate according to an  issued by the  in 1996 the use of  or threat of use of  such weapons would generally be contrary to the rules of international law applicable in armed conflict but the court did not reach an opinion as to whether or not the threat or use would be lawful in specific extreme circumstances such as if the survival of the state were at stake another  position is that  can be desirable in this case it is argued that unlike conventional weapons nuclear weapons deter all-out war between states and they succeeded in doing this during the  between the u.s and the  in the late 1950s and early 1960s gen  of france an adviser to  argued in books like the balance of terror  strategy for the nuclear age  1961  that mere possession of a nuclear arsenal was enough to ensure deterrence and thus concluded that the spread of nuclear weapons could increase  some prominent  scholars such as  and  have argued along the lines of gallois that some forms of nuclear proliferation would decrease the likelihood of  especially in troubled regions of the world where there exists a single nuclear-weapon state aside from the public opinion that opposes proliferation in any form there are two schools of thought on the matter  those like mearsheimer who favored selective proliferation and waltz who was somewhat more non interest in proliferation and the  that it generates continues to this day with ongoing debate about indigenous japanese and  nuclear deterrent against  the threat of potentially suicidal terrorists possessing nuclear weapons  a form of   complicates the decision process the prospect of  might not deter an enemy who expects to die in the confrontation further if the initial act is from a stateless  instead of a sovereign nation there might not be a nation or specific target to retaliate against it has been argued especially after the  that this complication calls for a new nuclear strategy one that is distinct from that which gave relative stability during the cold war since 1996 the united states has had a policy of allowing the targeting of its nuclear weapons at terrorists armed with   argues that although traditional deterrence is not an effective approach toward terrorist groups bent on causing a nuclear catastrophe gallucci believes that  the united states should instead consider a policy of expanded deterrence which focuses not solely on the would-be nuclear terrorists but on those states that may deliberately transfer or inadvertently lead nuclear weapons and materials to them by threatening retaliation against those states the united states may be able to deter that which it cannot physically prevent   makes a similar case arguing that the key to expanded deterrence is coming up with ways of tracing nuclear material to the country that forged the fissile material  after a nuclear bomb detonates  cops would collect debris samples and send them to a laboratory for radiological analysis by identifying unique attributes of the fissile material including its impurities and contaminants one could trace the path back to its origin  the process is analogous to identifying a criminal by fingerprints  the goal would be twofold  first to deter leaders of nuclear states from selling weapons to terrorists by holding them accountable for any use of their weapons  second to give leaders every incentive to tightly secure their nuclear weapons and materials 
+governance control and law
+main articles          and 
+see also  
+
+
+
+
+the  was created in 1957 to encourage peaceful development of nuclear technology while providing international safeguards against nuclear proliferation 
+
+because they are weapons of mass destruction the proliferation and possible use of nuclear weapons are important issues in international relations and diplomacy in most countries the use of nuclear force can only be authorized by the  or  despite controls and regulations governing nuclear weapons there is an inherent danger of  accidents mistakes false alarms blackmail theft and sabotage  in the late 1940s lack of mutual trust prevented the united states and the soviet union from making progress on arms control agreements the  was issued in  on july 9 1955 by  in the midst of the cold war it highlighted the dangers posed by nuclear weapons and called for world leaders to seek peaceful resolutions to international conflict the signatories included eleven pre-eminent intellectuals and scientists including  who signed it just days before his death on april 18 1955 a few days after the release philanthropist  offered to sponsor a conferencecalled for in the manifestoin  eaton s birthplace this conference was to be the first of the  held in july 1957 by the 1960s steps were taken to limit both the proliferation of nuclear weapons to other countries and the environmental effects of  the   1963  restricted all nuclear testing to  to prevent contamination from nuclear fallout whereas the   1968  attempted to place restrictions on the types of activities signatories could participate in with the goal of allowing the transference of non-military  to member countries without fear of proliferation in 1957 the   iaea  was established under the mandate of the  to encourage development of peaceful applications of nuclear technology provide international safeguards against its misuse and facilitate the application of safety measures in its use in 1996 many nations signed the  which prohibits all testing of nuclear weapons a testing ban imposes a significant hindrance to nuclear arms development by any complying country the treaty requires the ratification by 44 specific states before it can go into force  as of 2012 the ratification of eight of these states is still required additional treaties and agreements have governed nuclear weapons stockpiles between the countries with the two largest stockpiles the united states and the soviet union and later between the united states and russia these include treaties such as   never ratified    expired     never ratified   and  as well as non-binding agreements such as  and the presidential nuclear initiatives of 1991 even when they did not enter into force these agreements helped limit and later reduce the numbers and types of nuclear weapons between the united states and the soviet union russia nuclear weapons have also been opposed by agreements between countries many nations have been declared  areas where nuclear weapons production and deployment are prohibited through the use of treaties the   1967  prohibited any production or deployment of nuclear weapons in  and the  and the   1964  prohibits nuclear weapons in many african countries as recently as 2006 a  was established amongst the former soviet republics of central asia prohibiting nuclear weapons in 1996 the  the highest court of the united nations issued an advisory opinion concerned with the   the court ruled that the use or threat of use of nuclear weapons would violate various articles of  including the  the  the  and the  given the unique destructive characteristics of nuclear weapons the  calls on states to ensure that these weapons are never used irrespective of whether they consider them lawful or not additionally there have been other specific actions meant to discourage countries from developing nuclear arms in the wake of the tests by india and pakistan in 1998 economic sanctions were  temporarily  levied against both countries though neither were signatories with the nuclear non-proliferation treaty one of the stated  for the initiation of the 2003  was an accusation by the united states that iraq was actively pursuing nuclear arms  though this was soon discovered  as the program had been discontinued  in 1981 israel had  being constructed in   in what it called an attempt to halt iraq s previous nuclear arms ambitions  in 2007 israel  being constructed in  in 2013  said that governments of france india north korea pakistan uk and south africa have used nuclear power and or research reactors to assist nuclear weapons development or to contribute to their supplies of nuclear explosives from military reactors disarmament
+main article  
+for statistics on possession and deployment see  
+
+
+
+the  and united states nuclear weapon stockpiles throughout the  until 2015 with a precipitous drop in total numbers following the end of the cold war in 1991 
+
+nuclear disarmament refers to both the act of reducing or eliminating nuclear weapons and to the end state of a nuclear-free world in which nuclear weapons are eliminated beginning with the 1963  and continuing through the 1996  there have been many treaties to limit or reduce nuclear weapons testing and stockpiles the 1968  has as one of its explicit conditions that all signatories must  pursue negotiations in good faith  towards the long-term goal of  complete disarmament  the nuclear weapon states have largely treated that aspect of the agreement as  decorative  and without force only one countrysouth africahas ever fully renounced nuclear weapons they had independently developed the former soviet republics of   and  returned soviet nuclear arms stationed in their countries to russia after the  proponents of nuclear disarmament say that it would lessen the probability of nuclear war especially accidentally critics of nuclear disarmament say that it would undermine the present  and deterrence and would lead to increased global instability various american elder statesmen who were in office during the  period have been advocating the elimination of nuclear weapons these officials include    and  in january 2010  stated that  no issue carries more importance to the long-term health and security of humanity than the effort to reduce and perhaps one day rid the world of nuclear weapons  
+
+
+
+ workers use equipment provided by the u.s  to dismantle a soviet-era missile silo after the end of the cold war ukraine and the other non-russian post-soviet republics relinquished soviet nuclear stockpiles to russia 
+
+in the years after the end of the cold war there have been numerous campaigns to urge the abolition of nuclear weapons such as that organized by the  movement and the goal of a  world without nuclear weapons  was advocated by united states president  in an april 2009 speech in  a  poll from april 2010 indicated that the american public was nearly evenly split on the issue some analysts have argued that nuclear weapons have made the world relatively safer with peace through  and through the  including in south asia  has argued that nuclear weapons have helped keep an uneasy peace and further nuclear weapon proliferation might even help avoid the large scale conventional wars that were so common before their invention at the end of  but former secretary  says there is a new danger which cannot be addressed by deterrence   the classical notion of deterrence was that there was some consequences before which aggressors and evildoers would recoil in a world of suicide bombers that calculation doesnt operate in any comparable way   has said  if you think of the people who are doing suicide attacks and people like that get a nuclear weapon they are almost by definition not deterrable  united nations
+main article  
+the un office for disarmament affairs  unoda  is a department of the  established in january 1998 as part of the   s plan to reform the un as presented in his report to the  in july 1997 its goal is to promote nuclear disarmament and  and the strengthening of the disarmament regimes in respect to other weapons of mass destruction  and  it also promotes disarmament efforts in the area of  especially  and  which are often the weapons of choice in contemporary conflicts controversy
+see also   and 
+ethics
+main article  
+even before the first nuclear weapons had been developed scientists involved with the  were divided over the use of the weapon the role of the two atomic bombings of the country in  and the u.s s  justification for them has been the subject of scholarly and popular debate for decades the question of whether nations should have nuclear weapons or test them has been continually and nearly universally controversial notable nuclear weapons accidents
+main article  
+see also  
+
+february 13 1950  a  in northern  after jettisoning a   this was the first such  in history may 22 1957  a 42,000-pound  accidentally fell from a bomber near albuquerque new mexico the detonation of the device s conventional explosives destroyed it on impact and formed a crater 25-feet in diameter on land owned by the  according to a researcher at the natural resources defense council it was one of the most powerful bombs made to date june 7 1960  the  destroyed a  nuclear missile and shelter and contaminated the  in new jersey january 24 1961  the  occurred near  a  carrying two  nuclear bombs broke up in mid-air dropping its nuclear payload in the process  where a  attack aircraft with a nuclear weapon fell into the sea the pilot the aircraft and the  were never recovered it was not until 1989 that  revealed the loss of the one-megaton bomb january 17 1966  the  occurred when a  of the  collided with a  during  off the coast of  the kc-135 was completely destroyed when its fuel load ignited killing all four crew members the b-52g broke apart killing three of the seven crew members aboard of the four  type  the b-52g carried three were found on land near  spain the non-nuclear explosives in two of the weapons detonated upon impact with the ground resulting in the contamination of a 2-square-kilometer  490-acre   0.78 square mile  area by   the fourth which fell into the  was recovered intact after a 2-month-long search january 21 1968  the  involved a   usaf   the aircraft was carrying four  when a cabin fire forced the crew to abandon the aircraft six crew members ejected safely but one who did not have an  was killed while trying to bail out the bomber crashed onto  in  causing the nuclear payload to rupture and disperse which resulted in widespread  september 1819 1980  the  occurred in damascus arkansas where a  equipped with a nuclear warhead exploded the accident was caused by a maintenance man who dropped a socket from a socket wrench down an 80-foot shaft puncturing a fuel tank on the rocket leaking fuel resulted in a  fuel explosion jettisoning the  beyond the launch site 
+nuclear testing and fallout
+main article  
+see also  
+
+
+
+
+over 2,000 nuclear tests have been conducted in over a dozen different sites around the world red russia soviet union blue france light blue united states violet britain black israel yellow china orange india brown pakistan green north korea and light green  territories exposed to nuclear bombs 
+
+
+
+
+
+
+this view of downtown  shows a  in the background scenes such as this were typical during the 1950s from 1951 to 1962 the government conducted 100 atmospheric tests at the nearby  
+
+over 500 atmospheric nuclear weapons tests were conducted at various sites around the world from 1945 to 1980  from nuclear weapons testing was first drawn to public attention in 1954 when the  hydrogen bomb test at the  contaminated the crew and catch of the japanese fishing boat  one of the fishermen died in japan seven months later and the fear of contaminated  led to a temporary boycotting of the popular staple in japan the incident caused widespread concern around the world especially regarding the effects of  and atmospheric  and  provided a decisive impetus for the emergence of the anti-nuclear weapons movement in many countries  as public awareness and concern mounted over the possible health hazards associated with exposure to the  various studies were done to assess the extent of the hazard a    study claims that fallout from atmospheric nuclear tests would lead to perhaps 11,000 excess deaths amongst people alive during atmospheric testing in the united states from all forms of cancer including leukemia from 1951 to well into the 21st century as of march 2009 the u.s is the only nation that compensates nuclear test victims since the  of 1990 more than  1.38 billion in compensation has been approved the money is going to people who took part in the tests notably at the  and to others exposed to the radiation in addition leakage of byproducts of nuclear weapon production into groundwater has been an ongoing issue particularly at the  effects of nuclear explosions
+main article  
+effects of nuclear explosions on human health
+main article  
+some scientists estimate that a nuclear war with 100 hiroshima-size nuclear explosions on cities could cost the lives of tens of millions of people from long term climatic effects alone the climatology hypothesis is that if each city  a great deal of soot could be thrown up into the atmosphere which could blanket the earth cutting out sunlight for years on end causing the disruption of food chains in what is termed a  people near the hiroshima explosion and who managed to survive the explosion subsequently suffered a variety of medical effects 
+
+initial stagethe first 19 weeks in which are the greatest number of deaths with 90 due to thermal injury and or blast effects and 10 due to super-lethal  exposure intermediate stagefrom 1012 weeks the deaths in this period are from  in the median lethal range  
+late periodlasting from 1320 weeks this period has some improvement in survivors  condition delayed periodfrom 20  weeks characterized by numerous complications mostly related to healing of thermal and mechanical injuries and if the individual was exposed to a few hundred to a thousand  of radiation it is coupled with infertility sub-fertility and blood disorders furthermore ionizing radiation above a dose of around 50100 millisievert exposure has been shown to statistically begin increasing one s chance of dying of cancer sometime in their lifetime over the normal unexposed rate of  25 in the long term a heightened rate of cancer proportional to the dose received would begin to be observed after  5  years with lesser problems such as eye  and other more minor effects in other organs and tissue also being observed over the long term 
+ exposure  depending on if further afield individuals  or evacuate perpendicular to the direction of the wind and therefore avoid contact with the fallout plume and stay there for the days and weeks after the nuclear explosion their exposure to  and therefore their total dose will vary with those who do shelter in place and or evacuate experiencing a total dose that would be negligible in comparison to someone who just went about their life as normal staying indoors until after the most hazardous fallout   decays away to 0.1 of its initial quantity after ten   which is represented by 80 days in  case would make the difference between likely contracting  or escaping completely from this substance depending on the actions of the individual public opposition
+see also   and 
+
+
+
+
+ during the 
+
+
+
+
+
+
+demonstration against nuclear testing in  france in the 1980s 
+
+peace movements emerged in japan and in 1954 they converged to form a unified  japanese council against atomic and hydrogen bombs  japanese opposition to nuclear weapons tests in the pacific ocean was widespread and  an estimated 35 million signatures were collected on petitions calling for bans on nuclear weapons  in the united kingdom the first  organised by the  cnd  took place at  1958 when according to the cnd several thousand people marched for four days from  london to the  close to  in  england to demonstrate their opposition to nuclear weapons the aldermaston marches continued into the late 1960s when tens of thousands of people took part in the four-day marches in 1959 a letter in the bulletin of atomic scientists was the start of a successful campaign to stop the  dumping   in the sea 19 kilometres from  in 1962  won the  for his work to stop the atmospheric testing of nuclear weapons and the  ban the bomb  movement spread in 1963 many countries ratified the  prohibiting atmospheric nuclear testing radioactive fallout became less of an issue and the anti-nuclear weapons movement went into decline for some years a resurgence of interest occurred amid european and american  in the 1980s costs and technology spin-offs
+see also      and 
+according to an audit by the  between 1940 and 1996 the u.s spent  8.89trillion in present-day terms on nuclear weapons programs 57 percent of which was spent on building  systems 6.3 percent of the total  557billion in present-day terms was spent on  and  for example cleaning up the  and 7 percent of the total  625billion was spent on making nuclear weapons themselves non-weapons uses
+main article  
+peaceful nuclear explosions are  conducted for non-military purposes such as activities related to  including the creation of  during the 1960s and 70s both the united states and the soviet union conducted a number of pnes six of the explosions by the soviet union are considered to have been of an applied nature not just tests subsequently the united states and the soviet union halted their programs definitions and limits are covered in the peaceful nuclear explosions treaty of 1976 the  of 1996 once it enters into force will prohibit all nuclear explosions regardless of whether they are for peaceful purposes or not history of development
+main article  
+see also     and 
+
+see also
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ of japan
+
+
+
+notes and references
+
+
+ hearst magazines  october 1945   hearst magazines pp.18   specifically the 1970 to 1980 designed and deployed us  with a yield of up to 1.2 megatons    retrieved september 18 2007 total number of deaths is not known precisely  acute  within two to four months  deaths  hiroshima  90,000166,000  nagasaki  60,00080,000
+  fas.org retrieved december 29 2012   fas.org january 8 2007 retrieved december 15 2010  see also 
+ executive release  nuclear threat initiatives nuclear threat initiatives south africa  nti south africa  retrieved 13 march 2012  ian lowe  three minutes to midnight   march 2016 p 49  educational foundation for nuclear science inc  february 1954   educational foundation for nuclear science inc pp.61   hoddeson lillian  henriksen paul w  meade roger a  westfall catherine l  1993  critical assembly  a technical history of los alamos during the oppenheimer years 19431945 new york  cambridge university press p.228   ^       hansen chuck u.s nuclear weapons  the secret history san antonio tx  aerofax 1988  and the more-updated hansen chuck    cd-rom   download available  pdf 2,600 pages sunnyvale california chuklea publications 1995 2007   2nd ed 
+  and kimberly kramer  august 22 2005    pdf   retrieved october 13 2011  carey sublette  accessed may 10 2011  on india s alleged hydrogen bomb test see carey sublette   mckirdy euan  cnn retrieved 7 january 2016  sublette carey  retrieved march 7 2007  u.s department of energy   january 1 2002  accessed november 20 2011 ^   
+  september 22 2015   cui.unige.ch retrieved may 30 2013  gsponer andre  hurni jean-pierre  1987   the physics of antimatter induced fusion and thermonuclear explosions  in g velarde and e minguez proceedings of the international conference on emerging nuclear energy systems madrid june july 1986 world scientific pp.166169   cs1 maint  uses editors parameter  
+ keay davidson  chronicle science writer  october 4 2004   sfgate.com retrieved may 30 2013   retrieved october 24 2014  stephen i schwartz ed atomic audit  the costs and consequences of u.s nuclear weapons since 1940 washington d.c  brookings institution press 1998 see also  an excerpt from the book  november 21 2008 at the   michael i handel  12 november 2012   routledge pp.85   creveld martin van  2000   technology and war ii postmodern war  in charles townshend the oxford history of modern war new york usa  oxford university press p.349cs1 maint  uses editors parameter  
+ mearsheimer john  2006    pdf  international relations 20  1  105123 see page 116
+ kenneth waltz  more may be better  in scott sagan and kenneth waltz eds the spread of nuclear weapons  new york  norton 1995  ^   kenneth waltz  adelphi papers no 171  london  international institute for strategic studies 1981     see for example  feldman noah    new york times magazine  october 29 2006   daniel plesch   stephen young  senseless policy   november december 1998 page 4 fetched from url on april 18 2011  gallucci robert  september 2006   annals of the american academy of political and social science 607  5158   retrieved january 28 2013 ^   allison graham  march 13 2009   newsweek retrieved january 28 2013  in the united states the president and the secretary of defense acting as the  must jointly authorize the use of nuclear weapons     november december 2015 vol 71 no 6 1117 ^   preparatory commission for the comprehensive nuclear-test-ban treaty organization  2010    accessed may 27 2010 of the  annex 2  states whose ratification of the ctbt is required before it enters into force china egypt iran israel and the united states have signed but not ratified the treaty india north korea and pakistan have not signed the treaty  richelson jeffrey spying on the bomb  american nuclear intelligence from nazi germany to iran and north korea new york  norton 2006   fact sheet arms control association   international committee of the red cross
+   2013    pdf  energy policy  gusterson hugh   bulletin of the atomic scientists  january 8 2007   jim hoagland  october 6 2011   washington post  lawrence m krauss the doomsday clock still ticks scientific american january 2010 p 26  graham nick  april 5 2009   huffingtonpost.com retrieved may 30 2013   politicalticker.blogs.cnn.com april 12 2010 retrieved may 30 2013  krepon michael   pdf  stimson retrieved november 20 2015   retrieved october 24 2014  ben goddard  january 27 2010   the hill    march 30 2012     kofi annan  14 july 1997   united nations a 51 950 retrieved 17 march 2017 ^   jerry brown and   1997  profiles in power  the anti-nuclear movement and the dawn of the solar age twayne publishers pp 191192   los angeles times associated press august 27 1986 retrieved 31 august 2014  barry schneider  may 1975    p.28 retrieved july 13 2009  james c oskins  michael h maggelet  2008   lulu.com  retrieved december 29 2008   archived from   navy.mil weblist of aug 2003 compilation from cruise reports  on september 7 2004 retrieved april 20 2012 the national archives hold deck logs for aircraft carriers for the vietnam conflict   at www.atomicarchive.com accessed august 24 2007   u.s confirms  65 loss of h-bomb near japanese islands    may 9 1989 p.a27  hayes ron  january 17 2007   palm beach post archived from  on june 16 2011 retrieved may 24 2006  maydew randall c  1997  america s lost h-bomb  palomares spain 1966 sunflower university press   long tony  january 17 2008   wired retrieved february 16 2008  schlosser eric  2013  command and control  nuclear weapons the damascus accident and the illusion of safety penguin press   christ mark k  the encyclopedia of arkansas history   culture arkansas historic preservation program retrieved 31 august 2014  stumpf david k  2000  christ mark k  slater cathryn h eds  we can neither confirm nor deny  sentinels of history  refelections on arkansas properties on the national register of historic places fayetteville arkansas  university of arkansas press ^    rudig wolfgang  1990   anti-nuclear movements  a world survey of opposition to nuclear energy  longman pp.5455 missing or empty  url   
+  cdc retrieved december 7 2013  committee to review the cdc-nci feasibility study of the health consequences nuclear weapons tests national research council  retrieved october 24 2014  abc news  abc news retrieved october 24 2014    pdf   coghlan andy  new scientist retrieved 12 march 2016  philip yam nuclear exchange scientific american june 2010 p 24  alan robock and owen brian toon local nuclear war global suffering scientific american january 2010 p 74-81      pdf  nd.edu p.3   k1project.columbia.edu retrieved 2017-09-07  7 hour rule  at 7 hours after detonation the fission product activity will have decreased to about 1 10  10  of its amount at 1 hour at about 2 days  49 hours-7x7  the activity will have decreased to 1 of the 1-hour value 
+   pdf  p.22  oak ridge reservation  usdoe  epa facility id  tn1890090003  site and radiological assessment branch division of health assessment and consultation agency for toxic substances and disease registry   pdf  atsdr.cdc.gov u.s center for disease control retrieved 21 may 2016.cs1 maint  multiple names  authors list  
+^   jim falk  1982  global fission  the battle over nuclear power oxford university press pp 9697   cnduk.org retrieved may 30 2013   london   april 5 1958  jim falk  1982  global fission  the battle over nuclear power oxford university press p 93  jim falk  1982  global fission  the battle over nuclear power oxford university press p 98  spencer weart nuclear fear  a history of images  cambridge mass  harvard university press 1988  chapters 16 and 19  federal reserve bank of minneapolis community development project  federal reserve bank of minneapolis retrieved january 2 2017   brookings institution archived from  on march 5 2004 retrieved november 20 2015    pdf  gerald r ford museum and library may 28 1976  peters gerhard  woolley john t  the american presidency project university of california  santa barbara   ctbto dot org ctbt organization preparatory commission retrieved december 29 2016 
+
+bibliography
+
+see also  
+
+ the road from los alamos new york  simon and schuster 1991 
+devolpi alexander minkov vladimir e simonenko vadim a and stanford george s nuclear shadowboxing  contemporary threats from cold war weaponry fidlar doubleday 2004  two volumes both accessible on google book search   content of both volumes is now available in the 2009 trilogy by alexander devolpi  nuclear insights  the cold war legacy 
+glasstone samuel and dolan philip j  washington d.c  u.s government printing office 1977 
+ departments of the army navy and air force  washington d.c 1996
+ u.s nuclear weapons  the secret history arlington tx  aerofax 1988
+hansen chuck    cd-rom   download available  pdf 2,600 pages sunnyvale california chucklea publications 1995 2007   2nd ed 
+holloway david stalin and the bomb new haven  yale university press 1994 
+the manhattan engineer district    1946 
+ in french  jean-hugues oppel rveillez le prsident ditions payot et rivages 2007   the book is a fiction about the  of france  the book also contains about ten chapters on true historical incidents involving nuclear weapons and strategy   princeton nj  princeton university press 1945   the first declassified report by the us government on nuclear weapons 
+ office of technology assessment may 1979  dark sun  the making of the hydrogen bomb new york  simon and schuster 1995 
+  new york  simon and schuster 1986 
+ and goodby james e the war that must never be fought hoover press 2015   nuclear fear  a history of images cambridge ma  harvard university press 1988 
+ the rise of nuclear fear cambridge ma  harvard university press 2012 
+
+
+further reading
+
+   2013  the book became the basis for a 2-hour 2017   episode likewise titled  command and control  nuclear weapons continue to be equally hazardous to their owners as to their potential targets under the 1970   are obliged to work toward the elimination of nuclear weapons 
+external links
+
+
+
+
+
+listen to this article  
+
+
+
+
+
+
+
+
+
+
+
+this audio file was created from a revision of the article  nuclear weapon  dated 2005-12-01 and does not reflect subsequent edits to the article  
+
+
+
+ is a reliable source of information and has links to other sources and an informative  the  provide solid information on weapons of mass destruction including  and their 
+  contains many resources related to nuclear weapons including a historical and technical overview and searchable bibliography of web and print resources video archive of  at 
+  located in albuquerque new mexico  a smithsonian affiliate museum
+
+ at atomicarchive.com
+  u.s nuclear history 
+ pbs website on the history of the h-bomb
+
+ or npihp is a global network of individuals and institutions engaged in the study of international nuclear history through archival documents oral history interviews and other empirical sources   a 3d nuclear weapons effects simulator powered by google maps video  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

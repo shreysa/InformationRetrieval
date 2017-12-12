@@ -1,0 +1,104 @@
+not to be confused with  
+in situ   or   often not italicized in english  is a  phrase that translates literally to  on site  or  in position  it means  locally   on site   on the premises  or  in place  to describe an event where it takes place and is used in many different contexts for example in fields such as   or  in situ may describe the way a measurement is taken that is in the same place the phenomenon is occurring without isolating it from other systems or altering the original conditions of the test 
+
+
+contents
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+aerospace 
+in the  equipment on-board aircraft must be tested in situ or in place to confirm everything functions properly as a system individually each piece may work but interference from nearby equipment may create unanticipated problems special test equipment is available for this in situ testing archaeology 
+
+
+
+
+ancient  arrowhead in situ 
+
+in  in situ refers to an artifact that has not been moved from its original place of deposition in other words it is stationary meaning  still  an artifact being in situ is critical to the interpretation of that artifact and consequently of the culture which formed it once an artifact s  find-site  has been recorded the artifact can then be moved for conservation further interpretation and display an artifact that is not discovered in situ is considered out of context and as not providing an accurate picture of the associated culture however the out of context artifact can provide scientists with an example of types and locations of in situ artifacts yet to be discovered when excavating a burial site or surface deposit  in situ  refers to cataloging recording mapping photographing human remains in the position they are discovered the label in situ indicates only that the object has not been  newly  moved thus an archaeological in situ find may be an object that was historically looted from another place an item of  booty  of a past war a traded item or otherwise of foreign origin consequently the in situ find site may still not reveal its  but with further detective work may help uncover links that otherwise would remain unknown it is also possible for archaeological layers to be reworked on purpose or by accident  by humans natural forces or animals  for example in a  mound where layers are not typically uniform or horizontal or in land cleared or tilled for farming the term in situ is often used to describe ancient sculpture that was carved in place such as the  or  this distinguishes it from statues that were carved and moved like the  which was moved in ancient times art 
+in art in situ refers to a work of art made specifically for a host site or that a work of art takes into account the site in which it is installed or exhibited for a more detailed account see   the term can also refer to a work of art created at the site where it is to be displayed rather than one created in the artist s studio and then installed elsewhere  e.g a sculpture carved in situ  in  the term is frequently employed to describe sculpture that is carved on a building frequently from scaffolds after the building has been erected astronomy 
+a fraction of the  in  as well as those in other massive galaxies might have formed in situ the rest might have been accreted from now defunct dwarf galaxies in astronomy in situ also refers to in situ  in which planets are hypothesized to have been formed in the orbit that they are currently observed to be in rather than migrating from a different orbit biology and biomedical engineering 
+
+
+
+
+live  species  photographed in situ
+
+
+in  and  in situ means to examine the phenomenon exactly in place where it occurs  i.e without moving it to some special medium  in the case of observations or photographs of living animals it means that the organism was observed  and photographed  in the wild exactly as it was found and exactly where it was found this means it was not taken out of the area the organism had not been moved to another  perhaps more convenient  location such as an aquarium this phrase in situ when used in laboratory science such as cell science can mean something intermediate between  and  for example examining a  within a whole  intact and under  may be in situ investigation this would not be in vivo as the donor is sacrificed by experimentation but it would not be the same as working with the cell alone  a common scenario for in vitro experiments  in vitro was among the first attempts to qualitatively and quantitatively analyze natural occurrences in the lab eventually the limitation of in vitro experimentation was that they were not conducted in natural environments to compensate for this problem in vivo experimentation allowed testing to occur in the original organism or environment to bridge the dichotomy of benefits associated with both methodologies in situ experimentation allowed the controlled aspects of in vitro to become coalesced with the natural environmental compositions of in vivo experimentation in conservation of     also  on-site   is the process of protecting an   or   in its natural  as opposed to   also  off-site conservation  chemistry and chemical engineering 
+in chemistry in situ typically means  in the reaction mixture 
+there are numerous situations in which chemical intermediates are synthesized in situ in various processes this may be done because the species is unstable and cannot be isolated or simply out of convenience examples of the former include the  and  in biomedical engineering protein nanogels made by the in situ polymerization method provide a versatile platform for storage and release of therapeutic proteins it has tremendous applications for cancer treatment vaccination diagnosis regenerative medicine and therapies for loss-of-function genetic diseases in chemical engineering in situ often refers to industrial plant  operations or procedures that are performed in place  for example aged catalysts in industrial reactors may be regenerated in place  in situ  without being removed from the reactors civil engineering 
+in  and  in situ refers to construction which is carried out at the building site using raw materials compare that with prefabricated construction in which building components are made in a factory and then transported to the building site for assembly for example  may be in situ  also  cast-in-place  or prefabricated in situ techniques are often more labour-intensive and take longer but the materials are cheaper and the work is versatile and adaptable prefabricated techniques are usually much quicker therefore saving money on labour costs but factory-made parts can be expensive they are also inflexible and must often be designed on a grid with all details fully calculated in advance finished units may require special handling due to excessive dimensions the phrase may also refer to those assets which are present at or near a project site in this case it is used to designate the state of an unmodified sample taken from a given stockpile site construction usually involves grading the existing soil surface so that material is  cut  out of one area and  filled  in another area creating a flat pad on an existing slope the term  in situ  distinguishes soil still in its existing condition from soil modified  filled  during construction the differences in the soil properties for supporting building loads accepting underground utilities and infiltrating water persist indefinitely computer science for example a file backup may be restored over a running system without needing to take the system down to perform the restore in the context of a database a restore would allow the database system to continue to be available to users while a restore happened an in situ upgrade would allow an   or  to be upgraded while the system was still running perhaps without the need to reboot it depending on the sophistication of the system an  is said to be an  if the extra amount of memory required to execute the algorithm is   that is does not exceed a constant no matter how large the input typically such an algorithm operates on  directly in place rather than making copies of them for example  is an in situ sorting algorithm which sorts the elements of an array in place in designing  the term in situ means that a particular user action can be performed without going to another window  for example if a word processor displays an image and allows the image to be edited without launching a separate image editor this is called in situ editing ajax partial page data updates is another example of in situ in a web ui ux context web 2.0 included ajax and the concept of asynchronous requests to servers to replace a portion of a web page with new data without reloading the entire page as the early html model dictated arguably all asynchronous data transfers or any background task is in situ as the normal state is normally unaware of background tasks usually notified on completion by a callback mechanism in big data space in situ data would mean bringing the computation to where data is located rather than the other way  like in traditional rdbms systems where data is moved to computational space design and advertising 
+in design and advertising the term typically means the superimposing of theoretical design elements onto photographs of real world locations this is a pre-visualization tool to aid in illustrating a proof of concept earth and atmospheric sciences 
+in  and the  in situ typically describes natural material or processes prior to transport for example in situ is used in relation to the distinction between  and  the difference being that erosion requires a transport medium  such as   or   whereas weathering occurs in situ  processes are also often described as occurring to material in situ in the  in situ refers to obtained through direct contact with the respective subject such as a  measuring a parcel of air or an  measuring wind as opposed to  such as weather  or  economics 
+in economics in situ is used when referring to the in place storage of a product usually a natural resource more generally it refers to any situation where there is no out-of-pocket cost to store the product so that the only storage cost is the opportunity cost of waiting longer to get your money when the product is eventually sold examples of in situ storage would be oil and gas wells all types of mineral and gem mines stone quarries timber that has reached an age where it could be harvested and agricultural products that do not need a physical storage facility such as hay electrochemistry 
+in  the phrase in situ refers to performing electrochemical experiments under operating conditions of the electrochemical cell i.e under potential control this is opposed to doing ex situ experiments that are performed under the absence of potential control potential control preserves the electrochemical environment essential to maintain the double layer structure intact and the electron transfer reactions occurring at that particular potential in the electrode electrolyte interphasial region environmental remediation 
+in situ can refer to where a clean up or  of a  site is performed using and simulating the natural processes in the  contrary to  where contaminated soil is excavated and cleaned elsewhere off site experimental physics 
+in  in situ typically refers to a method of data collection or manipulation of a sample without exposure to an external environment for example the si 111  7x7 surface reconstruction is visible using a  when it is prepared and analyzed in situ experimental psychology 
+in psychology  in situ typically refers to those experiments done in a field setting as opposed to a laboratory setting gastronomy 
+in   in situ  refers to the art of cooking with the different resources that are available at the site of the event here a person is not going to the restaurant but the restaurant comes to the person s home law 
+in  contexts in situ is often used for its literal meaning for example in   in situ land exchange  involves the government exchanging the original or expired  of a piece of land with a new  or re-grant with the same piece of land or a portion of that in the field of recognition of governments under public international law the term in situ is used to distinguish between an  and a government with effective control over the territory i.e the government in situ linguistics 
+in  specifically  an element may be said to be in situ if it is pronounced in the position where it is interpreted for example  in languages such as  have in situ wh-elements with structures comparable to  john bought what  with what in the same position in the sentence as the grammatical object would be in its affirmative counterpart  for example  john bought bread  an example of an  wh-element that is not in situ  see    what did john buy 
+literature 
+in  in situ is used to describe a condition the  for example was originally erected in a courtyard for public viewing most pictures of the famous stone are not in situ pictures of it erected as it would have been originally the stone was uncovered as part of building material within a wall its in situ condition today is that it is erected vertically on public display at the  in london england medicine 
+
+
+
+
+in addition to benign tumors there are in situ tumors and invasive tumors in situ tumors do not invade the basement membrane whereas invasive tumors do invade the basement membrane  diagram of an in 
+
+
+in   for a   means that  cells are present as a tumor but have not metastasized or invaded beyond the basement membrane of where the tumor was discovered this can happen anywhere in the body such as the skin breast tissue or lung this type of tumor can often depending on where it is located be removed by  in   in situ refers to viewing structures as they appear in normal healthy bodies for example one can open up a  s abdominal cavity and view the liver in situ or one can look at an isolated liver that has been removed from the cadaver s body in   in situ  describes any devices or appliances on the patient s body that remain in their desired and optimal position in   in situ  refers to the practice of clinical professionals using high fidelity patient simulators to train for clinical practice in patient care environments such as wards operating rooms and other settings rather than in dedicated simulation training facilities in biomedical protein nanogels made by the in situ polymerization method provide a versatile platform for storage and release of therapeutic proteins it has tremendous applications for cancer treatment vaccination diagnosis regenerative medicine and therapies for loss-of-function genetic diseases mining 
+in situ leaching or in situ recovery refers to the mining technique of injecting water underground to dissolve ore and bringing the uranium-impregnated water to the surface for extraction petroleum production 
+in situ refers to recovery techniques which apply heat or solvents to  or  reservoirs beneath the earth s crust there are several varieties of in situ techniques but the ones which work best in the  use heat  steam  the most common type of in situ petroleum production is referred to as sagd   this is becoming very popular in the alberta oil sands rf transmission 
+in   rf  transmission systems in situ is often used to describe the location of various components while the system is in its standard transmission mode rather than operation in a test mode for example if an in situ  is used in a commercial broadcast transmission system the  can accurately measure power while the station is  on air  space-related 
+future space exploration or  may rely on  such as previous plans to power the  with fuel minable on the moon the  mission concept is based primarily on the in situ fuel production using  in the  in situ refers to measurements of the particle and field environment that the satellite is embedded in such as the detection of energetic particles in the  or magnetic field measurements from a  urban planning 
+in urban planning in-situ upgrading is an approach to and method of upgrading  vacuum technology 
+in  in situ baking refers to heating parts of the vacuum system while they are under vacuum in order to drive off volatile substances that may be  or  on the walls so they cannot cause  road assistance 
+the term in situ used as  repair in situ  means to repair a vehicle at the place where it has a breakdown see also
+
+
+
+   merriam-webster
+ iverson cheryl et al  eds   2007   12.1.1 use of italics  ama manual of style  10th ed  oxford oxfordshire  cs1 maint  extra text  authors list  
+   2010   4.21 use of italics  the publication manual of the american psychological association  6th ed  washington dc usa  apa 
+ 
+ collins latin dictionary   grammar
+ byers steven  2011  introduction to forensic anthropology  4th edition  upper saddle ridge new jersey  pearson education inc  elise a friedland  melanie grunow sobocinski  3 february 2015   oxford university press pp.113   pamela a webb  1996   univ of wisconsin press pp.65   chiang e  laughlin g  2013-06-01   the minimum-mass extrasolar nebula  in-situ formation of close-in super-earths  monthly notices of the royal astronomical society 431  4  34443455      ^   ye yanqi  yu jicheng  gu zhen  2015   versatile protein nanogels prepared by in situ polymerization  macromolecular chemistry and physics    gillespie cailein  cousins john a  2001   oxford uk  elsevier p.72  retrieved 16 june 2014   world-nuclear.org
+ huchzermeyer marie  2009   the struggle for in situ upgrading of informal settlements  a reflection on cases in gauteng  development southern africa 26  1  5974 
+
+
+
+
+
+

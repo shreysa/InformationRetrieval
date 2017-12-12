@@ -1,0 +1,21 @@
+
+the international designator also known as cospar designation and in the united states as nssdc id is an international naming convention for  it consists of the launch year a 3-digit incrementing launch number of that year and up to a 3-letter code representing the sequential identifier of a piece in a launch 
+for example  is the  on mission  which carried the    into space this launch was the 37th known successful launch worldwide in 1990 the number reveals that it was launched in 1990 and that it was the 37th launch made that year spacecraft which do not complete an orbit of the earth for example launches which fail to achieve orbit are not usually assigned ids 
+the designation system has been generally known as the  system named for the committee on space research  cospar  of the   cospar subsumed the first designation system devised at  in 1958 that system used letters of the  to designate artificial satellites for example  was designated 1957 alpha 2 the harvard designation system continued to be used for satellites launched up to the end of 1962 when it was replaced with the modern system the first satellite to receive a new-format designator was  1963-001b although some sources including the nssdc website anachronistically apply the new-format designators to older satellites even those no longer in orbit at the time of its introduction the catalog is administered in the united states by the   nssdc  part of  see also
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

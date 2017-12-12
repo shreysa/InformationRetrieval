@@ -1,0 +1,538 @@
+
+the hawker hurricane is a british single-seat  of the 1930s1940s that was designed and predominantly built by  ltd for the   raf  although overshadowed by the  the aircraft became renowned during the  accounting for 60 percent of the raf air victories in the battle and served in all the major theatres of the  the hurricane originated from discussions during the early 1930s between raf officials and british aircraft designer  on the topic of a proposed  derivative of the   despite an institutional preference for biplanes at the time and repeated lack of interest by the  hawker chose to continue refining their monoplane proposal which resulted in the incorporation of several innovations that would become critical to wartime fighter aircraft such as a retractable  and the newly developed  engine in late 1934 the air ministry placed an order for hawker s  interceptor monoplane  on 6 november 1935 the prototype hurricane k5083 performed its  in june 1936 the hurricane was ordered into production by the air ministry  the type entered squadron service on 25 december 1937 the manufacture and maintenance of the aircraft was greatly eased by its use of conventional construction methods which enabled squadrons to perform many major repairs themselves without much external support the hurricane was rapidly procured prior to the outbreak of the second world war in september 1939 by which point the raf operated a total of 18 hurricane-equipped squadrons the aircraft quickly found itself being heavily relied upon to defend against the vast and varied german aircraft operated by  including  with the capable  across multiple theatres of action it is perhaps best known for its contribution to britain s home defences during the battle of britain the hurricane evolved through several versions and adaptations resulting in a series of aircraft which acted as fighters bomber-interceptors fighter-bombers  also called  hurribombers  and  aircraft further navalised versions which were popularly known as the seahurricane received modifications that enabled their operation from ships  some of these were converted to be used as catapult-launched convoy escorts known as  hurricats  by the end of production in 1944 in excess of 14,583 hurricanes had been completed  including at least 800 that had been converted to a sea hurricane configuration and around 1,400 that had been constructed in  by   
+
+
+contents
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+development
+during the era in which the  company would develop the hurricane  consisted of just 13 squadrons each equipped with either the   or the  all  furnished with fixed wooden propellers and non-retractable undercarriages at the time there was an institutional reluctance towards change within the   according to aviation author francis k mason some senior figures were prejudiced against the adoption of  fighter aircraft while mid-level officers were typically approachable on the subject and design concepts that made use of such configurations in 1934 the british  issued  in response to demands within the   raf  for a new generation of  earlier during 1933 british aircraft designer  had conducted discussions with major john buchanan of the directorate of technical development on a monoplane based on the existing fury mason attributes camm s discussions with figures within the raf such as squadron leader  as having provoked the specification and some of its details such as the preference for armaments being installed within the wings instead of within the aircraft s nose camm s initial submission in response to f.7 30 the  was essentially a scaled-up version of the fury biplane however the p.v.3 was not among the proposals which the air ministry had selected to be constructed as a government-sponsored prototype after the rejection of the p.v.3 proposal camm commenced work upon a new design involving a  monoplane arrangement complete with a fixed undercarriage armed with four machine guns and powered by the  engine the original 1934 armament specifications for what would evolve into the hurricane were for a similar armament fitment to the   four machine-guns two in the wings and two in the fuselage  to fire through the propeller arc by january 1934 the proposal s detail drawings had been finished but these failed to impress the air ministry enough for a prototype to be ordered camm s response to this rejection was to further develop the design during which a retractable undercarriage was introduced and the unsatisfactory goshawk engine was replaced by a new rolls-royce design initially designated as the pv-12 which would subsequently go on to become famous as the  engine in august 1934 a one-tenth scale model of the design was produced and dispatched to the  at  a series of  tests confirmed the aerodynamic qualities of the aircraft were in order and in september 1934 camm again approached the air ministry this time the ministry s response was favourable and a prototype of the  interceptor monoplane  was promptly ordered prototype and trials 
+
+
+
+
+an early mock-up for the hurricane s fuselage showing side fuselage-mounted  machine gun like earlier british biplane fighters 
+
+in november 1934 the air ministry issued specification f.5 34 which drawing on the work of squadron leader ralph sorley called for new fighter aircraft to be armed with a total of eight guns however by this time work had progressed too far to immediately modify the planned four-gun installation by january 1935 a wooden mock-up had been finished and although a number of suggestions for detail changes were made construction of the prototype was approved and a new specification  f.36 34  was written around the design in july 1935 this specification was amended to include installation of eight guns by the end of august 1935 work on the airframe performed at hawker s  facility had been completed and the aircraft components were transported to   where hawker had an assembly shed  on 23 october 1935 the prototype was fully re-assembled ground testing and taxi trials took place over the following two weeks on 6 november 1935 the prototype k5083 took to the air for the  at the hands of hawker s chief    bulman was assisted by two other pilots in subsequent flight testing   flew some of the experimental test flights while  conducted the firm s production flight trials as completed the prototype had been fitted with  to represent the aircraft s armament prior to the acceptance of the final multi-gun wing armament by march 1936 a total of ten flying hours had been performed by the prototype covering all major portions of the flight envelope  early flight testing had gone reasonably well especially in light of the trial status of the merlin engine which had itself yet to achieve full flight certification at this time and thus severe restrictions had been imposed upon use of the engine in early 1936 the prototype was transferred to   to participate in initial service trials under the direction of squadron leader d f anderson sammy wroath later to be the founding commandant of the  was the raf test pilot for the hurricane  his report was favorable stating that   the aircraft is simple and easy to fly and has no apparent vices  and proceeded to praise its control response 
+
+
+
+k5083 the prototype photographed before its first flight in november 1935
+
+
+in the course of raf trials despite the merlin engine proving to be problematic having suffered numerous failures and necessitating several changes enthusiastic reports were produced in the aircraft and its performance figures the trials had observed the aircraft to possess a maximum level speed of 315 mph at an altitude of 16,200ft a time-to-climb to an altitude of 15,000ft from takeoff of 5.7 minutes and a stalling speed of 57 mph  only marginally higher than the gladiator biplane  the last achieved using its  in the course of further testing it was found that the hurricane had poor  recovery characteristics in which all  authority could be lost due to shielding of the rudder hawker s response to the issue was to request that spinning tests be waived but the air ministry refused the request  the situation was resolved by the   rae  who established that the aerodynamic problem had been caused by a breakdown of the airflow over the lower fuselage and could be cured by the addition of a small ventral  and extension of the bottom of the rudder this discovery had come too late for the changes to be incorporated in the first production aircraft but were introduced upon the 61st built and all subsequent aircraft in early 1936 the hawker  had decided in the absence of official authorisation and at company expense to proceed with issuing the design drawings to the production design office and to commence tooling-up for a production line capable of producing a batch of 1,000 hurricanes production 
+
+
+
+
+hurricane production line 1942
+
+
+
+
+
+
+trainee aircraft fitters working on instructional partly-assembled hurricanes circa 19391940
+
+
+in june 1936 the hurricane was formally ordered into production the air ministry having placed its first order that month for 600 aircraft on 26 june 1936 the type name  hurricane  which had been proposed by hawker was approved by the air ministry  an informal christening ceremony for the aircraft was carried out during the following month during an official visit by  to martlesham heath a key reason for the aircraft s appeal was its relatively simple construction and ease of manufacture in comparison to the  it was significantly cheaper and involved less labour requiring 10,300 man hours to produce versus 15,200 for the spitfire as a large-scale war was looking increasingly likely and time was of the essence in providing the raf with an effective fighter aircraft it was unclear if the more advanced spitfire would enter production smoothly while the hurricane made use of well-understood manufacturing techniques this factor was equally applicable for its use within service squadrons as well which were experienced in working on and repairing aircraft whose construction employed the same principles as the hurricane and the simplicity of its design enabled the improvisation of some remarkable repairs in squadron workshops a fabric-covered wing patterned upon traditional hawker designs was initially adopted in order to speed up production  a higher-performing stressed-skin metal wing took its place in late 1939 on 12 october 1937 the maiden flight took place of the first production hurricane i which was powered by a merlin ii engine and flown by flight lieutenant philip lucas production deliveries had been delayed by roughly six months due to a decision to equip the hurricane only with the improved merlin ii engine while the earlier merlin i had been prioritised for the  and the  by the following december the first four aircraft to enter service with the raf had joined  stationed at  by february 1938 no 111 squadron had received 16 hurricanes upon the outbreak of the second world war nearly 500 hurricanes had been produced which had equipped a total of 18 squadrons while a further 3,500 aircraft were on order during 1940  who was the  established an organisation in which a number of manufacturers were seconded to repair and overhaul battle-damaged hurricanes the  also overhauled battle-weary aircraft which were later sent to training units or to other air forces  one of the factories involved was the  s  another was david rosenfield ltd based at  aerodrome near  a major manufacturer of the hurricane was  at their factory in    the facility s chief engineer  became known as the  queen of the hurricanes  the initiative was commercially led rather than governmentally but was endorsed by the british government  hawker having recognised that a major conflict was all but inevitable after the  of 1938 drew up preliminary plans to expand hurricane production via a new factory in canada under this plan samples pattern aircraft and a complete set of design documents stored on  were shipped to canada  22 early british-produced hurricanes were transferred to support the development as a result canadian-built hurricanes were shipped to britain to participate in events such as the  overall some 14,000 hurricanes and sea hurricanes were produced  the majority of hurricanes were built by hawker  who produced the type until 1944  while hawker s sister company the  constructed 2,750 the austin aero company completed 300 hurricanes canada car and foundry was responsible for the production of 1,400 hurricanes designated as the mk x in 1939 production of 100 hurricanes was initiated in  by  and  of these 20 were built by zmaj by april 1941 recognising that the supply of british-made merlin engines might not be guaranteed it was decided to fit one of the yugoslavian hurricanes with a  engine instead  this aircraft was  in 1941 in 1938 a contract for 80 hurricanes was placed with fairey s belgian subsidiary  for the   it was intended to arm these aircraft with an arrangement of four 13.2mm  three were built and two flown with this armament by the time of the  in may 1940 with at least 12 more constructed by avions fairey armed with the conventional eight rifle calibre machine gun armament design 
+
+
+
+
+mk i in france november 1939 showing original fabric-covered outer wing and two-bladed propeller
+
+
+
+
+
+
+underside view of r4118 a preserved hurricane from the 
+
+
+the hawker hurricane is a low-wing   outfitted with retractable undercarriage and an enclosed cockpit for the pilot a clean single-seat fighter it was developed to provide a competent combatant for aerial combat against the latest fighter designs that were emerging amongst the air services of other powers of the era the hurricane was initially armed with an arrangement of eight remotely-operated wing-mounted browning machine guns intended for conducting rapid engagements the hurricane was typically equipped for flying under both day and night conditions being provided with navigation lights harley  complete blind-flying equipment and two-way  upon its entry to service much of the performance data was intentionally concealed from the general public but it was known that the type possessed a speed range of 6 1 though faster and more advanced than the raf s current front line biplane fighters the design of the hurricane s construction was already considered to be somewhat outdated when introduced to service and resembled those used on the earlier biplanes hawker had decided to employ its traditional construction techniques instead of radical measures such as the adoption of a stressed-skin metal exterior the primary structure comprised a  box-girder that made use of high-tensile steel  and  cross-bracing which were mechanically fastened instead of  over this a secondary structure composed of wooden  and  gave the fuselage a rounded external shape which carried a   covering the majority of the external surfaces were linen save for a section between the cockpit and the engine cowling that used lightweight metal panels instead similarly a simple steel tube structure in the nose of the fuselage was used to support the engine  detachable panels across the cowling provided access to most of the engine s areas for inspection or adjustment purposes installed underneath the fuselage the liquid-cooled radiator has a rectangular opening to its aft  this is covered by a hinged flap via which the pilot was able to actively vary the cooling level an atypical feature for the era was the use of  pipes throughout the cooling system initially the structure of the hurricane s  wing consisted of two steel spars which possessed considerable strength and stiffness the wing was described by aviation publication  as being relatively straightforward to manufacture employing simple vertical  to attach the two spars after which the wing ribs would be installed using horizontal bolts forming separate units between the front and rear sparsactuated split   were present on the inner end of the wings the original wing was predominantly fabric-covered like the fuselage while some use of lightweight metal sheets was made upon the exterior surface of the inner wing and its  the majority of the  such as the frise-type  also had fabric coverings an all-metal stressed-skin wing of   a derd specification similar to aa2024  was introduced in april 1939 and was used for all of the later marks  the metal skinned wings allowed a diving speed that was 80mph  130km h  higher than the fabric-covered ones they were very different in construction but were interchangeable with the fabric-covered wings  one trials hurricane l1877 was even flown with a fabric-covered port wing and metal-covered starboard wing the great advantage of the metal-covered wings over the fabric ones was that the metal ones could carry far greater stress loads without needing so much structure beneath  several fabric-wing hurricanes were still in service during the battle of britain although a good number had had their wings replaced during servicing or after repair changing the wings only required three hours work per aircraft the hurricane was furnished with a laterally-retracting  the main undercarriage units being able to slide into recesses within the wing hinged telescopic vickers-built legs are attached to the bottom boom of the wing s forward spar but with a  within the wing at the top of the strut to allow the strut to be angled forwards when extended and rearwards when retracted to clear the forward spar a hydraulic jack served to actuate the undercarriage folding and pivoting the legs as to reposition the wheel unit rearwards well as inwards in order to clear the front spar when retracted two separate hydraulic systems one being power-operated and the other hand operated are present for the deployment and retraction of the undercarriage  in the event of both failing pilots can release the retaining catches holding the undercarriage in place deploying the wheels to the  down  position using weight alone a wide wheel-track was used to allow for considerable stability during ground movements and to enable tight turns to be performed the prototype and early production hurricanes were fitted with a watts two-bladed fixed-pitch wooden propeller  commented of this arrangement   many have expressed surprise that the hurricane is not fitted with variable-pitch airscrews  the original two-bladed propeller was found to be inefficient at low airspeeds and the aircraft required a long ground run to get airborne which caused concern at fighter command accordingly trials with a   demonstrated a reduction in the hurricane s take-off run from 1,230 to 750ft  370 to 230m  deliveries of these began in april 1939  this was later replaced by the hydraulically operated constant-speed  propeller which came into service in time for the battle of britain 
+
+then with tail trimmer set throttle and mixture lever fully forward and puffs of grey exhaust smoke soon clearing at maximum r.p.m came the surprise  there was no sudden surge of acceleration but with a thunderous roar from the exhausts just ahead on either side of the windscreen only a steady increase in speed in retrospect that first hurricane sortie was a moment of elation but also of relief apart from the new scale of speeds that the pilot had to adapt to the hurricane had all the qualities of its stable secure biplane predecessor the  but enhanced by livelier controls greater precision and all this performance 
+ a trainee pilot describing his first flight in a hurricane camm s priority was to provide the pilot with good all-round visibility to this end the cockpit was mounted reasonably high in the fuselage creating a distinctive  hump-backed  silhouette pilot access to the cockpit was aided by a retractable   mounted below the trailing edge of the port wing this was linked to a spring-loaded hinged flap which covered a handhold on the fuselage just behind the cockpit when the flap was shut the footstep retracted into the fuselage in addition both  were coated with strips of non-slip material an advantage of the steel-tube structure was that cannon shells could pass right through the wood and fabric covering without exploding even if one of the steel tubes were damaged the repair work required was relatively simple and could be done by ground crew at the airfield damage to a  structure as used by the spitfire required more specialised equipment to repair the old-fashioned structure also permitted the assembly of hurricanes with relatively basic equipment under field conditions crated hurricanes were assembled at  in west africa and flown across the sahara to the middle east theatre and to save space some  aircraft carriers carried their reserve sea hurricanes dismantled into their major assemblies which were slung up on the hangar bulkheads and deckhead for reassembly when needed in contrast the contemporary spitfire used all-metal  construction and was thus both lighter and stronger though less tolerant to bullet damage with its ease of maintenance widely set landing gear and benign flying characteristics the hurricane remained in use in theatres of operations where reliability easy handling and a stable gun platform were more important than performance typically in roles like ground attack one of the design requirements of the original specification was that both the hurricane and the spitfire were also to be used as  the hurricane proved to be a relatively simple aircraft to fly at night and shot down several german aircraft on night raids from early 1941 the hurricane was also used as an  intruder  aircraft patrolling german airfields in france at night to catch bombers taking off or landing operational history 
+pre-war 
+
+
+
+
+yugoslavian hurricane mark i
+
+
+by the middle of 1938 the first 50 hurricanes had reached squadrons and at that time it had been assessed that the rate of production was slightly greater than the raf s capacity to introduce the new aircraft which had already been accelerated accordingly the british government gave hawker the clearance to sell excess aircraft to nations that were likely to oppose german expansion as a result there were some modest export sales made to other countries  at the earliest opportunity a former raf hurricane i was dispatched to  for evaluation purposes shortly after this evaluation an order for 24 hurricane mark is for the  was received  this was followed by the purchase of a  for the hurricane by yugoslavia yugoslavia hurricanes saw action against the  during the  in 1941 by the  hurricane production was increased as part of a plan to create a reserve of  aircraft as well as re-equip existing squadrons and newly formed ones such as those of the  expansion scheme e included a target of 500 fighters of all types by the start of 1938 by the time of the  there were only two fully operational raf squadrons of the planned 12 to be equipped with hurricanes by the time of the  there were 18 operational hurricane squadrons and three more that were in the process of converting 
+
+
+
+personnel of  next to a hurricane i   france on 10 may 1940
+
+
+the hurricane had its first combat action on 21 october 1939 at the start of the  that day a flight of  took off from north coates satellite airfield on the  coast and was directed to intercept a formation of nine b floatplanes from 1 kflgr 906 searching for ships to attack in the north sea the heinkels had already been attacked and damaged by two spitfires from  when six hurricanes intercepted them which were flying at sea level in an attempt to avoid fighter attacks the hurricanes shot down four of the enemy in rapid succession 46 squadron claiming five and the spitfire pilots two in response to a request from the french government for the provision of 10 fighter squadrons to provide air support air chief marshal  commander-in-chief of raf fighter command insisted that this number would deplete british defences severely and so initially only four squadrons of hurricanes    and  were relocated to france keeping spitfires back for  home  defence the first to arrive was no.73 squadron on 10 september 1939 followed shortly by the other three a little later  and  joined them after his first flight in october 1939 hurricane pilot  subsequently flew operationally with 87 squadron claiming three enemy aircraft during the french campaign and delivered great praise for his aircraft s performance 
+
+throughout the bad days of 1940 87 sqn had maintained a proficient formation aerobatic team the precise flying controls and responsive engines permitting precision formation through loops barrel rolls 1g semi-stall turns and rolls off half-loops  my hurricane was never hit in the battles of france and britain and in over 700 hr on type i never experienced an engine failure roland beamont summarising his wartime experience as a pilot 
+
+
+
+
+hurricane mk i of the  during the  may 1940 this aircraft was abandoned in norway
+
+
+while the opening months of the war were characterised by little air activity in general there were sporadic engagements and aerial skirmishes between the two sides on 30 october 1939 hurricanes saw action over france that day pilot officer  of 1 squadron flying hurricane l1842 shot down a p from 2 f 123 the german aircraft sent to photograph allied airfields close to the border fell in flames about 10 miles  16km  west of  mould was the first raf pilot to down an enemy aircraft on the european continent in the second world war according to mason the experiences gained in these early engagements proved invaluable in developing tactics which became tried and tested and rapidly spread throughout fighter command on 6 november 1939 pilot officer  from 73 squadron was the first to clash with a  after the dogfight he came back with five holes in his fuselage   a new zealander was responsible for 73 squadron s first victory on 8 november 1939 while stationed at  he went on to become one of the raf s first  of the war being credited with 16 kills on 22 december the hurricanes in france suffered their first losses  three of them while trying to intercept an unidentified aircraft between  and  were jumped by four bf 109es from iii jg 53 with their   ace captain  in the lead mlders and leutnant  shot down the hurricanes of sergeant r m perry and j winn for no loss battle of france 
+
+
+
+
+hurricane i of  being refuelled at  france
+
+
+in may 1940 nos 3 79 and 504 squadrons reinforced the earlier units as germany s  gathered momentum on 10 may the first day of the  flight lieutenant r e lovett and flying officer  fanny  orton of 73 squadron were the first r.a.f pilots to engage enemy aircraft in the campaign they attacked one of three  from 4 staffel  that were flying over their airfield at  the dornier went away unscathed while orton was hit by defensive fire and had to force land on the same day the hurricane squadrons claimed 42 german aircraft none of them fighters shot down during 208 sorties  seven hurricanes were lost but no pilots were killed on 12 may several hurricanes units were committed to escort bombers that morning five  volunteer crews from 12 squadron took off from  base to bomb vroenhoven and veldwezelt bridges on the  at  the escort consisted of eight hurricanes of 1 squadron with squadron leader p j h  bull  halahan in the lead when the formation approached maastricht it was bounced by 16 bf 109es from 2 jg 27 two battles and two hurricanes  including halahan s  were shot down two more battles were brought down by flak and the fifth bomber had to crash-land the 1 squadron pilots claimed four messerschmitts and two  while the  actually lost only one bf 109 on 13 may 1940 a further 32 hurricanes arrived all ten requested hurricane squadrons were then operating from french soil and felt the full force of the nazi offensive the following day hurricanes suffered heavy losses  27 being shot down 22 by messerschmitts with 15 pilots killed  another died some days later  including squadron leader j b parnall  504 sqn  and the australian ace    1 sqn  on the same day 3 squadron claimed 17 german aircraft shot down 85 and 87 squadrons together claimed four victories while 607 squadron claimed nine during the following three days  1517 may  no fewer than 51 hurricanes were lost in combat or in accidents 
+
+
+
+mechanics servicing the engine of a hurricane i of  at no 1 repair centre   france
+
+
+by 17 may the end of the first week of fighting only three of the squadrons were near operational strength but the hurricanes had managed to destroy nearly twice as many german aircraft on 18 may 1940 air combat continued from dawn to dusk  hurricane pilots claimed 57 german aircraft and 20 probables  luftwaffe records show 39 aircraft lost  the following day 1 and 73 squadrons claimed 11 german aircraft  three by  cobber  kain and three by paul richey  on these two days hurricanes suffered heavier losses with 68 hurricanes shot down or forced to crash-land due to combat damage fifteen pilots were killed eight were taken prisoner and 11 injured two-thirds of the hurricanes had been shot down by messerschmitt bf 109s and  in the afternoon of 20 may 1940 the hurricane units based in northern france were ordered to abandon their bases on the continent and return to great britain on the same day  bull  halahan requested the repatriation of the pilots serving in 1 squadron during the previous 10 days the unit had been the most successful of the campaign  it had claimed 63 victories for the loss of five pilots  two killed one taken prisoner and two hospitalised 1 squadron was awarded ten dfcs and three dfms during the blitzkrieg on the evening of 21 may the only hurricanes still operational were those of the  that had been moved to bases around  during the 11 days of fighting in france and over dunkirk from 1021 may hurricane pilots claimed 499 kills and 123 probables contemporary german records examined postwar attribute 299 luftwaffe aircraft destroyed and 65 seriously damaged by raf fighters the last 66 hurricanes of the 452 engaged during the battle of france left france on 21 june  178 were abandoned at several airfields notably   and   operation dynamo 
+during   the evacuation from dunkirk of british french and belgian troops cut off by the german army during the   the hawker hurricanes operated from british bases between 26 may and 3 june 1940 the 14 hurricane units involved were credited with 108 air victories a total of 27 hurricane pilots became aces during operation dynamo led by canadian pilot officer w l   10 victories  and pilot officer   seven victories  who served in no 242 squadron consisting mostly of canadian personnel losses were 22 pilots killed and three captured 
+
+over dunkirk the luftwaffe suffered its first serious rebuff of the war as galland has noted the nature and style of the air battles over the beaches should have provided a warning as to the inherent weaknesses of the luftwaffe s force structure admittedly the germans fought at a disadvantage although positioned forward at captured airfields the bf 109 was at the outer limits of its range and possessed less flying time over dunkirk than did the  hurricanes  and  spitfires  operating from southern england german bombers were still located in western germany and had even farther to fly thus the luftwaffe could not bring its full weight to bear so that when its bombers hammered those on the beaches or embarking the raf intervened in a significant fashion german aircraft losses were high and british fighter attacks often prevented german bombers from performing with full effectiveness both sides suffered heavy losses during the nine days from may 26 through june 3 the raf lost 177 aircraft destroyed or damaged  the germans lost 240 for much of the luftwaffe dunkirk came as a nasty shock fliegerkorps ii reported in its war diary that it lost more aircraft on the 27th attacking the evacuation than it had lost in the previous ten days of the campaign 
+murray strategy for defeat the luftwaffe 19351945
+on 27 may 1940 in one of the final mass encounters of the blitzkrieg 13 hurricanes from 501 squadron intercepted 24  escorted by 20 bf 110s  during the ensuing battle 11 heinkels were claimed as  kills  and others damaged with little damage to the hurricanes on 7 june 1940  cobber  kain the first raf ace of the war got word that he was to return to england for  rest leave  at an  on leaving his airfield he put on an impromptu aerobatic display and was killed when his hurricane crashed after completing a  and attempting some low altitude  initial engagements with the luftwaffe had showed the hurricane to be a tight-turning and steady platform but the watts two-bladed propeller was clearly unsuitable at least one pilot complained of how a heinkel 111 was able to pull away from him in a chase yet by this time the heinkel was obsolete at the start of the war the engine ran on standard 87   from early 1940 increasing quantities of 100 octane fuel imported from the u.s became available in february 1940 hurricanes with the merlin ii and iii engines began to receive modifications to allow for an additional 6psi  41kpa  of  boost for five minutes  although there are accounts of its use for 30 minutes continuously  the extra supercharger boost which increased engine output by nearly 250hp  190kw  gave the hurricane an approximate increase in speed of 25 to 35mph  40 to 56km h  under 15,000ft  4,600m  altitude and greatly increased the aircraft s climb rate  overboost  or  pulling the plug  a form of  as it was called in later second world war aircraft was an important wartime modification that allowed the hurricane to be more competitive against the  and to increase its margin of superiority over the  especially at low altitude with the  12psi  83kpa   emergency boost  the merlin iii was able to generate 1,310hp  980kw  at 9,000ft  2,700m   ian gleed of 87 squadron wrote about the effect of using the extra boost on the hurricane while chasing a bf 109 at low altitude on 19 may 1940   damn  we re flat out as it is here goes with the tit a jerk boost s shot up to 12 pounds  speed s increased by 30 mph i m gaining ground 700 600 500 yards give him a burst no hold your fire you fool  he hasn t seen you yet  gleed ran out of ammunition before he could shoot the 109 down although he left it heavily damaged and flying at about 50ft  15m  hurricanes equipped with  constant-speed propellers were delivered to raf squadrons in may 1940 with deliveries continuing throughout the battle of britain according to aviation author david donald the rotol propeller had the effect of transforming the hurricane s performance from  disappointing  to  acceptable mediocrity  modified aircraft were reportedly much sought after among squadrons which had also been equipped with hurricanes that were fitted with the older de havilland two-position propeller battle of britain 
+
+
+
+
+hurricane i of  flown by plt off a.v clowes 
+
+at the end of june 1940 following the fall of france the majority of the raf s 36 fighter squadrons were equipped with hurricanes the  officially lasted from 10 july until 31 october 1940 but the heaviest fighting took place between 8 august and 21 september both the supermarine spitfire and the hurricane are renowned for their part in defending britain against the luftwaffe  generally the spitfire would intercept the german fighters leaving hurricanes to concentrate on the bombers but despite the undoubted abilities of the  thoroughbred  spitfire it was the  workhorse  hurricane that scored the higher number of raf victories during this period accounting for 55 percent of the 2,739 german losses according to fighter command compared with 42 per cent by spitfires on 8 august 1940 hurricanes of  were recorded as having fired the first shots of the battle of britain 
+
+another thing we did was to devise a manoeuvre which was aimed at getting us out of a difficult corner if we ever got into one this may sound very extraordinary probably to practising pilots today but it consisted of putting everything into the left hand front corner of the cockpit if you saw a 109 on your tail and it hadn t shot you down at that point you put on full throttle fine pitch full left rudder full left stick and full forward stick this resulted in a horrible manoeuvre which was in fact a negative g spiral dive but you would come out of the bottom with no 109 on your tail and your aeroplane intact 
+ describing how a hurricane can get away from an me109 as a fighter the hurricane had some drawbacks it was slightly slower than both the spitfire i and ii and the messerschmitt bf 109e and the thicker wing profiles compromised acceleration  but it could out-turn both of them in spite of its performance deficiencies against the bf 109 the hurricane was still capable of destroying the german fighter especially at lower altitudes the standard tactic of the 109s was to attempt to climb higher than the raf fighters and  bounce  them in a dive  the hurricanes could evade such tactics by turning into the attack or going into a  corkscrew dive  which the 109s with their lower rate of roll found hard to counter if a 109 was caught in a dogfight the hurricane was just as capable of out-turning the 109 as the spitfire in a stern chase the 109 could evade the hurricane in september 1940 the more powerful mk iia series 1 hurricanes started entering service although only in small numbers this version was capable of a maximum speed of 342mph  550km h  the hurricane was a steady gun platform and had demonstrated its ruggedness as several were badly damaged yet returned to base but the hurricane s construction made it dangerous if it caught fire  the wood frames and fabric covering of the rear fuselage allowed fire to spread through the rear fuselage structure easily in addition the gravity fuel tank in the forward fuselage sat right in front of the instrument panel without any form of protection for the pilot many hurricane pilots were seriously burned as a consequence of a jet of flame which could burn through the instrument panel this became of such concern to  that he had hawker retrofit the fuselage tanks of the hurricanes with a self-expanding rubber coating called  if the tank happened to be punctured by a bullet the linatex coating would expand when soaked with petrol and seal it some hurricane pilots also felt that the fuel tanks in the wings although they were protected with a layer of linatex were vulnerable from behind and it was thought that these not the fuselage tank were the main fire risk 
+
+
+
+groundcrew refuelling a hurricane mk i of     august 1940
+
+
+from 10 july to 11 august 1940 raf fighters fired at 114 german bombers and shot down 80 a destruction ratio of 70 per cent against the bf 109 the raf fighters attacked 70 and shot down 54 of these a ratio of 77 per cent it has been suggested that part of the success of the british fighters was possibly due to the use of the  the hurricane with the highest number of kills during the battle of britain was p3308 a mk1 flown between 15 august and 7 october 1940 by raf  auxiliary  pilot  of 605 squadron he is credited with 21 kills 19 of those in a hurricane during the battle of britain on 7 october he is credited with shooting down 5 bf 109s making him one of only 2 raf pilots  the other  of new zealand  to become an ace in a day during the battle of britain during his brief fighting career mckellar earned the        mackellar has remained in relative obscurity in battle of britain history as he was killed in action one day after the date set by the war ministry  after the war  as the official end date for the battle of britain he was killed on 1 november 1940 while taking on a superior number of bf109s as in the spitfire the merlin engine suffered from negative-g cut-out a problem not cured until the introduction of  in early 1941 the only battle of britain  and the only one awarded to a member of fighter command during the war was awarded to flight lieutenant  of  as a result of an action on 16 august 1940 when his section of three hurricanes was  bounced  from above by bf 110 fighters all three were hit simultaneously nicolson was badly wounded and his hurricane was damaged and engulfed in flames while attempting to leave the cockpit nicolson noticed that one of the bf 110s had overshot his aircraft he returned to the cockpit which by now was an inferno engaged the enemy and may have shot down the bf 110 night fighters and intruders 
+
+
+
+
+wartime colour photo of hurricane iic be500 flown by sqn ldr  of  in the rdm2  special night  scheme and used on intruder operations 19411942 
+
+following the battle of britain the hurricane continued to give service  through  of 1941 it was the principal single-seat night fighter in fighter command f lt richard stevens claimed 14 luftwaffe bombers flying hurricanes in 1941 in 1942 the cannon-armed mk iic performed further afield as a night intruder over occupied europe f lt  of  proved the top scorer with 15 luftwaffe bombers claimed shot down 1942 also saw the manufacture of twelve hurricane ii c nf  night fighters equipped with pilot-operated air interception mark vi radar after a brief operational deployment with no 245 and  during which these aircraft proved too slow for operations in europe the aircraft were sent to india to serve with  in the defence of calcutta they were withdrawn from service at the end of december 1943 north africa 
+
+
+
+
+maintenance work being carried out on a hurricane of 274 sqdn during the siege of tobruk
+
+
+the hurricane mk ii was hastily tropicalised following  s entry into the war in june 1940 these aircraft were initially ferried through france and malta by air to  in egypt replacing  biplanes the hurricane claimed its first kill in the mediterranean on 19 june 1940 when f o p.g wykeham-barnes reported shooting down two  hurricanes served with several british commonwealth squadrons in the  they suffered heavy losses over north africa after the arrival of bf 109e and f-variants and were progressively replaced in the air superiority role from june 1941 by  however fighter-bomber variants  hurribombers  retained an edge in the ground attack role due to their impressive armament of four 20mm 79in  cannon and a 500lb  230kg  bomb load from november 1941 beginning in the libyan desert it had to face a new formidable opponent  the new   folgore the italian aircraft proved superior to the hawker fighter and thanks to its excellent agility and a new  license-built by  could outperform it in a dogfight during and following the five-day  artillery barrage that commenced on the night of 23 october 1942 six squadrons of hurricanes including thearmed hurricane mk.iid version claimed to have destroyed 39 tanks 212 lorries and armoured troop-carriers 26  42 guns 200 various other vehicles and four small fuel and ammunition dumps flying 842 sorties with the loss of 11 pilots whilst performing in a ground support role hurricanes based at   knocked out six tanks 13 armoured vehicles 10 lorries five  a gun and trailer and a wireless van on 10 march 1943 with no losses to themselves in the spring of 1943 during the german  in  hurricane mkiids conducted many sorties after fog had lifted helping to blunt the final attack at hunts gap defence of malta 
+the hurricane played a significant role in the  when italy entered the war on 10 june 1940 malta s air defence rested on  which managed to hold out against vastly superior numbers of the italian air force during the following 17 days  according to myth after the first one was lost the remaining three were named faith hope and charity  in reality there were at least six gladiators  four hurricanes joined them at the end of june and together they faced attacks throughout july from the 200 enemy aircraft based in  with the loss of one gladiator and one hurricane further reinforcements arrived on 2 august in the form of 12 more hurricanes and two  
+
+
+for weeks a handful of hurricane iis aided by group captain a.b woodhall s masterly controlling had been meeting against all the odds the rising crescendo of  s relentless attacks on  and the airfields outnumbered usually by 12 or 14 to one and later with the arrival of the fs in sicily outperformed the pilots of the few old aircraft which the ground crews struggled valiantly to keep serviceable went on pressing their attacks ploughing their way through the german fighter screens and our flak to close in with the  and  as they dived for their targets 
+wing commander   
+the increasing number of british aircraft on the island at last prompted the italians to employ german  dive bombers to try to destroy the airfields finally in an attempt to overcome the stiff resistance put up by these few aircraft the luftwaffe took up base on the sicilian airfields only to find that malta was not an easy target after numerous attacks on the island over the following months and the arrival of an extra 23 hurricanes at the end of april 1941 and a further delivery a month later the luftwaffe left sicily for the  in june that year as malta was situated on the increasingly important sea supply route for the  the luftwaffe returned with a vengeance for a second assault on the island at the beginning of 1942 it wasn t until march when the onslaught was at its height that 15 spitfires flew in off the carrier  to join with the hurricanes already stationed there and bolster the defence but many of the new aircraft were lost on the ground and it was again the hurricane that bore the brunt of the early fighting until further reinforcements arrived air defence in russia 
+
+
+
+
+hurricane mark iib of no 81 squadron raf at murmansk-vaenga airfield russia
+
+
+the hawker hurricane was the first allied  aircraft to be delivered to the  with a total of 2,952 hurricanes eventually delivered becoming the most numerous british aircraft in  service many soviet pilots were disappointed by the hawker fighter regarding it as inferior to both german and russian aircraft during 1941 mk ii hurricanes played an important air defence role when the soviet union found itself under threat from the approaching german army who were advancing across a broad front stretching from  and  to the oil fields in the south britain s decision to aid the soviets meant sending supplies by sea to the far northern ports and as the convoys would need to sail within range of enemy air attack from the luftwaffe based in neighbouring finland it was decided to deliver a number of hurricane mk iibs flying with  and  of  to provide protection twenty-four were transported on the   arriving just off  on 28 august 1941 and another 15 crated aircraft on board merchant vessels in addition to their convoy protection duties the aircraft also acted as escorts to russian bombers enemy attention to the area declined in october at which point the raf pilots trained their soviet counterparts to operate the hurricanes themselves by the end of the year the raf s direct role in the region had ended but the aircraft themselves remained behind and became the first of thousands of allied aircraft that were accepted by the soviet union although soviet pilots were not universally enthusiastic about the hurricane twice  lt col   loved the hurricane  and raf hurricane mk iib fighters operating from soviet soil in defence of murmansk destroyed 15 luftwaffe aircraft for only one loss in combat however in some soviet war memoirs the hurricane has been described in very unflattering terms the  soviet  iib hurricane as a multi-role fighter-bomber had quite a few drawbacks first of all it was 4050km h  25 31mph  slower than its main opponent the bf 109e interceptor at low and medium height and had a slower rate of climb the messerschmitt could outdive the hurricane because of the thicker wing profile of the british fighter but the main source of complaints was the hurricane s armament on occasion the eight or 12 small-calibre machine guns did not damage the sturdy and heavily armoured german aircraft  consequently soviet ground crews started to remove the brownings retaining only four or six of the 12 machine guns two 12.7mm  or two or even four 20mm  were substituted but overall performance deteriorated as a result burma ceylon singapore and the netherlands east indies 
+
+
+
+
+hawker hurricane mk.ii of  shot down on 8 february 1942 during the 
+
+
+following the outbreak of the  51 hurricane mk iibs were disassembled and sent in crates to   these and the 24 pilots  many of whom were veterans of the battle of britain  who had been transferred to the theatre formed the nucleus of five squadrons they arrived on 3 january 1942 by which time the allied fighter squadrons in singapore flying  had been overwhelmed during the  the  s fighter force especially the  oscar had been underestimated in its capability numbers and the strategy of its commanders thanks to the efforts of the 151st maintenance unit the 51 hurricanes were assembled and ready for testing within 48 hours and of these 21 were ready for operational service within three days the hurricanes were fitted with bulky  vokes  dust filters under the nose and were armed with 12 rather than eight machine guns the additional weight and drag made them slow to climb and unwieldy to manoeuvre at altitude although they were more effective bomber killers the recently arrived pilots were formed into  in addition  a buffalo squadron converted to hurricanes on 18 january the two squadrons formed the basis of  232 squadron became operational on 22 january and suffered the first losses and victories for the hurricane in southeast asia between 27 and 30 january another 48 hurricanes  mk iia  arrived with the aircraft carrier  from which they flew to airfields code-named p1 and p2 near   in the  because of inadequate early warning systems  the first british radar stations became operational only towards the end of february  japanese air raids were able to destroy 30 hurricanes on the ground in sumatra most of them in one raid on 7 february after japanese  on 10 february the remnants of 232 and 488 squadrons were withdrawn to palembang however japanese paratroopers began the  on 13 february hurricanes destroyed six japanese  on 14 february but lost seven aircraft in the process on 18 february the remaining allied aircraft and aircrews moved to  by this time only 18 serviceable hurricanes remained out of the original 99 that same month 12 hurricane mk iib trops were supplied to the dutch forces on java with dust filters removed and fuel and ammo load in wings halved these were able to stay in a turn with the oscars they fought after  some of the new zealand pilots were evacuated by sea to australia one aircraft which had not been assembled was transferred to the raaf becoming the only hurricane to see service in australia in training and other non-combat units 
+
+
+
+hurricane v7476 which was transferred from singapore and was the only hurricane based in australia during the second world war note the tropicalised vokes air filter which was fitted to many types operating in the pacific 
+
+when a japanese carrier task force under the command of admiral  made a  in april 1942 raf hurricanes based on  saw action against nagumo s forces during attacks on  on 5 april 1942 and on  harbour on 9 april 1942 on 5 april 1942 captain  of the  who led the  led a strike against colombo with 53  torpedo bombers and 38  dive bombers escorted by 36  fighters they were opposed by 35 hurricane i and iibs of  and  together with six  of  and  squadrons of the fleet air arm the hurricanes mainly tried to shoot down the attacking bombers but were engaged heavily by the escorting zeros a total of 21 hurricanes were shot down  although two of these were repairable  together with four fulmars and six swordfish of  that had been surprised in flight by the raid the raf claimed 18 japanese aircraft destroyed seven probably destroyed and nine damaged with one aircraft claimed by a fulmar and five by anti-aircraft fire this compared with actual japanese losses of one zero and six d3as with a further seven d3as five b5ns and three zeros damaged on 9 april 1942 the japanese task force sent 91 b5ns escorted by 41 zeros against trincomalee port and the nearby  a total of 16 hurricanes opposed the raid of which eight were lost with a further three damaged they claimed eight japanese aircraft destroyed with a further four probably destroyed and at least five damaged actual japanese losses were three a6ms and two b5ns with a further 10 b5ns damaged epilogue 
+the battles over the  in 1943 represented the last large-scale use of the hurricane as a pure day fighter but they were still used in the fighter-bomber role in burma until the end of the war and they were occasionally caught up in air combat as well for example on 15 february 1944 flg off jagadish chandra verma of no 6 sqdn of the  shot down a japanese   it was the only riaf victory of the war the hurricane remained in service as a fighter-bomber over the  and at home as well where it was used mainly for second-line tasks and occasionally flown by ace pilots for example in mid-1944 ace sqdn leader  jas  storrar flew no 1687 hurricane to deliver priority mail to allied armies in france during the  
+
+
+
+sea hurricane mk ib in formation december 1941
+
+
+aircraft carrier operations 
+main article  
+the  became operational in mid-1941 and scored its first kill while operating from  on 31 july 1941 during the next three years  sea hurricanes were to feature prominently while operating from royal navy  the sea hurricane scored an impressive kill-to-loss ratio primarily while defending  and operating from  in the atlantic ocean as an example on 26 may 1944 royal navy  operating from the escort carrier  claimed the destruction of three  reconnaissance aircraft during the defence of a convoy hurricane aces 
+the top scoring hurricane pilot was       with 35 hawker fighter victories  out of career 50 total with two shared  serving with no 80 and 33 squadrons all of his hurricane kills were achieved over greece in 1941 he was shot down and killed in the battle of athens wing commander  claimed 28 air victories while flying hurricanes during 193943 and      totalled 20 kills  of 30  in greece and syria with no 80 squadron czech pilot f lt  achieved all of his 18 air victories with the hurricane most as an intruder night fighter with no 1 squadron pilot officer v.c woodward  33 and 213 squadrons  was another top-scoring ace with 14  out of 18 total three of which are shared  while f lt  claimed all of his 14.5 enemy aircraft flying the hurricane  was the leading  sea hurricane ace with nine destroyed two shared one probable four damaged and seven destroyed on the ground czech pilot  flying with  shot down at least 17 enemy aircraft over southeast england during septemberoctober 1940 polish pilot  flying with 303 polish squadron had 15 confirmed kills and one probable during the battle of britain variants 
+main article  
+
+
+
+
+mk is in france with original two-bladed watts propellers
+
+
+
+
+hurricane mk i
+first production version with fabric-covered wings a wooden two-bladed fixed  powered by the 1,030hp  770kw    mk ii or iii engines and armed with eight   7.7mm   produced between 1937 and 1939 
+
+hurricane mk i  revised 
+a revised hurricane mk i series built with a  or  constant speed metal propeller metal-covered wings armour and other improvements in 1939 the raf had taken on about 500 of this later design to form the backbone of the fighter squadrons 
+
+hurricane mk iia series 1
+hurricane mk i powered by the improved merlin xx engine with two-speed supercharger this new engine used a mix of 30 per cent glycol and 70 per cent water pure glycol is flammable so not only was the new mix safer but the engine also ran approximately 21c  70f  cooler which gave longer engine life and greater reliability the new engine was longer than the earlier merlin and so the hurricane gained a 4.5 in  plug  in front of the cockpit which made the aircraft slightly more stable due to the slight forward shift in centre of gravity first flew on 11 june 1940 and went into squadron service in september 1940 
+
+
+
+
+hawker hurricane mk iib z5140
+
+
+
+hurricane mk iib  hurricane iia series 2 
+the hurricane ii b were fitted with racks allowing them to carry two 250 lb or two 500 lb bombs this lowered the top speed of the hurricane to 301mph  484km h  but by this point mixed sweeps of hurricanes carrying bombs protected by a screen of fighter hurricanes were not uncommon the same racks allowed the hurricane to carry two 45-gallon  205l  drop tanks instead of the bombs more than doubling the hurricane s fuel load 
+
+hurricane mk iia series 2 was equipped with new and slightly longer propeller spinner and new wing-mounting 12 x303in  7.7mm  browning machine guns the first aircraft were built in october 1940 and were renamed mark iib in april 1941 
+
+hurricane mk iib trop for use in north africa the hawker hurricane mk iib  and other variants  were tropicalised they were fitted with vokes and rolls-royce engine dust filters and the pilots were issued with a desert survival kit including a bottle of water behind the cockpit 
+
+
+
+
+hurricane mk iic bd867 of 3 sqn raf 1942
+
+
+
+hurricane mk iic  hurricane mk iia series 2 
+hurricane mk iia series 1 equipped with new and slightly longer propeller spinner and fully replaced the machine-gun armament with four 20mm 79in   cannons two per side hurricane iia series 2 became the mk iic in june 1941 using a slightly modified wing the new wings also included a hardpoint for a 500 or 250lb  230 or 110kg  bomb and later in 1941 fuel tanks by then performance was inferior to the latest german fighters and the hurricane changed to the  role sometimes referred to as the hurribomber the mark also served as a  and  
+
+hurricane mk iid
+hurricane mk iib conversion armed with two 40mm  1.57in  anti-tank autocannons in a  one under each wing and a single browning machine gun in each wing loaded with tracers for aiming purposes the first aircraft flew on 18 september 1941 and deliveries started in 1942 serial-built aircraft had additional armour for the pilot radiator and engine and were armed with a rolls-royce gun with 12 rounds later changed to the 40mm  1.57in   with 15 rounds the outer wing attachments were strengthened so that 4g could be pulled at a weight of 8,540 lb  3,874 kg  the weight of guns and armour protection marginally impaired the aircraft s performance these hurricanes were nicknamed  flying can openers  perhaps a play on the logo of no 6 squadron which flew the hurricane starting in 1941 
+
+
+
+
+hurricane iid of 6 sqn showing vokes tropical filter and raf desert camouflage in 1942 
+
+
+hurricane mk iie
+another wing modification was introduced in the mk iie but the changes became extensive enough that it was renamed the mk iv after the first 250 had been delivered 
+
+hurricane mk t.iic
+
+
+
+
+
+
+
+
+
+two-seat training version of the mk iic only two aircraft were built for the  
+
+hurricane mk iii
+version of the hurricane mk ii powered by a usbuilt merlin engine intending to provide supplies of the british-built engines for other designs by the time production was to have started british merlin production had increased to the point where the idea was abandoned 
+
+
+
+
+hurricane mk iv armed with rp-3 rockets
+
+
+
+hurricane mk iv
+the last major change to the hurricane was the introduction of the  universal wing  a single design able to mount two 250 or 500lb  110 or 230kg  bombs two 40mm  1.57in  vickers s guns drop tanks or eight  rockets two303in brownings were fitted to aid aiming of the heavier armament the new design also incorporated the improved merlin 24 or 27 engines of 1,620hp  1,210kw  equipped with dust filters for desert operations the merlin 27 had a redesigned oil system that was better suited to operations in the tropics and which was rated at a slightly lower altitude in keeping with the hurricane s new role as a close-support fighter the radiator was deeper and armoured additional armour was also fitted around the engine 
+
+hurricane mk v
+the final variant to be produced only three were built and the variant never reached production this was powered by a merlin 32 boosted engine to give 1,700hp at low level and was intended as a dedicated ground-attack aircraft to use in  all three prototypes had four-bladed propellers speed was 326mph  525km h  at 500ft which is comparable with the hurricane i despite being one and a half times as heavy 
+
+hurricane mk x
+canadian-built variant single-seat fighter and fighter-bomber powered by a 1,300hp  970kw  packard merlin 28 eight 0.303in  7.7mm  machine guns mounted in the wings in total 490 were built 
+
+hurricane mk xi
+canadian-built variant 150 were built 
+
+hurricane mk xii
+canadian-built variant single-seat fighter and fighter-bomber powered by a 1,300hp  969kw  packard merlin 29 initially armed with 12 0.303in  7.7mm  machine guns but this was later changed to four 20mm 79in  cannon 
+
+hurricane mk xiia
+canadian-built variant single-seat fighter and fighter-bomber powered by a 1,300hp  970kw  packard merlin 29 armed with eight 0.303in  7.7mm  machine guns 
+
+
+
+
+
+
+
+
+sea hurricane mk ia
+the sea hurricane mk ia was a hurricane mk i modified by  these conversions numbered approximately 250 aircraft they were modified to be carried by  armed   whose ships  crews were merchant marine and whose hurricanes were crewed and serviced by raf personnel or fighter catapult ships which were naval auxiliary vessels crewed by naval personnel and aircraft operated by the fleet air arm these ships were equipped with a catapult for launching an aircraft but without facilities to recover them consequently if the aircraft were not in range of a land base pilots had to bail out or to ditch both of these options had their problemsthere was always a chance of striking part of the fuselage when bailing out and a number of pilots had been killed in this way ditching the hurricane in the sea called for skill as the radiator housing acted as a water brake pitching the nose of the fighter downwards when it hit the water while also acting as a very efficient scoop helping to flood the hurricane so that a quick exit was necessary before the aircraft sank then the pilot had to be picked up by a ship more than 80 modifications were needed to convert a hurricane into a sea hurricane including new radios to conform with those used by the fleet air arm and new instrumentation to read in knots rather than miles per hour they were informally known as  hurricats  the majority of the aircraft modified had suffered wear-and-tear serving with front line squadrons so much so that at least one example used during trials broke up under the stress of a catapult launching cam sea hurricanes were launched operationally on eight occasions and the hurricanes shot down six enemy aircraft for the loss of one hurricane pilot killed the first sea hurricane ia kill was an  shot down on 2 august 1941 
+
+
+
+
+preserved sea hurricane of the  
+
+
+sea hurricane mk ib
+hurricane mk i version equipped with catapult spools plus an arrester hook from july 1941 they operated from  and from october 1941 they were used on   mac  ships which were large cargo vessels with a flight deck fitted enabling aircraft to be launched and recovered a total of 340 aircraft were converted the first sea hurricane ib kill occurred on 31 july 1941 when sea hurricanes of 880 squadron faa operating from hms furious shot down a  
+
+sea hurricane mk ic
+hurricane mk i version equipped with catapult spools an arrester hook and the four-cannon wing from february 1942 400 aircraft were converted the sea hurricane ic used during  had their merlin iii engines modified to accept 16 lb boost and could generate more than 1,400hp at low altitude lt r j cork was credited with five kills while flying a sea hurricane ic during operation pedestal 
+
+sea hurricane mk iic
+hurricane mk iic version equipped with naval radio gear  400 aircraft were converted and used on fleet carriers the merlin xx engine on the sea hurricane generated 1,460hp at 6,250 ft and 1,435hp at 11,000 ft top speed was 322 mph at 13,500ft and 342 mph at 22,000 ft 
+
+sea hurricane mk xiia
+canadian-built hurricane mk xiia converted into sea hurricanes 
+
+hillson f.40  a.k.a f.h.40 
+a full-scale version of the hills   son  slip-wing biplane monoplane using a hawker hurricane mk i returned from canada as rcaf ser no 321  raf serial l1884  taxi and flight trials carried out at  during may 1943 and at the  boscombe down from september 1943 the upper wing was not released in flight before the programme was terminated due to poor performance 
+
+hurricane photo reconnaissance
+the service depot at heliopolis in egypt converted several hurricanes is for photo reconnaissance the first three were converted in january 1941 two carried a pair of  with 8-inch focal length lenses the third carried one vertical and two oblique f24s with 14-inch focal length lenses mounted in the rear fuselage close to the trailing edge of the wing and a fairing was built up over the lenses aft of the radiator housing a further five hurricanes were modified in march 1941 and two were converted in a similar manner in malta during april 1941 during october 1941 a batch of six hurricane iis was converted to pr mark ii status and a final batch thought to be of 12 aircraft was converted in late 1941 the pr mark ii was said to be capable of slightly over 350mph  560km h  and was able to reach 38,000ft  12,000m  
+
+hurricane tac r
+for duties closer to the front lines some hurricanes were converted to tactical reconnaissance  tac r  aircraft an additional radio was fitted for liaison with ground forces who were better placed to direct the hurricane some hurricane tac r aircraft also had a vertical camera fitted in the rear fuselage so to compensate for the extra weight either one or two brownings or two cannons would be omitted externally these aircraft were only distinguishable by the missing armament 
+operators 
+
+
+
+
+hawker hurricane mk ivrp with yugoslav air force markings   
+
+
+see also  
+due to its lightweight yet robust construction and ease of maintenance the hurricane had a long operational life in many theatres of war it was also built by or exported to several other countries the hurricane was unusual in that it was flown operationally by both the  and the  during the war in some cases  e.g portugal and ireland  the hurricane was pressed into service after being forced to land in a neutral country in 1939  ordered 30 hurricane fighters and paid for them however due to the start of the second world war in september 1939 the aircraft were never delivered 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+surviving aircraft 
+
+
+
+
+the last of the 14,583 hurricanes built s n   a mk iic version originally known as  the last of the many  and owned by hawker this aircraft is now flown by the 
+
+
+main article  
+of more than 14,583 hurricanes that were built only 12  including three sea hurricanes  are in airworthy condition worldwide although many other non-flying examples survive in various air museums specifications  hurricane mk.iic 
+
+
+
+
+a hawker hurricane on display at the  s  of the 
+
+
+data from jane s fighting aircraft of world war ii
+general characteristics
+
+crew  1
+length  32 ft 3 in  9.84 m 
+  40 ft 0 in  12.19 m 
+height  13 ft 1 in  4.0 m 
+wing area  257.5 ft  23.92 m 
+  5,745 lb  2,605 kg 
+loaded weight  7,670 lb  3,480 kg 
+  8,710 lb  3,950 kg 
+  1   xx liquid-cooled v-12 1,185 hp  883 kw  at 21,000ft  6,400m 
+
+performance
+
+  340 mph  547 km h  at 21,000ft  6,400m  
+  600 mi  965 km 
+  36,000 ft  10,970 m 
+  2,780 ft min  14.1 m s 
+  29.8 lb ft  121.9kg m 
+  0.15 hp lb  0.25kw kg 
+
+armament
+
+guns  4  20 mm 79 in   cannon
+bombs  2  250 or 500lb  110 or 230kg  bombs
+
+see also 
+
+
+
+
+
+
+
+
+
+related development
+
+
+
+
+
+
+
+aircraft of comparable role configuration and era
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+related lists
+
+
+
+
+
+
+replicas
+
+
+
+
+references
+
+
+
+ mould was shot down on 1 october 1941 by italian  north of  and declared    the heinkel he 112 was never operational in france  j b parnall was the first raf flight commander to be killed in action during the war  australian ace  was credited with 16 individual air victories one shared and one not confirmed postwar research reduced his score to nine individual kills and three shared according to some sources he was killed on 15 may 1940  this was the pilot s term for the boost cut-out control which was adjacent to the throttle lever  gleed rose through the ranks to become a wing commander flying spitfire vbs over north africa  he was shot down and killed by   on 16 april 1943 gleed was credited with 15 victories  as far as can be determined no messerschmitt bf 110 crashes on land for 16 august 1940 can be attributed to nicholson although nicholson himself believed the 110 crashed into the sea  this was code-named operation hurry these aircraft were flown off the carrier   soviet hurricanes were fuelled with 95 octane avgas not the 100 octane fuel that the merlin xx was designed to use  soviet pilot nikolai g golodnikov remembered   the hurricanes engine was powerful but it couldnt stand long periods of work at maximum regimes and would quickly break down the engine worked very clean it had exhaust stacks and flame suppressors mounted like mufflers this was very comfortable as the flames did not blind the pilot our planes were much worse in this respect but at negative g-forces the engine chocked there was no compensating tank this was very bad because we had to execute any manoeuvre with positive g-forces it had a very thick wing profile and poor acceleration characteristics it was not slow in responding to the control stick but everything happened smoothly slowly it had good lifting strength and was very good in horizontal manoeuvrability but the hurricane was very poor in vertical manoeuvre due to thick wing profile we mostly tried to impose a battle in the horizontal plane and would not go into a vertical one the hurricane burned rapidly and to cinders like a match as it had  covering only on the tail and wings the rest was  
+ malta  the spitfire year 1942 records 28 sea hurricane victories against eight losses during  and   320mph  510km h  at 19,700ft  6,000m  with two 250lb  110kg  bombs
+
+
+
+citations 
+
+
+ c peter chen  ww2db retrieved 1 april 2015  green 1957 p 24 ^   thetford 1994 p 232  bader 2004 p 36 ^   mason 1967 p 3  mason 1967 pp 34 ^      mason 1967 p 4  mason 1992 p 242  mckinstry 2010 p 30  mckinstry 2010 p 34  mckinstry 2010 p 40 ^   cacutt 1989 pp 204212  bader 2004 pp 37 40  mason francis k  1962  the hawker hurricane london  macdonald p.21  mckinstry 2010 p 52 ^       mason 1967 p 5  mckinstry 2010 p 64  mason 1992 p 254   world encyclopedia of aero engines  5th edition  by  sutton publishing 2006 p 188  mason 1967 pp 45    16 july 1936 ^    postan 1952 p chapter iv footnote 89  bader 2004 p 41 ^        mason 1967 p 7 ^   mason 1967 pp 67  air international july 1987 p 34   12 may 1938 p 468   12 may 1938 pp 468 473 ^   flight 12 may 1938 p 473   12 may 1938 pp 467470   12 may 1938 pp 467 468   12 may 1938 p 469   12 may 1938 pp 469 470 ^      12 may 1938 p 472  flight 12 may 1938 pp 469471 ^   flight 12 may 1938 p 471 ^    hiscock 2003 p 12  flight 12 may 1938 pp 471472  mcknstry 2010 p 87  beamont january 1994 pp 17 18    februarymarch 2008 p 4 ^   mason 1967 p 6  shacklady 2000 pp 4749  holmes 1999 p 12  mason 1967 pp 89 ^    mason 1967 p 9  beamont january 1994 p 19  holmes 1999 pp 1516 ^   holmes 1999 p 18  burns 1992 pp 5657 ^   holmes 1996 p 24  holmes 1996 pp 4142  two of the crew of the leading battle  and  were awarded the victoria cross for pressing home the attack
+ holmes 1996 p 47  holmes 1996 pp 4849  holmes 1996 p 49  shores christopher  bbc 8 september 2010 retrieved  29 september 2010  holmes 1996 p 51  holmes 1996 p 52 ^   holmes 1996 p 55  holmes 1998 p 47  holmes 1996 p 23  holmes 1996 p 58  holmes 1996 p 57  murray 2002 pp 3839  bader 2004 pp 5055  burns 1992 pp 165167  wood and dempster 1990 p 87   national archives avia 2 april 18 may 7 august 1940 retrieved  15 june 2009 ^    gleed 1942 p 61  harvey-bailey 1995 p 155  donald 1999 p 38  mason 1967 pp 56  mason 1967 pp 1213  bywater michael  the independent 17 january 2011  mason 1967 p 12  merlin in perspective p136,alec harvey-bailey rolls royce heritage trust  bungay 2000 pp 264267  ramsay 1989 pp 415 516 526 796  mason 1991 pp 279 300  bungay 2000 p 82  
+ bungay 2000 pp 77 197198  bungay 2000 p 198   september 27th 1945
+ bungay 2000 pp 200201  holmes tony  1998  hurricane aces 19391940 osprey publishing london p 128 
+ holmes 1998 p 106
+ shores christopher and williams clive  1966  aces high neville spearman p 226 no isbn
+ baker e.c.r  1962  the fighter aces of the raf p 95 william kimber  baker 1962 p 134
+ the london gazette  no 34945 p 5487 13 september 1940 retrieved 2008-01-07  the london gazette  no 35001 p 6753 26 november 1940 retrieved 2008-01-07  ramsay 1989 p 306  ramsay 1989 pp 306313 362  mason 1967 p 13  ramsay 1989 p 311  marchant 1996 pp 5354  thomas 1996 pp 550554  mason 1967 pp 1415  mason 1967 p 15  glancey 2006 p 165  snedden 1997 p 51  bader 2004 pp 165167    19  1974  14 retrieved 20 may 2015  shores et al 1987 pp 4347 ^   bader 2004 pp 147155  bader 2004 pp 125127 ^   morgan 1999 p 55  yefim 2008 p 480  drabkin 2007 p 11  bader 2004 pp 135137  jacobs 1998 pp 8485  yefim 2008 p 482  yefim 2008 pp 483484  drabkin 2007 pp 127128 
+ cull and sortehaug 2004
+ mason 1967 p 17  shores 1992 p 297   imperial war museum  printer  fosh and cross ltd london  retrieved  17 november 2011  derry and robinson p 27
+ boer 2006 p 83  shores cull and izawa 1993 pp 392393 395 399  shores cull and izawa 1993 p 395  shores cull and izawa 1993 p 397 ^   vaccari 1995 p 39  shores cull and izawa 1993 p 403  shores cull and izawa 1993 pp 397398  shores cull and izawa 1993 pp 395397  shores cull and izawa 1993 pp 403404  shores cull and izawa 1993 p 413  shores cull and izawa 1993 p 420  shores cull and izawa 1993 pp 421422 ^   thomas 2003 p 81  shores et al 1987
+  the telegraph 14 june 2009 retrieved  20 september 2010  thomas 2003 p 83  thomas 2007 p 87  schlaiefer 1950 p 220  hiscock 2003 p 16 ^    hiscock 2003 p 18 ^   hiscock 2003 p 19  hiscock 2003 p 17  mason 1991 p 285 ^    hiscock 2003 p 20 ^   brown 1980 p 112  brown 1980 p 109 ^   brown 1980 p 114  thetford 1994 p 228  brown 1980 p 115  
+ thetford 1994 p 231  jarrett aeroplane monthly january 1991 pp 1823  ilmrs  lffb.lv  in latvian    the aviation history on-line museum retrieved  17 january 2011  bridgman 1946 pp 128129 
+
+bibliography 
+
+
+bader douglas fight for the sky  the story of the spitfire and hurricane london  cassell military books 2004  barker ralph the hurricats  the fighters that could not return stroud gloucestershire  tempus publishing 2000    hurricane baptism  aeroplane monthly magazine volume 22 no 1 issue 249 january 1994 london  ipc magazines limited beamont roland  hurricane testing  aeroplane monthly magazine volume 22 no 2 issue 250 february 1994 london  ipc magazines limited bignozzi giorgio aerei d italia in italian  milan  milano edizioni e.c.a 2000 bishop edward hurricane shrewsbury  airlife publishing 1986  boer p.c the loss of java nus press 2011  and earlier dutch version het verlies van java de bataafsche leeuw 2006  bowyer chaz hurricane at war london  ian allen ltd 1974   scontro di ali l aviazione militare nella seconda guerra mondiale  in italian  milan  mursia 1997  breffort dominique hawker hurricane de 1935  1945  avions et pilotes 14   in french  paris  histoire et collections 2010  bridgman leonard ed  the hawker hurricane  janes fighting aircraft of world war ii london  studio 1946  brodie ian hurricane mk iia  the alpine fighter collection auckland new zealand  reed books 2000  brown eric cbe dcs afc rn  william green and gordon swanborough wings of the navy flying allied carrier aircraft of world war two london  jane s publishing company 1980  bungay stephen the most dangerous enemy london  aurum press 2000  burns michael g cobber kain auckland new zealand  random century 1992  cacutt len ed hawker hurricane great aircraft of the world london  marshall cavendish 1989  chorlton martyn  hawker hurricane mk i-v  air vanguard  6  oxford  osprey publishing 2013  cull brian and frederick galea gladiators over malta  the story of faith hope and charity rabat malta  wise owl publications 2008  cull brian and brian and paul sortehaug hurricanes over singapore  raf rnzaf and nei fighters in action against the japanese over the island and the netherlands east indies 1942  london  grub street 2004  donald david the military propeller aircraft guide london  chartwell books inc 1999  deighton len fighter  the true story of the battle of britain new york  ballantine books 1977  de marchi italo fiat cr.42 falco modena  stem mucchi editore 1994 de marchi italo macchi mc 200  saetta  modena  stem mucchi editore 1994 dibbs john and tony holmes hurricane  a fighter legend oxford uk  osprey 1995  drabkin artem the red air force at war  barbarossa and the retreat to moscow recollections of fighter pilots on the eastern front barnsley south yorkshire uk  pen   sword military 2007  fozard john w ed sydney camm and the hurricane  perspectives on the master fighter designer and his finest achievement london  airlife 1991  glancey jonathan spitfire  the illustrated biography london  atlantic books 2006  gleed ian arise to conquer new york  random house 1942 golley john  hurricanes over murmansk  shrewsbury  airlife publishing 2001 
+gordon yefim soviet air power in world war 2 hinkley uk  midland  allan publishing 2008  green william  hawker hurricane  famous fighters of the second world war london  macdonald 1957 gunston bill aerei della 2a guerra mondiale  in italian  milan  alberto peruzzo editore 1984 no isbn haining peter the chianti raiders london  robson books 2006   half-century hurricane  part four  july 1987 vol 33 no 1 pp.2635 49 issn 0306-5634 harvey-bailey a the merlin in perspective  the combat years  derby uk  rolls-royce heritage trust 1995  4th edition   hiscock melvyn hawker hurricane inside and out ramsbury marlborough uk  the crowood press 2003  holmes tom hurricanes to the fore  the first aces  aircraft of the aces  men and legends ser  7  oxford uk  osprey publishing 1999    iliffe vol xxxiii  no 1533  pp.467473 12 may 1938
+jackson robert the forgotten aces london  sphere books ltd 1989  jacobs peter hawker hurricane ramsbury marlborough uk  crowood press 1998  jarrett philip  nothing ventured part ten   january 1991 vol 19 no 1 issn 0143-7240 pp.1823 keskinen kalevi and kari stenman hurricane   gladiator  suomen ilmavoimien historia 25   bilingual finnish english  espoo finland  kari stenman 2005  lowe malcolm v and paul blackah hawker hurricane  owners  workshop manual sparkford yeovil uk  haynes publishing 2010  malizia nicola aermacchi bagliori di guerra flashes of war  macchi mc.200 mc.202 mc.205 v   in italian  rome  ibn editore 2002  marchant david j rise from the east  the story of 247  china british  squadron royal air force tonbridge kent uk  air britain  historians  ltd 1996  mason francis k the british fighter since 1912 london  putnam 1992  mason francis k hawker aircraft since 1920  3rd revised edition  london  putnam 1991  mason francis k the hawker hurricane  macdonald aircraft monographs  london  macdonald 1962 mason francis k the hawker hurricane  rev edition  manchester uk  crcy publishing 2001  mason francis k the hawker hurricane i  profile 111  windsor berkshire uk  profile publications 1967 mason francis k the hawker hurricane ii c  profile 24  windsor berkshire uk  profile publications 1971 matricardi paolo aerei militari  caccia e ricognitori volume 1 milan  mondadori electa 2006 no isbn mckinstry leo hurricane  victor of the battle of britain london  john murray 2010  morgan hugh gli assi sovietici della seconda guerra mondiale in italian  milan  edizioni del prado osprey aviation 1999  murray willamson  2002   first published 1983 by air university press as 1-58566-010-8    pdf  princeton new jersey  university press of the pacific 
+neulen hans werner in the skies of europe ramsbury marlborough uk  the crowood press 2006  postan michael m  london  hmso 1952 pacco john  hawker hurricane mk.i  belgisch leger armee belge  het militair vliegwezen l aeronautique militare 19301940  bilingual french dutch  aartselaar belgium  j.p publications 2003 pp.6065  ramsay winston ed the battle of britain then and now mark v london  after the battle magazine 1989  rybin yuriy  soviet hurricane aces of world war 2  osprey aircraft of the aces  107  oxford  osprey publishing 2012 
+ry marek hawker hurricane redbourn herts uk  mushroom model publications 2006  sarkar dilip  ed   hurricane manual 1940  stroud  uk  amberley 2013  schlaifer robert  development of aircraft engines  andover  the andover press ltd 1950  sgarlato nico fiat cr.42  in italian  parma italy  delta editrice 2005 shacklady edward hawker hurricane  classic wwii aviation  london  tempus publishing limited 2000  shores christopher bloody shambles the first comprehensive account of the air operations over south-east asia december 1941  april 1942 volume one  drift to war to the fall of singapore london  grub street press 1992 
+shores christopher brian cull and yasuho izawa.bloody shambles  volume two  the defence of sumatra to the fall of burma london  grub street 1993  shores christopher brian cull and nicola malizia malta  the hurricane years london  grub street 1987  snedden robert world war ii combat aircraft bristol uk  factfinders parragon 1997  stenman kari and andrew thomas brewster f2a buffalo aces of world war 2 oxford uk  osprey publishing 2010  thetford owen british naval aircraft since 1912 london  putnam aeronautical books 1994  thomas andrew hurricane aces 194145 oxford uk  osprey publishing 2003  thomas andrew  india s night guardians  aviation news 30 october12 november 1996 thomas andrew royal navy aces of world war 2 oxford uk  osprey 2007  vaccari pier francesco  indian ocean raid  historic revue modena  coop giornalisti storici august 1995 weal john bf 109d e aces 1939 41 oxford uk  osprey publishing 1996  edizioni del prado 1999   yefirm g  2008  soviet air power in world war 2 midland publishing ltd 
+
+
+
+o toole tony with martin derry and neil robinson hawker hurricane  and sea hurricane flightcraft 2014  
+external links 
+
+
+
+
+
+
+
+
+
+ flight 1938  describes construction  history of the hurricane ii c  nf 
+
+
+
+
+
+
+
+
+
+
+
+
+

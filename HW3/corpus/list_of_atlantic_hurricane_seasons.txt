@@ -1,0 +1,103 @@
+for the active season see  
+
+
+
+tracks of all known atlantic tropical cyclones from 1851 to 2012 
+
+
+
+
+
+a  at a  tactical relief operation center in louisiana notes the number of named storms and hurricanes and counts down the days remaining in the  
+
+
+
+
+
+
+hurricane tracks from 1980 through 2014 green tracks did not make landfall in us  yellow tracks made landfall but were not major hurricanes at the time  red tracks made landfall and were major hurricanes 
+
+the atlantic hurricane season is the period in a year when  usually form in the atlantic ocean  in the north atlantic are called hurricanes tropical storms or tropical depressions in addition there have been several  over the years that have not been fully tropical and are categorized as subtropical depressions and subtropical storms even though subtropical storms and subtropical depressions are not technically as strong as tropical cyclones the damages can still be devastating worldwide tropical cyclone activity peaks in late summer when the difference between temperatures aloft and sea surface temperatures is the greatest however each particular basin has its own seasonal patterns on a worldwide scale may is the least active month while september is the most active in the northern atlantic ocean a distinct hurricane season occurs from june 1 to november 30 sharply peaking from late august through september  the season s  peak of activity occurs around september 10 each season this is the norm but in 1938 the atlantic hurricane season started as early as january 3 tropical disturbances that reach tropical storm intensity are named from a  on average 10.1 named storms occur each season with an average of 5.9 becoming hurricanes and 2.5 becoming major hurricanes   or greater  the most active season was  during which 28tropical cyclones formed of which a record 15 became hurricanes the least active season was  with only one known tropical cyclone developing during that year the atlantic hurricane season is a time when most tropical cyclones are expected to  across the northern atlantic ocean it is currently defined as the time frame from june 1 through november 30 though in the past the season was defined as a shorter time frame during the season regular tropical weather outlooks are issued by the  and coordination between the  and national hurricane center occurs for systems which have not formed yet but could develop during the next three to seven days 
+
+
+contents
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+concept 
+see also  
+the basic concept of a hurricane season began during 1935 when dedicated  known as hurricane circuits began to be set up along the gulf and atlantic coasts a process completed by 1955 it was originally the time frame when the tropics were monitored routinely for tropical cyclone activity and was originally defined as from june 15 through october 31 over the years the beginning date was shifted back to june 1 while the end date was shifted to november 15 before settling at november 30 by 1965 this was when  were sent out to fly across the atlantic and gulf of mexico on a routine basis to look for potential tropical cyclones in the years before the continuous  era since regular satellite surveillance began hurricane hunter aircraft fly only into storm areas which are first spotted by satellite imagery operations 
+see also   and 
+during the hurricane season the national hurricane center routinely issues their tropical weather outlook product which identifies areas of concern within the tropics which could develop into tropical cyclones if systems occur outside the defined hurricane season special tropical weather outlooks will be issued routine coordination occurs at 1700 utc each day between the weather prediction center and national hurricane center to identify systems for the pressure maps three to seven days into the future within the tropics and points for existing tropical cyclones six to seven days into the future possible tropical cyclones are depicted with a closed isobar while systems with less certainty to develop are depicted as  spot lows  with no isobar surrounding them hurdat 
+main article  
+the north atlantic hurricane database or hurdat is the database for all tropical storms and hurricanes for the atlantic ocean gulf of mexico and caribbean sea including those that have made landfall in the united states the original database of six-hourly positions and intensities were put together in the 1960s in support of the apollo space program to help provide statistical track forecast guidance in the intervening years this database which is now freely and easily accessible on the internet from the national hurricane center s  nhc  webpage has been utilized for a wide variety of uses  climatic change studies seasonal forecasting risk assessment for county emergency managers analysis of potential losses for insurance and business interests intensity forecasting techniques and verification of official and various model predictions of track and intensity hurdat was not designed with all of these uses in mind when it was first put together and not all of them may be appropriate given its original motivation hurdat contains numerous systematic as well as some random errors in the database additionally analysis techniques have changed over the years at nhc as their understanding of tropical cyclones has developed leading to biases in the historical database another difficulty in applying the hurricane database to studies concerned with landfalling events is the lack of exact location time and intensity at hurricane landfall re-analysis project 
+main article  
+hurdat is regularly updated annually to reflect the previous season s activity the older portion of the database has been regularly revised since 2001 the first time in 2001 led to the addition of tropical cyclone tracks for the years 1851 to 1885 the second time was august 2002 when hurricane andrew was upgraded to a category 5 recent efforts into uncovering undocumented historical hurricanes in the late 19th and 20th centuries by various researchers have greatly increased our knowledge of these past events possible changes for the years 1951 onward are not yet incorporated into the hurdat database because of all of these issues a re-analysis of the atlantic hurricane database is being attempted that will be completed in three years in addition to the groundbreaking work by partagas  additional analyses digitization and quality control of the data was carried out by researchers at the noaa hurricane research division funded by the noaa office of global programs this re-analysis will continue to progress through the remainder of the 20th century the national hurricane center s best track change committee has approved changes for a few recent cyclones such as hurricane andrew official changes to the atlantic hurricane database are approved by the national hurricane center best track change committee thus research conducted by chris landsea and colleagues as part of the atlantic hurricane database reanalysis project are submitted through this review process not all landsea s recommendations are accepted by the committee 1494-1850  pre-hurdat era 
+
+1850-1899  1851-present hurdat era 
+note  in the following tables all estimates of damage costs are expressed in contemporaneous us dollars   1900s
+note  in the following tables all estimates of damage costs are expressed in contemporaneous us dollars  usd  2000s
+see also  
+this bar chart shows the number of named storms and hurricanes per year from 1851-2017 
+
+
+a 2011 study analyzing one of the main sources of hurricanes  the   aew   found that the change in aews is closely linked to increased activity of intense hurricanes in the north atlantic the synoptic concurrence of aews in driving the dynamics of the sahel greening also appears to increase tropical cyclogenesis over the north atlantic see also
+
+
+^    hurricane research division   archived from  on july 18 2006 retrieved july 25 2006  mcadie colin  may 10 2007     from the original on may 28 2007 retrieved june 9 2007   hurricane research division  database  miami fl  national hurricane center april 11 2017 retrieved november 12 2017    june 15 1941   st petersburg times retrieved july 9 2011 ^     june 15 1959   meridian record retrieved july 9 2011    june 15 1955   the robesonian retrieved july 9 2011 ^     june 15 1960   the evening independent retrieved july 9 2011  neal dorst  january 21 2010    archived from  on june 28 2011 retrieved july 9 2011    june 1 1965  hurricane season officially opened    may 30 1966   the news and courier retrieved july 9 2011    2011     from the original on june 23 2011 retrieved july 9 2011    2006   retrieved on 2008-09-03   
+ hurricane research division  2008   national oceanic and atmospheric administration retrieved march 21 2008  
+ dorst neal  october 23 2012    pptx  hurricane research division atlantic oceanographic and meteorological laboratory national oceanic and atmospheric administration p.slides 4951  wang and gillies  2011   cs1 maint  uses authors parameter  
+
+
+
+
+
+

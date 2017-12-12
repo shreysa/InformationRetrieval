@@ -1,0 +1,157 @@
+
+in  a  is said to be in hydrostatic equilibrium or hydrostatic balance when it is at rest or when the flow velocity at each point is constant over time this occurs when external forces such as  are balanced by a  for instance the pressure-gradient force prevents gravity from collapsing  into a thin dense shell whereas gravity prevents the pressure gradient force from diffusing the atmosphere into space hydrostatic equilibrium is the current distinguishing criterion between  and  and has other roles in  and  this qualification typically means that the object is symmetrically rounded into a  or  shape where any irregular surface features are due to a relatively thin solid  there are   apart from the sun  sometimes called  in the  seven more that are virtually certain and  that are likely 
+
+
+contents
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+mathematical consideration 
+
+
+
+
+if the highlighted volume of fluid is not moving the forces on it upwards must equal the forces downwards 
+
+derivation from force summation 
+ state that a volume of a fluid that is not in motion or that is in a state of constant velocity must have zero net force on it this means the sum of the forces in a given direction must be opposed by an equal sum of forces in the opposite direction this force balance is called a hydrostatic equilibrium the fluid can be split into a large number of  volume elements  by considering a single element the action of the fluid can be derived there are 3 forces  the force downwards onto the top of the cuboid from the pressure p of the fluid above it is from the definition of  
+
+
+similarly the force on the volume element from the pressure of the fluid below pushing upwards is
+
+
+
+finally the  of the volume element causes a force downwards if the  is  the volume is v and g the  then 
+
+
+
+the volume of this cuboid is equal to the area of the top or bottom times the height the formula for finding the volume of a cube 
+
+
+by balancing these forces the total force on the fluid is
+
+
+
+this sum equals zero if the fluid s velocity is constant dividing by a 
+
+
+or 
+
+
+ptop  pbottom is a change in pressure and h is the height of the volume elementa change in the distance above the ground by saying these changes are  small the equation can be written in  form 
+
+
+density changes with pressure and gravity changes with height so the equation would be 
+
+
+
+derivation from navierstokes equations 
+note finally that this last equation can be derived by solving the three-dimensional  for the equilibrium situation where
+
+
+
+then the only non-trivial equation is theequation which now reads
+
+
+
+thus hydrostatic balance can be regarded as a particularly simple equilibrium solution of the navierstokes equations derivation from general relativity 
+by plugging the energy momentum tensor for a 
+
+
+
+into the 
+
+
+
+and using the conservation condition
+
+
+
+one can derive the  for the structure of a static spherically symmetric relativistic star in isotropic coordinates 
+
+
+
+in practice  and  are related by an equation of state of the form f  0 with f specific to makeup of the star m r  is a foliation of spheres weighted by the mass density  r  with the largest sphere having radius r 
+
+
+
+per standard procedure in taking the nonrelativistic limit we let c so that the factor
+
+
+
+therefore in the nonrelativistic limit the tolmanoppenheimervolkoff equation reduces to newton s hydrostatic equilibrium 
+
+
+
+ we have made the trivial notation change h r and have used f  0 to express  in terms of p  a similar equation can be computed for rotating axially symmetric stars which in its gauge independent form reads 
+
+
+
+unlike the tov equilibrium equation these are two equations  for instance if as usual when treating stars one chooses spherical coordinates as basis coordinates  the index i runs for the coordinates r and   applications
+the hydrostatic equilibrium pertains to  and the  of  a hydrostatic balance is a particular balance for weighing substances in water hydrostatic balance allows the  of their  astrophysics 
+in any given layer of a  there is a hydrostatic equilibrium between the outward thermal pressure from below and the weight of the material above pressing inward the  gravitational field compresses the star into the most compact shape possible a rotating star in hydrostatic equilibrium is an  up to a certain  critical  angular velocity an extreme example of this phenomenon is the star  which has a rotation period of 12.5 hours consequently vega is about 20 larger at the equator than at the poles a star with an angular velocity above the critical angular velocity becomes a jacobi   ellipsoid and at still faster rotation it is no longer ellipsoidal but  or  with yet other shapes beyond that though shapes beyond scalene are not stable if the star has a massive nearby companion object then  come into play as well distorting the star into a scalene shape when rotation alone would make it a spheroid an example of this is  hydrostatic equilibrium is also important for the  where it restricts the amount of fluid that can be present in the core of a  we can also use the principle of hydrostatic equilibrium to estimate the  of  in clusters of galaxies only  matter  or rather the collisions thereof  emits  radiation the absolute x-ray  per unit volume takes the form  where  and  are the temperature and density of the baryonic matter and  is some function of temperature and fundamental constants the baryonic density satisfies the above equation  
+
+
+
+the integral is a measure of the total mass of the cluster with  being the proper distance to the center of the cluster using the    is  and  is a characteristic mass of the baryonic gas particles  and rearranging we arrive at
+
+
+
+multiplying by  and differentiating with respect to  yields
+
+
+
+if we make the assumption that cold dark matter particles have an isotropic velocity distribution then the same derivation applies to these particles and their density  satisfies the non-linear differential equation
+
+
+
+with perfect x-ray and distance data we could calculate the baryon density at each point in the cluster and thus the dark matter density we could then calculate the velocity dispersion  of the dark matter which is given by
+
+
+
+the central density ratio  is dependent on the   of the cluster and is given by
+
+
+
+where  is the angular width of the cluster and  the proper distance to the cluster values for the ratio range from11 to14 for various surveys planetary geology 
+the concept of hydrostatic equilibrium has also become important in determining whether an astronomical object is a   or  according to the  adopted by the  in 2006 one defining characteristic of planets and dwarf planets is that they are objects that have sufficient gravity to overcome their own rigidity and assume hydrostatic equilibrium such a body will normally have the differentiated interior and geology of a world  a   though near-hydrostatic bodies such as the proto-planet  may also be differentiated sometimes the equilibrium shape is an  as is the case with earth however in the cases of moons in synchronous orbit nearly unidirectional tidal forces create a  also the dwarf planet  is scalene due to its rapid rotation it had been thought that icy objects with a diameter larger than roughly 400km are usually in hydrostatic equilibrium whereas those smaller than that are not icy objects need less mass for hydrostatic equilibrium than rocky objects the smallest object that is known to have an equilibrium shape is the icy moon  at 397km whereas the largest object known to have an obviously non-equilibrium shape is the rocky asteroid  at 532km  58255650018km  however mimas is not actually in hydrostatic equilibrium for its current rotation the smallest body confirmed to be in hydrostatic equilibrium is the icy moon  at 1,528km whereas the largest body known to not be in hydrostatic equilibrium is the icy moon  at 1,470km because the  and dwarf planets  and likewise the larger  like the  and   have irregular surfaces this definition evidently has some flexibility but a specific means of quantifying an object s shape by this standard has not yet been announced local irregularities may be consistent with global equilibrium for example the massive base of the tallest mountain on earth  has deformed and depressed the level of the surrounding crust so that the overall distribution of mass approaches equilibrium the amount of leeway afforded the definition could affect the classification of the asteroid  which may have solidified while in hydrostatic equilibrium but was subsequently significantly deformed by large impacts  now 572.6557.2446.4km  atmospherics 
+in the atmosphere the pressure of the air decreases with increasing altitude this pressure difference causes an upward force called the  the force of gravity balances this out keeping the atmosphere bound to earth and maintaining pressure differences with altitude see also
+
+
+
+ white  2008  p 63 66   considers these all to be  planets  but that conception was rejected by the  ^    gps.caltech.edu 2013-11-01 archived from  on 2011-10-18 retrieved 2014-06-15  zee a  2013  einstein gravity in a nutshell princeton  princeton university press pp.451454    josleys.com retrieved 2014-06-15  weinberg steven  2008  cosmology new york  oxford university press pp.7071   savage don  jones tammy  villard ray  1995-04-19   hubble site news release stsci-1995-20 retrieved 2006-10-17 
+
+
+references 
+
+white frank m  2008   pressure distribution in a fluid  fluid mechanics new york  mcgraw-hill pp.63107  
+external links 
+
+
+ on  by prof richard pogge the ohio state university department of astronomy
+
+
+
+
+

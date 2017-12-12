@@ -1,0 +1,619 @@
+
+sts-134   flight ulf6  was the penultimate mission of  s  and the 25th and last spaceflight of   this flight delivered the  and an  to the   served as the mission commander sts-134 was expected to be the final space shuttle mission if  did not receive funding from  however in february 2011 nasa stated that sts-135 would fly  regardless  of the funding situation sts-135 flown by  took advantage of the processing for sts-335 the  mission that would have been necessary if the sts-134 crew became stranded in orbit changes in the design of the main payload ams-02 as well as delays to  led to delays in the mission the first launch attempt on 29 april 2011 was scrubbed at 12 20pm by launch managers due to problems with two heaters on one of the orbiter s auxiliary power units  apu  endeavour launched successfully at 08 56 28 edt  12 56 28 utc  on 16 may 2011 and landed for the final time on 1 june 2011 
+
+
+contents
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+crew 
+
+
+
+
+mission poster based on a  promotional poster 
+
+
+
+
+
+the crew arrive at the  in  jets on 26 april 2011 
+
+nasa announced the sts-134 crew on 10 august 2009 
+background 
+
+
+
+
+
+sts-134  launch
+
+
+the  had been scheduled to be retired from service after  but controversy over the cancellation of several  components most notably the  in order to meet deadlines for the retirement of the shuttle caused the  to consider ordering an additional mission on 19 june 2008 the  passed the nasa authorization act of 2008 giving  funding for one additional mission to  deliver science experiments to the station  the same mandate was included in the u.s senate version of the nasa authorization act that was unanimously approved by the senate committee on commerce science and transportation on 25 june 2008 it was amended and passed by the full senate on 25 september 2008 passed by the house on 27 september 2008 and signed by president  on 15 october 2008 bush had previously opposed any additional shuttle missions as they could delay the transition to  in the spring of 2009 the obama administration included funds for the sts-134 mission in its proposed 2010 nasa budget sts-134 was planned to be the final regularly scheduled mission of the nasa space shuttle program but with the passing in 2011 of an appropriations bill authorizing the conversion of  to  this was no longer the case it was also originally scheduled to coincide with  before delays in the space shuttle launch schedule pushed it past that expedition if sts-134 had launched during expedition 26 then mark kelly and expedition 26 commander  would have become the first siblings  and twins  to fly in space at the same time shuttle commander mark kelly s wife   flew to the   ksc  in florida to view the first launch attempt her first trip since moving from  to  for rehabilitation after being seriously wounded in the  on 16 may giffords was again at ksc for the launch which was  one of the most anticipated in years  according to   scheduled a visit to kennedy space center on 29 april 2011 to view the launch and despite the canceled launch attempt he toured an  at  and met with giffords and the six crewmembers mission payload 
+
+
+
+
+a close up view of  inside  s payload bay shortly before it was installed on the  
+
+alpha magnetic spectrometer 2 
+main article  
+the   ams-02  was carried to the iss in endeavour s payload bay and was attached to the iss s  segment the ams-02 unit is a particle physics detector which contains a large permanent  and is designed to search for  and investigate the origin and structure of  according to the original design plan a  superconducting magnet system was developed for the ams-02 this was reported by nasa to be a critical technology granting the instrument the high sensitivity needed to achieve mission objectives late in its development however poorly understood anomalous heating in the cryogenic magnet system was discovered as a result the ams-02 experiment leader  decided to replace the superconducting magnet inside the spectrometer with the permanent magnet previously used in  express logistics carrier 3 
+
+
+
+
+ in its launch configuration
+
+
+the   elc3  carried several orbital replacement units  oru  that were too large or too heavy for other spacecraft to carry to the iss these orus included a high pressure gas tank  hpgt  an ammonia tank assembly  ata  the  antenna sub-system assembly  2   3  sasa  a   spdm  arm with orbital replacement unit change-out mechanism a space test program houston 3  payload and a spare elc pallet controller avionics box materials on international space station experiment 
+the sts-134 mission delivered the   misse  experiments and returned the completed misse 7 experiments to earth misse 7 had been delivered to the iss on  in 2009 sensor test of orion rel-nav risk mitigation detailed test objective kit 
+the orion rel-nav sensor was mounted on the orbiter docking system  ods  in  slot 1 and on an adaptive payload carrier in the bay 3 port of the payload bay for the storrm detailed test objective  dto  after endeavour undocked it completed its normal fly-around of the station the crew then guided endeavour back towards the station flying a nominal orbiter trajectory for docking to the iss s  however the shuttle did not actually dock with the iss again  instead it was positioned below the station on  the docking target on the iss was enhanced with reflectors to allow for the characterization of the orion rel-nav sensors  performance during sts-134 s rendezvous and proximity operations with the iss these proximity operations were tested during approach and docking undocking flyaround  time permitting  and during a modified separation from the iss during the modified separation the crew performed a series of re-rendezvous burns that put the orbiter on an orion-like rendezvous profile afterwards instead of re-docking to the iss the crew performed a full separation glacier freezer module 
+sts-134 carried a new  module to the iss and returned two old ones to earth the glacier units were used to store and return science samples on the space shuttle orbiter boom sensor system 
+
+
+
+
+the newly attached  at the  
+
+sts-134 left its   obss  permanently on the iss for use in reaching places that the  cannot get to on its own the usefulness of having an obss available for use at the station was demonstrated during  s repair of the torn p6 solar panel on  the feasibility of leaving an obss attached to iss for a long period of time was demonstrated when the  mission left one behind for use during the subsequent  mission lego kits 
+endeavour brought 13  kits to the iss where astronauts built lego models to see how they would react in microgravity as part of the lego bricks in space program the results were shared with schools as part of an educational project shuttle life 
+the  precursor mission was launched aboard endeavour this  project was to test the mission destined for  the stage rehearsal was deemed fully successful stem bars 
+endeavour brought specialized nutrition bars called  stem bars  to the iss these were created by high school students and sisters mikayla and shannon diesch the nutrition bars were certified for spaceflight by meeting a specific nasa-developed nutritional profile and had to pass strict microbial testing the stem bars were flown to support the work of thebased sisters to raise awareness of the importance of  among their peers an outreach effort which they started after they won the 2010  spirit of innovation awards the little mole 
+a  of the  was successfully brought back to earth by  it was later presented to the character s creator  and used for space science popularization mainly in the czech republic mission experiments 
+endeavour performed four  payloads of opportunity  maui seiti rambo-2 and simplex all four of these experiments required engine and thruster firings and were to be completed only if there was sufficient propellant on board endeavour mission milestones 
+the mission marked 
+
+165th nasa manned space flight
+134th shuttle mission since 
+25th flight of endeavour
+36th shuttle mission to the iss
+109th post mission
+21st post mission
+last non-us astronaut to fly on a space shuttle mission  col  italy 
+
+shuttle processing
+rollout of endeavour commenced on 10 march 2011 at 19 56 est and terminated on 11 march 2011 at 03 49 est 
+
+
+
+
+
+
+endeavour leaving the vehicle assembly building 
+
+
+
+
+
+
+
+
+endeavour sitting on launch pad 39a as a storm passes over on 28 april 2011 
+
+
+
+
+
+
+
+
+a technician works to remove and replace the aft load control assembly 2 
+
+
+
+
+
+
+
+
+endeavour sitting on launch pad 39a 
+
+
+
+launchpad fatality 
+at around 07 40 edt on 14 march 2011  engineer james vanover committed suicide by jumping from the sts-134 launchpad endeavour was at the pad when the incident occurred as a result work on the space shuttle was suspended for the day while  was offered to the workforce nasa officials believed this to be the first launchpad fatality since 1981 mission timeline 
+16 may  flight day 1  launch 
+
+
+
+
+ launches from  on sts-134 
+
+endeavour lifted off from  s  at 08 56 edt on 16 may 2011 the launch of endeavour came after an on-time tanking process which filled the shuttle s  with more than 1,900,000l  500,000 us gallons  of  and   the tanking started at 23 36 edt on 15 may 2011 once the shuttle and crew were on-orbit they set about preparing the shuttle for the mission ahead the first tasks they completed were opening the payload bay doors activating the  antenna and activating the shuttle remote manipulator system  srms  also known as the  prior to this commander  and pilot  completed an engine firing known as the oms-2 burn to circularize the orbit of the shuttle they also completed another engine firing the nc-1 burn to help the shuttle catch up to the   iss  after completing these initial tasks the crew activated the  allowing it to be monitored by teams on the ground later in the crew s work day they downlinked video recordings that had been shot of the external tank by mission specialist  
+
+
+
+
+
+
+
+
+sts-134 launch video  9 mins 31 secs  
+
+
+
+
+
+
+
+
+
+
+endeavour s external tank falls to earth 
+
+
+
+
+
+
+
+
+the launch of endeavour seen from a shuttle training aircraft 
+
+
+
+17 may  flight day 2  obss inspection 
+
+
+
+
+ lifts heavy bags and floats freely inside  
+
+on flight day 2 the crew of endeavour completed several tasks in preparation for the docking on flight day 3 the first and most important of these tasks was surveying the shuttle s   tps  the   obss  was used to survey the wing leading edge and nose cone the   srms or canadarm 1  was also used to look at the thermal tiles and blankets on and around the   oms  pods after the survey was complete the   elc  3 was grappled by the srms while the survey was conducted by greg johnson and mission specialists  and  the rest of the crew prepared the orbiter for docking this included installing tools such as a center-line camera in the  along with various other sensors used to gauge distance and speed kelly and mission specialists  and  furthermore checked out the two spacesuits carried on endeavour in preparation for the mission s four planned spacewalks 18 may  flight day 3  iss rendezvous and elc installation 
+
+
+
+
+ approaches the  
+
+flight day 3 saw the docking of endeavour to the   pma  2 on the iss the docking occurred on 18 may 2011 at 10 14  after the shuttle docked the six astronauts of sts-134 joined the  crew on board the iss the joint crews completed a series of leak checks and opened the hatches at 11 38 utc once the hatches were open the joint crew held a welcome ceremony and completed a safety briefing the first task for the joint crew was to unberth the   elc  3 and attach it to its final location on the iss s   p3  truss segment express logistics carrier 3 was removed from the payload bay of endeavour by the  and handed off to the space station remote manipulator system  ssrms  also known as  the elc 3 was finally installed at 16 18 utc kelly began to transfer oxygen from space shuttle endeavour to the iss mike fincke and drew feustel transferred the two   emu  to the iss s  in preparation for their use during the mission s four spacewalks 
+
+
+
+
+
+
+with an extended docking ring  approaches the  
+
+
+
+
+
+
+
+
+ s starboard wing photographed by a  crew member 
+
+
+
+
+
+
+
+
+sts-134 and  crew inside the harmony node shortly after docking 
+
+
+
+
+
+
+
+
+ in the grasp of  s robotic arm 
+
+
+
+19 may  flight day 4  ams-2 installation 
+
+
+
+
+ starboard truss with the newly installed 
+
+
+the sts-134 crew installed the ams-2 on flight day 4 ams-2 was lifted out of endeavour s payload bay using the canadarm operated by drew feustel and roberto vittori it was handed off to  which was operated by  and  and was installed in its final location on the  at 09 46 utc immediately after the installation crews on the ground began activating the experiment the installation of the ams-2 marked the completion of the  of the  later in the day greg chamitoff drew feustel and mike fincke prepared the   emu  that chamitoff and feustel would wear during their spacewalk on flight day 5 the trio was also assisted by commander  in preparing the tools required for the   eva  while this was going on  crew members   and  assisted the rest of the sts-134 crew in completing transfers to and from endeavour late in the crew day the two crews performed an eva procedures review after the review chamitoff and feustel camped out in the quest airlock overnight in preparation for the mission s first spacewalk the campout was done with the airlock s air pressure reduced so as to purge  bubbles from the astronauts  blood and thus prevent  members of both crews also conducted two in-flight interviews with media on the ground including     and  the crew also answered questions that were relayed up to them by  for  
+
+
+
+
+
+
+ in the center as  s canadarm2 transfers  for installation 
+
+
+
+
+
+
+
+
+ docked at the  
+
+
+
+
+
+
+
+
+ floats through the 
+
+
+
+
+20 may  flight day 5  eva 1 
+the first spacewalk of the sts-134 mission was completed on flight day 5  and  completed the installation of a new set of  and also started installing a new wireless video system but were stopped when a co2 sensor failed in chamitoff s suit after the failure the pair were told to install an  jumper between the   p3  and port 6  p6  truss segments the spacewalkers furthermore installed a new light on the crew equipment translation aid  ceta  cart on the starboard 3  s3  truss segment and a cover on the starboard   sarj  the installation of the wireless video system was completed during the third eva while the 6-hour-and-19-minute-long spacewalk was in progress members of the sts-134 crew completed more equipment transfers between endeavour and the iss  crew members also prepared for the departure of   and  
+
+
+
+
+
+
+astronaut andrew feustel participates in the mission s first eva
+
+
+
+
+
+
+
+
+
+feustel during eva 1
+
+
+
+
+
+
+
+
+
+eva 1 choreographer michael fincke works on the aft flight deck of endeavour
+
+
+
+
+
+
+
+
+
+sts-134 pilot greg johnson
+
+
+
+
+21 may  flight day 6 
+
+
+
+
+one of  s damaged  
+
+on flight day 6 the members of endeavour s crew performed a focused inspection of an area of thermal protection tiles on the bottom of the orbiter the tiles were damaged during launch and detailed data provided by the   obss  was needed to make sure the orbiter could re-enter earth s atmosphere safely the focused inspection started with the  grappling the obss in the middle of the boom and handing it off to the shuttle s  which was controlled by pilot greg johnson and mission specialists mike fincke and roberto vittori the inspection process took approximately two hours to complete and resulted in the   tps  being cleared for entry after the inspection was complete fincke joined drew feustel to get their spacesuits ready for the second spacewalk of the mission on flight day 7 the pair performed the standard overnight campout procedure to get ready for the  later in the crew day the sts-134 crew assembled with the  crew in the  module the joint crew spoke with  answering several questions asked by the pope 22 may  flight day 7  eva 2 
+
+
+
+
+feustel during eva 2 
+
+the second eva of sts-134 was conducted on flight day 7 by drew feustel and mike fincke the spacewalk the sixth-longest in the history of spaceflight thus far lasted 8 hours and 7 minutes significantly longer than the planned 6 hours and 30 minutes the excursion also marked the second-longest spacewalk conducted from the iss during the spacewalk fincke and feustel hooked up a jumper to transfer 2.3  5  of  to the port 6 photovoltaic thermal control system  pvtcs  lubricated the   sarj  and one of the  hands  on  and installed a stowage beam on the   s1  truss during the lubrication task on the port sarj some of the bolts on one of the thermal blankets came free and one was lost commander mark kelly documented the spacewalk with still and video cameras while mission specialist greg chamitoff assisted feustel and fincke the spacewalk was the seventh for fincke and the fifth for feustel fincke had conducted his previous six spacewalks in russian  while the eva was conducted the rest of the sts-134 crew completed more transfers between the iss and endeavour flight day 7 also saw the iss  change of command ceremony russian cosmonaut  who had been the commander of  aboard the station conducted a ceremonial change of command with cosmonaut  the commander of  23 may  flight day 8 
+
+
+
+
+sts-134 commander  in the mid-deck of  
+
+on flight day 8 the crew of sts-134 had some off duty time commander mark kelly and mission specialist mike fincke conducted an in-flight interview with 400 students from mesa verde elementary school in  later in the crew day sts-134 mission specialist roberto vittori and  flight engineer  answered questions from italian president  after the sts-134 crew went to bed the expedition 27 crew prepared for their departure expedition 27 commander  and flight engineers paolo nespoli and  left the iss aboard the  spacecraft at 21 35 utc the departure of the three expedition 27 crew members marked the start of  leaving the new expedition commander  and flight engineers  and  aboard the station before re-entry soyuz tma-20 performed a special fly-about of the iss taking numerous photographs of the station and of endeavour soyuz tma-20 and the expedition 27 crew landed safely in central  at 02 27 utc on 24 may 2011 
+
+
+
+
+
+
+photo of the  and  taken from 
+
+
+
+
+
+
+
+
+
+photo of the  and  taken from 
+
+
+
+
+
+
+
+
+
+photo of the  and  taken from 
+
+
+
+
+
+
+
+
+
+photo of the  and  taken from 
+
+
+
+
+24 may  flight day 9 
+
+
+
+
+ and  crew member  pose for a photo 
+
+on flight day 9 mission specialist greg chamitoff and pilot greg johnson conducted a series of interviews with media outlets around the united states including   and  later in the day commander mark kelly and mission specialists mike fincke and chamitoff conducted interviews with    and  johnson and mission specialist roberto vittori also completed some more equipment transfers between the station and shuttle and began to clean up and organize the   pmm  leonardo the sts-134 crew furthermore completed some work on the   ogs  and carbon dioxide removal assembly  cdra  drew feustel joined by fincke and chamitoff spent most of the day preparing the tools for the following day s eva at the end of their day the shuttle crew and  flight engineer  conducted an eva procedures review in preparation for the third spacewalk on flight day 10 25 may  flight day 10  eva 3 
+on flight day 10 the third spacewalk of the sts-134 mission was conducted the spacewalk made use of a new spacewalk pre-breathe protocol called in-suit light exercise  isle  instead of the normal campout pre-breathe protocol the new pre-breathe protocol had the astronauts breathe pure oxygen for 60 minutes in the airlock which had its air pressure lowered to 10.2 psi  703hpa  the astronauts then put their spacesuits on performed light exercise and rested for an additional 50 minutes breathing pure oxygen all the while after astronauts  and  exited the  the pair began installing the power data grapple fixture  pdgf  the fixture itself and most of its components were installed but the data cable associated with it was to be installed later the spacewalking pair then moved on and routed some new power cables from the  to the  on the russian segment of the iss providing a redundant power supply to the russian segment feustel and fincke then moved on to finish up the installation of the wireless video system which fuestel and  had begun to install on eva 1 the pair also took pictures of the zarya module s thrusters and captured some  video of an experiment delivered on board the   elc  3 commander  documented the spacewalk from inside the station while the eva was going on pilot  and mission specialist  assisted  flight engineer  in stowing new equipment and supplies on the iss 
+
+
+
+
+
+
+  right  and  work during eva 3
+
+
+
+
+
+
+
+
+
+ during eva 3
+
+
+
+
+
+
+
+
+
+ during eva 3
+
+
+
+
+26 may  flight day 11 
+
+
+
+
+in-flight sts-134 crew portrait in the  
+
+on flight day 11 the crew of space shuttle endeavour conducted a late inspection of the orbiter s  on most previous flights this inspection was performed after the shuttle undocked from the iss however in this case it was done early because the   obss  was to be left on board the iss after endeavour s departure the joint  sts-134 crew held a news conference with reporters on the ground at nasa centers around the country and iss partner agencies commander  also spoke to reporters from four   television stations later in the crew day the joint crew held an eva procedure review for the fourth and final spacewalk of sts-134 astronauts  and  spent the night in the quest airlock with the air pressure reduced to 10.2 psi so as to avoid  during their spacewalk the crew and flight controllers on the ground opted not to use the in-suit light exercise  isle  protocol that was tested during eva 3 earlier in the mission opting instead to go with the standard campout protocol since it was discovered that isle used more carbon-dioxide scrubbing capability they wanted to save this capability since a co2 sensor in chamitoff s suit had failed during eva 1 cutting that spacewalk short 27 may  flight day 12  eva 4 
+
+
+
+
+ docked at the  
+
+the final spacewalk of the sts-134 mission and the final spacewalk of the space shuttle program was carried out on flight day 12 the eva was conducted by  and  who began the eva by installing the   obss  on the   s1  truss segment after the obss was installed fincke and chamitoff removed the end effector grapple fixture  efgf  and replaced it with a spare power and data grapple fixture  pdgf  the station s  could not grapple the efgf so the pdgf was installed on the end after that task was completed fincke and chamitoff moved to the   elc  3 and released some torque on the bolts that were holding the spare arm for  down against the elc the eva saw the total cumulative time spent performing evas in support of the iss pass the 1,000-hour mark the three sts-134 spacewalkers spent a total time of 28 hours and 44 minutes outside the iss on this mission commander mark kelly assisted with documenting the spacewalk by taking photos and video in the meantime the rest of the shuttle crew completed more equipment transfers from endeavour and the  to the iss working from the mid-deck of endeavour andrew feustel who participated in the first three spacewalks of the mission was the eva 4 choreographer astronaut  was the spacewalk capcom from the station flight control room in houston during flight day 12 mike fincke achieved a milestone becoming the u.s astronaut with the most time in space more than 377 days he surpassed the time in space of astronaut  
+
+
+
+
+
+
+eva 4 preparations in the 
+
+
+
+
+
+
+
+
+
+ during eva 4
+
+
+
+
+
+
+
+
+
+ works outside the  during eva 4
+
+
+
+
+
+
+
+
+
+composite of images showing the view of the entire  as seen from  during eva 4
+
+
+
+
+28 may  flight day 13 
+flight day 13 saw the members of the sts-134 crew complete several major tasks mission specialists mike fincke and greg chamitoff replaced an absorbent bed in the carbon dioxide removal assembly  cdra  the beds have to be changed from time to time in order for the cdra to remove  while the cdra work was on-going commander  and mission specialist  re-sized two of the spacesuits that will be used by  flight engineers  and  the rest of the sts-134 crew completed more transfers between space shuttle endeavour and the international space station  iss  commander mark kelly joined by pilot  and ron garan spoke with students teachers and others gathered at  in   johnson also spoke with representatives of gannet  and the  
+
+
+
+
+
+
+ performs cdra maintenance work in the 
+
+
+
+
+
+
+
+
+
+ backdropped by a night time view of earth and a starry sky
+
+
+
+
+29 may  flight day 14 
+flight day 14 was the final day for the sts-134 crew to complete activities on board the iss pilot greg johnson joined feustel early in the crew day and spoke with  in   in   in  and  in  the transfer of supplies and equipment was completed on flight day 14 with the transfer of 4 bags of water from the shuttle to the iss mission specialist mike fincke completed the work on the carbon dioxide removal assembly  cdra  that he and greg chamitoff had started the day before chamitoff was joined by drew feustel to finish stowing tools that had been used during the mission s four spacewalks space shuttle endeavour s small  were used to raise the iss by about 960 metres  3,150ft  the later part of the crew day saw the  crew hold a farewell ceremony for the sts-134 crew after the two crews said their farewells to one another they got into procedures to close the hatches on the iss and space shuttle after the hatches were closed and secured a series of leak checks were performed on both vehicles and the   pma 2  was depressurized the hatch closures marked the end of joint operations which totaled 10 days 23 hours and 45 minutes 30 may  flight day 15  undocking 
+on flight day 15 space shuttle endeavour undocked from the international space station endeavour had been docked with the iss for 11 days 17 hours and 41 minutes after the shuttle undocked pilot  backed endeavour out to a distance of 140m  450ft  to 200m  650ft  once the shuttle was at the correct distance johnson flew a complete lap around the iss after the lap was complete an initial separation burn was completed after the burn was complete commander  took over control of the shuttle kelly first moved the shuttle to a point 6,100m  20,000ft  behind and above the station then to a point below the iss kelly then guided endeavour to a point 290m  950ft  below the iss this series of maneuvers was done to test the sensor test for orion relative navigation risk mitigation  storrm  sensors for the rest of the day the sts-134 crew conducted preparations for their reentry and landing 31 may  flight day 16 
+on flight day 16 the members of space shuttle endeavour s sts-134 crew continued preparations for the shuttle s landing on flight day 17 commander  pilot  and mission specialist and flight engineer  performed a checkout of endeavour s flight control systems  fcs  they began by starting   apu 1  so they could test the flight systems such as the ailerons and rudder the apu was used to provide hydraulic pressure to power the flight control systems the astronauts next moved on to a test of the   rcs  jets this test saw kelly johnson and vittori fire each jet once meanwhile   and  stowed items on the mid-deck for their return to earth later in the crew day they stowed the  antenna for re-entry the crew also performed several experiments including an eye exam and the ram burn observation  rambo2  experiments and conducted a deorbit briefing to go over the procedures for the landing the entire crew furthermore participated in in-flight interviews with     and  and sent a crew tribute to endeavour down to the ground 1 june  flight day 17  re-entry and landing 
+the crew was awakened by mission control at 5 57 pm  to begin flight day 17 to the song  sunrise no 1  by stormy mondays the payload bay doors on the shuttle were closed at 10 48p.m edt at 1 29a.m on 1 june the de-orbit burn was initiated finishing at 1 31a.m the shuttle began  the atmosphere at approximately 2 03a.m at 2 25a.m endeavour crossed the florida coast the shuttle landed safely in florida at around 2 35a.m edt completing its 25th and final mission into space 
+
+
+
+
+
+
+ touches down at the  on 1 june 2011 
+
+
+
+
+
+
+
+
+ shortly after touchdown at  
+
+
+
+
+
+
+
+
+ after wheel stop at the  
+
+
+
+
+
+
+
+
+the crew pose for a photo on the runway after landing 
+
+
+
+spacewalks 
+there were four spacewalks  evas  completed by three astronauts during the flight the total time spent outside was 28 hours and 44 minutes the evas are expected to be the final evas conducted by a shuttle crew 
+launch attempts 
+
+wake-up calls 
+nasa began a tradition of playing music to astronauts during the  and first used music to wake up a flight crew during  each track is specially chosen often by the astronauts  families and usually has a special meaning to an individual member of the crew or is applicable to their daily activities nasa opened the selection process to the public for the first time for  where the public was invited to vote on two songs used to wake up astronauts on previous missions to wake up the sts-133 crew for sts-134 the public was invited to submit original songs with two songs being selected to wake up the crew of endeavour 
+see also
+this article incorporates from websites or documents of the  
+
+^      pdf  nasa retrieved 16 may 2011 ^          chris gebhardt  2009   nasaspaceflight.com retrieved 19 january 2010    9 may 2011 at the   
+ 
+ moskowitz clara  space.com retrieved 19 april 2011   nasa retrieved 16 may 2011 ^     mcdowell jonathan  jonathan s space page retrieved 24 may 2013  nasa  24 september 2009   nasa retrieved 15 october 2009  robert z pearlman  26 april 2010   collectspace.com retrieved 26 april 2010  nasa  14 october 2009    retrieved 15 october 2009   nasaspaceflight.com retrieved 20 may 2011
+^    spaceflight now  jeanne ryba  nasa retrieved 14 november 2012    16 may 2011 ^    cnn 1 june 2011 retrieved 1 june 2011  clara moskowitz  14 may 2011    retrieved 20 may 2011  nancy atkinson  17 march 2010   www.universetoday.com retrieved 14 august 2010   nasa 11 august 2009 retrieved 8 september 2010    13 january 2010 retrieved 13 january 2010 ^   brian berger  2008   space.com retrieved 25 october 2008  nasa loc  2008    retrieved 25 october 2008  nasa  spaceref.com  mark matthews  2008    retrieved 25 october 2008  jeff hecht  2008   new scientist magazine blog entry retrieved 25 october 2008  ed o keefe  2009   the washington post retrieved 11 may 2009  jim abrams  29 september 2010   associated press archived from  on 7 july 2011 retrieved 30 september 2010  
+ henry fountain  26 april 2011   new york times retrieved 26 april 2011   usa today 29 april 2011  
+ dennis overbye  23 april 2010   the new york times retrieved 23 april 2010  
+ banks dave  28 april 2011    retrieved 2 may 2011  eaton kit  29 april 2011   fast company retrieved 2 may 2011  astrobiology.com   planetary society 16 may 2011 retrieved 11-11-11
+ space.com  david warmflash 9 november 2011 retrieved 11-11-11
+ hein alexandra  1 may 2011   fox news retrieved 1 may 2011  
+  fox news 11 march 2011 retrieved 11 march 2011  rhian jason  aviation week archived from  on 21 march 2010  goddard jacqui  4 may 2011   daily mail london   fox 35 wofl 14 march 2011 retrieved 15 march 2011  atkins william  15 march 2011   it wire retrieved 15 march 2011  bill harwood  spaceflightnow.com cbsnews.com retrieved 17 may 2011  denise chow  17 may 2011   fox news retrieved 17 may 2011  denise chow  fox news retrieved 17 may 2011  william harwood  spaceflight.com retrieved 18 may 2011   nasa retrieved 18 may 2011  chris gebhardt  nasaspaceflight.com retrieved 19 may 2011   nasa retrieved 19 may 2011   nasa retrieved 21 may 2011  bill harwood  spaceflightnow.com retrieved 21 may 2011   nasa retrieved 21 may 2011  robert z pearlman  22 may 2011   space.com retrieved 23 may 2011   nasa retrieved 22 may 2011   nasa retrieved 23 may 2011   nasa spaceflight.com 23 may 2011
+  florida today.com 23 may 2011
+  nasa retrieved 24 may 2011  chris bergin  nasaspaceflight.com retrieved 25 may 2011   nasa retrieved 25 may 2011  bill harwood  spaceflightnow.com retrieved 26 may 2011   nasa retrieved 26 may 2011  chris gebhardt  nasaspaceflight.com retrieved 27 may 2011   nasa retrieved 27 may 2011   nasa retrieved 28 may 2011   nasa retrieved 29 may 2011  bill harwood  spaceflightnow.com retrieved 29 may 2011   nasa retrieved 30 may 2011   nasa retrieved 31 may 2011   nasa retrieved 1 june 2011    pdf  nasa retrieved 11 may 2011   orlando sentinel 29 april 2011 archived from  on 4 may 2011   nasa 2 august 2005    november 2010   nasa archived from  on 10 october 2010 retrieved 18 october 2010 
+
+external links 
+
+
+
+
+  72mb 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

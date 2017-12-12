@@ -1,0 +1,590 @@
+for other uses see  
+
+the national aeronautics and space administration  nasa   is an  of the  of the   responsible for the civilian  as well as  and  research president  established nasa in 1958 with a distinctly civilian  rather than military  orientation encouraging peaceful applications in  the  was passed on july 29 1958 disestablishing nasa s predecessor the   naca  the new agency became operational on october 1 1958 since that time most us  efforts have been led by nasa including the   missions the  space station and later the  currently nasa is supporting the  and is overseeing the development of the  the  and  vehicles the agency is also responsible for the   lsp  which provides oversight of launch operations and countdown management for unmanned nasa launches nasa science is focused on better understanding earth through the  advancing  through the efforts of the science mission directorate s heliophysics research program exploring bodies throughout the  with advanced  missions such as  and researching  topics such as the  through the  and associated programs nasa shares data with various national and international organizations such as from the  since 2011 nasa has been criticized for low cost efficiency achieving little results in return for high development costs 
+
+
+contents
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+creation
+main article  
+
+
+
+
+  center  jpl director president   right  nasa administrator   background  discussing the  with a model presented 
+
+from 1946 the   naca  had been experimenting with rocket planes such as the supersonic  in the early 1950s there was challenge to launch an artificial satellite for the   195758  an effort for this was the american  after the  launch of the world s first artificial    on october 4 1957 the attention of the united states turned toward its own fledgling space efforts the  alarmed by the perceived threat to national security and technological leadership  known as the   urged immediate and swift action  president  and his advisers counseled more deliberate measures on january 12 1958 naca organized a  special committee on space technology  headed by  on january 14 1958 naca director  published  a national research program for space technology  stating 
+
+it is of great urgency and importance to our country both from consideration of our prestige as a nation as well as military necessity that this challenge   be met by an energetic program of research and development for the conquest of space it is accordingly proposed that the scientific research be the responsibility of a national civilian agency naca is capable by rapid extension and expansion of its effort of providing leadership in  
+while this new federal agency would conduct all non-military space activity the   arpa  was created in february 1958 to develop space technology for military application on july 29 1958 eisenhower signed the  establishing nasa when it began operations on october 1 1958 nasa absorbed the 43-year-old naca intact  its 8,000 employees an annual budget of us 100million three major research laboratories    and   and two small test facilities a  was approved by president eisenhower in 1959 elements of the  and the  were incorporated into nasa a significant contributor to nasa s entry into the  with the soviet union was the technology from the  led by  who was now working for the   abma  which in turn incorporated the technology of american scientist  s earlier works earlier research efforts within the  and many of arpa s early space programs were also transferred to nasa in december 1958 nasa gained control of the  a contractor facility operated by the  staff and leadership
+main article  
+
+
+
+
+charles bolden speaks after landing of the last space shuttle mission 
+
+
+the agency s leader  is nominated by the  subject to approval of the  and reports to him or her and serves as senior space science advisor though space exploration is ostensibly non-partisan the appointee usually is associated with the president s political party   or   and a new administrator is usually chosen when the presidency changes parties the only exceptions to this have been   appointed by republican  but stayed through may 1977 into the term of democrat    appointed by republican  and stayed through the administration of democrat   and  associate administrator under democrat  kept on as acting administrator by republican  though the agency is independent the survival or discontinuation of projects can depend directly on the will of the president the first administrator was dr  appointed by republican president  during his term he brought together the disparate projects in american space development research the third administrator   19611968  appointed by president  was a democrat who first publicly served under president  in order to implement the  to achieve kennedy s moon landing goal by the end of the 1960s webb directed major management restructuring and facility expansion establishing the houston manned spacecraft  johnson  center and the florida launch operations  kennedy  center capitalizing on kennedy s legacy president  kept continuity with the apollo program by keeping webb on when he succeeded kennedy in november 1963 but webb resigned in october 1968 before apollo achieved its goal and republican president  replaced webb with republican  james fletcher was responsible for early planning of the  during his first term as administrator under president nixon he was appointed for a second term as administrator from may 1986 through april 1989 by president  to help the agency recover from the  former   served as nasa s twelfth administrator from july 2009 to january 20 2017 administrator bolden is one of three former astronauts who became nasa administrators along with   served 19891992  and   acting 2005  the agency s administration is located at  in washington dc and provides overall guidance and direction except under exceptional circumstances nasa civil service employees are required to be  nasa advisory council
+in response to the  accident which killed three astronauts in 1967 congress directed nasa to form an   asap  to advise the nasa administrator on safety issues and hazards in nasa s aerospace programs in the aftermath of the  congress required that the asap submit an annual report to the nasa administrator and to congress by 1971 nasa had also established the  and the  to provide the administrator with advisory committee support in 1977 the latter two were combined to form the nasa advisory council  nac  space flight programs
+
+
+
+
+at launch control for the may 28 1964   is at center 
+
+main article  
+nasa has conducted many manned and unmanned spaceflight programs throughout its history unmanned programs launched the first american artificial  into earth orbit for scientific and  purposes and sent scientific probes to explore the planets of the solar system starting with  and  and including   of the outer planets manned programs sent the first americans into   leo  won the  with the  by landing twelve men on the moon from 1969 to 1972 in the  developed a semi-reusable leo  and developed leo  capability by itself and with the cooperation of several other nations including post-soviet  some missions include both manned and unmanned aspects such as the galileo probe which was deployed by astronauts in earth orbit before being sent unmanned to jupiter manned programs
+the experimental  programs started by naca were extended by nasa as support for manned spaceflight this was followed by a one-man  program and in turn by a two-man capsule program reacting to loss of national prestige and  fears caused by early leads in space exploration by the  in 1961 president  proposed the ambitious goal  of landing a man on the moon by the end of  and returning him safely to the earth  this goal was met in 1969 by the  and nasa planned even more ambitious activities leading to a  however reduction of the perceived threat and changing political priorities almost immediately caused the termination of most of these plans nasa turned its attention to an apollo-derived temporary space laboratory and a semi-reusable earth orbital shuttle in the 1990s funding was approved for nasa to develop a permanent earth orbital  in cooperation with the international community which now included the former rival post-soviet  to date nasa has launched a total of 166 manned space missions on rockets and thirteen  rocket flights above the  definition of spaceflight altitude 260,000 feet  80km  x-15 rocket plane  19591968 
+main article  
+
+
+
+
+x-15 in powered flight
+
+
+the  was an naca experimental rocket-powered  research aircraft developed in conjunction with the us air force and navy the design featured a slender fuselage with fairings along the side containing fuel and early computerized control systems  were issued on december 30 1954 for the airframe and february 4 1955 for the rocket engine the airframe contract was awarded to  in november 1955 and the xlr30 engine contract was awarded to  in 1956 and three planes were built the x-15 was  from the wing of one of two nasa  nb52a tail number 52-003 and nb52b tail number 52-008  known as the   release took place at an altitude of about 45,000 feet  14km  and a speed of about 500 miles per hour  805km h  twelve pilots were selected for the program from the air force navy and naca  later nasa  a total of 199 flights were made between 1959 and 1968 resulting in the  for the highest speed ever reached by a manned powered aircraft  current as of 2014  and a maximum speed of mach 6.72 4,519 miles per hour  7,273km h  the altitude record for x-15 was 354,200 feet  107.96km  eight of the pilots were awarded air force  for flying above 260,000 feet  80km  and two flights by  exceeded 100 kilometers  330,000ft  qualifying as spaceflight according to the  the x-15 program employed mechanical techniques used in the later manned spaceflight programs including  jets for controlling the orientation of a spacecraft  and horizon definition for navigation the  and landing data collected were valuable to nasa for designing the  
+project mercury  19581963 
+main article  
+
+
+
+
+john glenn on friendship 7  first us orbital flight 1962
+
+
+shortly after the  began an early objective was to get a person into earth orbit as soon as possible therefore the simplest spacecraft that could be launched by existing rockets was favored the us air force s  program considered many manned spacecraft designs ranging from rocket planes like the x-15 to small ballistic  by 1958 the space plane concepts were eliminated in favor of the ballistic capsule when nasa was created that same year the air force program was transferred to it and renamed project mercury the  were selected among candidates from the navy air force and marine test pilot programs on may 5 1961 astronaut  became the first american in space aboard  launched by a  on a 15-minute   suborbital  flight  became the first american to be launched into  by an  on february 20 1962 aboard  glenn completed three orbits after which three more orbital flights were made culminating in  s 22-orbit flight  may 1516 1963 the   ussr  competed with its own single-pilot spacecraft  they sent the first man in space by launching cosmonaut  into a single earth orbit aboard  in april 1961 one month before shepard s flight in august 1962 they achieved an almost four-day record flight with  aboard  and also conducted a concurrent  mission carrying  
+project gemini  19611966 
+main article  
+
+
+
+
+ on gemini 4  first us  1965
+
+
+based on studies to grow the mercury spacecraft capabilities to long-duration flights developing  techniques and precision earth landing project gemini was started as a two-man program in 1962 to overcome the soviets  lead and to support the apollo manned lunar landing program adding   eva  and  and  to its objectives the first manned gemini flight  was flown by  and  on march 23 1965 nine missions followed in 1965 and 1966 demonstrating an endurance mission of nearly fourteen days rendezvous docking and practical eva and gathering medical data on the effects of weightlessness on humans under the direction of   the ussr competed with gemini by converting their vostok spacecraft into a two or three-man  they succeeded in launching two manned flights before gemini s first flight achieving a three-cosmonaut flight in 1963 and the first eva in 1964 after this the program was canceled and gemini caught up while spacecraft designer  developed the  their answer to apollo apollo program  19611972 
+main article  
+
+
+
+
+apollo 11  buzz aldrin on the moon 1969 
+
+the u.s public s perception of the soviet lead in the space race  by putting the first man into space  motivated president  to ask the congress on may 25 1961 to commit the federal government to a program to land a man on the moon by the end of the 1960s which effectively launched the  apollo was one of the most expensive american scientific programs ever it cost more than  20 billion in 1960s dollars or an estimated  208billion in present-day us dollars  in comparison the  cost roughly  26.6billion accounting for inflation  it used the  as launch vehicles which were far bigger than the rockets built for previous projects the spacecraft was also bigger  it had two main parts the combined command and service module  csm  and the lunar landing module  lm  the lm was to be left on the moon and only the command module  cm  containing the three astronauts would eventually return to earth the second manned mission  brought astronauts for the first time in a flight around the moon in december 1968 shortly before the soviets had sent an unmanned spacecraft around the moon on the next two missions docking maneuvers that were needed for the moon landing were practiced and then finally the moon landing was made on the  mission in july 1969 
+
+
+
+apollo 17 003 1972 
+
+the first  was  who was followed by  while  orbited above five subsequent apollo missions also landed astronauts on the moon the last in december 1972 throughout these six apollo spaceflights twelve men walked on the moon these missions returned a wealth of scientific data and 381.7 kilograms  842lb  of lunar samples topics covered by experiments performed included       and  the moon landing marked the end of the space race  and as a gesture armstrong mentioned mankind when he stepped down on the moon apollo set major  in human spaceflight it stands alone in sending manned missions beyond  and landing humans on another   was the first manned spacecraft to orbit another celestial body while  marked the last moonwalk and the last manned mission beyond  to date the program spurred advances in many areas of technology peripheral to rocketry and manned spaceflight including  telecommunications and computers apollo sparked interest in many fields of engineering and left many physical facilities and machines developed for the program as landmarks many objects and artifacts from the program are on display at various locations throughout the world notably at the  skylab  19651979 
+main article  
+
+
+
+
+skylab space station 1974
+
+
+skylab was the united states  first and only independently built  conceived in 1965 as a workshop to be constructed in space from a spent  upper stage the 169,950lb  77,088kg  station was constructed on earth and launched on may 14 1973 atop the first two stages of a  into a 235-nautical-mile  435km  orbit inclined at 50 to the equator damaged during launch by the loss of its thermal protection and one electricity-generating solar panel it was repaired to functionality by its first crew it was occupied for a total of 171 days by 3 successive crews in 1973 and 1974 it included a laboratory for studying the effects of  and a  nasa planned to have a space shuttle dock with it and elevate skylab to a higher safe altitude but the shuttle was not ready for flight before skylab s re-entry on july 11 1979 to save cost nasa used one of the saturn v rockets originally earmarked for a canceled apollo mission to launch the skylab apollo spacecraft were used for transporting astronauts to and from the station three three-man crews stayed aboard the station for periods of 28 59 and 84 days skylab s habitable volume was 11,290 cubic feet  320m3  which was 30.7 times bigger than that of the  apollosoyuz test project  19721975 
+main article  
+
+
+
+
+soviet and american crews with spacecraft model 1975 
+
+on may 24 1972 us president  and  premier  signed an agreement calling for a joint manned space mission and declaring intent for all future international manned spacecraft to be capable of docking with each other this authorized the apollo-soyuz test project  astp  involving the rendezvous and docking in earth orbit of a surplus  with a  spacecraft the mission took place in july 1975 this was the last us manned space flight until the first orbital flight of the  in april 1981 the mission included both joint and separate scientific experiments and provided useful engineering experience for future joint usrussian space flights such as the shuttlemir program and the international space station space shuttle program  19722011 
+main article  
+
+
+
+
+launch of a space shuttle 
+
+
+
+
+
+ working in spacelab in 1992 spacelab was a major nasa collaboration with europe s space agencies
+
+
+the  became the major focus of nasa in the late 1970s and the 1980s planned as a frequently launchable and mostly reusable vehicle four space shuttle orbiters were built by 1985 the first to launch  did so on april 12 1981 the 20th anniversary of the first known human space flight its major components were a  orbiter with an external fuel tank and two solid-fuel launch rockets at its side the external tank which was bigger than the spacecraft itself was the only major component that was not reused the shuttle could orbit in altitudes of 185643km  115400   and carry a maximum payload  to low orbit  of 24,400kg  54,000lb  missions could last from 5 to 17 days and crews could be from 2 to 8 astronauts on 20 missions  198398  the space shuttle carried  designed in cooperation with the   esa  spacelab was not designed for independent orbital flight but remained in the shuttle s cargo bay as the astronauts entered and left it through an  another famous series of missions were the  and later  of the  in 1990 and 1993 respectively in 1995 russian-american interaction resumed with the  missions  19951998  once more an american vehicle docked with a russian craft this time a full-fledged space station this cooperation has continued with russia and the united states as two of the biggest partners in the largest space station built  the   iss  the strength of their cooperation on this project was even more evident when nasa began relying on russian launch vehicles to service the iss during the two-year grounding of the shuttle fleet following the 2003  the shuttle fleet lost two orbiters and 14 astronauts in two disasters   in 1986 and columbia in 2003 while the 1986 loss was mitigated by building the  from replacement parts nasa did not build another orbiter to replace the  nasa s space shuttle program had 135 missions when the program ended with the successful landing of the space shuttle atlantis at the kennedy space center on july 21 2011 the program spanned 30 years with over 300 astronauts sent into space international space station  1993present 
+main article  
+
+
+
+
+the international space station as seen by the final sts mission
+
+
+the   iss  combines nasa s  project with the soviet russian  station the european  station and the japanese  laboratory module nasa originally planned in the 1980s to develop freedom alone but us budget constraints led to the merger of these projects into a single multi-national program in 1993 managed by nasa the   rka  the   jaxa  the   esa  and the   csa  the station consists of pressurized modules external   and other components which have been launched by russian  and  rockets and the us space shuttles it is  in  the on-orbit assembly began in 1998 the completion of the  occurred in 2011 and the completion of the  is expected by 2016  the ownership and use of the space station is established in intergovernmental treaties and agreements which divide the station into two areas and allow  to retain full ownership of the russian orbital segment  with the exception of zarya  with the us orbital segment allocated between the other international partners long duration missions to the iss are referred to as  expedition crew members typically spend approximately six months on the iss the initial expedition crew size was three temporarily decreased to two following the columbia disaster since may 2009 expedition crew size has been six crew members crew size is expected to be increased to seven the number the iss was designed for once the commercial crew program becomes operational the iss has been continuously occupied for the past 700362180000000000017years and 9days having exceeded the previous record held by   and has been visited by astronauts and cosmonauts from  the station can be seen from the earth with the naked eye and as of 2017 is the largest artificial satellite in  orbit with a mass and volume greater than that of any previous space station the  spacecraft delivers crew members stays docked for their half-year-long missions and then returns them home several uncrewed cargo spacecraft service the iss they are the russian  which has done so since 2000 the european   atv  since 2008 the japanese   htv  since 2009 the american  since 2012 and the american  since 2013 the space shuttle before its retirement was also used for cargo transfer and would often switch out expedition crew members although it did not have the capability to remain docked for the duration of their stay until another us manned spacecraft is ready crew members will travel to and from the international space station exclusively aboard the soyuz the highest number of people occupying the iss has been thirteen  this occurred three times during the late shuttle iss assembly missions the iss program is expected to continue until at least 2020 and may be extended beyond 2028 commercial resupply services  2006present 
+main article  
+
+
+
+
+the dragon is seen being berthed to the iss in may 2012
+
+
+
+the standard variant of cygnus is seen berthed to the iss in september 2013
+
+
+
+
+the development of the commercial resupply services  crs  vehicles began in 2006 with the purpose of creating american commercially operated uncrewed cargo vehicles to service the iss the development of these vehicles was under a fixed price milestone-based program meaning that each company that received a funded award had a list of milestones with a dollar value attached to them that they didn t receive until after they had successful completed the milestone private companies were also required to have some  skin in the game  which refers raising an unspecified amount of private investment for their proposal on december 23 2008 nasa awarded commercial resupply services contracts to  and  spacex uses its  and  orbital sciences uses its  rocket and  the  occurred in may 2012 the  occurred in september 2013 the crs program now provides for all america s iss cargo needs  with the exception of a few vehicle-specific payloads that are delivered on the european  and the japanese  commercial crew program  2010present 
+main article  
+the   ccdev  program was initiated in 2010 with the purpose of creating american commercially operated crewed spacecraft capable of delivering at least four crew members to the iss staying docked for 180 days and then returning them back to earth it is hoped that these vehicles could also transport non-nasa customers to private space stations such those planned by  like cots ccdev is also a fixed price milestone-based developmental program that requires some private investment in 2010 nasa announced the winners of the first phase of the program a total of  50million was divided among five american companies to foster research and development into human spaceflight concepts and technologies in the private sector in 2011 the winners of the second phase of the program were announced  270million was divided among four companies in 2012 the winners of the third phase of the program were announced nasa provided  1.1 billion divided among three companies to further develop their crew transportation systems in 2014 the winners of the final round were announced spacex s   planned to be launched on a   received a contract valued up to  2.6 billion and boeing s   to be launched on an   received a contract valued up to  4.2 billion nasa expects these vehicles to begin transporting humans to the iss in 2017 
+
+
+
+
+
+
+dragon v2
+
+
+
+
+
+
+
+
+
+computer rendering of cst-100 in orbit
+
+
+
+
+beyond low earth orbit program  2010present 
+
+
+
+
+artist s rendering of the 70 mt variant of sls launching orion
+
+
+for missions beyond   bleo  nasa has been directed to develop the   sls  a saturn-v class rocket and the two to six person beyond low earth orbit spacecraft  in february 2010 president  s administration proposed eliminating public funds for the  and shifting greater responsibility of servicing the iss to private companies during a speech at the kennedy space center on april 15 2010 obama proposed a new heavy-lift vehicle  hlv  to replace the formerly planned  in his speech obama called for a manned mission to an asteroid as soon as 2025 and a manned mission to mars orbit by the mid-2030s the  was passed by congress and signed into law on october 11 2010 the act officially canceled the constellation program the authorization act required a newly designed hlv be chosen within 90 days of its passing  the launch vehicle was given the name  space launch system  the new law also required the construction of a beyond low earth orbit spacecraft the  which was being developed as part of the constellation program was chosen to fulfill this role the space launch system is planned to launch both orion and other necessary hardware for missions beyond low earth orbit the sls is to be upgraded over time with more powerful versions the initial capability of sls is required to be able to lift 70 mt into  it is then planned to be upgraded to 105 mt and then eventually to 130 mt   eft-1  an unmanned test flight of orion s crew module was launched on december 5 2014 atop a  rocket   em-1  is the unmanned initial launch of sls that would also send orion on a  which is planned for 2019 the first manned flight of orion and sls exploration mission 2  em-2  is to launch in 2022  it is a 10 to 14-day mission planned to place a crew of four into  em-3 is planned to deliver a crew of 4 to  along with the first module of  on june 5 2016 nasa and darpa announced plans to build a series of new x-planes over the next 10 years one of the planes will reportedly be a supersonic vehicle that burns low-carbon  and generates quiet sonic booms nasa plans to build full scale deep space habitats such at the  and  as part of its   nextstep  program unmanned programs
+
+
+
+
+ and  launched in 1958 and 1959 respectively
+
+
+
+
+
+
+jwst main mirror assembled november 2016
+
+
+main article  
+more than 1,000 unmanned missions have been designed to explore the earth and the solar system besides exploration communication satellites have also been launched by nasa the missions have been launched directly from earth or from orbiting space shuttles which could either deploy the satellite itself or with a rocket stage to take it farther the first us unmanned satellite was  which started as an abma jpl project during the early part of the  it was launched in january 1958 two months after sputnik at the creation of nasa the explorer project was transferred to this agency and still continues to this day its missions have been focusing on the earth and the sun measuring magnetic fields and the  among other aspects a more recent earth mission not related to the explorer program was the  which as mentioned above was brought into orbit in 1990 the  has been made the goal of at least four unmanned programs the first was  in the 1960s and  70s which made multiple visits to  and  and one to  probes launched under the mariner program were also the first to make a planetary flyby   to take the first pictures from another planet   the first planetary orbiter   and the first to make a  maneuver   this is a technique where the satellite takes advantage of the gravity and velocity of planets to reach its destination the first successful landing on mars was made by  in 1976 twenty years later a rover was landed on mars by  outside mars jupiter was first visited by  in 1973 more than 20 years later  sent a probe into the planet s atmosphere and became the first spacecraft to orbit the planet  became the first spacecraft to visit  in 1979 with  making the first  and so far only  visits to  and  in 1986 and 1989 respectively the first spacecraft to leave the solar system was pioneer 10 in 1983 for a time it was the most distant spacecraft but it has since been surpassed by both  and  pioneers 10 and 11 and both voyager probes carry messages from the earth to extraterrestrial life communication can be difficult with deep space travel for instance it took about three hours for a radio signal to reach the new horizons spacecraft when it was more than halfway to pluto contact with pioneer 10 was lost in 2003 both voyager probes continue to operate as they explore the outer boundary between the solar system and interstellar space on november 26 2011 nasa s  mission was successfully launched for mars  successfully landed on mars on august 6 2012 and subsequently began its search for evidence of past or present life on mars recent and planned activities
+nasa s ongoing investigations include in-depth surveys of mars   and   and saturn and studies of the earth and the sun other active spacecraft missions are  for  new horizons  for jupiter  and beyond  and  for the  nasa continued to support  exploration beyond the asteroid belt including pioneer and voyager traverses into the unexplored trans-pluto region and  orbiters galileo  19892003   19972017  and juno  2011  the  mission to pluto was launched in 2006 and successfully performed a flyby of  on july 14 2015 the probe received a  from  in february 2007 examining some of jupiter s inner moons and testing on-board instruments during the flyby on the horizon of nasa s plans is the  spacecraft as part of the  to study the  
+
+
+
+vision mission for an interstellar precursor spacecraft by nasa
+
+
+on december 4 2006 nasa announced it was planning a  the goal was to start building the moon base by 2020 and by 2024 have a fully functional base that would allow for crew rotations and  however in 2009 the  found the program to be on an  unsustainable trajectory  in 2010 president  halted existing plans including the moon base and directed a generic focus on manned missions to asteroids and mars as well as extending support for the international space station since 2011 nasa s strategic goals have been
+
+extend and sustain  across the 
+expand scientific understanding of the earth and the universe
+create innovative new space 
+advance  research
+enable program and institutional capabilities to conduct nasa s aeronautics and space activities
+share nasa with the public educators and students to provide opportunities to participate
+
+in august 2011 nasa accepted the donation of  from the  despite being stored unused the instruments are superior to the  in september 2011 nasa announced the start of the  program to develop a human-rated heavy lift vehicle the space launch system is intended to launch the  and other elements towards the   and one day  the orion mpcv conducted an unmanned test launch on a  rocket in december 2014 the   jwst  is currently scheduled to launch in spring 2019 
+
+
+
+ s wheel on  2012
+
+
+on august 6 2012 nasa landed the rover  on mars on august 27 2012 curiosity transmitted the first pre-recorded message from the surface of mars back to earth made by administrator charlie bolden 
+
+hello this is charlie bolden nasa administrator speaking to you via the broadcast capabilities of the curiosity rover which is now on the surface of mars since the beginning of time humankinds curiosity has led us to constantly seek new life...new possibilities just beyond the horizon i want to congratulate the men and women of our nasa family as well as our commercial and government partners around the world for taking us a step beyond to mars this is an extraordinary achievement landing a rover on mars is not easy others have tried only america has fully succeeded the investment we are making...the knowledge we hope to gain from our observation and analysis of gale crater will tell us much about the possibility of life on mars as well as the past and future possibilities for our own planet curiosity will bring benefits to earth and inspire a new generation of scientists and explorers as it prepares the way for a human mission in the not too distant future thank you 
+scientific research
+
+
+
+
+radioisotope within a graphite shell that goes into the generator 
+
+main article  
+for technologies funded or otherwise supported by nasa see  nasa s  conducts aeronautics research nasa has made use of technologies such as the   mmrtg  which is a type of  used on space missions shortages of this material have curtailed deep space missions since the turn of the millennia an example of a spacecraft that was not developed because of a shortage of this material was  the earth science research program was created and first funded in the 1980s under the administrations of  and  nasa started an annual competition in 2014 named cubes in space it is jointly organized by nasa and the global education company i doodle learning with the objective of teaching school students aged 1118 to design and build scientific experiments to be launched into space on a nasa rocket or balloon on june 21 2017 the world s smallest satellite  built by an indian team was launched 
+climate study
+nasa also researches and publishes on  issues its statements concur with the interpretation that the global climate is heating  who has advised the 45th president of the united states  on space issues has advocated that nasa should focus on space exploration and that its climate study operations should be transferred to other agencies such as  facilities
+
+
+
+
+ complex in pasadena california
+
+
+
+vehicle assembly and launch control at 
+
+
+
+
+main article  
+nasa s facilities are research construction and communication centers to help its missions some facilities serve more than one application for historic or administrative reasons nasa also operates a short-line  and own special aircraft for instance two  john f kennedy space center  ksc  is one of the best-known nasa facilities it has been the launch site for every united states human space flight since 1968 although such flights are currently on pause ksc continues to manage and operate unmanned rocket launch facilities for america s civilian space program from three pads at the adjoining cape canaveral air force station   jsc  in  is home to the  where all flight control is managed for manned space missions jsc is the lead nasa center for activities regarding the  and also houses the  that selects trains and provides astronauts as crew members for us and international space missions another major facility is  in huntsville alabama at which the saturn 5 rocket and skylab were developed the  worked together with  one of the agencies behind  the first american space mission 
+
+
+
+ in 2009 during the  mission jsc in houston
+
+
+the ten nasa field centers are 
+
+ florida
+ moffett field california
+  formerly hugh l dryden flight research facility  edwards california
+ greenbelt maryland
+ near pasadena california
+ houston texas
+ hampton virginia
+ cleveland ohio
+ huntsville alabama
+ bay st louis mississippi
+
+numerous other facilities are operated by nasa including the  in wallops island virginia  the  in new orleans louisiana  the  in las cruces new mexico  and  stations in  california   spain  and  australia budget
+
+
+
+
+nasa s budget from 1958 to 2012 as a percentage of federal budget
+
+
+
+
+
+
+an artist s conception from nasa of an astronaut planting a us flag on mars a  has been discussed as a possible nasa mission since the 1960s 
+
+main article  
+nasa s budget has generally been approximately 1 of the federal budget from the early 1970s on after briefly peaking at approximately 4.41 in 1966 during the apollo program public perception of nasa s budget has differed significantly from reality  a 1997 poll indicated that most americans responded that 20 of the federal budget went to nasa the percentage of federal budget that nasa has been allocated has been steadily dropping since the apollo program and in 2012 it was estimated at 0.48 of the federal budget in a march 2012 meeting of the   testified that  right now nasas annual budget is half a penny on your tax dollar for twice thata penny on a dollarwe can transform the country from a sullen dispirited nation weary of economic struggle to one where it has reclaimed its 20th century birthright to dream of tomorrow 
+for fiscal year 2015 nasa received an appropriation of us 18.01 billion from congress 549 million more than requested and approximately  350 million more than the 2014 nasa budget passed by congress environmental impact
+the exhaust gases produced by rocket propulsion systems both in earth s atmosphere and in space can adversely effect the earth s environment some  rocket propellants such as  are highly toxic prior to  but decompose into less toxic compounds after burning rockets using hydrocarbon fuels such as  release carbon dioxide and soot in their exhaust however carbon dioxide emissions are insignificant compared to those from other sources  on average the united states consumed 802,620,000 us gallons  3.0382109l  gallons of liquid fuels per day in 2014 while a single  rocket first stage burns around 25,000 us gallons  95,000l  of  fuel per launch even if a falcon 9 were launched every single day it would only represent 0.006 of liquid fuel consumption  and carbon dioxide emissions  for that day additionally the exhaust from  and  fueled engines like the  is almost entirely water vapor nasa addressed environmental concerns with its canceled  in accordance with the national environmental policy act in 2011 in contrast  use harmless noble gases like  for propulsion on may 8 2003  recognized nasa as the first federal agency to directly use  to produce energy at one of its facilitiesthe  greenbelt maryland an example of nasa s environmental efforts is the  additionally the exploration sciences building was awarded the leed gold rating in 2010 observations
+
+
+
+
+
+
+
+
+plot of orbits of known potentially hazardous asteroids  size over 460 feet  140m  and passing within 4.7million miles  7.610^6km  of earth s orbit 
+
+
+
+
+
+
+
+
+
+various nebulae observed from a nasa space telescope
+
+
+
+
+
+
+
+
+
+1 ceres
+
+
+
+
+
+
+
+
+
+pluto
+
+
+
+
+
+spacecraft
+
+
+
+
+
+
+
+
+hardware comparison of  gemini and mercury
+
+
+
+
+
+
+
+
+
+cassini-huygens planned for disposal in 2017
+
+
+
+
+
+
+
+
+
+hubble space telescope astronomy observatory in earth orbit since 1990 also visited by the space shuttle
+
+
+
+
+
+
+
+
+
+curiosity rover roving mars since 2012
+
+
+
+
+
+planned spacecraft
+
+
+
+
+
+
+
+
+james webb space telescope
+
+
+
+
+
+
+
+
+
+orion spacecraft design as of january 2013
+
+
+
+
+
+
+
+
+
+space launch system concept art
+
+
+
+
+
+examples of missions by target
+
+
+see also
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+notes
+
+
+
+ nasa is an independent agency that is not a part of any  but reports directly to the   from left to right  launch vehicle of apollo  saturn 5  gemini  titan 2  and mercury  atlas  left top-down  spacecraft of apollo gemini and mercury the  and  launch vehicles are left out 
+
+
+references
+
+
+  centennialofflight.net retrieved on november 3 2011  lale tayla   figen bingul  2007   the light millennium   nasa january 11 2011 retrieved december 17 2012  
+ dreier casey  december 18 2015   the planetary society retrieved february 4 2016 ^   administrator nasa content  january 30 2017    dunbar brian  january 8 2015     loc.gov retrieved may 24 2016   hq.nasa.gov retrieved may 24 2016   eisenhower memorial 2013 retrieved november 27 2013   nasa 2005 retrieved august 29 2007 ^   bilstein roger e  1996   from naca to nasa   nasa pp.3233  retrieved may 6 2013  netting ruth  june 30 2009   archived from  on july 16 2009 retrieved july 15 2009  netting ruth  january 8 2009   archived from  on july 16 2009 retrieved july 15 2009  roston michael  august 28 2015    retrieved august 28 2015  netting ruth  july 13 2009   archived from  on july 16 2009 retrieved july 15 2009  henry vanderbilt  september 15 2011   moonandback.com retrieved january 26 2012  ferris valyn  september 15 2011   space frontier foundation archived from  on october 6 2011 retrieved september 16 2011    pdf  the planetary society july 12 2011 archived from   pdf  on march 29 2012 retrieved january 26 2012    pdf  nasa retrieved september 30 2011 ^   erickson mark   pdf   archived from   pdf  on september 20 2009  subcommittee on military construction united states congress senate committee on armed services  january 2124 1958   ^     nasa august 4 2006 retrieved july 15 2009  
+ von braun werner  1963   msfc history office nasa marshall space flight center retrieved july 15 2009  van atta richard  april 10 2008    pdf  archived from   pdf  on february 24 2009 retrieved july 15 2009 ^   fouriezos nick  may 30 2016   ozy retrieved may 30 2016   nasa august 4 2006 retrieved july 5 2008  cabbage michael  july 15 2009    press release  nasa archived from  on october 28 2009 retrieved july 16 2009  shouse mary  july 9 2009   retrieved july 15 2009   nasa  downloaded september 16 2013 
+ 
+ 
+ the air force definition of outer space differs from that of the  which is 100 kilometers  330,000ft  ^    aerospaceweb.org retrieved on november 3 2011   aerospaceweb.org november 24 2008 ^    retrieved october 17 2011
+   october 11 2011 at the  retrieved october 17 2011
+   june 3 2013 at the  retrieved october 17 2011
+ swenson jr loyd s  grimwood james m  alexander charles c  1989   in woods david  gamble chris   url  published as nasa special publication-4201 in the nasa history series nasa retrieved july 14 2009  swenson jr loyd s  grimwood james m  alexander charles c  1989   in woods david  gamble chris   url  published as nasa special publication-4201 in the nasa history series nasa retrieved july 14 2009   nasa retrieved october 9 2011   nasa retrieved october 9 2011  barton c hacker  james m grimwood  december 31 2002     url  nasa  archived from  on february 1 2010 retrieved july 14 2009  barton c hacker  james m grimwood  december 31 2002    nasa  archived from  on february 1 2010 retrieved july 14 2009  barton c hacker  james m grimwood  december 31 2002    nasa  archived from  on february 1 2010 retrieved july 14 2009   on  speech
+ butts glenn  linton kent  april 28 2009    pdf  pp.2526 archived from   pdf  on october 26 2011 ^   federal reserve bank of minneapolis community development project  federal reserve bank of minneapolis retrieved january 2 2017    1987  the road to trinity  a personal account of how america s nuclear policies were made pp 3435 new york  william morrow and company     encyclopedia astronautica archived from  on october 7 2011 retrieved october 13 2011   nasa retrieved october 13 2011  siddiqi asif a  2003  the soviet space race with apollo gainesville  university press of florida pp.654656    nasa retrieved october 13 2011   nasa retrieved october 13 2011   nasa retrieved october 13 2011  chaikin andrew  march 16 1998   new york  penguin books  a giant leap for mankind retrieved october 1 2011
+  nasa 1999 ^    belew leland f ed  1977    pdf  nasa nasa-sp-400 retrieved july 15 2009 ^   benson charles dunlap and william david compton  nasa publication sp-4208  gatland kenneth  1976  manned spacecraft second revision new york  macmillan publishing co inc p.247   grinter kay  april 23 2003   archived from  on july 25 2009 retrieved july 15 2009   retrieved october 15 2011
+ bernier serge  may 27 2002   cambridge university press    retrieved october 18 2011
+^    retrieved october 18 2011
+  retrieved october 18 2011
+   october 11 2011 at the  retrieved october 20 2011
+   august 18 2011 at  retrieved october 20 2011
+^   watson traci  january 8 2008   usa today retrieved july 15 2009   khits chicago july 8 2011 ^   john e catchpole  june 17 2008  the international space station  building for the future springer-praxis    european space agency  esa  2009 retrieved january 17 2009  gary kitmacher  2006  reference guide to the international space station canada   pp.7180    gerstenmaier william  october 12 2011    pdf  united states house of representatives retrieved august 31 2012  afanasev igor  vorontsov dmitrii  january 11 2012   air transport observer retrieved october 14 2012 ^    european space agency  esa  april 19 2009 archived from  on june 10 2009 retrieved april 19 2009   nasa january 29 1998 retrieved april 19 2009  zak anatoly  october 15 2008   russianspaceweb retrieved august 4 2012    pdf  nasa 2011 retrieved september 2 2012    pdf  international space station multilateral coordination board february 3 2010 retrieved august 16 2012  leone dan  june 20 2012   space news retrieved september 1 2012   nasa november 17 2008 retrieved march 6 2009  boyle rebecca  november 11 2010   popular science retrieved september 1 2012   retrieved october 20 2011
+ chow denise  november 17 2011   space.com retrieved july 2 2012  potter ned  july 17 2009   abc news retrieved september 7 2012  leone dan  march 29 2012   space news retrieved june 30 2012    press release  nasa august 18 2006 retrieved november 21 2006 ^     pdf  rendezvous nasa 2010 pp.1017 retrieved february 14 2011 just as in the cots projects in the ccdev project we have fixed-price pay-for-performance milestones  thorn said  theres no extra money invested by nasa if the projects cost more than projected  mcalister phil  october 2010    pdf  nasa retrieved july 2 2012   nasa december 23 2008   spacex.com retrieved july 17 2009  clark stephen  june 2 2012   spaceflightnow retrieved june 30 2012  bergin chris  september 28 2013   nasaspaceflight.com  not affiliated with nasa  retrieved october 17 2013   nasa may 22 2012 retrieved june 23 2012  berger brian  february 1 2011   imaginova corp retrieved december 13 2011  morring frank  october 10 2012   aviation week retrieved october 5 2012  dean james  april 18 2011   space.com archived from  on april 19 2011 retrieved may 11 2011   nasa august 3 2012 retrieved august 3 2012  bolden charlie  nasa.gov retrieved september 16 2014 ^   foust jeff  september 19 2014   space news retrieved september 21 2014 we basically awarded based on the proposals that we were given kathy lueders nasa commercial crew program manager said in a teleconference with reporters after the announcement both contracts have the same requirements the companies proposed the value within which they were able to do the work and the government accepted that  achenbach joel  february 1 2010   washington post retrieved february 1 2010 ^    office of the press secretary april 15 2010 retrieved july 4 2012 ^    universetoday.com retrieved november 20 2010  svitak amy  march 31 2011   space news retrieved july 4 2012 ^    loc.gov   nasa september 14 2011 retrieved april 28 2012 ^     bergin chris  february 23 2012   nasa retrieved april 29 2012 ^   grady mary  june 5 2016    retrieved june 8 2016   retrieved december 30 2016    pdf  nasa retrieved september 30 2011   nasa retrieved september 30 2011   nasa retrieved september 20 2011    august 18 2011 at 
+  nasa retrieved september 30 2011   the planet society retrieved september 30 2011   the planet society retrieved september 30 2011   jpl retrieved september 30 2011   nasa retrieved september 30 2011   jpl retrieved september 30 2011   jhu apl archived from  on may 9 2010 retrieved september 30 2011   nasa retrieved september 30 2011  nasa staff  november 26 2011   nasa retrieved november 26 2011   new york times associated press november 26 2011 retrieved november 26 2011  kenneth chang  august 6 2012   the new york times retrieved august 6 2012  wilson jim  september 15 2008   nasa retrieved july 15 2009  nasa office of public affairs  december 4 2006    pdf  nasa retrieved july 15 2009    pdf  office of science and technology policy october 22 2009 retrieved december 13 2011  goddard jacqui  february 2 2010   the times london retrieved may 19 2010    pdf  nasa headquarters  boyle rebecca  june 5 2012   popular science popular science technology group retrieved june 5 2012   nasa september 14 2011 retrieved december 13 2011   nasa   nasa september 28 2017  jpl nasa  nasa.gov    pdf  march 2011 retrieved march 13 2015 ^   
+ eric berger houston chronicle april 29 2015  a history primer  nasas robust earth science program now under attack originated in the reagan and bush administrations  
+ eric berger  ars tecnica  october 29 2015  republicans outraged over nasa earth science programs that reagan began  
+  www.cubesinspace.com retrieved july 1 2017  nasa s climate page climate.nasa.gov 
+ nasa july 19 2016  2016 climate trends continue to break records  
+ jason samenow  washington post  july 23 2016  trump adviser proposes dismantling nasa climate research  
+   pdf  nasa retrieved october 1 2011  rogers simon  february 1 2010   theguardian.com retrieved on august 26 2013  launius roger d  division of space history national air and space museum smithsonian institution    pdf  nasa retrieved february 13 2013   hayden planetarium march 7 2012 retrieved december 4 2012   hayden planetarium march 7 2012 retrieved december 4 2012  clark stephen  december 14 2014   spaceflight now retrieved december 15 2014   the aerospace corporation july 31 2013 retrieved january 7 2014    pdf  u.s energy information administration february 9 2016 u.s petroleum and other liquids
+  retrieved july 4 2015   nasa july 16 2009 retrieved january 20 2015   nasa august 1 2011 retrieved june 19 2014  shiga david  september 28 2007   newscientist retrieved february 2 2011  goto t  nakata y  morita s  2003   anesthesiology 98  1  12    archived from  on august 11 2011 retrieved september 15 2010  michael k ewert  2006    pdf  nasa archived from   pdf  on may 27 2008 retrieved april 28 2008   nasa.gov 
+
+external links
+
+listen to this article  
+
+
+
+
+
+
+
+
+
+
+
+this audio file was created from a revision of the article  nasa  dated september 1 2005 and does not reflect subsequent edits to the article  
+
+
+
+
+
+general
+
+
+
+
+ and 
+
+ and 
+ on 
+ on 
+ on  
+ on 
+
+
+ in the 
+
+
+
+
+
+ historic technical reports from nasa and other federal agencies
+  
+ at 
+ at 
+
+further reading
+
+ on 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

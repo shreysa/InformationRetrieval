@@ -1,0 +1,116 @@
+
+
+
+
+a summary of the path of the thermohaline circulation blue paths represent deep-water currents while red paths represent surface currents 
+
+
+
+
+
+
+thermohaline circulation
+
+
+thermohaline circulation  thc  is a part of the large-scale  that is driven by global  created by surface heat and freshwater  the adjective thermohaline derives from  referring to  andhaline referring to  factors which together determine the driven surface currents  such as the   travel  from the equatorial  cooling en route and eventually sinking at high   forming   this dense water then flows into the  while the bulk of it  in the  the oldest waters  with a transit time of around 1000 years  upwell in the north pacific extensive mixing therefore takes place between the ocean basins reducing differences between them and making the earth s oceans a global system on their journey the water masses transport both energy  in the form of heat  and matter  solids dissolved substances and gases  around the globe as such the state of the circulation has a large impact on the  of the earth the thermohaline circulation is sometimes called the ocean conveyor belt the great ocean conveyor or the global conveyor belt on occasion it is used to refer to the  overturning circulation  often abbreviated as moc  the term moc is more accurate and well defined as it is difficult to separate the part of the circulation which is driven by temperature and  alone as opposed to other factors such as the wind and  moreover temperature and salinity gradients can also lead to circulation effects that are not included in the moc itself 
+
+
+contents
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+overview 
+
+
+
+
+the global conveyor belt on a continuous-ocean map
+
+
+the movement of surface currents pushed by the wind is fairly intuitive for example the wind easily produces ripples on the surface of a pond thus the deep oceandevoid of windwas assumed to be perfectly static by early oceanographers however modern instrumentation shows that current velocities in deep water masses can be significant  although much less than surface speeds  in general ocean water velocities range from fractions of centimeters per second  in the depth of the oceans  to sometimes more than 1m s in surface currents like the  and  in the deep ocean the predominant driving force is differences in  caused by salinity and temperature variations  increasing salinity and lowering the temperature of a fluid both increase its density  there is often confusion over the components of the circulation that are wind and density driven note that ocean currents due to  are also significant in many places  most prominent in relatively shallow coastal areas tidal currents can also be significant in the deep ocean there they are currently thought to facilitate mixing processes especially diapycnal mixing the density of ocean water is not globally homogeneous but varies significantly and discretely sharply defined boundaries exist between  which form at the surface and subsequently maintain their own identity within the ocean but these sharp boundaries are not to be imagined spatially but rather in a t-s-diagram  where water masses are distinguished they position themselves above or below each other according to their  which depends on both temperature and salinity warm seawater expands and is thus less dense than cooler seawater saltier water is denser than fresher water because the dissolved salts fill interstices between water molecules resulting in more mass per unit volume lighter  float over denser ones  just as a piece of wood or ice will float on water see   this is known as  stable stratification  as opposed to unstable stratification  see bruunt-visl frequency  where denser waters are located over less dense waters  see  or deep convection needed for water mass formation  when dense water masses are first formed they are not stably stratified so they seek to locate themselves in the correct vertical position according to their density this motion is called convection it orders the stratification by gravitation driven by the density gradients this sets up the main driving force behind deep ocean currents like the deep western boundary current  dwbc  the thermohaline circulation is mainly driven by the formation of deep water masses in the  and the  caused by differences in temperature and salinity of the water the great quantities of dense water sinking at high latitudes must be offset by equal quantities of water rising elsewhere note that cold water in polar zones sink relatively rapidly over a small area while warm water in temperate and tropical zones rise more gradually across a much larger area it then slowly returns poleward near the surface to repeat the cycle the continual diffuse upwelling of deep water maintains the existence of the permanent thermocline found everywhere at low and mid-latitudes this model was described by henry stommel and arnold b arons in 1960 and is known as the stommel-arons box model for the moc this slow upward movement is approximated to be about 1 centimeter  0.5 inch  per day over most of the ocean if this rise were to stop downward movement of heat would cause the  to descend and would reduce its steepness formation of deep water masses 
+the dense water masses that sink into the deep basins are formed in quite specific areas of the  and the  in the north atlantic seawater at the surface of the ocean is intensely cooled by the wind and low ambient air temperatures wind moving over the water also produces a great deal of evaporation leading to a decrease in temperature called  related to latent heat evaporation removes only water molecules resulting in an increase in the salinity of the seawater left behind and thus an increase in the density of the water mass along with the decrease in temperature in the  evaporative cooling is predominant and the sinking water mass the   nadw  fills the basin and spills southwards through crevasses in the  that connect   and  which are known as the greenland-scotland-ridge it then flows very slowly into the deep  of the atlantic always in a southerly direction flow from the  basin into the pacific however is blocked by the narrow shallows of the  
+
+
+
+diagram showing relation between temperature and salinity for sea water density maximum and sea water freezing temperature 
+
+in the  strong  blowing from the antarctic continent onto the ice shelves will blow the newly formed  away opening  along the coast the ocean no longer protected by sea ice suffers a brutal and strong cooling  see   meanwhile sea ice starts reforming so the surface waters also get saltier hence very dense in fact the formation of sea ice contributes to an increase in surface seawater salinity  saltier  is left behind as the sea ice forms around it  pure water preferentially being frozen  increasing salinity lowers the freezing point of seawater so cold liquid brine is formed in inclusions within a honeycomb of ice the brine progressively melts the ice just beneath it eventually dripping out of the ice matrix and sinking this process is known as  the resulting   aabw  sinks and flows north and east but is so dense it actually underflows the nadw aabw formed in the  will mainly fill the atlantic and indian basins whereas the aabw formed in the  will flow towards the pacific ocean the dense water masses formed by these processes flow downhill at the bottom of the ocean like a stream within the surrounding less dense fluid and fill up the basins of the polar seas just as river valleys direct streams and rivers on the continents the bottom topography constrains the deep and bottom water masses note that unlike fresh water  does not have a density maximum at 4c but gets denser as it cools all the way to its freezing point of approximately 1.8c this freezing point is however a function of salinity and pressure and thus1.8c is not a general freezing temperature for sea water  see diagram to the right  movement of deep water masses 
+formation and movement of the deep water masses at the north atlantic ocean creates sinking water masses that fill the basin and flows very slowly into the deep abyssal plains of the atlantic this high-latitude cooling and the low-latitude heating drives the movement of the deep water in a polar southward flow the deep water flows through the  basin around  where it is split into two routes  one into the  and one past  into the pacific at the indian ocean some of the cold and salty water from the atlanticdrawn by the flow of warmer and fresher upper ocean water from the tropical pacificcauses a vertical exchange of dense sinking water with lighter water above it is known as overturning in the pacific ocean the rest of the cold and salty water from the atlantic undergoes haline forcing and becomes warmer and fresher more quickly the out-flowing undersea of cold and salty water makes the sea level of the atlantic slightly lower than the pacific and salinity or halinity of water at the atlantic higher than the pacific this generates a large but slow flow of warmer and fresher upper ocean water from the tropical pacific to the  through the  to replace the cold and salty  this is also known as  haline forcing   net high latitude freshwater gain and low latitude evaporation  this warmer fresher water from the pacific flows up through the  to  where it cools off and undergoes  and sinks to the ocean floor providing a continuous thermohaline circulation hence a recent and popular name for the thermohaline circulation emphasizing the vertical nature and pole-to-pole character of this kind of ocean circulation is the meridional overturning circulation quantitative estimation 
+direct estimates of the strength of the thermohaline circulation have been made at 26.5n in the north atlantic since 2004 by the uk-us rapid programme by combining direct estimates of ocean transport using current meters and subsea cable measurements with estimates of the  from temperature and salinity measurements the rapid programme provides continuous full-depth basinwide estimates of the thermohaline circulation or more accurately the meridional overturning circulation the deep water masses that participate in the moc have chemical temperature and isotopic ratio signatures and can be traced their flow rate calculated and their age determined these include  ratios gulf stream 
+main article  
+
+
+
+
+ s map of the 
+
+
+the  together with its northern extension towards europe the  is a powerful warm and swift   that originates at the tip of  and follows the eastern coastlines of the  and  before crossing the atlantic ocean the process of  causes the gulf stream to be a northward accelerating current off the east coast of  at about  it splits in two with the northern stream crossing to  and the southern stream recirculating off  the gulf stream influences the climate of the east coast of north america from florida to newfoundland and the west coast of  although there has been recent debate there is consensus that the climate of  and  is warmer than it would otherwise be due to the  one of the branches from the tail of the gulf stream it is part of the  its presence has led to the development of strong  of all types both within the  and within the  the gulf stream is also a significant potential source of  generation upwelling 
+main article  
+all these dense water masses sinking into the ocean basins displace the older deep water masses that were made less dense by ocean mixing to maintain a balance water must be rising elsewhere however because this thermohaline upwelling is so widespread and diffuse its speeds are very slow even compared to the movement of the bottom water masses it is therefore difficult to measure where upwelling occurs using current speeds given all the other wind-driven processes going on in the surface ocean deep waters have their own chemical signature formed from the breakdown of particulate matter falling into them over the course of their long journey at depth a number of scientists have tried to use these tracers to infer where the upwelling occurs  using box models has asserted that the bulk of deep upwelling occurs in the north pacific using as evidence the high values of silicon found in these waters other investigators have not found such clear evidence computer models of ocean circulation increasingly place most of the deep upwelling in the southern ocean associated with the strong winds in the open latitudes between south america and antarctica while this picture is consistent with the global observational synthesis of william schmitz at woods hole and with low observed values of diffusion not all observational syntheses agree recent papers by  at the  and bernadette sloyan and stephen rintoul in australia suggest that a significant amount of dense deep water must be transformed to light water somewhere north of the southern ocean effects on global climate 
+the thermohaline circulation plays an important role in supplying heat to the polar regions and thus in regulating the amount of sea ice in these regions although poleward heat transport outside the tropics is considerably larger in the atmosphere than in the ocean changes in the thermohaline circulation are thought to have significant impacts on the earth s  insofar as the thermohaline circulation governs the rate at which deep waters are exposed to the surface it may also play an important role in the concentration of carbon dioxide in the atmosphere while it is often stated that the thermohaline circulation is the primary reason that western europe is so temperate it has been suggested that this is largely incorrect and that europe is warm mostly because it lies downwind of an ocean basin and because of the effect of  bringing warm air north from the  however the underlying assumptions of this particular analysis have likewise been challenged large influxes of low-density meltwater from  and deglaciation in  are thought to have led to a shifting of deep water formation and subsidence in the extreme north atlantic and caused the climate period in europe known as the  shutdown of thermohaline circulation 
+main article  
+see also   and 
+in 2005 british researchers noticed that the net flow of the northern gulf stream had decreased by about 30 since 1957 coincidentally scientists at woods hole had been measuring the freshening of the north atlantic as earth becomes warmer their findings suggested that precipitation increases in the high northern latitudes and polar ice melts as a consequence by flooding the northern seas with lots of extra fresh water global warming could in theory divert the gulf stream waters that usually flow northward past the british isles and norway and cause them to instead circulate toward the equator if this were to happen europe s climate would be seriously impacted downturn of amoc   has been tied to extreme regional  in 2013 an unexpected significant weakening of the thc led to  the main cause of the inactivity was caused by a continuation of the spring pattern across the atlantic basin see also 
+
+  amo   in regard to  sea surface temperature 
+
+
+
+
+
+
+
+
+references 
+
+
+ rahmstorf s  2003    pdf  nature 421  6924  699       lappo ss  1984   on reason of the northward heat advection across the equator in the south pacific and atlantic ocean  study of ocean and atmosphere interaction processes moscow department of gidrometeoizdat  in mandarin  1259  the global ocean conveyor belt is a constantly moving system of deep-ocean circulation driven by temperature and salinity  
+ primeau f  2005   characterizing transport between the surface mixed layer and the ocean interior with a forward and adjoint global ocean transport model  journal of physical oceanography 35  4  54564      wunsch c  2002   what is the thermohaline circulation  science 298  5596  117981     wyrtki k  1961   the thermohaline circulation in relation to the general circulation in the oceans  deep-sea research 8  1  3964      schmidt g 2005  
+ eden carsten  2012  ocean dynamics springer p.177   stommel h   arons a b  1960  on the abyssal circulation of the world ocean  i stationary planetary flow patterns on a sphere deep sea research  1953  6 140-154  united nations environment programme   grid-arendal 2006  potential impact of climate change
+   national environmental satellite data and information service  2009    3 may 2010 at the   retrieved 6 may 2009
+ hennessy  1858   richard taylor and william francis retrieved 6 january 2009   nasa retrieved 10 september 2008  the institute for environmental research   eductation  retrieved on 28 july 2010  jeremy elton jacquot  retrieved 21 september 2008
+ marshall john  speer kevin  26 february 2012   closure of the meridional overturning circulation through southern ocean upwelling  nature geoscience 5  3  171180      trenberth k  caron j  2001   estimates of meridional atmosphere and ocean heat transports  journal of climate 14  16  343343      seager,r 2006  american scientist
+ rhines and hakkinen 2003  asof newsletter
+ broecker ws  2006   was the younger dryas triggered by a flood  science 312  5777  11468     garrison tom  2009  oceanography  an invitation to marine science  7th ed  cengage learning p.582   bryden h.l  h.r longworth  s.a cunningham  2005   slowing of the atlantic meridional overturning circulation at 25 n  nature 438  7068  655657       curry r  c mauritzen  2005   dilution of the northern north atlantic in recent decades  science 308  17721774       jianjun yin  stephen griffies  25 march 2015   clivar 
+
+other sources 
+
+apel jr  1987  principles of ocean physics academic press  gnanadesikan a  r d slater  p s swathi  g k vallis  2005   the energetics of ocean heat transport  journal of climate 18  14  260416     knauss ja  1996  introduction to physical oceanography prentice hall      grid-arendal 2006 rahmstorf s  2006    pdf  in elias s a encyclopedia of quaternary sciences elsevier science  
+external links 
+
+
+thor fp7 projects  investigates on the topic  thermohaline overturning at risk  and the predictability of changes of the thc thor is financed by the 7th framework programme of the european commission 
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,804 @@
+
+the space shuttle was a partially    system operated by the u.s   nasa  as part of the  its official program name was space transportation system  sts  taken from a 1969 plan for  of which it was the only item funded for development the first of four orbital test flights occurred in 1981 leading to operational flights beginning in 1982 five complete shuttle systems were built and used on a total of 135 missions from 1981 to 2011 launched from the   ksc  in florida operational missions launched numerous satellites interplanetary probes and the   hst  conducted science experiments in orbit  and participated in construction and servicing of the  the shuttle fleet s total mission time was 1322 days 19 hours 21 minutes and 23 seconds shuttle components included the   ov  a pair of recoverable   srbs  and the expendable   et  containing  and  the shuttle was  like a conventional rocket with the two srbs operating in parallel with the ov s three  which were fueled from the et the srbs were jettisoned before the vehicle reached orbit and the et was jettisoned just before  which used the orbiter s two   oms  engines at the conclusion of the mission the orbiter fired its oms to de-orbit and  the orbiter then  as a  to a runway landing usually to the  at  florida or  in  california after landing at edwards the orbiter was flown back to the ksc on the  a specially modified version of the  the first orbiter  was built in 1976 used in  and had no orbital capability four fully operational orbiters were initially built     and  of these two were lost in mission accidents   and  with a total of fourteen astronauts killed a fifth operational  and sixth in total  orbiter  was built in 1991 to replace challenger the space shuttle was retired from service upon the conclusion of atlantis s final flight on july 21 2011 
+
+
+contents
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+overview 
+the space shuttle was a partially reusable  vehicle capable of reaching  commissioned and operated by the us   nasa  from 1981 to 2011 it resulted from shuttle design studies conducted by nasa and the us air force in the 1960s and was first proposed for development as part of an ambitious second-generation   sts  of space vehicles to follow the  in a september 1969 report of a space task group headed by vice president  to president  nixon s post-apollo nasa budgeting withdrew support of all system components except the shuttle to which nasa applied the sts name the vehicle consisted of a  for orbit and re-entry fueled by expendable liquid hydrogen and liquid oxygen tanks with reusable strap-on solid booster rockets the  of four orbital test flights occurred in 1981 leading to operational flights beginning in 1982 all launched from the  florida the system was retired from service in 2011 after 135 missions with atlantis making the final launch of the three-decade shuttle program on july 8 2011 the program ended after atlantis landed at the kennedy space center on july 21 2011 major missions included launching numerous satellites and interplanetary probes conducting space science experiments and servicing and construction of space stations the first  vehicle named  was built for the initial  phase and lacked engines heat shielding and other equipment necessary for orbital flight a total of five operational orbiters were built and of these two were destroyed in accidents it was used for orbital space missions by nasa the  the  japan and germany the united states funded shuttle development and operations except for the spacelab modules used on  and sponsored by germany  was partially funded by japan 
+
+
+
+sts-129 ready for launch
+
+
+
+
+
+
+shuttle approach and landing test crews 1976
+
+
+
+
+
+
+early concept for a space shuttle refueling a space tug 1970
+
+
+at launch it consisted of the  stack  including the dark orange   et   for the first two launches the tank was painted white  two white slender   srbs  and the  which contained the  and payload some payloads were launched into higher orbits with either of two different upper stages developed for the sts  single-stage  or two-stage   the space shuttle was stacked in the  and the stack mounted on a mobile launch platform held down by four  on each srb which were detonated at launch the shuttle stack launched vertically like a conventional rocket it lifted off under the power of its two srbs and three  which were fueled by liquid hydrogen and liquid oxygen from the et the space shuttle had a two-stage ascent the srbs provided additional thrust during liftoff and first-stage flight about two minutes after liftoff frangible nuts were fired releasing the srbs which then parachuted into the ocean to be retrieved by  for refurbishment and reuse the orbiter and et continued to ascend on an increasingly horizontal flight path under power from its main engines upon reaching 17,500mph  7.8km s  necessary for low earth orbit the main engines were shut down the et attached by two frangible nuts was then jettisoned to burn up in the atmosphere after jettisoning the external tank the   oms  engines were used to adjust the orbit the orbiter carried  and payloads such as satellites or space station parts into low earth orbit the earth s upper atmosphere or  usually five to seven crew members rode in the orbiter two crew members the commander and pilot were sufficient for a minimal flight as in the first four  test  flights sts-1 through sts-4 the typical payload capacity was about 50,045 pounds  22,700kg  but could be increased depending on the choice of launch configuration the orbiter carried its payload in a large cargo bay with doors that opened along the length of its top a feature which made the space shuttle unique among spacecraft this feature made possible the deployment of large satellites such as the  and also the capture and return of large payloads back to earth when the orbiter s space mission was complete it fired its oms thrusters to drop out of orbit and re-enter the lower atmosphere during descent the orbiter passed through different layers of the atmosphere and decelerated from  speed primarily by  in the lower atmosphere and landing phase it was more like a  but with   rcs  thrusters andcontrolled hydraulically actuated flight surfaces controlling its descent it landed on a long runway as a conventional aircraft the aerodynamic shape was a compromise between the demands of radically different speeds and air pressures during re-entry hypersonic flight and subsonic atmospheric flight as a result the orbiter had a relatively high  at low altitudes and it transitioned during re-entry from using rcs thrusters at very high altitudes to flight surfaces in the lower atmosphere early history 
+further information   and 
+
+
+
+
+president nixon  right  with   in january 1972 three months before congress approved funding for the shuttle program
+
+
+
+
+
+
+vision for a spacelab mission with various equipment in the shuttle bay
+
+
+
+
+
+
+vision for space station freedom with an sts orbiter docked
+
+
+the formal design of what became the space shuttle began with the  phase a  contract design studies issued in the late 1960s conceptualization  before the  of the 1960s one of the places the concept of a spacecraft returning from space to a horizontal landing originated was within  in 1954 in the form of an  research experiment later named the  the naca proposal was submitted by  in 1958 the x-15 concept further developed into proposal to launch an x-15 into space and another   proposal named  as well as variety of aerospace plane concepts and studies  was selected to pilot both the x-15 and the x-20 though the x-20 was not built another spaceplane similar to the x-20 was built several years later and delivered to nasa in january 1966 called the   hl  indicated  horizontal landing  in the mid-1960s the  conducted classified  on next-generation space transportation systems and concluded that semi-reusable designs were the cheapest choice it proposed a development program with an immediate start on a  classi  vehicle with expendable boosters followed by slower development of a  classii  semi-reusable design and possible  classiii  fully reusable design later in 1967  held a one-day symposium at nasa headquarters to study the options eighty people attended and presented a wide variety of designs including earlier us air force designs such as the x-20 dyna-soar in 1968 nasa officially began work on what was then known as the integrated launch and re-entry vehicle  ilrv  at the same time nasa held a separate space shuttle main engine  ssme  competition nasa offices in  and  jointly issued a   rfp  for ilrv studies to design a spacecraft that could deliver a payload to orbit but also re-enter the atmosphere and fly back to earth for example one of the responses was for a two-stage design featuring a large booster and a small orbiter called the  one of several phase a shuttle designs after the aforementioned  phase a  studies b c and d phases progressively evaluated in-depth designs up to 1972 in the final design the bottom stage consisted of recoverable solid rocket boosters and the top stage used an expendable external tank in 1969 president  decided to  with space shuttle development a series of development programs and analysis refined the basic design prior to full development and testing in august 1973 the  proved that an unpowered spaceplane could re-enter earth s atmosphere for a horizontal landing across the atlantic european ministers met in belgium in 1973 to authorize western europe s manned orbital project and its main contribution to space shuttlethe  program spacelab would provide a multidisciplinary orbital space laboratory and additional space equipment for the shuttle description 
+
+
+
+
+sts-1 on the launch pad december 1980
+
+
+the space shuttle was the first operational orbital spacecraft designed for  it carried different payloads to low earth orbit provided crew rotation and supplies for the   iss  and performed satellite servicing and repair the orbiter could also recover satellites and other payloads from orbit and return them to earth each shuttle was designed for a projected lifespan of 100 launches or ten years of operational life although this was later extended the person in charge of designing the sts was  who had also overseen the   and  spacecraft designs the crucial factor in the size and shape of the shuttle orbiter was the requirement that it be able to accommodate the largest planned commercial and military satellites and have over 1,000 mile cross-range recovery range to meet the requirement for classified usaf missions for a once-around abort from a launch to a  the militarily specified 1,085nmi  2,009km  1,249mi  cross range requirement was one of the primary reasons for the shuttle s large wings compared to modern commercial designs with very minimal control surfaces and glide capability factors involved in opting for solid rockets and an expendable fuel tank included the desire of the pentagon to obtain a high-capacity payload vehicle for satellite deployment and the desire of the nixon administration to reduce the costs of  by developing a spacecraft with reusable components each space shuttle was a  composed of three main assemblies  the reusable ov the expendable et and the two reusable srbs only the ov entered orbit shortly after the tank and boosters are jettisoned the vehicle was launched vertically like a conventional rocket and the orbiter glided to a horizontal landing like an airplane after which it was refurbished for reuse the srbs parachuted to splashdown in the ocean where they were towed back to shore and refurbished for later shuttle missions 
+
+
+
+discovery rockets into orbit seen here just after solid rocket booster  srb  separation
+
+
+
+
+
+
+tail-end of an orbiter showing various nozzles during an orbital maneuver with iss
+
+
+five operational ovs were built  columbia  ov-102    ov-099  discovery  ov-103  atlantis  ov-104  and endeavour  ov-105  a mock-up  currently stands at the entrance to the astronaut hall of fame an additional craft   ov-101  was built for atmospheric testing gliding and landing  it was originally intended to be outfitted for orbital operations after the test program but it was found more economical to upgrade the structural test article sta-099 into orbiter challenger  ov-099  challenger  73 seconds after launch in 1986 and endeavour was built as a replacement from structural spare components building endeavour cost about us 1.7billion  over texas during re-entry in 2003 a space shuttle launch cost around  450million  has estimated that the  cost about us 170billion  2008 dollars  through early 2008  the average cost per flight was about us 1.5billion two missions were paid for by germany spacelab  and   d for deutschland  with a payload control center in  d1 was the first time that control of a manned sts mission payload was not in u.s hands at times the orbiter itself was referred to as the space shuttle this was not technically correct as the space shuttle was the combination of the orbiter the external tank and the two solid rocket boosters these components once assembled in the  originally built to assemble the apollo saturn v rocket were commonly referred to as the  stack  responsibility for the shuttle components was spread among multiple nasa field centers the kennedy space center was responsible for launch landing and turnaround operations for equatorial orbits  the only orbit profile actually used in the program  the us air force at the  was responsible for launch landing and turnaround operations for polar orbits  though this was never used  the  served as the central point for all shuttle operations the  was responsible for the main engines external tank and solid rocket boosters the  handled main engine testing and the  managed the global tracking network orbiter vehicle 
+main article  
+
+
+
+
+
+shuttle launch profiles from left to right      and  
+
+
+the orbiter resembled a conventional aircraft with double swept 81 at the inner leading edge and 45 at the outer leading edge its vertical stabilizer s leading edge was swept back at a 50 angle the four  mounted at the trailing edge of the wings and the  speed brake attached at the trailing edge of the stabilizer with the body flap controlled the orbiter during descent and landing the orbiter s 60-foot  18mlong payload bay comprising most of the  could accommodate cylindrical payloads up to 15 feet  4.6m  in diameter information declassified in 2011 showed that these measurements were chosen specifically to accommodate the  spy satellite operated by the  two mostly-symmetrical lengthwise payload bay doors hinged on either side of the bay comprised its entire top payloads were generally loaded horizontally into the bay while the orbiter was standing upright on the launch pad and unloaded vertically in the near-weightless orbital environment by the orbiter s robotic   under astronaut control  eva astronauts or under the payloads  own power  as for satellites attached to a rocket  upper stage  for deployment 
+three space shuttle main engines  ssmes  were mounted on the orbiter s aft fuselage in a triangular pattern the engine nozzles could  10.5 degrees up and down and 8.5 degrees from side to side during ascent to change the direction of their thrust to steer the shuttle the orbiter structure was made primarily from   although the engine structure was made primarily from  alloy the operational orbiters built were ov-102 columbia ov-099 challenger ov-103 discovery ov-104 atlantis and ov-105 endeavour 
+
+
+
+
+
+
+ transported by a    sca  1998  nasa 
+
+
+
+
+
+
+
+
+
+space shuttle endeavour being transported by a shuttle carrier aircraft
+
+
+
+
+
+
+
+
+
+an overhead view of atlantis as it sits atop the   mlp  before  two tail service masts  tsms  to either side of the orbiter s tail provide umbilical connections for propellant loading and electrical power 
+
+
+
+
+
+
+
+
+water is released onto the mobile launcher platform on  at the start of a sound suppression system test in 2004 during launch 350,000 us gallons  1,300,000l  of water are poured onto the pad in 41 seconds 
+
+
+
+external tank 
+main article  
+
+
+
+
+an external tank floats away from the orbiter 
+
+
+
+
+
+interior of an external tank
+
+
+the main function of the space shuttle external tank was to supply the liquid oxygen and hydrogen fuel to the main engines it was also the backbone of the launch vehicle providing attachment points for the two solid rocket boosters and the orbiter the external tank was the only part of the shuttle system that was not reused although the external tanks were always discarded it would have been possible to take them into orbit and re-use them  such as a  for incorporation into a space station  solid rocket boosters 
+main article  
+two solid rocket boosters  srbs  each provided 12,500kn  2,800,000lbf  of thrust at liftoff which was 83 of the total thrust at liftoff the srbs were jettisoned two minutes after launch at a height of about 46km  150,000ft  and then deployed parachutes and landed in the ocean to be recovered the srb cases were made of steel about inch  13mm  thick the solid rocket boosters were re-used many times  the casing used in  engine testing in 2009 consisted of motor cases that had been flown collectively on 48 shuttle missions including sts-1 astronauts who have flown on multiple spacecraft report that shuttle delivers a rougher ride than apollo or soyuz the additional vibration is caused by the solid rocket boosters as solid fuel does not burn as evenly as liquid fuel the vibration dampens down after the solid rocket boosters have been jettisoned 
+
+
+
+
+
+
+two srb on the crawler prior to mating with the shuttle
+
+
+
+
+
+
+
+
+
+srb sections filled with solid propellant being assembled
+
+
+
+
+
+
+
+
+
+orbiter and the external tank flanked by the two solid rocket boosters
+
+
+
+
+orbiter add-ons 
+the orbiter could be used in conjunction with a variety of add-ons depending on the mission this included orbital laboratories     boosters for launching payloads farther into space     and other functions such as provided by   or   rms  an upper stage called   orbital science corp tos-21  was also used once with the orbiter other types of systems and racks were part of the modular spacelab system pallets igloo ips etc which also supported special missions such as  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ius deploying with 
+
+
+
+
+
+
+
+
+
+ with satellite
+
+
+
+
+
+
+
+
+
+ being installed
+
+
+
+
+
+
+
+
+
+ in orbit
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+spacelab 
+main article  
+
+
+
+
+european astronauts prepare for their spacelab mission 1984
+
+
+
+
+
+
+interior of spacelab lm2
+
+
+a major component of the space shuttle program was spacelab primarily contributed by a consortium of european countries and operated in conjunction with the united states and international partners supported by a modular system of pressurized modules pallets and systems spacelab missions executed on multidisciplinary science orbital logistics and international cooperation over 29 missions flew on subjects ranging from astronomy microgravity radar and life sciences to name a few spacelab hardware also supported missions such as hubble  hst  servicing and space station resupply sts-2 and sts-3 provided testing and the first full mission was spacelab-1   launched on november 28 1983 spacelab formally began in 1973 after a meeting in brussels belgium by european heads of state within the decade spacelab went into orbit and provided europe and the united states with an orbital workshop and hardware system international cooperation science and exploration were realized on spacelab flight systems 
+the shuttle was one of the earliest craft to use a computerized  digital  this means no mechanical or hydraulic linkages connected the pilot s control stick to the control surfaces or reaction control system thrusters the control algorithm which used a classical   pid  approach was developed and maintained by   the shuttle s  digital  was composed of 4 control systems each addressing a different mission phase  ascent descent on-orbit and aborts  honeywell is also credited with the design and implementation of the shuttle s nose wheel steering control algorithm that allowed the orbiter to safely land at kennedy space center s shuttle runway 
+a concern with using digital fly-by-wire systems on the shuttle was reliability considerable research went into the shuttle computer system the shuttle used five identical redundant ibm 32-bit general purpose computers  gpcs  model  constituting a type of  four computers ran specialized software called the primary avionics software system  pass  a fifth backup computer ran separate software called the backup flight system  bfs  collectively they were called the data processing system  dps  
+
+
+
+simulation of sslv at mach 2.46 and 66,000ft  20,000m  the surface of the vehicle is colored by the pressure coefficient and the gray contours represent the density of the surrounding air as calculated using the  software package 
+
+the design goal of the shuttle s dps was fail-operational fail-safe reliability after a single failure the shuttle could still continue the mission after two failures it could still land safely the four general-purpose computers operated essentially in lockstep checking each other if one computer provided a different result than the other three  i.e the one computer failed  the three functioning computers  voted  it out of the system this isolated it from vehicle control if a second computer of the three remaining failed the two functioning computers voted it out a very unlikely failure mode would have been where two of the computers produced result a and two produced result b  a two-two split  in this unlikely case one group of two was to be picked at random the backup flight system  bfs  was separately developed software running on the fifth computer used only if the entire four-computer primary system failed the bfs was created because although the four primary computers were hardware redundant they all ran the same software so a generic software problem could crash all of them embedded system  software was developed under totally different conditions from public commercial software  the number of code lines was tiny compared to a public commercial software product changes were only made infrequently and with extensive testing and many programming and test personnel worked on the small amount of computer code however in theory it could have still failed and the bfs existed for that contingency while the bfs could run in parallel with pass the bfs never engaged to take over control from pass during any shuttle mission the software for the shuttle computers was written in a high-level language called  somewhat similar to  it is specifically designed for a  embedded system environment the ibm ap-101 computers originally had about 424 kilobytes of  each the cpu could process about 400,000 instructions per second they had no hard disk drive and loaded software from magnetic tape cartridges in 1990 the original computers were replaced with an upgraded model ap-101s which had about 2.5 times the memory capacity  about 1 megabyte  and three times the processor speed  about 1.2million instructions per second  the memory was changed from magnetic core to semiconductor with battery backup early shuttle missions starting in november 1983 took along the  arguably one of the first laptop computers the grid was given the name spoc for shuttle portable onboard computer use on the shuttle required both hardware and software modifications which were incorporated into later versions of the commercial product it was used to monitor and display the shuttle s ground position path of the next two orbits show where the shuttle had line of sight communications with ground stations and determine points for location-specific observations of the earth the compass sold poorly as it cost at least us 8000 but it offered unmatched performance for its weight and size nasa was one of its main customers during its service life the shuttle s control system never experienced a failure many of the lessons learned have been used to design today s high speed control algorithms orbiter markings and insignia 
+
+
+
+
+payload specialist  who flew aboard columbia in 1991 displays the modernist blackburn   danne nasa logotype known as  the worm  
+
+the prototype orbiter enterprise originally had a  on the upper surface of the left wing and the letters  usa  in black on the right wing the name  enterprise  was painted in black on the payload bay doors just above the hinge and behind the crew module  on the aft end of the payload bay doors was the  in gray underneath the rear of the payload bay doors on the side of the fuselage just above the wing is the text  united states  in black with a flag of the united states ahead of it the first operational orbiter columbia originally had the same markings as enterprise although the letters  usa  on the right wing were slightly larger and spaced farther apart columbia also had black markings which enterprise lacked on its forward rcs module around the cockpit windows and on its vertical stabilizer and had distinctive black  chines  on the forward part of its upper wing surfaces which none of the other orbiters had challenger established a modified marking scheme for the shuttle fleet that was matched by discovery atlantis and endeavour the letters  usa  in black above an american flag were displayed on the left wing with the nasa  worm  logotype in gray centered above the name of the orbiter in black on the right wing the name of the orbiter was inscribed not on the payload bay doors but on the forward fuselage just below and behind the cockpit windows this would make the name visible when the shuttle was photographed in orbit with the doors open in 1983 enterprise had its wing markings changed to match challenger and the nasa  worm  logotype on the aft end of the payload bay doors was changed from gray to black some black markings were added to the nose cockpit windows and vertical tail to more closely resemble the flight vehicles but the name  enterprise  remained on the payload bay doors as there was never any need to open them columbia had its name moved to the forward fuselage to match the other flight vehicles after  during the 198688 hiatus when the shuttle fleet was grounded following the  but retained its original wing markings until its last overhaul  after   and its unique black wing  chines  for the remainder of its operational life beginning in 1998 the flight vehicles  markings were modified to incorporate the nasa  the  worm  logotype which the agency had phased out was removed from the payload bay doors and the  meatball  insignia was added aft of the  united states  text on the lower aft fuselage the  meatball  insignia was also displayed on the left wing with the american flag above the orbiter s name left-justified rather than centered on the right wing the three surviving flight vehicles discovery atlantis and endeavour still bear these markings as museum displays enterprise became the property of the  in 1985 and was no longer under nasa s control when these changes were made hence the prototype orbiter still has its 1983 markings and still has its name on the payload bay doors upgrades 
+
+
+
+
+ was the first shuttle to fly with a  on   composite image 
+
+
+the space shuttle was initially developed in the 1970s but received many upgrades and modifications afterward to improve performance reliability and safety internally the shuttle remained largely similar to the original design with the exception of the improved avionics computers in addition to the computer upgrades the original analog primary flight instruments were replaced with modern full-color flat-panel display screens called a  which is similar to those of contemporary airliners to facilitate construction of iss the internal airlocks of each orbiter except columbia were replaced with external docking systems to allow for a greater amount of cargo to be stored on the shuttle s mid-deck during station resupply missions the space shuttle main engines  ssmes  had several improvements to enhance reliability and power this explains phrases such as  main engines throttling up to 104 percent  this did not mean the engines were being run over a safe limit the 100 percent figure was the original specified power level during the lengthy development program  determined the engine was capable of safe reliable operation at 104 percent of the originally specified thrust nasa could have rescaled the output number saying in essence 104 percent is now 100 percent to clarify this would have required revising much previous documentation and software so the 104 percent number was retained ssme upgrades were denoted as  block numbers  such as block i block ii and block iia the upgrades improved engine reliability maintainability and performance the 109 thrust level was finally reached in flight hardware with the block ii engines in 2001 the normal maximum throttle was 104 percent with 106 percent or 109 percent used for mission aborts for the first two missions sts-1 and  the external tank was painted white to protect the insulation that covers much of the tank but improvements and testing showed that it was not required the weight saved by not painting the tank resulted in an increase in payload capability to orbit additional weight was saved by removing some of the internal  stringers  in the hydrogen tank that proved unnecessary the resulting  light-weight external tank  was first flown on sts-6  and used on the majority of shuttle missions  saw the first flight of the  super light-weight external tank  this version of the tank was made of the 2195 aluminum-lithium alloy it weighed 3.4 metric tons  7,500lb  less than the last run of lightweight tanks allowing the shuttle to deliver heavy elements to iss s high inclination orbit as the shuttle was always operated with a crew each of these improvements was first flown on operational mission flights the solid rocket boosters underwent improvements as well design engineers added a third  seal to the joints between the segments after the 1986 space shuttle challenger disaster 
+
+
+
+the three nozzles of the  with the two   oms  pods and the  above 
+
+several other srb improvements were planned to improve performance and safety but never came to be these culminated in the considerably simpler lower cost probably safer and better-performing  these rockets entered production in the early to mid-1990s to support the space station but were later canceled to save money after the expenditure of  2.2billion the loss of the asrb program resulted in the development of the super lightweight external tank  slwt  which provided some of the increased payload capability while not providing any of the safety improvements in addition the us air force developed their own much lighter single-piece srb design using a filament-wound system but this too was canceled  was delayed in 1995 when  bored holes in the foam insulation of discovery s external tank since then nasa has installed commercial plastic owl decoys and inflatable owl balloons which had to be removed prior to launch the delicate nature of the foam insulation had been the cause of damage to the  the tile heat shield and heat wrap of the orbiter nasa remained confident that this damage while it was the primary cause of the space shuttle columbia disaster on february 1 2003 would not jeopardize the completion of the international space station  iss  in the projected time allotted a cargo-only unmanned variant of the shuttle was variously proposed and rejected since the 1980s it was called the  and would have traded re-usability for cargo capability with large potential savings from reusing technology developed for the space shuttle another proposal was to convert the payload bay into a passenger area with versions ranging from 30 to 74 seats three days in orbit and cost us 1.5million per seat on the first four shuttle missions astronauts wore modified us air force high-altitude full-pressure suits which included a full-pressure helmet during ascent and descent from the fifth flight  until the loss of challenger one-piece light blue  flight suits and partial-pressure helmets were worn a less-bulky partial-pressure version of the high-altitude pressure suits with a helmet was reinstated when shuttle flights resumed in 1988 the launch-entry suit ended its service life in late 1995 and was replaced by the full-pressure   aces  which resembled the  in design but retained the orange color of the launch-entry suit to extend the duration that orbiters could stay docked at the iss the   sspts  was installed the sspts allowed these orbiters to use power provided by the iss to preserve their consumables the sspts was first used successfully on  specifications 
+
+
+
+
+
+space shuttle orbiter illustration
+
+
+
+
+
+
+space shuttle drawing
+
+
+
+
+
+
+space shuttle wing cutaway
+
+
+
+
+
+
+space shuttle orbiter and   drawn to scale  
+
+
+
+
+
+atlantis and endeavour on launch pads this particular occasion is due to the final hubble servicing mission where the international space station is unreachable which necessitates having a shuttle on standby for a possible rescue mission 
+
+orbiter  for endeavour ov-105 
+
+length  122.17ft  37.237m 
+wingspan  78.06ft  23.79m 
+height  56.58ft  17.25m 
+empty weight  172,000lb  78,000kg 
+gross liftoff weight  orbiter only  240,000lb  110,000kg 
+maximum landing weight  230,000lb  100,000kg 
+payload to landing  return payload  32,000lb  14,400kg 
+maximum payload  55,250lb  25,060kg 
+payload to leo  204 kilometers  110nmi    28.5   27,500 kilograms  60,600lb 
+payload to leo  407 kilometers  220nmi    51.6 to iss  16,050 kilograms  35,380lb 
+payload to gto  8,390lb  3,806kg 
+payload to polar orbit  28,000lb  12,700kg 
+note launch payloads modified by external tank  et  choice  et lwt or slwt 
+payload bay dimensions  15 by 59ft  4.6 by 18m   diameter by length 
+operational altitude  100 to 520  190 to 960km  120 to 600mi 
+speed  7,743m s  27,870km h  17,320mph 
+crossrange  1,085nmi  2,009km  1,249mi 
+main stage  ssme with external tank 
+
+engines  three rocketdyne block ii ssmes each with a sea level  of 393,800lbf  1,752kn  at 104 power
+thrust  at liftoff sea level 104 power all 3 engines  1,181,400lbf  5,255kn 
+  455 seconds  4.46km s 
+burn time  480 s
+fuel  liquid hydrogen liquid oxygen
+
+
+
+
+engines  2 oms engines
+thrust  53.4kn  12,000lbf  combined total vacuum thrust
+specific impulse  316 seconds  3.10km s 
+burn time  150250 s typical burn  1250 s deorbit burn
+fuel  mmh n2o4
+
+
+crew  varies 
+
+
+
+the earliest shuttle flights had the minimum crew of two  many later missions a crew of five by program end typically seven people would fly     several  one of whom  ms-2  acted as the  starting with sts-9 in 1983  on two occasions eight astronauts have flown     eleven people could be accommodated in an emergency mission  see   
+
+
+external tank  for slwt 
+
+length  46.9m  153.8ft 
+diameter  8.4m  27.6ft 
+propellant volume  2,025m3  534,900u.s.gal 
+empty weight  26,535kg  58,500lb 
+gross liftoff weight  for tank  756,000kg  1,670,000lb 
+
+solid rocket boosters
+
+length  45.46m  149ft 
+diameter  3.71m  12.2ft 
+empty weight  each  68,000kg  150,000lb 
+gross liftoff weight  each  571,000kg  1,260,000lb 
+thrust  at liftoff sea level each  12,500  2,800,000 
+specific impulse  269 seconds  2.64km s 
+burn time  124 s
+
+system stack
+
+height  56m  180ft 
+gross liftoff weight  2,000,000kg  4,400,000lb 
+total liftoff thrust  30,160kn  6,780,000lbf 
+
+mission profile 
+
+
+
+
+sts  profile
+
+
+
+
+
+
+shuttle launch of atlantis at sunset in 2001 the sun is behind the camera and the plume s shadow intersects the  across the sky 
+
+launch preparation 
+see also   and 
+all space shuttle missions were launched from kennedy space center  ksc  the  included but were not limited to  precipitation temperatures cloud cover lightning forecast wind and humidity the shuttle was not launched under conditions where it could have been struck by  aircraft are often struck by lightning with no adverse effects because the electricity of the strike is dissipated through its conductive structure and the aircraft is not electrically  like most jet airliners the shuttle was mainly constructed of conductive aluminum which would normally shield and protect the internal systems however upon liftoff the shuttle sent out a long exhaust plume as it ascended and this plume could have triggered lightning by providing a current path to ground the nasa anvil rule for a shuttle launch stated that an  could not appear within a distance of 10  the shuttle launch weather officer monitored conditions until the final decision to scrub a launch was announced in addition the weather conditions had to be acceptable at one of the transatlantic abort landing sites  one of several   to launch as well as the solid rocket booster recovery area while the shuttle might have safely endured a lightning strike a  so for safety  chose not to launch the shuttle if lightning was possible  npr8715.5  historically the shuttle was not launched if its flight would run from december to january  a year-end rollover or yero  its flight software designed in the 1970s was not designed for this and would require the orbiter s computers be reset through a change of year which could cause a glitch while in orbit in 2007 nasa engineers devised a solution so shuttle flights could cross the year-end boundary launch 
+after the final hold in the countdown at t-minus 9 minutes the shuttle went through its final preparations for launch and the countdown was automatically controlled by the ground launch sequencer  gls  software at the launch control center which stopped the count if it sensed a critical problem with any of the shuttle s onboard systems the gls handed off the count to the shuttle s on-board computers at t minus 31 seconds in a process called auto sequence start at t-minus 16 seconds the massive sound suppression system  sps  began to drench the   mlp  and srb trenches with 300,000 us gallons  1,100m3  of water to protect the orbiter from damage by  energy and rocket exhaust reflected from the flame trench and mlp during lift off at t-minus 10 seconds hydrogen igniters were activated under each engine bell to quell the stagnant gas inside the cones before ignition failure to burn these gases could trip the onboard sensors and create the possibility of an overpressure and explosion of the vehicle during the firing phase the main engine turbopumps also began charging the combustion chambers with liquid hydrogen and liquid oxygen at this time the computers reciprocated this action by allowing the redundant computer systems to begin the firing phase 
+
+
+
+space shuttle main engine ignition
+
+
+the three main engines  ssmes  started at t-6.6 seconds the main engines ignited sequentially via the shuttle s general purpose computers  gpcs  at 120 millisecond intervals all three ssmes were required to reach 90 rated thrust within three seconds otherwise the onboard computers would initiate an  if all three engines indicated nominal performance by t-3 seconds they were commanded to gimbal to liftoff configuration and the command would be issued to arm the srbs for ignition at t-0 between t-6.6 seconds and t-3 seconds while the ssmes were firing but the srbs were still bolted to the pad the offset thrust caused the entire launch stack  boosters tank and orbiter  to pitch down 650mm  25.5in  measured at the tip of the external tank the three second delay after confirmation of ssme operation was to allow the stack to return to nearly vertical at t-0 seconds the 8  holding the srbs to the pad were detonated the ssmes were commanded to 100 throttle and the srbs were ignited by t 0.23 seconds the srbs built up enough thrust for liftoff to commence and reached maximum chamber pressure by t 0.6 seconds the  s  assumed control of the flight once the srbs had cleared the launch tower shortly after liftoff the shuttle s main engines were throttled up to 104.5 and the vehicle began a combined roll pitch and yaw maneuver that placed it onto the correct heading  azimuth  for the planned orbital inclination and in a heads down attitude with wings level the shuttle flew upside down during the ascent phase this orientation allowed a trim angle of attack that was favorable for aerodynamic loads during the region of high dynamic pressure resulting in a net positive load factor as well as providing the flight crew with a view of the horizon as a visual reference the vehicle climbed in a progressively flattening arc accelerating as the mass of the srbs and main tank decreased to achieve low orbit requires much more horizontal than vertical acceleration this was not visually obvious since the vehicle rose vertically and was out of sight for most of the horizontal acceleration the near circular orbital velocity at the 380 kilometers  236mi  altitude of the international space station is 27,650km h  17,180mph  roughly equivalent to mach 23 at sea level as the international space station orbits at an inclination of 51.6 degrees missions going there must set orbital inclination to the same value in order to rendezvous with the station around 30 seconds into ascent the ssmes were throttled downusually to 72 though this variedto reduce the maximum aerodynamic forces acting on the shuttle at a point called  additionally the propellant grain design of the srbs caused their thrust to drop by about 30 by 50 seconds into ascent once the orbiter s guidance verified that max q would be within shuttle structural limits the main engines were throttled back up to 104.5  this throttling down and back up was called the  thrust bucket  to maximize performance the throttle level and timing of the thrust bucket was shaped to bring the shuttle as close to aerodynamic limits as possible 
+
+
+
+solid rocket booster  srb  separation during sts-1 the white external tank pictured was used on sts-1 and sts-2 
+
+at around t 126 seconds  released the srbs and small separation rockets pushed them laterally away from the vehicle the srbs parachuted back to the ocean to be reused the shuttle then began accelerating to orbit on the main engines acceleration at this point would typically fall to9  and the vehicle would take on a somewhat nose-up angle to the horizon it used the main engines to gain and then maintain altitude while it accelerated horizontally towards orbit at about five and three-quarter minutes into ascent the orbiter s direct communication links with the ground began to fade at which point it rolled heads up to reroute its communication links to the  system at about seven and a half minutes into ascent the mass of the vehicle was low enough that the engines had to be throttled back to limit vehicle acceleration to 3 g  29.4m s or 96.5ft s equivalent to accelerating from zero to 105.9km h  65.8mph  in a second  the shuttle would maintain this acceleration for the next minute and main engine cut-off  meco  occurred at about eight and a half minutes after launch the main engines were shut down before complete depletion of propellant as running dry would have destroyed the engines the oxygen supply was terminated before the hydrogen supply as the ssmes reacted unfavorably to other shutdown modes  liquid oxygen has a tendency to react violently and supports combustion when it encounters hot engine metal  a few seconds after meco the external tank was released by firing pyrotechnic fasteners at this point the shuttle and external tank were on a slightly suborbital trajectory coasting up towards  once at apogee about half an hour after meco the shuttle s   oms  engines were fired to raise its  and achieve orbit while the external tank fell back into the atmosphere and burned up over the indian ocean or the pacific ocean depending on launch profile the sealing action of the tank plumbing and lack of pressure relief systems on the external tank helped it break up in the lower atmosphere after the foam burned away during re-entry the heat caused a pressure buildup in the remaining liquid oxygen and hydrogen until the tank exploded this ensured that any pieces that fell back to earth were small 
+ascent tracking
+
+
+
+
+
+contraves-goerz kineto tracking mount used to image the space shuttle during launch ascent
+
+
+
+
+
+
+multicolored  of the  launch
+
+
+the shuttle was monitored throughout its ascent for short range tracking  10 seconds before liftoff through 57 seconds after  medium range  7 seconds before liftoff through 110 seconds after  and long range  7 seconds before liftoff through 165 seconds after  short range cameras included 22 16mm cameras on the mobile launch platform and 8 16mm on the fixed service structure 4 high speed fixed cameras located on the perimeter of the launch complex plus an additional 42 fixed cameras with 16mm motion picture film medium range cameras included remotely operated tracking cameras at the launch complex plus 6 sites along the immediate coast north and south of the launch pad each with 800mm lens and high speed cameras running 100 frames per second these cameras ran for only 410 seconds due to limitations in the amount of film available long range cameras included those mounted on the external tank srbs and orbiter itself which streamed live video back to the ground providing valuable information about any debris falling during ascent long range tracking cameras with 400-inch film and 200-inch video lenses were operated by a photographer at  as well as 9 other sites from 38 miles north at the  to 23 miles south to   pafb  and additional mobile optical tracking camera was stationed on merritt island during launches a total of 10 hd cameras were used both for ascent information for engineers and broadcast feeds to networks such as  and  the number of cameras significantly increased and numerous existing cameras were upgraded at the recommendation of the  to provide better information about the debris during launch debris was also tracked using a pair of  continuous pulse doppler x-band radars one on board the srb recovery ship  positioned north east of the launch pad and on a ship positioned south of the launch pad additionally during the first 2 flights following the loss of columbia and her crew a pair of nasa  reconnaissance aircraft equipped with hd video and infrared flew at 60,000 feet  18,000m  to provide additional views of the launch ascent kennedy space center also invested nearly  3million in improvements to the digital video analysis systems in support of debris tracking in orbit 
+once in orbit the shuttle usually flew at an altitude of 320km  170nmi  and occasionally as high as 650km  350nmi  in the 1980s and 1990s many flights involved space science missions on the nasa esa spacelab or launching various types of satellites and science probes by the 1990s and 2000s the focus shifted more to servicing the space station with fewer satellite launches most missions involved staying in orbit several days to two weeks although longer missions were possible with the  add-on or when attached to a space station 
+re-entry and landing 
+
+almost the entire space shuttle re-entry procedure except for lowering the landing gear and deploying the air data probes was normally performed under computer control however the re-entry could be flown entirely manually if an emergency arose the approach and landing phase could be controlled by the autopilot but was usually hand flown 
+
+
+
+glowing plasma trail from space shuttle atlantis re-entry as seen from the space station
+
+
+the vehicle began re-entry by firing the orbital maneuvering system engines while flying upside down backside first in the opposite direction to orbital motion for approximately three minutes which reduced the shuttle s velocity by about 200mph  322km h  the resultant slowing of the shuttle lowered its orbital  down into the upper atmosphere the shuttle then flipped over by pushing its nose down  which was actually  up  relative to the earth because it was flying upside down  this oms firing was done roughly halfway around the globe from the landing site the vehicle started encountering more significant air density in the lower thermosphere at about 400,000ft  120km  at around  25 8,200m s  30,000km h  18,000mph  the vehicle was controlled by a combination of  and control surfaces to fly at a 40-degree nose-up attitude producing high drag not only to slow it down to landing speed but also to reduce reentry heating as the vehicle encountered progressively denser air it began a gradual transition from spacecraft to aircraft in a straight line its 40-degree nose-up attitude would cause the descent angle to flatten-out or even rise the vehicle therefore performed a series of four steep s-shaped banking turns each lasting several minutes at up to 70 degrees of bank while still maintaining the 40-degree angle of attack in this way it dissipated speed sideways rather than upwards this occurred during the  hottest  phase of re-entry when the heat-shield glowed red and the g-forces were at their highest by the end of the last turn the transition to aircraft was almost complete the vehicle leveled its wings lowered its nose into a shallow dive and began its approach to the landing site 
+
+
+
+
+
+
+ of the outside of the shuttle as it heats up to over 1,500c during re-entry 
+
+
+
+
+
+
+
+
+a space shuttle model undergoes a  test in 1975 this test is simulating the ionized gasses that surround a shuttle as it reenters the atmosphere 
+
+
+
+
+
+
+
+
+a computer simulation of high velocity air flow around the space shuttle during re-entry 
+
+
+
+the orbiter s maximum   varies considerably with speed ranging from 1 1 at  speeds 2 1 at supersonic speeds and reaching 4.5 1 at subsonic speeds during approach and landing in the lower atmosphere the orbiter flies much like a conventional glider except for a much higher descent rate over 50m s  180km h  110mph  or 9,800 fpm at approximately mach 3 two air data probes located on the left and right sides of the orbiter s forward lower fuselage are deployed to sense air pressure related to the vehicle s movement in the atmosphere 
+final approach and landing phase
+
+
+
+
+
+
+ space shuttle endeavour landing video 2009
+
+
+when the approach and landing phase began the orbiter was at a 3,000m  9,800ft  altitude 12km  7.5mi  from the runway the pilots applied aerodynamic braking to help slow down the vehicle the orbiter s speed was reduced from 682 to 346km h  424 to 215mph  approximately at touch-down  compared to 260km h or 160mph for a jet airliner  the landing gear was deployed while the orbiter was flying at 430km h  270mph  to assist the speed brakes a 12m  39ft  drag chute was deployed either after main gear or nose gear touchdown  depending on selected chute deploy mode  at about 343km h  213mph  the chute was jettisoned once the orbiter slowed to 110km h  68.4mph  
+
+
+
+
+
+
+ touches down for the final time at the end of  
+
+
+
+
+
+
+
+
+ brake chute deploys after touching down
+
+
+
+
+ media related to  at wikimedia commons
+post-landing processing 
+main article  
+
+
+
+
+discovery after landing on earth for crew disembarkment
+
+
+after landing the vehicle stayed on the runway for several hours for the orbiter to cool teams at the front and rear of the orbiter tested for presence of     and   fuels and by-products of the reaction control system and the orbiter s three   if hydrogen was detected an emergency would be declared the orbiter powered down and teams would evacuate the area a convoy of 25 specially designed vehicles and 150 trained engineers and technicians approached the orbiter purge and vent lines were attached to remove toxic gases from fuel lines and the cargo bay about 4560 minutes after landing a  boarded the orbiter for initial medical checks of the crew before disembarking once the crew left the orbiter responsibility for the vehicle was handed from the johnson space center back to the kennedy space center if the mission ended at  in california  in new mexico or any of the  the orbiter was loaded atop the  a modified 747 for transport back to the kennedy space center landing at the  once at the shuttle landing facility the orbiter was then towed 2 miles  3.2km  along a tow-way and access roads normally used by tour buses and ksc employees to the  where it began a months-long preparation process for the next mission landing sites 
+see also  
+
+
+
+
+ deploys the  before landing 
+
+nasa preferred space shuttle landings to be at  if weather conditions made landing there unfavorable the shuttle could delay its landing until conditions are favorable touch down at edwards air force base california or use one of the multiple alternate landing sites around the world a landing at any site other than kennedy space center meant that after touchdown the shuttle must be mated to the shuttle carrier aircraft and returned to  space shuttle columbia   once landed at the    this was viewed as a last resort as nasa scientists believed that the sand could potentially damage the shuttle s exterior there were many  that were never used risk contributors 
+
+
+
+
+discovery at iss in 2011  sts-133 
+
+
+an example of technical risk analysis for a sts mission is spra iteration 3.1 top risk contributors for sts-133 
+
+micro-meteoroid orbital debris  mmod  strikes
+space shuttle main engine  ssmeinduced or ssme catastrophic failure
+ascent debris strikes to tps leading to locv on orbit or entry
+crew error during entry
+rsrm-induced rsrm catastrophic failure  rsrm are the rocket motors of the srbs 
+copv failure  copv are tanks inside the orbiter that hold gas at high pressure 
+
+an internal nasa risk assessment study  conducted by the shuttle program safety and mission assurance office at   released in late 2010 or early 2011 concluded that the agency had seriously underestimated the level of risk involved in operating the shuttle the report assessed that there was a 1 in 9 chance of a catastrophic disaster during the first nine flights of the shuttle but that safety improvements had later improved the risk ratio to 1 in 90 fleet history 
+main article  
+space shuttle major events 
+below is a list of major events in the space shuttle orbiter fleet 
+
+
+
+ov-101 enterprise takes flight for the first time over  edwards california in 1977 as part of the shuttle program s   alt  
+
+
+
+
+
+ lifts off from launch pad 39a at nasa s  in florida on the  mission to the  at 2 20pm edt on may 14 2010 this was one of the last scheduled flights for atlantis before it was retired 
+
+
+sources  nasa launch manifest nasa space shuttle archive
+shuttle disasters 
+main articles   and 
+on january 28 1986 challenger disintegrated 73 seconds after launch due to the failure of the right srb killing all seven astronauts on board the disaster was caused by low-temperature impairment of an o-ring a mission critical seal used between segments of the srb casing failure of the o-ring allowed hot combustion gases to escape from between the booster sections and burn through the adjacent  causing it to explode repeated warnings from design engineers voicing concerns about the lack of evidence of the o-rings  safety when the temperature was below 53f  12c  had been ignored by nasa managers on february 1 2003 columbia disintegrated during re-entry killing its crew of seven because of damage to the  leading edge of the wing caused during launch ground control engineers had made three separate requests for high-resolution images taken by the department of defense that would have provided an understanding of the extent of the damage while nasa s chief   tps  engineer requested that astronauts on board columbia be allowed to leave the vehicle to inspect the damage nasa managers intervened to stop the department of defense s assistance and refused the request for the spacewalk and thus the feasibility of scenarios for astronaut repair or rescue by atlantis were not considered by nasa management at the time retirement 
+main article  
+
+
+
+
+atlantis orbiter s final welcome home 2011
+
+
+nasa retired the space shuttle in 2011 after 30 years of service the shuttle was originally conceived of and presented to the public as a  space truck  which would among other things be used to build a united states space station in  in the early 1990s when the us space station evolved into the international space station project which suffered from long delays and design changes before it could be completed the retirement of the space shuttle was delayed several times until 2011 serving at least 15 years longer than originally planned discovery was the first of nasa s three remaining operational space shuttles to be retired the final space shuttle mission was originally scheduled for late 2010 but the program was later extended to july 2011 when michael suffredini of the iss program said that one additional trip was needed in 2011 to deliver parts to the international space station the shuttle s final mission consisted of just four astronautschristopher ferguson  commander  douglas hurley  pilot  sandra magnus  mission specialist 1  and rex walheim  mission specialist 2  they conducted the 135th and last space shuttle mission on board atlantis which launched on july 8 2011 and landed safely at the kennedy space center on july 21 2011 at 5 57 am edt  09 57 utc  distribution of orbiters and other hardware 
+
+
+
+
+ commemorative patch
+
+
+nasa announced it would transfer orbiters to education institutions or museums at the conclusion of the space shuttle program each museum or institution is responsible for covering the us 28.8 million cost of preparing and transporting each vehicle for display twenty museums from across the country submitted proposals for receiving one of the retired orbiters nasa also made  tiles available to schools and universities for less than us 25 each about 7,000 tiles were available on a  basis limited to one per institution orbiters on display 
+on april 12 2011 nasa announced selection of locations for the remaining shuttle orbiters 
+
+atlantis is on display at the  near  florida it was delivered to the visitor complex on november 2 2012 discovery was delivered to the  of the  s  in  near washington d.c on april 19 2012 on april 17 2012 discovery was flown atop a 747 shuttle carrier aircraft escorted by a nasa t-38 talon chase aircraft in a final farewell flight the 747 and discovery flew over washington d.c and the metropolitan area around 10am and arrived at dulles around 11am the flyover and landing were widely covered on national news media 
+
+
+
+
+endeavour at los angeles international airport
+
+
+
+endeavour was delivered to the  in los angeles california on october 14 2012 it arrived at los angeles international airport on september 21 2012 concluding a two-day cross country journey atop the shuttle carrier aircraft after stops at ellington field in houston biggs army airfield in el paso and the dryden flight research facility at edwards air force base california enterprise  atmospheric test orbiter  was on display at the national air and space museum s udvar-hazy center but was moved to new york city s  in mid-2012 
+in august 2011 the   oig  published a  review of nasa s selection of display locations for the space shuttle orbiters  the review had four main findings 
+
+ nasa s decisions regarding orbiter placement were the result of an agency-created process that emphasized above all other considerations locating the orbiters in places where the most people would have the opportunity to view them 
+ the team made several errors during its evaluation process including one that would have resulted in a numerical  tie  among the intrepid the kennedy visitor complex and the national museum of the u.s air force  air force museum  in dayton ohio 
+there is  no evidence that the teams recommendation or the administrator s decision were tainted by political influence or any other improper consideration 
+ some of the choices nasa made during the selection process  specifically its decision to manage aspects of the selection as if it were a competitive procurement and to delay announcement of its placement decisions until april 2011  more than 2 years after it first solicited information from interested entities may intensify challenges to the agency and the selectees as they work to complete the process of placing the orbiters in their new homes 
+
+the nasa oig had three recommendations saying nasa should 
+
+ expeditiously review recipients  financial logistical and curatorial display plans to ensure they are feasible and consistent with the agency s educational goals and processing and delivery schedules 
+ ensure that recipient payments are closely coordinated with processing schedules do not impede nasa s ability to efficiently prepare the orbiters for museum display and provide sufficient funds in advance of the work to be performed  and 
+ work closely with the recipient organizations to minimize the possibility of delays in the delivery schedule that could increase the agency s costs or impact other nasa missions and priorities 
+
+in september 2011 the ceo and two board members of seattle s museum of flight met with nasa administrator  pointing out  significant errors in deciding where to put its four retiring space shuttles  the errors alleged include inaccurate information on museum of flight s attendance and international visitor statistics as well as the readiness of the  s exhibit site orbiter replicas on display 
+
+ formerly known as explorer is a full-scale high-fidelity replica of the space shuttle it was built by  in  installed at  in 1993 and moved to  in 2012 it was built using schematics blueprints and archival documents provided by nasa and by shuttle contractors such as  while many of the features on the replica are simulated some parts including the landing gear s  tires have been used in the  the model is on display mounted on top of the original   nasa 905  outside of the visitors  center   honorary   ov-098  is a space shuttle test simulator made of  and  constructed by  in 1977 as an unnamed  it was purchased in the early 1980s by the america-japan society inc which had it refurbished named it and placed it on display in the great space shuttle exhibition in  the mockup was later returned to the united states and placed on permanent display at the  in  in may 1988 
+hardware on display 
+flight and mid-deck training hardware will be taken from the  and will go to the national air and space museum and the  the full fuselage mockup which includes the payload bay and aft section but no wings is to go to the  in seattle mission simulation and training facility s fixed simulator will go to the  in chicago and the motion simulator will go to the  aerospace engineering department in college station texas other simulators used in shuttle astronaut training will go to the  in starke florida and the  in hampton virginia space shuttle successors and legacy 
+main article  
+
+
+
+
+sts conducted numerous experiments in space such as this ionization experiment
+
+
+
+
+
+
+sprint cameras tested by the shuttle may be used on iss and other missions
+
+
+until another us manned spacecraft is ready crews will travel to and from the international space station  iss  exclusively aboard the russian  spacecraft a planned successor to sts was the  shuttle ii  during the 1980s and 1990s and later the constellation program during the 20042010 period csts was a proposal to continue to operate sts commercially after nasa in september 2011  announced the selection of the design for the new  that is planned to launch the  and other hardware to missions beyond low earth-orbit the  program began in 2006 with the purpose of creating commercially operated unmanned cargo vehicles to service the iss the   ccdev  program was started in 2010 to create commercially operated manned spacecraft capable of delivering at least four crew members to the iss to stay docked for 180 days and then return them back to earth these spacecraft were to become operational in the 2010s in popular culture 
+space shuttles have been features of fiction and nonfiction from children s movies to documentaries early examples include the 1979  film  the 1982  videogame space shuttle  a journey into space  1982  and  s 1981 novel  in the 1986 film  atlantis accidentally launches into space with a group of  participants as its crew a space shuttle named intrepid is featured in the 1989 film  the 1998 film  portrays a combined crew of offshore oil rig workers and us military staff who pilot two modified shuttles to avert the destruction of earth by an asteroid retired american test pilots visit a russian satellite in the 2000  adventure film  in the 2003 film the core the endeavour s landing is disrupted by the earth s magnetic core and its crew is selected to pilot a vehicle designed to restart the core the 2004 bollywood movie  where a space shuttle is used to launch a special rainfall monitoring satellite was filmed at kennedy space center in the year after the  that had taken the life of indian-american astronaut  on television the 1996 drama  portrays the lives of a group of nasa astronauts as they prepare for and fly shuttle missions  was a short-lived sci-fi series that features the crew of a space shuttle as the last survivors of a disaster that destroys earth the 19972007 sci-fi series stargate sg-1 has a shuttle rescue written into an episode the 2013 film  features the fictional space shuttle explorer during sts-157 whose crew are killed or left stranded after it is destroyed by a shower of high speed orbital debris the 2017  film  features a hybrid between the  and a space shuttle named  the bat space shuttle  by  it s clearly based on the  set 3367  space shuttle  but is black and weapon-equipped 
+
+
+
+a united states space shuttle stamp
+
+
+the space shuttle has also been the subject of toys and models  for example a large  space shuttle model was constructed by visitors at kennedy space center and smaller models have been sold commercially as a standard  legoland  set a 1980 pinball machine space shuttle was produced by  and a 1984 pinball machine  was produced by  and features a plastic space shuttle model among other artwork of astronauts on the play field the space shuttle also appears in a number of  and  such as     and  several  were modeled after the space shuttle us postage commemorations 
+main article  
+the u.s postal service has released several postage issues that depict the space shuttle the first such stamps were issued in 1981 and are on display at the  see also
+
+
+
+
+
+
+
+
+ coverage of launches and missions
+
+
+
+
+physics
+
+  19571963 
+ soviet space shuttle program  19741992 
+
+
+direct a vehicle proposed as an alternative for 
+
+  19751992 
+  cancelled 
+
+  cancelled 
+  cancelled 
+ spacecraft
+
+ of lockheed martin  19952001 
+ indian space shuttle program  2016 
+
+
+references 
+
+
+ john m logsdon  july 6 2011   mit technology review p.2 retrieved 18 february 2015 ^    book review  final countdown  nasa and the end of the space shuttle program by pat duggins american scientist 2008 vol 96 no 5 p 32 ^   carl bialik  july 9 2011   wsj.com retrieved 18 february 2015  nasa  2011   nasa retrieved june 28 2011  mike wall  5 july 2011   space.com retrieved 18 february 2015  pielke jr roger  radford byerly  7 april 2011    472  7341  38      ^   woodcock gordon r  1986   orbit book co  retrieved 2012-04-17 the present limit on shuttle landing payload is 14400 kg  32000 lb  this value applies to payloads intended for landing   nasa.gov  kyle ed  spacelaunchreport.com retrieved july 2014 check date values in   access-date   
+^   launius roger d   malik tarik  july 21 2011   space.com retrieved june 18 2014  bewley elizabeth  september 30 2011   florida today retrieved 2011-09-30  rockets typically are used just once although some partly reusable versions have been developed such as the space shuttle  jim abrams  september 29 2010   associated press archived from  on july 7 2011 retrieved september 30 2010  vartabedian ralph  hennigan w.j  july 9 2011   los angeles times    elizabeth howell  october 9 2012   retrieved october 28 2014 ^     google books quote   this is the first time that control of a payload aboard a manned shuttle has been in non-us hands the d1 mission has been financed entirely by the german ministry of research and technology  
+^     may 27 2010 at the    january 4 2011 at the    damec.dk archived from  on july 19 2011 retrieved december 4 2010   retrieved december 4 2010 
+   google books retrieved december 4 2010 
+   google books quote  sm 22  the 1st german-funded spacelab mission made use of the esa space sled 
+   march 11 2007 at the  nasa august 16 1999 quote  orange spray-on foam used to insulate 
+  nasa december 28 2004 quote   the gigantic rust-colored external tank 
+ nasa  2008    pdf  nasa retrieved july 15 2012
+  nasa ksc retrieved 2011-06-30   loren data corp retrieved july 15 2012 ^    nasa august 2327 1982 ^   nasa  1995   nasa archived from  on october 13 2007 retrieved october 25 2007   pmview.com june 15 2001 retrieved 2012-04-17 ^      esa.int retrieved 2012-04-17   nasa   nasa.gov retrieved august 7 2010   book review  final countdown  nasa and the end of the space shuttle program by pat duggins american scientist 2008 vol 96 no 5 p 32   european space agency retrieved 2015-11-28  dye lee  1985-10-28   los angeles times  retrieved 2015-11-28     science.ksc.nasa.gov retrieved 2012-04-17  guillemette roger  september 20 2011   yahoo  news retrieved 2012-04-17   nasa kennedy space center retrieved october 11 2009   nasa retrieved 2011-06-30    april 7 2015 at the  astronautix.com
+^     april 11 2009 at the  nasa october 2003   archived from  on june 7 2008  nasa  nasa retrieved 2011-06-30   nasa july 20 2009   the arrl letter 24  9  march 4 2005   nasa johnson space center oral history project 15 march 2010   john grunsfeld reports december 21 1999  davis lauren  july 8 2012     space.skyrocket.de september 25 1992 retrieved 2012-04-17 ^         nasa march 15 1999 retrieved february 11 2011  ferguson roscoe c  robert tate  hiram c thompson  nasa office of logic design retrieved august 27 2006  ibm   retrieved august 27 2006  the computer history museum  2006   the computer history museum archived from  on december 4 2007 retrieved october 25 2007  nasa  1985    pdf  nasa retrieved june 23 2010  ksc steven siceloff  www.nasa.gov retrieved 2017-02-03 ^   dunn marcia  january 15 2010    archived from  on january 18 2010 retrieved january 15 2010  ray justin  flying into the future   spaceflight now check date values in   access-date    external link in  website    missing or empty  url     access-date  requires  url   
+ aerospaceweb.org  2006   aerospaceweb.org retrieved october 25 2007 ^   sivolella davide  2012  to orbit and back again new york  springer p.165   encyclopedia astronautica  encyclopedia astronautica archived from  on january 18 2010  jim dumoulin  nasa retrieved august 27 2006  peter wainwright  spacefuture.com   spacefuture.com retrieved 2012-04-17 ^   jenkins dennis r  2006  space shuttle  the history of the national space transportation system voyageur press    pao.ksc.nasa.gov archived from  on may 21 2011 retrieved june 17 2009  
+^    jenkins dennis r  2002  space shuttle  the history of the national space transportation system  third ed  voyageur press    p 153 nasa june 26 1990 ^    ksc release no 39-99 nasa kennedy space center archived from  on june 26 2009 retrieved july 6 2009  weather at about.com  retrieved june 10 2008  nasa launch blog  retrieved june 10 2008  bergin chris  february 19 2007   archived from  on april 18 2008 retrieved december 22 2007    national aeronautics and space administration   march 13 2014 at the  revised august 28 2000 retrieved july 9 2006  national aeronautics and space administration  retrieved july 10 2008    pdf  nasa.gov retrieved february 2015 check date values in   access-date   
+   pdf  www.nasa.gov retrieved february 2015 check date values in   access-date   
+  spaceflightnow retrieved february 2015 check date values in   access-date   
+   pdf    nasa.gov november 22 2007 retrieved 2012-04-17  anthony r curtis editor spacetoday.org  spacetoday.org retrieved 2012-04-17  
+^     pdf  nasa public affairs office archived from   pdf  on july 21 2011 retrieved june 30 2011   nasa.gov retrieved 2012-04-17  global security  globalsecurity.org retrieved august 3 2007  us northern command  archived from  on january 13 2010 retrieved june 30 2011  chris gebhardt  nasaspaceflight.com retrieved december 14 2010  hamlin et al  pdf  nasa      february 13 2011 retrieved february 15 2011  wall mike  september 17 2011   yahoo  news retrieved 2012-04-17   nasa.gov july 27 2010 retrieved august 7 2010   nasa retrieved july 3 2010   nasa retrieved may 28 2009   nasa retrieved may 28 2009   history.nasa.gov june 6 1986 retrieved july 4 2012   history.nasa.gov june 6 1986 retrieved july 17 2009   century-of-flight.net
+   pdf  retrieved july 17 2009   nasa.gov retrieved july 17 2009  john pike  may 13 2010   globalsecurity.org retrieved august 7 2010   foxnews.com july 3 2011 retrieved july 4 2011
+  nasa retrieved july 23 2011 ^    collect space november 1 2010 retrieved july 11 2011 ^    channel 13 news december 1 2010 archived from  on july 8 2011 retrieved july 11 2011  jason townsend  april 12 2011   nasa retrieved april 12 2011  mcgeehan patrick  april 12 2011   the new york times retrieved july 11 2011 ^     pdf   special report   august 25 2011 p.26 retrieved 2011-10-05  broom jack  october 4 2011   the seattle times retrieved 2011-10-05   collectspace.com may 24 2012 retrieved may 25 2012  moeller nathan  august 15 2014   spaceflight insider retrieved august 16 2014  coppinger rob  february 3 2011   msnbc retrieved 2012-04-17  release 11-301 nasa  september 14 2011   nasa archived from  on september 21 2011 retrieved september 14 2011   c-span videolibrary september 14 2011 archived from  on february 8 2012 retrieved september 14 2011   the new york times september 14 2011 retrieved september 14 2011    press release  nasa august 18 2006 retrieved 2006-11-21  berger brian  february 1 2011   imaginova corp retrieved december 13 2011   space.com june 30 2011 retrieved december 13 2011   page 55 quote she went to the kennedy space center in florida where she helped visitors build the world s largest lego space shuttle 
+  
+
+further reading 
+
+gore rick  march 1981   when the space shuttle finally flies   vol.159 no.3 pp.316347   
+external links
+
+
+  current status of shuttle missions
+official nasa  system
+
+  many of which are on-line 
+
+non-nasa 
+
+ from boston.com  may 14 2010 
+
+ and a 
+  ger 
+   collected news and commentary at 
+ in libraries   catalog 
+swaby rachel   june 28 2011
+the short film  is available for free download at the 
+ a 1975 flight article by 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

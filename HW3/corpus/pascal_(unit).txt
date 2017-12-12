@@ -1,0 +1,53 @@
+
+the pascal  symbol  pa  is the  of  used to quantify    and  it is defined as one  per  it is named after the french   common multiple units of the pascal are the hectopascal  1hpa   100pa  which is equal to one  and the kilopascal  1kpa   1000pa  which is equal to one centibar the unit of measurement called  is defined as 101325pa and approximates to the average pressure at sea-level at the  45n   typically state  in  
+
+
+contents
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+etymology 
+the unit is named after  noted for his contributions to hydrodynamics and hydrostatics and experiments with a  the name pascal was adopted for the si unit newton per square metre  n m2  by the 14th  in 1971 definition 
+the pascal can be expressed using  or alternatively solely  as 
+
+
+
+where n is the  m is the  kg is the  and s is the  one pascal is the pressure exerted by a force of magnitude one newton perpendicularly upon an area of one square metre miscellaneous 
+the unit of measurement called  is 101325pa  101.325kpa  this value is often used as a reference pressure and specified as such in some national and international standards such as iso2787  pneumatic tools and compressors  iso2533  aerospace  and iso5024  petroleum  in contrast  recommends the use of 100 kpa as a standard pressure when reporting the properties of substances the  computer character set has dedicated symbols u 33a9  square pa and u 33aa  square kpa in the  block but these exist for backward-compatibility with some older ideographic character-sets and are therefore  uses 
+
+the pascal  pa  or kilopascal  kpa  as a unit of pressure measurement is widely used throughout the world and has largely replaced the   psi  unit except in some countries that still use the  or the  including the united states  use the gigapascal  gpa  in measuring or calculating tectonic stresses and pressures within the  medical  measures tissue stiffness non-invasively with  or  and often displays the  or  of tissue in kilopascals in  and  the pascal measures the   and  of materials in engineering use because the pascal represents a very small quantity the megapascal  mpa  is the preferred unit for these uses 
+the pascal is also equivalent to the si unit of  j m3 this applies not only to the thermodynamics of pressurised gases but also to the energy density of   and  fields in measurements of  or loudness of sound one pascal is equal to 94 decibels  the quietest sound a human can hear known as the  is 0db or 20pa  is measured at 50pa hectopascal and millibar units 
+main article  
+the units of atmospheric pressure commonly used in  were formerly the  which was close to the average air pressure on earth and the millibar since the introduction of  meteorologists generally measure pressures in hectopascals  hpa  unit equal to 100 pascals or 1 millibar exceptions include canada which use kilopascals  kpa  in many other fields of science the si is preferred which means pa with a prefix  in multiples of 1000  is preferred many countries also use the millibar or hectopascal to give aviation  in practically all other fields the kilopascal  1000 pascals  is used instead 
+
+   2006    pdf   8th ed  p.118    pdf  from the original on 2017-08-14
+   retrieved 2015-02-16  
+   18 june 2007 at the  si brochure 
+   1954 retrieved 2010-04-05  iupac.org gold book 
+   pdf  2015 retrieved 2016-02-21   mountain view ca  the unicode consortium 2015  retrieved 2016-02-21   retrieved 2015-02-16    pdf   2010 retrieved 2011-03-03   retrieved 4 december 2016   retrieved 4 december 2016  
+  retrieved 4 december 2016  
+ 
+ kingdom met office fitzroy road exeter devon ex1 3pb united  retrieved 4 december 2016  
+ canada environment  retrieved 4 december 2016 
+
+external links 
+
+
+
+
+
+
+

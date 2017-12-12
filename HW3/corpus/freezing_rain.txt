@@ -1,0 +1,95 @@
+
+freezing rain is the name given to  that falls when surface temperatures are below  unlike sleet   or  freezing rain is made entirely of liquid droplets the raindrops become  while passing through a sub-freezing layer of air hundreds of meters above the ground and then  upon impact with any surface they encounter including the ground trees electrical wires and automobiles the resulting ice called  can accumulate to a thickness of several centimeters and cover all exposed surfaces the  code for freezing rain is fzra a storm that produces a significant thickness of  from freezing rain is often referred to as an  although these storms are not particularly violent freezing rain is notorious for causing travel problems on roadways breaking tree limbs and downing  from the weight of accumulating ice downed power lines cause power outages in affected areas while accumulated ice can also pose significant overhead hazards it is also known for being extremely dangerous to aircraft since the ice can effectively  remould  the shape of the  and flight   see  
+
+
+
+contents
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+mechanism 
+
+
+
+
+temperature versus height diagram for different types of precipitation the red line shows how freezing rain forms from  through the warm layer and then into the   stage 
+
+
+freezing rain is often associated with the approach of a  when subfreezing air  temperatures at or below freezing  is trapped in the lowest levels of the atmosphere while warm air  in aloft this happens for instance when a low pressure system moves from the  valley toward the  and the  valley of  during the cold season with a strong high pressure system sitting further east this setup is known as  and is characterized by very cold and dry air at the surface within the region of high pressure the warm air from the  is often the fuel for freezing precipitation freezing rain develops when falling snow encounters a layer of warm air aloft typically around the 800   800   level causing the snow to melt and become rain as the rain continues to fall it passes through a layer of subfreezing air just above the surface and cools to a temperature below freezing  0c or 32f  if this layer of subfreezing air is sufficiently deep the raindrops may have time to freeze into   sleet  before reaching the ground however if the subfreezing layer of air at the surface is very shallow the rain drops falling through it will not have time to freeze and they will hit the ground as  rain when these supercooled drops make contact with the ground power lines tree branches aircraft or anything else below 0c  32f  a portion of the drops instantly freezes forming a thin film of ice hence freezing rain 
+observations 
+
+
+
+
+echoes at 1.5km  0.93mi  altitude at the top with strong contamination from the brightband  yellows  the vertical cut at the bottom show that this strong return is only above ground  source    
+
+surface observations by manned or automatic stations are the only direct confirmation of freezing rain one can never see directly freezing rain rain or snow on   or conventional however it is possible to estimate the area covered by freezing rain with  indirectly the intensity of the radar echoes   is proportional to the form  water or ice  of the  and its diameter in fact rain has much stronger reflective power than snow but its diameter is much smaller so the reflectivity of rain coming from melted snow is only slightly higher however in the layer where the snow is melting the wet flakes still have a large diameter and are coated with water so the returns to the radar is much stronger the presence of this  indicates that there is a warm layer above ground where snow melts this could be producing rain on the ground or the possibility of freezing rain if the temperature is below freezing this  can be located like on the image at left with a cross-section through radar data the height and slope of the brightband will give clues to the extent of the region where melting occurs then it is possible to associate this clue with surface observations and numerical models prediction to produce output such as the ones seen on television weather programs that divide radar echoes into rain mixed and snow precipitations 
+effects 
+
+
+
+
+ice storms can cause power outages due to the weight of ice on lines or overhanging tree limbs
+
+
+main article  
+at ground level 
+freezing rain often causes major power outages by forming  when the freezing rain or drizzle is light and not prolonged the ice formed is thin it usually causes only minor damage relieving trees of their dead branches etc when large quantities accumulate however it is one of the most dangerous types of winter hazard when the ice layer exceeds approximately 6.4mm  0.25in  tree limbs with branches heavily coated in ice can break off under the enormous weight and fall onto power lines windy conditions and  when present will exacerbate the damage power lines coated with ice become extremely heavy causing support poles insulators and lines to break the ice that forms on roadways makes vehicle travel dangerous unlike snow wet ice provides almost no traction and vehicles will slide even on gentle slopes because freezing rain does not hit the ground as an ice pellet  called  sleet  but still as a rain droplet it conforms to the shape of the ground or object such as a tree branch or car this makes one thick layer of  often called  glaze  
+
+
+
+thick layer of glaze broke the trees in downtown   
+
+freezing rain and glaze on a large scale is called an  effects on plants can be severe as they cannot support the weight of the ice trees may snap as they are dormant and fragile during winter weather pine trees are also victims of ice storms as their needles will catch the ice but not be able to support the weight in february 1994 a severe ice storm caused over  1 billion in damage in the southern united states primarily in mississippi tennessee alabama and western north carolina especially the appalachians one particularly severe ice storm struck eastern  and northern parts of  and  in the  
+
+
+
+glaze on a tree in la malbaie quebec
+
+
+
+
+
+
+ice on coniferous tree in   
+
+
+
+
+
+a birch tree is badly bent under a thick layer of glaze ice in   
+
+aircraft 
+freezing rain is considered to be an extreme hazard to aircraft as it causes very rapid structural icing most helicopters and small airplanes lack the necessary  equipment to fly in freezing rain of any intensity and heavy freezing rain can overwhelm even the most sophisticated deicing systems on large airplanes icing can increase an aircraft s weight but not typically enough to cause a hazard the main danger comes from the ice changing the shape of its airfoils this will reduce lift and increase drag all three factors increase stalling speed and reduce aircraft performance making it very difficult to climb or even maintain level altitude an aircraft can most easily evade freezing rain by moving into warmer air  under most conditions this would require aircraft to descend which it can usually do safely and easily even with a moderate accumulation of structural ice however freezing rain is accompanied by a  aloft meaning that aircraft actually need to climb to move into warmer air  a potentially difficult and dangerous task with even a small amount of ice accumulation for example in 1994  encountered heavy air traffic and poor weather that postponed the arrival of this flight at  s  where it was to have landed en route from  the atr-72 a twin-engine turboprop carrying 68 people entered a holding pattern 105km or 65mi southeast of o hare as the plane circled supercooled cloud droplets freezing rain or  formed a ridge of ice on the upper surface of its wings eventually causing the aircraft s autopilot to suddenly disconnect and the pilots to lose control the atr disintegrated on impact with a field below  all passengers and crew were killed see also
+
+
+
+ glossary of meteorology  retrieved on 2008-02-17  national weather service forecast office la crosse wisconsin  retrieved on 2006-12-08  university of illinois  retrieved on 2006-12-08  university of illinois  retrieved on 2007-12-16   retrieved 2015-12-30   archived from  on 2009-07-15 retrieved 2009-07-18  oblack rachelle  retrieved 2009-07-18  munroe susan  retrieved 2009-07-18   archived from  on 2009-07-15 retrieved 2009-07-18 
+
+
+external links 
+
+
+
+
+
+
+
+
+
+
+
+

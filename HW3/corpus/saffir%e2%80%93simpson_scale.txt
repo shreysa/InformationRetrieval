@@ -1,0 +1,87 @@
+ sshs  redirects here for other uses see  
+
+the saffirsimpson hurricane wind scale  sshws  formerly the saffirsimpson hurricane scale  sshs  classifies    that exceed the intensities of  and  into five categories distinguished by the intensities of their sustained  to be classified as a hurricane a  must have  of at least 74mph  33  64  119   category 1  the highest classification in the scale  consists of storms with sustained winds exceeding 156mph  70m s  136kn  251km h  the classifications can provide some indication of the potential damage and  a hurricane will cause upon  officially the saffirsimpson hurricane wind scale is used only to describe  and  east of the  other areas use  to label these storms which are called  cyclones  or   depending on the area there is some  of the sshs for not taking rain  and other important factors into consideration but sshs defenders say that part of the goal of sshs is to be straightforward and simple to understand 
+
+
+contents
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+history 
+the scale was developed in 1971 by   and meteorologist  who at the time was director of the u.s   nhc  the scale was introduced to the general public in 1973 and saw widespread use after  replaced simpson at the helm of the nhc in 1974 the initial scale was developed by saffir a  who in 1969 went on commission for the  to study low-cost housing in hurricane-prone areas while performing the study saffir realized there was no simple scale for describing the likely effects of a hurricane mirroring the utility of the  in describing earthquakes he devised a 15 scale based on  that showed expected damage to structures saffir gave the scale to the nhc and simpson added the effects of  and flooding in 2009 the nhc made moves to eliminate pressure and storm surge ranges from the categories transforming it into a pure wind scale called the saffirsimpson hurricane wind scale  experimental   the new scale became operational on may 15 2010 the scale excludes flood ranges storm surge estimations rainfall and location which means a category2 hurricane which hits a major city will likely do far more cumulative damage than a category5 hurricane that hits a rural area the agency cited various hurricanes as reasons for removing the  scientifically inaccurate  information including   2005  and   2008  which both had stronger than estimated storm surges and   2004  which had weaker than estimated storm surge since removed from the saffirsimpson hurricane wind scale storm surge predicting and modeling is now handled with the use of a computerized numerical model developed by the national weather service called    slosh  in 2012 the nhc expanded the windspeed range for category 4 by 1mph in both directions to 130156mph with corresponding changes in the other units  113136 kn 209251km h  instead of 131155mph  114135 kn 210249km h  the nhc and the  assign tropical cyclone intensities in 5 knot increments and then convert to mph and km h with a similar rounding for other reports so an intensity of 115 knots is rated category 4 but the conversion to miles per hour  132.3mph  would round down to 130mph making it appear to be a category 3 storm likewise an intensity of 135 knots  155mph and thus category 4  is 250.02km h which according to the definition used before the change would be category 5 to resolve these issues the nhc had been obliged to incorrectly report storms with wind speeds of 115 kn as 135mph and 135 kn as 245km h the change in definition allows storms of 115 kn to be correctly rounded down to 130mph and storms of 135 kn to be correctly reported as 250km h and still qualify as category 4 since the nhc had previously rounded incorrectly to keep storms in category 4 in each unit of measure the change does not affect the classification of storms from previous years the new scale became operational on may 15 2012 categories 
+the scale separates hurricanes into five different categories based on wind the u.s national hurricane center classifies hurricanes of category3 and above as major hurricanes and the joint typhoon warning center classifies typhoons of 150mph or greater  strong category 4 and category 5  as super typhoons  although all tropical cyclones can be very dangerous  most weather agencies use the definition for sustained winds recommended by the   wmo  which specifies measuring winds at a height of 33ft  10.1m  for 10minutes and then taking the average by contrast the u.s   and the  define sustained winds as average winds over a period of one minute measured at the same 33ft  10.1m  height and that is the definition used for this scale intensity of example hurricanes is from both the time of landfall and the maximum intensity the scale is roughly logarithmic in wind speed and the top wind speed for category  c   c 1 to 4 as there is no upper limit for category 5  can be expressed as 83x10^ c 15  miles per hour rounded to the nearest multiple of 5  except that after the change mentioned above category 4 is now widened by 1mph in each direction the five categories are in order of increasing intensity 
+category 1 
+
+very dangerous winds will produce some damage
+category1 storms usually cause no significant structural  to most well-constructed permanent structures  however they can topple unanchored  as well as uproot or snap weak trees poorly attached roof shingles or tiles can blow off coastal flooding and  damage are often associated with category1 storms power outages are typically widespread to extensive sometimes lasting several days even though it is the least intense type of hurricane the storm can still produce widespread damage and can be a life-threatening storm hurricanes that peaked at category1 intensity and made landfall at that intensity include    1956    1968    1972    1985    1995    2003    2004    2005    2007    2012    2013    2016    2016    2016    2017  and   2017  
+category 2 
+
+extremely dangerous winds will cause extensive damage
+storms of category2 intensity often damage roofing material  sometimes exposing the roof  and inflict damage upon poorly constructed doors and windows poorly constructed signs and piers can receive considerable damage and many trees are uprooted or snapped mobile homes whether anchored or not are typically damaged and sometimes destroyed and many  also suffer structural damage small craft in unprotected anchorages may break their  extensive to near-total power outages and scattered loss of potable water are likely possibly lasting many days hurricanes that peaked at category2 intensity and made landfall at that intensity include    1952    1954    1974    1990    1993    1993    1994    1995    1996    2003    2010    2010    2010    2012    2012  and   2014  
+category 3 
+
+devastating damage will occur
+tropical cyclones of category 3 and higher are described as  in the atlantic or eastern pacific  these storms can cause some structural damage to small residences and utility buildings particularly those of wood frame or manufactured materials with minor  failures buildings that lack a solid foundation such as mobile homes are usually destroyed andend roofs are peeled off manufactured homes usually sustain severe and irreparable damage flooding near the coast destroys smaller structures while larger structures are struck by floating debris a large number of trees are uprooted or snapped isolating many areas additionally terrain may be flooded well inland near-total to total power loss is likely for up to several weeks and water will likely also be lost or contaminated hurricanes that peaked at category3 intensity and made landfall at that intensity include    1950    1954    1955    1970    1970    1975    1975    1983    1985    1995    1996    2002    2006    2010  and   2016  
+category 4 
+
+see also   and 
+catastrophic damage will occur
+category4 hurricanes tend to produce more extensive curtainwall failures with some complete  on small residences heavy irreparable damage and near complete destruction of gas station canopies and other wide span overhang type structures are common mobile and manufactured homes are often flattened most trees except for the heartiest are uprooted or snapped isolating many areas these storms cause extensive beach erosion while terrain may be flooded far inland total and long-lived electrical and water losses are to be expected possibly for many weeks the  the deadliest natural disaster to hit the united states peaked at an intensity that corresponds to a modern-day category4 storm other examples of storms that peaked at category4 intensity and made landfall at that intensity include    1954    1959    1963    1964    1965    1979    1988    1992    1995    2001    2004    2005    2008    2008    2015  and   2017  
+category 5 
+
+see also   and 
+catastrophic damage will occur
+category5 is the highest category of the saffirsimpson scale these storms cause complete roof failure on many residences and industrial buildings and some complete building failures with small utility buildings blown over or away collapse of many wide-span roofs and walls especially those with no interior supports is common very heavy and irreparable damage to many wood frame structures and total destruction to mobile manufactured homes is prevalent only a few types of structures are capable of surviving intact and only if located at least 3 to 5 miles  5 to 8km  inland they include office condominium and apartment buildings and hotels that are of solid concrete or steel frame construction public multi-story concrete parking garages and residences that are made of either reinforced brick or   block and have  with slopes of no less than 35degrees from horizontal and no overhangs of any kind and if the windows are either made of hurricane-resistant safety glass or covered with shutters unless all of these requirements are met the absolute destruction of a structure is certain the storm s flooding causes major damage to the lower floors of all structures near the shoreline and many coastal structures can be completely flattened or washed away by the storm surge virtually all trees are uprooted or snapped and some may be debarked isolating most affected communities massive  of residential areas may be required if the hurricane threatens populated areas total and extremely long-lived power outages and water losses are to be expected possibly for up to several months historical examples of storms that made landfall at category 5 status include    1924    1928    1932    1933    1935    1955    1969    1971    1977    1979    1988    1992    2007    2007    2017  and   2017  no category 5 hurricane is known to have made landfall at that strength in the eastern pacific basin criticism 
+some scientists including  and lakshmi kantha have criticized the scale as being simplistic indicating that the scale takes into account neither the physical size of a storm nor the amount of  it produces additionally they and others point out that the saffirsimpson scale unlike the richter scale used to measure  is not continuous and is  into a small number of categories proposed replacement classifications include the hurricane intensity index which is based on the  caused by a storm s winds and the hurricane hazard index which is based on surface wind speeds the  of the storm and its  velocity both of these scales are continuous akin to the richter scale  however neither of these scales have been used by officials  category 6 
+after the series of powerful storm systems of the  a few newspaper columnists and scientists brought up the suggestion of introducing category6 and they have suggested pegging category6 to storms with winds greater than 174 or 180mph  78 or 80m s  151 or 156kn  280 or 290km h  only a few storms of this intensity have been recorded of the 33 hurricanes currently considered to have attained category 5 status in the atlantic 18 had wind speeds at 175mph  78m s  152kn  282km h  or greater and only seven had wind speeds at 180mph  80m s  160kn  290km h  or greater  the       and   of the 15 hurricanes currently considered to have attained category 5 status in the eastern pacific only five had wind speeds at 175mph  78m s  152kn  282km h  or greater      and   and only three had wind speeds at 180mph  80m s  160kn  290km h  or greater  linda rick and patricia  however most storms which would be eligible for this category were  in the western pacific most notably  in 1979 with sustained winds of 190mph  310km h  and typhoons  and  in 2013 and 2016 respectively with sustained winds of 195mph  314km h  according to  there are no reasons for a category6 on the saffirsimpson scale because it is designed to measure the potential damage of a hurricane to human-made structures simpson stated that when you get up into winds in excess of 155mph  249km h  you have enough damage if that extreme wind sustains itself for as much as six seconds on a building it s going to cause rupturing damages that are serious no matter how well it s engineered  despite his statements the counties of broward and miami-dade in florida have building codes which require critical infrastructure buildings to be able to withstand category5 winds which contradicts mr simpson s assessment of building strength see also 
+
+
+
+
+
+
+ relates wind speed to observable conditions at sea and on land
+ for tornado intensity with damage correlated to wind speeds the system was also intended for applicability in hurricanes and is utilized by engineers in hurricane damage assessment 
+
+
+ for measuring the magnitude  intensity  of any emergency
+ for storm surge predicting and modeling
+
+
+references 
+
+
+ williams jack  may 17 2005    retrieved february 25 2007  staff writer  may 9 1973   associated press archived from  on may 19 2016 retrieved december 8 2007 ^   debi iacovelli  july 2001    fort lauderdale fla retrieved september 10 2006  press writer  august 23 2001   retrieved march 20 2016 
+^         
+   july 8 2011 at the   accessed july 3 2010 ^    ker than  october 20 2005    retrieved october 20 2005    pdf  national hurricane center 2009    accessed march 9 2012  tropical cyclone weather services program  june 1 2006    pdf  national weather service retrieved november 30 2006    2004   archived from  on december 14 2005 retrieved march 24 2006 accessed through the    live science retrieved 2017-09-11    pdf  www.weather.gov crh   brown daniel  national hurricane center retrieved 19 september 2017  kantha l  january 2006    pdf   87  1  3 6     retrieved december 8 2007  kantha lakshmi  february 2008    pdf   boston   89  2  219221      benfield hazard research centre  2006   hazard   risk science review 2006  retrieved december 8 2007  bill blakemore  may 21 2006    retrieved september 10 2006  debi iacovelli and tim vasquez  1998    pdf  monthly weather log national oceanic and atmospheric administration retrieved september 19 2010  jennifer kay  september 2017    washington dc retrieved september 16 2017 
+
+external links 
+
+
+ the mariners weather log april 1999
+ the south florida sun-sentinel june 2001
+
+
+
+
+

@@ -1,0 +1,13 @@
+For Task 2, I first of all split the words by removing any "_", "-" or "/", then I just check if the word starts with rain, if it does then it is added to the list of urls to be crawled. So Rainfall, Raining and so on will be captured but Ukraine will not be captured. Other than that I have also used python library stemming-1.0.1 which just stems the keyword. Stemming is the process of reducing inflected words to their word stem, base or root form. (Definition derived from: https://en.wikipedia.org/wiki/Stemming) I have used stemming as an additional feature so in case some one enters the word raining, rained or rains the search keyword would instead be rain and the crawling would be done with rain as the search key.
+
+I have used breadth first search in order to give higher preference to links earlier in the page and links that are shallower in depth. The crawler terminates either when maximum urls visited is equal to the number of maximum urls provided(here 1000) or a depth provided(here 6) is reached. 
+
+TASK 1 when run crawled 1000 urls, reached the depth of 4 and was then terminated as the maximum number of urls were crawled.
+TASK 2 however crawled 410 urls but was terminated as it reached depth of 6.
+
+After 1 task is run the data is dumped into a folder called Data, it has a urls.txt file that has all the urls that were visited
+, a url_to_file_map.csv file that maps the urls to the file downloaded in the data folder and all the html files of the urls visited. If another task is run then the contents of the data folder are moved to data_old folder. This is additional to what was asked, this is just for my own reference and for use in future assignments(as mentioned in HW1).
+
+A run.log is also produced after the run that consists of the logs generated while the task was running.
+
+I have also used BeautifulSoup4 library for parsing HTML and Requests-2.18.1 for getting requests data.

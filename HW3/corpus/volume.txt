@@ -1,0 +1,157 @@
+for other uses see  
+
+
+
+a  can be used to measure volumes of  this cup measures volume in units of   and  
+
+volume is the  of  enclosed by a  for example the space that a substance     or   or shape occupies or contains volume is often quantified numerically using the  the  the volume of a container is generally understood to be the capacity of the container  i e the amount of fluid  gas or liquid  that the container could hold rather than the amount of space the container itself displaces three dimensional mathematical shapes are also assigned volumes volumes of some simple shapes such as regular straight-edged and circular shapes can be easily calculated using   volumes of a complicated shape can be calculated by  if a formula exists for the shape s boundary where a variance in shape and volume occurs such as those that exist between different human beings these can be calculated using three-dimensional techniques such as the  one-dimensional figures  such as   and two-dimensional shapes  such as   are assigned zero volume in the three-dimensional space the volume of a solid  whether regularly or irregularly shaped  can be determined by  displacement of liquid can also be used to determine the volume of a gas the combined volume of two substances is usually greater than the volume of one of the substances however sometimes one substance dissolves in the other and the combined volume is not  in  volume is expressed by means of the  and is an important global   in  volume is a  and is a  to  
+
+
+contents
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+units 
+
+
+
+
+volume measurements from the 1914  
+
+
+
+any unit of  gives a corresponding unit of volume  the volume of a  whose sides have the given length for example a   cm3  is the volume of a cube whose sides are one   1cm  in length in the   si  the standard unit of volume is the cubic metre  m3  the  also includes the   l  as a unit of volume where one litre is the volume of a 10-centimetre cube thus
+
+1 litre    10 cm 3   1000 cubic centimetres   0.001 cubic metres 
+so
+
+1 cubic metre   1000 litres 
+small amounts of liquid are often measured in  where
+
+1 millilitre   0.001 litres   1 cubic centimetre 
+various other traditional units of volume are also in use including the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  the  and the  related terms 
+capacity is defined by the  as  the measure applied to the content of a vessel and to liquids grain or the like which take the shape of that which holds them   the word capacity has other unrelated meanings as in e.g   capacity is not identical in meaning to volume though closely related  the capacity of a container is always the volume in its interior units of capacity are the  litre and its derived units and imperial units such as    and others units of volume are the cubes of  in si the units of volume and capacity are closely related  one litre is exactly 1 cubic decimetre the capacity of a cube with a 10cm side in other systems the conversion is not trivial  the capacity of a vehicle s fuel tank is rarely stated in cubic feet for example but in gallons  a gallon fills a volume of 0.1605 cu ft  the  of an object is defined as the ratio of the mass to the volume the inverse of density is  which is defined as volume divided by mass specific volume is a concept important in  where the  is often an important parameter of a system being studied the  in  is the volume of fluid which passes through a given surface per unit time  for example cubic meters per second   volume in calculus 
+further information  
+in  a branch of  the volume of a region d in r3 is given by a  of the constant   and is usually written as 
+
+
+
+the volume integral in  is
+
+
+
+and the volume integral in   using the convention for angles with  as the azimuth and  measured from the polar axis  see more on   has the form
+
+
+
+volume formulas 
+
+volume ratios for a cone sphere and cylinder of the same radius and height 
+
+
+
+
+a cone sphere and cylinder of radius r and height h
+
+
+the above formulas can be used to show that the volumes of a  sphere and  of the same radius and height are in the ratio 1 2 3 as follows let the radius be r and the height be h  which is 2r for the sphere  then the volume of cone is
+
+
+
+the volume of the sphere is
+
+
+
+while the volume of the cylinder is
+
+
+
+the discovery of the 2 3 ratio of the volumes of the sphere and cylinder is credited to  volume formula derivations
+the volume of a  is the  of an infinite number of infinitesimally small circular  of thickness dx the calculation for the volume of a sphere with center 0 and radius r is as follows the surface area of the circular disk is  the radius of the circular disks defined such that the x-axis cuts perpendicularly through them is
+
+
+
+or
+
+
+
+where y or z can be taken to represent the radius of a disk at a particular x value using y as the disk radius the volume of the sphere can be calculated as
+
+
+
+now
+
+
+
+combining yields 
+this formula can be derived more quickly using the formula for the sphere s  which is  the volume of the sphere consists of layers of infinitesimally thin spherical shells and the sphere volume is equal to
+
+
+
+cone 
+the cone is a type of pyramidal shape the fundamental equation for pyramids one-third times base times altitude applies to cones as well however using calculus the volume of a  is the  of an infinite number of infinitesimally thin circular  of thickness dx the calculation for the volume of a cone of height h whose base is centered at  0 0 0  with radius r is as follows the radius of each circular disk is r if x   0 and 0 if x   h and varying linearly in betweenthat is 
+
+
+the surface area of the circular disk is then
+
+
+
+the volume of the cone can then be calculated as
+
+
+
+and after extraction of the constants
+
+
+
+integrating gives us
+
+
+
+volume in differential geometry 
+main article  
+in  a branch of  a volume form on a  is a  of top degree  i.e whose degree is equal to the dimension of the manifold  that is nowhere equal to zero a manifold has a volume form if and only if it is orientable an orientable manifold has infinitely many volume forms since multiplying a volume form by a non-vanishing function yields another volume form on non-orientable manifolds one may instead define the weaker notion of a  integrating the volume form gives the volume of the manifold according to that form an    has a natural volume form in  it can be expressed as
+
+
+
+where the  are  that form a positively oriented basis for the  of the manifold and  is the  of the matrix representation of the  on the manifold in terms of the same basis volume in thermodynamics 
+main article  
+in  the volume of a  is an important  for describing its  the specific volume an  is the system s volume per unit of mass volume is a  and is interdependent with other thermodynamic properties such as  and  for example volume is related to the  and  of an  by the  see also
+
+
+
+  retrieved 2010-05-01  one litre of sugar  about 970 grams  can dissolve in 0.6 litres of hot water producing a total volume of less than one litre  retrieved 2010-05-01 up to 1800 grams of sucrose can dissolve in a liter of water   nist weights and measures division archived from  on 2011-12-10 retrieved 2011-01-12     3rd ed   september 2005 subscription or  required 
+    3rd ed   september 2005 subscription or  required 
+     methuen and co 1948  table i i   rorres chris  courant institute of mathematical sciences retrieved 2007-01-02 
+
+
+external links 
+
+  at wikibooks
+  at wikibooks
+
+
+
+
+

@@ -1,0 +1,110 @@
+Sources and Sinks
+-----------------
+Source Ratio : 0.000000
+Sink Ratio   : 0.067000
+
+PageRank results
+----------------
+[0] | PR: 0.047385 | International_Standard_Book_Number 
+[1] | PR: 0.038873 | Digital_object_identifier 
+[2] | PR: 0.030490 | International_Standard_Serial_Number 
+[3] | PR: 0.021511 | National_Diet_Library 
+[4] | PR: 0.017980 | Bibcode 
+[5] | PR: 0.017648 | PubMed_Identifier 
+[6] | PR: 0.014713 | World_War_II 
+[7] | PR: 0.014404 | Canada 
+[8] | PR: 0.013421 | Japan 
+[9] | PR: 0.012906 | OCLC 
+[10] | PR: 0.010499 | Wayback_Machine 
+[11] | PR: 0.009395 | United_States_dollar 
+[12] | PR: 0.008055 | Nature_(journal) 
+[13] | PR: 0.007219 | Astronomy 
+[14] | PR: 0.006517 | Tropical_cyclone 
+[15] | PR: 0.005419 | Mexico 
+[16] | PR: 0.005246 | National_Oceanic_and_Atmospheric_Administration 
+[17] | PR: 0.005037 | NASA 
+[18] | PR: 0.004982 | China 
+[19] | PR: 0.004875 | Pacific_Ocean 
+[20] | PR: 0.004630 | Earth 
+[21] | PR: 0.004580 | United_States_Navy 
+[22] | PR: 0.004366 | International_Space_Station 
+[23] | PR: 0.004364 | Atlantic_Ocean 
+[24] | PR: 0.004228 | Science_(journal) 
+[25] | PR: 0.004154 | Puerto_Rico 
+[26] | PR: 0.003901 | United_States_Geological_Survey 
+[27] | PR: 0.003822 | Meteorology 
+[28] | PR: 0.003812 | Virginia 
+[29] | PR: 0.003807 | Florida 
+[30] | PR: 0.003715 | Brazil 
+[31] | PR: 0.003599 | National_Weather_Service 
+[32] | PR: 0.003578 | Washington,_D.C. 
+[33] | PR: 0.003485 | Philippines 
+[34] | PR: 0.003453 | New_York_City 
+[35] | PR: 0.003288 | Tornado 
+[36] | PR: 0.003119 | Maryland 
+[37] | PR: 0.003073 | North_Carolina 
+[38] | PR: 0.003059 | Equator 
+[39] | PR: 0.003048 | Bangladesh 
+[40] | PR: 0.003041 | Ontario 
+[41] | PR: 0.002917 | Haiti 
+[42] | PR: 0.002915 | New_York_(state) 
+[43] | PR: 0.002879 | Guam 
+[44] | PR: 0.002758 | Wikisource 
+[45] | PR: 0.002718 | Atmospheric_pressure 
+[46] | PR: 0.002708 | Great_Plains 
+[47] | PR: 0.002702 | Space_Shuttle 
+[48] | PR: 0.002644 | Pascal_(unit) 
+[49] | PR: 0.002640 | Pennsylvania 
+
+Num incoming links results
+--------------------------
+[0] | num_incoming_links: 433 | International_Standard_Book_Number
+[1] | num_incoming_links: 355 | Tropical_cyclone
+[2] | num_incoming_links: 353 | Digital_object_identifier
+[3] | num_incoming_links: 246 | Bibcode
+[4] | num_incoming_links: 244 | Wayback_Machine
+[5] | num_incoming_links: 222 | National_Oceanic_and_Atmospheric_Administration
+[6] | num_incoming_links: 202 | Extratropical_cyclone
+[7] | num_incoming_links: 199 | National_Hurricane_Center
+[8] | num_incoming_links: 191 | Pascal_(unit)
+[9] | num_incoming_links: 190 | Storm_surge
+[10] | num_incoming_links: 189 | Bar_(unit)
+[11] | num_incoming_links: 181 | United_States_dollar
+[12] | num_incoming_links: 173 | Inch_of_mercury
+[13] | num_incoming_links: 159 | NASA
+[14] | num_incoming_links: 158 | Saffir%E2%80%93Simpson_scale
+[15] | num_incoming_links: 157 | Wind_shear
+[16] | num_incoming_links: 154 | International_Standard_Serial_Number
+[17] | num_incoming_links: 153 | Eye_(cyclone)
+[18] | num_incoming_links: 153 | Hurricane_Isabel
+[19] | num_incoming_links: 149 | National_Weather_Service
+[20] | num_incoming_links: 149 | Florida
+[21] | num_incoming_links: 146 | Atlantic_Ocean
+[22] | num_incoming_links: 144 | Hurricane_Katrina
+[23] | num_incoming_links: 144 | Hurricane_Wilma
+[24] | num_incoming_links: 139 | Canada
+[25] | num_incoming_links: 138 | Tornado
+[26] | num_incoming_links: 130 | Cyclone
+[27] | num_incoming_links: 128 | List_of_retired_Atlantic_hurricane_names
+[28] | num_incoming_links: 127 | World_Meteorological_Organization
+[29] | num_incoming_links: 127 | Tropical_wave
+[30] | num_incoming_links: 127 | International_Space_Station
+[31] | num_incoming_links: 123 | Gulf_of_Mexico
+[32] | num_incoming_links: 123 | North_Carolina
+[33] | num_incoming_links: 122 | Hurricane_Andrew
+[34] | num_incoming_links: 122 | Hurricane_Camille
+[35] | num_incoming_links: 120 | Mexico
+[36] | num_incoming_links: 119 | Hurricane_Mitch
+[37] | num_incoming_links: 119 | Hurricane_Rita
+[38] | num_incoming_links: 119 | Hurricane_Allen
+[39] | num_incoming_links: 118 | Anticyclone
+[40] | num_incoming_links: 118 | Hurricane_Ivan
+[41] | num_incoming_links: 117 | Meteorology
+[42] | num_incoming_links: 115 | Hurricane_Sandy
+[43] | num_incoming_links: 115 | Hurricane_Gilbert
+[44] | num_incoming_links: 113 | Typhoon
+[45] | num_incoming_links: 112 | PubMed_Identifier
+[46] | num_incoming_links: 112 | Virginia
+[47] | num_incoming_links: 112 | Hurricane_Hugo
+[48] | num_incoming_links: 112 | Hurricane_Hazel
+[49] | num_incoming_links: 112 | Atmospheric_pressure

@@ -1,0 +1,268 @@
+for radio broadcasts sent from space see  
+
+
+
+the modular 
+
+
+
+
+
+
+the mir station helped pave the way for the iss project in the 1990s
+
+
+
+
+
+
+the u.s skylab station of the 1970s
+
+
+a space station also known as an orbital station or an orbital space station is a  capable of supporting crewmembers which is designed to remain in   most commonly as an  in   for an extended period of time and for other spacecraft to dock a space station is distinguished from other spacecraft used for  by lack of major  or  systems instead other vehicles transport people and cargo to and from the station as of september 2016 three space stations are in orbit  the  which is permanently inhabited china s   defunct  and   launched 15 september 2016 not permanently inhabited  previous stations include the  and   and most recently  today s space stations are research platforms used to study the effects of long-term space flight on the human body as well as to provide platforms for greater number and length of scientific studies than available on other space vehicles each crew member stays aboard the station for weeks or months but rarely more than a year since the ill-fated flight of  to  all human spaceflight duration records have been set aboard space stations the  is 437.7 days set by  aboard mir from 1994 to 1995 as of 2016 four cosmonauts have completed single missions of over a year all aboard mir space stations have also been used for both military and civilian purposes the last military-use space station was  which was used by the  program of the  in 1976 and 1977 
+
+
+contents
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+history
+
+
+
+
+the brick moon first known depiction of a space station
+
+
+see also  
+space stations have been envisaged since at least as early as 1869 when  wrote   the first to give serious consideration to space stations were  in the early 20th century and  about two decades later in 1929  s  was published the first to envision a  rotating wheel  space station to create artificial gravity during the  german scientists researched the theoretical concept of an  based on a space station pursuing oberth s idea of a space-based weapon the so-called   was a concept of a space station orbiting earth at a height of 8,200 kilometres  5,100mi  with a weapon that was to utilize the sun s energy in 1951 in   published his design for a  which referenced potonik s idea  however these concepts would never leave the concept stage during the 20th century during the same time as von braun pursued potonik s ideas the soviet design bureaus  chiefly  s   were pursuing tsiolkovsky s ideas for space stations the work by okb-52 would lead to the almaz programme and  together with   to the first space station   the developed hardware laid the ground for the  and is even today a considerable part of the  salyut almaz and skylab  19711986 
+main articles    and 
+
+
+
+
+ on eva in 1973
+
+
+the first space station was  which was launched by the  on april 19 1971 like all the early space stations it was  monolithic  intended to be constructed and launched in one piece and then inhabited by a crew later as such monolithic stations generally contained all their supplies and experimental equipment when launched and were considered  expended  and then abandoned when these were used up the earlier soviet stations were all designated  salyut  but among these there were two distinct types  civilian and military the military stations   and  were also known as  stations the civilian stations  and  were built with two docking ports which allowed a second crew to visit bringing a new spacecraft with them  the  could spend 90 days in space after which point it needed to be replaced by a fresh soyuz spacecraft this allowed for a crew to man the station continually  was also equipped with two docking ports like second-generation stations but the extra port was never utilized the presence of a second port on the new stations allowed  supply vehicles to be docked to the station meaning that fresh supplies could be brought to aid long-duration missions this concept was expanded on salyut 7 which  hard docked  with a  shortly before it was abandoned  this served as a proof-of-concept for the use of modular space stations the later salyuts may reasonably be seen as a transition between the two groups mir  19862001 
+main article  
+
+
+
+
+earth and the mir station
+
+
+unlike previous stations the soviet space station  had a  design  a core unit was launched and additional modules generally with a specific role were later added to that this method allows for greater flexibility in operation as well as removing the need for a single immensely powerful  modular stations are also designed from the outset to have their supplies provided by logistical support which allows for a longer lifetime at the cost of requiring regular support launches iss  1998present 
+main article  
+the core module of the international space station was launched in 1998 the iss is divided into two main sections the  orbital segment  ros  and the  operational segment  usos  usos modules were brought to the station by the  and manually attached to the iss by crews during  connections are made manually for electrical data propulsion and cooling fluids this results in a single piece which is not designed for disassembly 
+
+
+
+iss under construction
+
+
+the russian orbital segment s modules are able to launch fly and dock themselves without human intervention using  connections are automatically made for power data and propulsion fluids and gases the russian approach allows assembly of space stations orbiting other worlds in preparation for human missions the  of the iss will be used in the 12th russian soviet space station  whose main goal is supporting human deep space exploration russian modular or  next generation  space stations differ from  monolithic  single piece stations by allowing reconfiguration of the station to suit changing needs according to a 2009 report  is considering methods to remove from the station some modules of the russian orbital segment when the end of mission is reached for the  and use them as a basis for a new station known as the  none of these modules would have reached the end of their useful lives in 2016 or 2020 the report presents a statement from an unnamed russian engineer who believes that based on the experience from mir a thirty-year life should be possible except for micrometeorite damage because the russian modules have been built with on-orbit refurbishment in mind tiangong  2011present 
+main article  
+china s first space laboratory  was launched in september 2011 the uncrewed  then successfully performed an automatic rendezvous and docking in november 2011 the crewed  then docked with tiangong-1 in june 2012 the crewed  in 2013  was launched in september 2016 and another space laboratory  is expected to be launched in subsequent years paving the way for the construction of a  around 2020 in september 2016 it was reported that the  is falling back to earth and will burn in the atmosphere during 2017 habitability 
+main article  
+
+
+
+
+astronauts peer out of destiny laboratory 2001
+
+
+these stations have various issues that limit their long-term habitability such as very low recycling rates relatively high radiation levels and a lack of weight some of these problems cause discomfort and long-term health effects in the case of solar flares all current habitants are protected by the earth s magnetic field and are below the  future  may attempt to address these issues and could be intended for long-term occupation some designs might even accommodate large numbers of people essentially  cities in space  where people would make their homes no such design has yet been constructed since even for a small station the current  2016  launch costs are not economically or politically viable possible ways to deal with these costs would be to build a large number of rockets  economies of scale  employ reusable rockets  or  methods such as  for example in 1975 proposing to seek long-term habitability through  and enough mass in space to allow high  the most ambitious historical  study a conceptual 10000-person spacestation envisioned a future  base launching 600 times its own mass in lunar material cumulatively over years architecture 
+
+
+
+
+solar arrays of space station modules backlit by the sun
+
+
+a space station is a complex system with many interrelated subsystems 
+
+structure
+electrical power
+thermal control
+
+orbital navigation and propulsion
+automation and robotics
+computing and communications
+environmental and life support
+crew facilities
+crew and cargo transportation
+
+environmental microbiology 
+molds that develop aboard space stations can produce acids that degrade metal glass and rubber list of space stations 
+main article  
+the soviet space stations came in two types the civilian durable orbital station  dos  and the military  stations dates refer to periods when stations were inhabited by crews 
+ space stations   ussr 19711986 
+
+  1971 1 crew and 1 failed docking 
+  1972 launch failure 
+   1973 failed shortly after launch 
+  1973 re-entered eleven days after launch 
+ almaz  1974 1 crew and 1 failed docking 
+  1975 2 crews and 1 planned crew failed to achieve orbit 
+ almaz  19761977 2 crews and 1 failed docking 
+  19771981 16 crews  5 long duration 11 short duration and 1 failed docking 
+  19821986 10 crews  6 long duration 4 short duration and 1 failed docking 
+
+
+   us 19731979 3 crews 
+    ussr russia 19862000  
+  iss          and   2000ongoing   as of june 2017 
+   china 2011ongoing 
+
+  20112016 2 crews still in orbit 
+  2016ongoing 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+canceled projects 
+
+   mol  project which was to employ elements of existing  craft it was canceled in 1969 about a year before the first planned test flight  this was unusual in being an explicitly military project as opposed to the soviet  program which was heavily intertwined with and concealed by the contemporaneous salyut program 
+
+
+
+
+1967 conceptual drawing of gemini b reentry module separating from the   mol   usaf 
+
+
+
+a second skylab unit   was manufactured as a backup article  due to the high costs of providing launch vehicles and a desire by nasa to cease saturn and apollo operations in time to prepare for the  coming into service it was never flown the hull can now be seen in the  in washington dc a number of additional  were produced as backups or as flight articles that were later canceled the u.s  program which despite being under development for ten years was never launched instead evolving into the international space station
+the soviet russian  station which was never constructed had some of its elements incorporated into the international space station the  was a station proposed in the 1980s that was to be privately funded the project was canceled when the company created to build it  was unable to secure funding from the  
+
+the european  project planned to create a small space station serviced by the  shuttle it evolved into the iss  module  a company based in the isle of man was developing a reusable space vehicle and a space station based on old soviet  almaz  technology for flight in the early 2010s in march 2016 plans were announced to have the equipment converted into an educational exhibit owing to lack of funds 
+future developments 
+
+
+
+
+interior view of an 
+
+
+
+ is expected to launch space lab called  around 2020 it will then launch a three module 60-ton space station by 2020  is the working name given by the people s republic of china for plans to create an inhabited space station the public is being asked to submit suggestions for names and symbols to adorn the planned   company  is developing the  a   complex bigelow proposes to construct the space station using the  expandable spacecraft module as well as a central    and attached  initial launch of space station components is planned for 2014 with portions of the station available for leased use as early as 2015 bigelow began to publicly refer to the initial configurationtwo sundancer modules and one ba-330 moduleof the first bigelow station as  in october 2010 a second orbital stationspace complex bravois scheduled to begin launches in 2016 as of june 2017 the launches for space complex alpha have been contracted to launch on  and  launch vehicles from  starting in 2020 
+
+in april 2008 the  proposed the construction of an  for spacecraft too heavy to launch from earth directly it would not begin construction or be finished until after the decommissioning of the international space station this plan was described to iss partners by  june 17 2009 
+
+the  is a project of a  corporation  orbital technologies  the css is intended to accommodate diverse functions such as 
+
+enabling space-based microgravity research providing a destination for commercial human spaceflight space tourism and state sponsored human spaceflight programs acting as a backup and emergency safe haven for the international space station and its crew enabling product development facilitating satellite servicing and maintenance providing a staging outpost for human space flight missions beyond low arth orbit supplying a uniquely capable remote sensing platform 
+
+
+
+
+
+
+proposed exploration gateway platform at eml-1
+
+
+the business arrangement for developing and marketing the station was recently clarified by  firm  who is collaborating to develop the station with the   rsc energia  
+
+in december 2011  proposed using  as the core of an  to be constructed at the  and relocated via space tug to an earth-moon   eml-1 or 2  the purpose of the platform would be to support lunar landing missions with a reusable lunar lander after the first two  flights it would also bypass the need for a l1  for lunar missions other hardware would include an airlock an  international module  and a  based habitat module in february 2012  proposed an orbital  space club  in conjunction with virgin galactic their plans include a restaurant and a zero gravity dance club  plans to upgrade its  to perform rendezvous and  after the planned  starting in 2015  is developing   dsh  under the   nextstep  for beyond earth orbit  beo  spacestations and transfer vehicles 
+see also 
+
+
+
+
+
+
+
+ lead architect behind earliest space stations
+
+
+
+ future space station complexes may permit spacecraft to refuel
+
+
+
+
+references 
+
+
+
+ morris jones  12 july 2011   spacedaily retrieved 2011-07-12  barbosa rui  nasaspaceflight.com  
+^     boy s life september 1989    july 9 1945  d.s.f portree  1995    pdf  nasa archived from   pdf  on 3 august 2009 retrieved 30 november 2010  thomas kelly  et al  2000   national academies press pp.2830     pdf  usu.edu retrieved 2012-08-13  zak anatoly  22 may 2009   bbc news retrieved 23 may 2009   retrieved 2011-05-09  trudy e bell  2007    kaplan david  august 25 2007    retrieved 2007-08-26  
+ 
+ pacedaily.com reports countdown begins for chineses space station program 999.html countdown begins for chineses space station program 
+   2010-07-10 at the  bigelow aerospace accessed 2011-01-10    2010-11-01 accessed 2011-01-10    2010-11-12 accessed 2011-01-10  ward kenric  2011-02-03   sunshine state news retrieved 2010-02-08 the north las vegas firm announced it intends to launch its first orbital space complex from the cape in 2014 the inflatable modules would be carried on united launch alliance atlas v rockets  by 2017 bigelow projects a need for 20 to 25 launches per year to send crew and cargo to commercial space stations   retrieved 8 may 2011  choi charles  2010-11-12   space.com retrieved 8 may 2011 their station could launch by 2015 or so gold said using united launch alliance s atlas 5 rocket or spacex s falcon 9 rocket    april 12 2008 accessed on april 13 2008  doug messier   
+  nasaspaceflight.com 2011-12-02 retrieved 2012-08-13   space.com 2012-02-23 retrieved 2012-08-13  doug messier  august 11 2016   parabolic arc retrieved 14 august 2016 
+
+
+bibliography 
+
+
+grujica s ivanovich  july 7 2008  salyut  the first space station  triumph and tragedy praxis p.426  neri vela rodolfo  1990  manned space stations their construction operation and potential application paris  european space agency sp-1137  
+
+
+haeuplik-meusburger  architecture for astronauts  an activity based approach springer praxis books 2011 
+
+external links 
+
+
+
+ early 1950s article on the subject of space exploration and a space station orbiting earth
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

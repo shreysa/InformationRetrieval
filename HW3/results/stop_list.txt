@@ -1,0 +1,2 @@
+stop_list_words
+'the', 'of', 'and', 'in', 'to', 'a', 'on', 'retrieved', 'is', 'from', 'as', 'for', 'was', 'by', 'with'

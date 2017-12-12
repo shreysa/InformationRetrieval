@@ -1,0 +1,126 @@
+
+
+
+
+an image of  as seen from the  showing a well-defined eye at the center of the storm 
+
+
+the eye is a region of mostly calm weather at the center of strong  the eye of a storm is a roughly circular area typically 3065km  2040miles  in diameter it is surrounded by the eyewall a ring of towering  where the most severe weather and highest winds occur the cyclone s lowest  occurs in the eye and can be as much as 15 percent lower than the pressure outside the storm in strong tropical cyclones the eye is characterized by light winds and clear skies surrounded on all sides by a towering symmetric eyewall in weaker tropical cyclones the eye is less well defined and can be covered by the  an area of high thick clouds that show up brightly on  weaker or disorganized storms may also feature an eyewall that does not completely encircle the eye or have an eye that features heavy rain in all storms however the eye is the location of the storm s minimum barometric pressurewhere the atmospheric pressure at sea level is the lowest 
+
+
+contents
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+structure 
+
+
+
+
+a  diagram of a mature tropical cyclone with arrows indicating air flow in and around the eye
+
+
+a typical  will have an eye of approximately 3065km  2040mi  across usually situated at the geometric center of the storm the eye may be clear or have spotty low clouds  a clear eye  it may be filled with   a filled eye  or it may be obscured by the central dense overcast there is however very little wind and rain especially near the center this is in stark contrast to conditions in the eyewall which contains the storm s strongest winds due to the  the eye and the air directly above it are warmer than their surroundings while normally quite symmetric eyes can be oblong and irregular especially in weakening storms a large ragged eye is a non-circular eye which appears fragmented and is an indicator of a weak or weakening tropical cyclone an open eye is an eye which can be circular but the eyewall does not completely encircle the eye also indicating a weakening moisture-deprived cyclone both of these observations are used to estimate the intensity of tropical cyclones via  eyewalls are typically circular  however distinctly polygonal shapes ranging from triangles to hexagons occasionally occur while typical mature storms have eyes that are a few dozen miles across  storms can develop an extremely small clear and circular eye sometimes referred to as a pinhole eye storms with pinhole eyes are prone to large fluctuations in intensity and provide difficulties and frustrations for forecasters small minuscule eyesthose less than 10  19km 12mi  acrossoften trigger  where a new eyewall begins to form outside the original eyewall this can take place anywhere from fifteen to hundreds of kilometers  ten to a few hundred miles  outside the inner eye the storm then develops two concentric eyewalls or an  eye within an eye  in most cases the outer eyewall begins to contract soon after its formation which chokes off the inner eye and leaves a much larger but more stable eye while the replacement cycle tends to weaken storms as it occurs the new eyewall can contract fairly quickly after the old eyewall dissipates allowing the storm to re-strengthen this may trigger another re-strengthen cycle of eyewall replacement eyes can range in size from 370km  230mi    to a mere 3.7km  2.3mi    across while it is uncommon for storms with large eyes to become very intense it does occur especially in   was the eleventh most powerful  in  and sustained a large 6580km  4050miwide eye for a period of several days formation and detection 
+see also  
+
+
+
+
+tropical cyclones form when the energy released by the condensation of moisture in rising air causes a  over warm ocean waters 
+
+
+
+
+
+typically eyes are easy to spot using  this radar image of  clearly shows the eye over southern florida 
+
+tropical cyclones typically form from large disorganized areas of disturbed weather in tropical regions as more thunderstorms form and gather the storm develops  which start rotating around a common center as the storm gains strength a ring of stronger  forms at a certain distance from the rotational center of the developing storm since stronger thunderstorms and heavier rain mark areas of stronger  the barometric pressure at the surface begins to drop and air begins to build up in the upper levels of the cyclone this results in the formation of an upper level  or an area of high atmospheric pressure above the central dense overcast consequently most of this built up air flows outward anticyclonically above the tropical cyclone outside the forming eye the anticyclone at the upper levels of the atmosphere enhances the flow towards the center of the cyclone pushing air towards the eyewall and causing a  however a small portion of the built-up air instead of flowing outward flows inward towards the center of the storm this causes air pressure to build even further to the point where the weight of the air counteracts the strength of the updrafts in the center of the storm air begins to descend in the center of the storm creating a mostly rain-free areaa newly formed eye there are many aspects of this process which remain a mystery scientists do not know why a ring of convection forms around the center of circulation instead of on top of it or why the upper-level anticyclone only ejects a portion of the excess air above the storm many theories exist as to the exact process by which the eye forms  all that is known for sure is that the eye is necessary for tropical cyclones to achieve high wind speeds the formation of an eye is almost always an indicator of increasing tropical cyclone organisation and strength because of this forecasters watch developing storms closely for signs of eye formation for storms with a clear eye detection of the eye is as simple as looking at pictures from a  however for storms with a filled eye or an eye completely covered by the central dense overcast other detection methods must be used observations from ships and  can pinpoint an eye visually by looking for a drop in wind speed or lack of rainfall in the storm s center in the united states south korea and a few other countries a network of   stations can detect eyes near the coast weather satellites also carry equipment for measuring atmospheric  and cloud temperatures which can be used to spot a forming eye in addition scientists have recently discovered that the amount of ozone in the eye is much higher than the amount in the eyewall due to air sinking from the ozone-rich stratosphere instruments sensitive to ozone perform measurements which are used to observe rising and sinking columns of air and provide indication of the formation of an eye even before satellite imagery can determine its formation associated phenomena 
+
+
+
+
+a satellite photo of typhoon amber of the  exhibiting an outer and inner eyewall while undergoing an eyewall replacement cycle
+
+
+eyewall replacement cycles 
+main article  
+eyewall replacement cycles also called concentric eyewall cycles naturally occur in intense tropical cyclones generally with winds greater than 185km h  115mph  or   category 3 or higher on the   when tropical cyclones reach this intensity and the eyewall contracts or is already sufficiently small  see   some of the outer rainbands may strengthen and organize into a ring of thunderstormsan outer eyewallthat slowly moves inward and robs the inner eyewall of its needed moisture and  since the strongest winds are located in a cyclone s eyewall the tropical cyclone usually weakens during this phase as the inner wall is  choked  by the outer wall eventually the outer eyewall replaces the inner one completely and the storm can re-intensify the discovery of this process was partially responsible for the end of the u.s government s hurricane modification experiment  this project set out to  outside the eyewall causing a new eyewall to form and weakening the storm when it was discovered that this was a natural process due to hurricane dynamics the project was quickly abandoned almost every intense hurricane undergoes at least one of these cycles during its existence  in 1980 went through repeated eyewall replacement cycles fluctuating between category5 and category3 status on the saffir-simpson scale several times  was a rare documented case of triple eyewalls moats 
+a moat in a tropical cyclone is a clear ring outside the eyewall or between concentric eyewalls characterized by slowly sinking airand little or no precipitation the air flow in the moat is dominated by the cumulative effects of  and  the moat between eyewalls is an area in the storm where the rotational speed of the air changes greatly in proportion to the distance from the storm s center  these areas are also known as rapid filamentation zones such areas can potentially be found near any  of sufficient strength but are most pronounced in strong tropical cyclones eyewall mesovortices 
+eyewall  are small scale rotational features found in the eyewalls of intense tropical cyclones they are similar in principle to small  suction vortices  often observed in  in these vortices wind speeds may be greater than anywhere else in the eyewall eyewall mesovortices are most common during periods of intensification in tropical cyclones eyewall mesovortices often exhibit unusual behavior in tropical cyclones they usually rotate around the low pressure center but sometimes they remain stationary eyewall mesovortices have even been documented to cross the eye of a storm these phenomena have been documented observationally experimentally and theoretically eyewall mesovortices are a significant factor in the formation of  after tropical cyclone landfall mesovortices can spawn rotation in individual thunderstorms  a   which leads to tornadic activity at landfall friction is generated between the circulation of the tropical cyclone and land this can allow the mesovortices to descend to the surface causing tornadoes stadium effect 
+
+
+
+
+view of  eye from the  on march31 2015 displaying a pronounced stadium effect 
+
+the stadium effect is a phenomenon observed in strong tropical cyclones it is a fairly common event where the clouds of the eyewall curve outward from the surface with height this gives the eye an appearance resembling an open dome from the air akin to a  an eye is always larger at the top of the storm and smallest at the bottom of the storm because the rising air in the eyewall follows  of equal  which also slope outward with height in tropical cyclones with very small eyes the sloping phenomenon is much more pronounced eye-like features 
+an eye-like structure is often found in intensifying tropical cyclones similar to the eye seen in hurricanes or typhoons it is a circular area at the circulation center of the storm in which convection is absent these eye-like features are most normally found in intensifying tropical storms and hurricanes of category1 strength on the saffir-simpson scale for example an eye-like feature was found in  when the storm had maximum wind speeds of only 80km h  50mph  well below hurricane force the features are typically not visible on  or  from space although they are easily seen on  satellite imagery their development at the middle levels of the atmosphere is similar to the formation of a complete eye but the features might be horizontally displaced due to vertical wind shear hazards 
+
+
+
+
+
+an aircraft flying through a storm s eyewall and into the calm eye
+
+
+though the eye is by far the calmest part of the storm with no wind at the center and typically clear skies over the ocean it is possibly the most hazardous area in the eyewall wind-driven waves all travel in the same direction in the center of the eye however the waves converge from all directions creating erratic crests that can build on each other to become  the maximum height of hurricane waves is unknown but measurements during  when it was a category 4 hurricane estimated that waves near the eyewall exceeded 40m  130ft  from peak to trough a common mistake especially in areas where hurricanes are uncommon is for residents to exit their homes to inspect the damage while the calm eye passes over only to be caught off guard by the violent winds in the opposite eyewall other cyclones 
+
+
+
+
+the  an extratropical storm showed an eye-like structure at its peak intensity  here seen just to the east of the   
+
+main article  
+though only tropical cyclones have structures officially termed  eyes  there are other weather systems that can exhibit eye-like features polar lows 
+ are  weather systems typically smaller than 1,000km  600mi  across found near the  like tropical cyclones they form over relatively warm water and can feature deep convection and winds of  or greater unlike storms of tropical nature however they thrive in much colder temperatures and at much higher latitudes they are also smaller and last for shorter durations with few lasting longer than a day or so despite these differences they can be very similar in structure to tropical cyclones featuring a clear eye surrounded by an eyewall and bands of rain and snow extratropical cyclones 
+ are areas of low pressure which exist at the boundary of different  almost all storms found at mid-latitudes are extratropical in nature including classic north american  and  the most severe of these can have a clear  eye  at the site of lowest barometric pressure though it is usually surrounded by lower non-convective clouds and is found near the back end of the storm subtropical cyclones 
+ are low-pressure systems with some extratropical characteristics and some tropical characteristics as such they may have an eye while not being truly tropical in nature subtropical cyclones can be very hazardous generating high winds and seas and often evolve into fully tropical cyclones for this reason the  began including subtropical storms in its naming scheme in 2002 tornadoes 
+ are destructive small-scale storms which produce the fastest winds on earth there are two main typessingle-vortex tornadoes which consist of a single spinning column of air and multiple-vortex tornadoes which consist of small  suction vortices  resembling mini-tornadoes themselves all rotating around a common center both of these types of tornadoes are theorized to have calm eyes these theories are supported by doppler velocity observations by weather radar and eyewitness accounts extraterrestrial vortices 
+
+
+
+
+a hurricane-like storm on the south pole of saturn displaying an eyewall tens of kilometers high
+
+
+see also  
+ reported in november 2006 that the  observed a  hurricane-like  storm locked to the south pole of  with a clearly defined eyewall the observation was particularly notable as eyewall clouds had not previously been seen on any planet other than earth  including a failure to observe an eyewall in the  of jupiter by the  spacecraft  in 2007 very large vortices on both poles of  were observed by the  mission of the  to have a dipole eye structure see also
+
+
+^    landsea chris  goldenberg stan  2012-06-01   in dorst neal   faq  4.5 atlantic oceanographic and meteorological laboratory pp  archived from  on 2006-06-15  landsea chris  goldenberg stan  2012-06-01   in dorst neal   faq  4.5 atlantic oceanographic and meteorological laboratory pp  archived from  on 2006-06-15  webmaster  2010-01-05   jetstream  online school for weather national weather service retrieved 2006-12-14  landsea chris  goldenberg stan  2012-06-01   in dorst neal   faq  4.5 atlantic oceanographic and meteorological laboratory pp  archived from  on 2006-06-15  velden christopher s  olander timothy l  zehr raymond m  1998   weather and forecasting american meteorological society 13  1  172173       schubert wayne h  et al  1999    pdf  journal of the atmospheric sciences american meteorological society 59  9  11971223       beven jack  2005-10-08    report   national hurricane center retrieved 2013-05-06 ^    landsea chris  goldenberg stan  2012-06-01   in dorst neal   faq  4.5 atlantic oceanographic and meteorological laboratory pp  archived from  on 2006-06-15  evans bill  hurricane extremes  google ebooks retrieved 20 august 2015   weather records  storm dunlop retrieved 20 august 2015  beven jack  cobb hugh  2003    tropical cyclone report  national hurricane center archived from  on 14 november 2013 retrieved 2013-05-06 ^     vigh jonathan  2006    pdf   monterey california  american meteorological society retrieved 2013-05-07  gutro rob  2005-06-08    press release  nasa archived from  on 2012-11-05 retrieved 2013-05-06  mcnoldy brian d  2004    pdf  bulletin of the american meteorological society american meteorological society 85  11  16631666       rozoff christopher m  schubert wayne h  mcnoldy brian d  kossin james p  2006   journal of the atmospheric sciences american meteorological society 63  1  325340      ^    montgomery michael t  vladimirov vladimir a  denissenko peter v  2002    pdf  journal of fluid mechanics cambridge university press 471  132       aberson sim d  black michael l  montgomery michael t  bell michael  2004    pdf   miami florida  american meteorological society retrieved 2013-05-07  kossin james p  mcnoldy brian d  schubert wayne h  2002   monthly weather review american meteorological society 130  12  31443149       kossin james p  schubert wayne h  2001   journal of the atmospheric sciences american meteorological society 58  15  21962209       wright john e  bennett shawn p  2009-01-16    press release  national weather service retrieved 2013-05-07  hawkins harry f  rubsam daryl t  1968   monthly weather review american meteorological society 96  9  617636       gray w m  shea d j  1973   journal of the atmospheric sciences american meteorological society 30  8  15651576       hawkins harry f  imbembo stephen m  1976   monthly weather review american meteorological society 104  4  418442       beven john l  2005-10-27    report   national hurricane center retrieved 2013-05-07  marks frank d  stewart stacy r  2001    pdf   presentation   boulder colorado  university corporation for atmospheric research pp.725    press release  national weather service retrieved 2008-03-12  brown daniel  roberts dave   press release  national oceanic and atmospheric administration retrieved 2008-03-12  wang david w  mitchell douglas a  teague william j  jarosz ewa  hulbert mark s  2005   science american association for the advancement of science 309  5736  896     webmaster  2010-01-05   jetstream  online school for weather national weather service retrieved 2006-08-06    2012-02-11 at the   accessed 2008-10-10    retrieved 2007-01-24  maue ryan n  2006-04-25   american meteorological society conference retrieved 2006-10-06  cappella chris  april 22 2003    retrieved 2006-09-15  monastersky r  may 15 1999    retrieved 2006-09-15  justice alonzo a  may 1930      pp.205206 retrieved 2006-09-15    2006-11-09 archived from  on october 5 2011 retrieved november 10 2006  piccioni g  et al  2007-11-29    450  7170  63740      
+
+external links 
+
+
+
+
+
+
+
+

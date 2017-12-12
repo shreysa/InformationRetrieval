@@ -1,0 +1,242 @@
+for other uses see  
+
+
+
+long-term mean precipitation by month
+
+
+
+
+
+
+countries by average annual precipitation
+
+
+in  precipitation is any product of the  of   that falls under  the main forms of precipitation include      and  precipitation occurs when a portion of the atmosphere becomes saturated with water vapor so that the water condenses and  precipitates  thus  and  are not precipitation but suspensions because the water vapor does not condense sufficiently to precipitate two processes possibly acting together can lead to air becoming saturated  cooling the air or adding water vapor to the air precipitation forms as smaller droplets coalesce via collision with other rain drops or ice crystals within a  short intense periods of rain in scattered locations are called  showers 
+moisture that is lifted or otherwise forced to rise over a layer of sub-freezing air at the surface may be condensed into clouds and rain this process is typically active when freezing rain is occurring a  is often present near the area of freezing rain and serves as the foci for forcing and rising air provided necessary and sufficient atmospheric moisture content the moisture within the rising air will condense into clouds namely  and  eventually the cloud droplets will grow large enough to form raindrops and descend toward the earth where they will freeze on contact with exposed objects where relatively warm water bodies are present for example due to water evaporation from lakes  becomes a concern downwind of the warm lakes within the cold  flow around the backside of  lake-effect snowfall can be locally heavy  is possible within a cyclone s  and within lake effect precipitation bands in mountainous areas heavy precipitation is possible where upslope flow is maximized within  sides of the terrain at elevation on the leeward side of mountains desert climates can exist due to the dry air caused by compressional heating the movement of the  or  brings  to   precipitation is a major component of the  and is responsible for depositing the  on the  approximately 505,000 cubic kilometres  121,000cumi  of water falls as precipitation each year  398,000 cubic kilometres  95,000cumi  of it over the  and 107,000 cubic kilometres  26,000cumi  over land given the  s surface area that means the globally averaged annual precipitation is 990 millimetres  39in  but over land it is only 715 millimetres  28.1in   classification systems such as the  system use average annual rainfall to help differentiate between differing climate regimes precipitation may occur on other celestial bodies e.g when it gets cold  has precipitation which most likely takes the form of frost rather than rain or snow 
+
+
+
+contents
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+types 
+main article  
+
+
+
+
+a thunderstorm with heavy precipitation
+
+
+precipitation is a major component of the  and is responsible for depositing most of the  on the  approximately 505,000km3  121,000mi3  of water falls as precipitation each year 398,000km3  95,000cumi  of it over the  given the  s surface area that means the globally averaged annual precipitation is 990 millimetres  39in  mechanisms of producing precipitation include convective  and  rainfall convective processes involve strong vertical motions that can cause the overturning of the atmosphere in that location within an hour and cause heavy precipitation while stratiform processes involve weaker upward motions and less intense precipitation precipitation can be divided into three categories based on whether it falls as liquid water liquid water that freezes on contact with the surface or ice mixtures of different types of precipitation including types in different categories can fall simultaneously liquid forms of precipitation include rain and drizzle rain or drizzle that freezes on contact within a subfreezing  is called  freezing rain  or  freezing drizzle  frozen forms of precipitation include     and  how the air becomes saturated
+
+
+
+
+late-summer  in 
+
+
+
+
+
+
+lenticular cloud forming due to mountains over wyoming
+
+
+the  is the temperature to which a parcel must be cooled in order to become saturated and  unless super-saturation occurs  condenses to water water vapour normally begins to condense on  such as dust ice and salt in order to form clouds an elevated portion of a frontal zone forces broad areas of lift which form clouds decks such as  or   is a stable cloud deck which tends to form when a cool stable air mass is trapped underneath a warm air mass it can also form due to the lifting of  during breezy conditions there are four main mechanisms for cooling the air to its dew point  adiabatic cooling conductive cooling g and evaporative cooling  occurs when air rises and expands the air can rise due to  large-scale atmospheric motions or a physical barrier such as a mountain   conductive cooling occurs when the air comes into contact with a colder surface usually by being blown from one surface to another for example from a liquid water surface to colder land radiational cooling occurs due to the emission of  either by the air or by the surface underneath evaporative cooling occurs when moisture is added to the air through evaporation which forces the air temperature to cool to its  or until it reaches saturation adding moisture to the air 
+the main ways water vapour is added to the air are  wind convergence into areas of upward motion precipitation or virga falling from above daytime heating evaporating water from the surface of oceans water bodies or wet land transpiration from plants cool or dry air moving over warmer water and lifting air over mountains formation 
+main article  
+
+
+
+
+condensation and coalescence are important parts of the  
+
+raindrops 
+ occurs when water droplets fuse to create larger water droplets or when water droplets freeze onto an ice crystal which is known as the  the fall rate of very small droplets is negligible hence clouds do not fall out of the sky  precipitation will only occur when these coalesce into larger drops when air turbulence occurs water droplets collide producing larger droplets as these larger water droplets descend coalescence continues so that drops become heavy enough to overcome air resistance and fall as rain raindrops have sizes ranging from 0.1 millimetres  0.0039in  to 9 millimetres  0.35in  mean diameter above which they tend to break up smaller drops are called cloud droplets and their shape is spherical as a raindrop increases in size its shape becomes more oblate with its largest cross-section facing the oncoming airflow contrary to the cartoon pictures of raindrops their shape does not resemble a teardrop intensity and duration of rainfall are usually inversely related i.e high intensity storms are likely to be of short duration and low intensity storms can have a long duration rain drops associated with melting hail tend to be larger than other rain drops the metar code for rain is ra while the coding for rain showers is shra ice pellets 
+main article  
+
+
+
+
+an accumulation of ice pellets
+
+
+ or sleet are a form of precipitation consisting of small  balls of ice ice pellets are usually  but not always  smaller than  they often bounce when they hit the ground and generally do not freeze into a solid mass unless mixed with  the  code for ice pellets is pl ice pellets form when a layer of above-freezing air exists with sub-freezing air both above and below this causes the partial or complete melting of any snowflakes falling through the warm layer as they fall back into the sub-freezing layer closer to the surface they re-freeze into ice pellets however if the sub-freezing layer beneath the warm layer is too small the precipitation will not have time to re-freeze and  will be the result at the surface a temperature profile showing a warm layer above the ground is most likely to be found in advance of a  during the cold season but can occasionally be found behind a passing  hail 
+main article  
+
+
+
+
+a large hailstone about 6 centimetres  2.4in  in diameter
+
+
+like other precipitation hail forms in storm  when   droplets freeze on contact with  such as  or  the storm s  blows the hailstones to the upper part of the cloud the updraft dissipates and the hailstones fall down back into the updraft and are lifted again hail has a diameter of 5 millimetres  0.20in  or more within metar code gr is used to indicate larger hail of a diameter of at least 6.4 millimetres  0.25in  gr is derived from the french word grle smaller-sized hail as well as snow pellets use the coding of gs which is short for the french word grsil stones just larger thansized are one of the most frequently reported hail sizes hailstones can grow to 15 centimetres  6in  and weigh more than 500 grams  1lb  in large hailstones  released by further freezing may melt the outer shell of the hailstone the hailstone then may undergo  wet growth  where the liquid outer shell collects other smaller hailstones the hailstone gains an ice layer and grows increasingly larger with each ascent once a hailstone becomes too heavy to be supported by the storm s updraft it falls from the cloud snowflakes 
+main article  
+
+
+
+
+snowflake viewed in an optical microscope
+
+
+snow crystals form when tiny  cloud droplets  about 10  in diameter   once a droplet has frozen it grows in the  environment because water droplets are more numerous than the ice crystals the crystals are able to grow to hundreds of  in size at the expense of the water droplets this process is known as the  the corresponding depletion of water vapour causes the droplets to evaporate meaning that the ice crystals grow at the droplets  expense these large crystals are an efficient source of precipitation since they fall through the atmosphere due to their mass and may collide and stick together in clusters or aggregates these aggregates are snowflakes and are usually the type of ice particle that falls to the ground guinness world records list the world s largest snowflakes as those of january 1887 at fort keogh montana  allegedly one measured 38cm  15inches  wide the exact details of the sticking mechanism remain a subject of research although the ice is clear scattering of light by the crystal facets and hollows imperfections mean that the crystals often appear white in color due to  of the whole  of  by the small ice particles the shape of the snowflake is determined broadly by the temperature and humidity at which it is formed rarely at a temperature of around 2c  28f  snowflakes can form in threefold symmetrytriangular snowflakes the most common snow particles are visibly irregular although near-perfect snowflakes may be more common in pictures because they are more visually appealing no two snowflakes are alike as they grow at different rates and in different patterns depending on the changing temperature and humidity within the atmosphere through which they fall on their way to the ground the metar code for snow is sn while snow showers are coded shsn diamond dust 
+main article  
+diamond dust also known as ice needles or ice crystals forms at temperatures approaching 40c  40f  due to air with slightly higher moisture from aloft mixing with colder surface based air they are made of simple ice crystals that are hexagonal in shape the metar identifier for diamond dust within international hourly weather reports is ic causes
+main article  
+stratiform or dynamic precipitation occurs as a consequence of slow ascent of air in   on the order of cm s  such as over surface  and over and ahead of  similar ascent is seen around  outside of the  and in comma-head precipitation patterns around  a wide variety of weather can be found along an occluded front with thunderstorms possible but usually their passage is associated with a drying of the air mass occluded fronts usually form around mature low-pressure areas precipitation may occur on celestial bodies other than earth when it gets cold  has precipitation that most likely takes the form of ice needles rather than rain or snow convection 
+
+
+
+
+convective precipitation
+
+
+ or showery precipitation occurs from convective clouds e.g  or  it falls as showers with rapidly changing intensity convective precipitation falls over a certain area for a relatively short time as convective clouds have limited horizontal extent most precipitation in the  appears to be convective  however it has been suggested that stratiform precipitation also occurs  and  indicate convection in mid-latitudes convective precipitation is intermittent and often associated with baroclinic boundaries such as   and warm fronts orographic effects 
+see also   and 
+
+
+
+
+orographic precipitation
+
+
+orographic precipitation occurs on the  side of mountains and is caused by the rising air motion of a large-scale flow of moist air across the mountain ridge resulting in  cooling and condensation in mountainous parts of the world subjected to relatively consistent winds  for example the   a more moist  usually prevails on the windward side of a mountain than on the  or downwind side moisture is removed by orographic lift leaving drier air  see   on the descending and generally warming leeward side where a  is observed in   on the island of kauai is notable for its extreme rainfall as it has the second highest average annual rainfall on earth with 12,000 millimetres  460in  storm systems affect the state with heavy rains between october and march local climates vary considerably on each island due to their topography divisible into windward  koolau  and leeward  kona  regions based upon location relative to the higher mountains windward sides face the east to northeast  and receive much more rainfall  leeward sides are drier and sunnier with less rain and less cloud cover in south america the  mountain range blocks pacific moisture that arrives in that continent resulting in a desertlike climate just downwind across western argentina the  range creates the same effect in north america forming the  and  similarly in asia the  create an obstacle to monsoons which leads to extremely high precipitation on the southern side and lower precipitation levels on the northern side snow 
+main article  
+ file snow clouds in korea.jpg thumb lake-effect snow bands near the   in early-december 2008   can bring cold and dangerous conditions with heavy rain and snow with winds exceeding 119km h  74mph   sometimes referred to as  in europe  the band of precipitation that is associated with their  is often extensive forced by weak upward vertical motion of air over the frontal boundary which  as it cools and produces precipitation within an elongated band which is wide and  meaning falling out of  clouds when moist air tries to dislodge an arctic air mass overrunning snow can result within the poleward side of the elongated  in the  poleward is towards the  or north within the  poleward is towards the  or south southwest of extratropical cyclones curved cyclonic flow bringing cold air across the relatively warm water bodies can lead to narrow  bands those bands bring strong localized snowfall which can be understood as follows  large water bodies such as lakes efficiently store heat that results in significant temperature differences  larger than 13c or 23f  between the water surface and the air above because of this temperature difference warmth and moisture are transported upward condensing into vertically oriented clouds  see satellite picture  which produce snow showers the temperature decrease with height and cloud depth are directly affected by both the water temperature and the large-scale environment the stronger the temperature decrease with height the deeper the clouds get and the greater the precipitation rate becomes in mountainous areas heavy snowfall accumulates when air is forced to ascend the mountains and squeeze out precipitation along their windward slopes which in cold conditions falls in the form of snow because of the ruggedness of terrain forecasting the location of heavy snowfall remains a significant challenge within the tropics 
+main article  
+see also   and 
+ file cairns climate.svg thumb rainfall distribution by month in  showing the extent of the wet season at that location  the wet or rainy season is the time of year covering one or more months when most of the average annual  in a region falls the term green season is also sometimes used as a  by tourist authorities areas with wet seasons are dispersed across portions of the  and   climates and areas with  regimes have wet summers and dry winters tropical rainforests technically do not have dry or wet seasons since their rainfall is equally distributed through the year some areas with pronounced rainy seasons will see a break in rainfall mid-season when the  or  move poleward of their location during the middle of the warm season when the wet season occurs during the warm season or  rain falls mainly during the late afternoon and early evening hours the wet season is a time when  improves freshwater quality improves and vegetation grows significantly  nutrients diminish and erosion increases animals have adaptation and survival strategies for the wetter regime the previous dry season leads to food shortages into the wet season as the crops have yet to mature developing countries have noted that their populations show seasonal weight fluctuations due to food shortages seen before the first harvest which occurs late in the wet season tropical cyclones a source of very heavy rainfall consist of large air masses several hundred miles across with low pressure at the centre and with winds blowing inward towards the centre in either a clockwise direction  southern hemisphere  or counterclockwise  northern hemisphere  although  can take an enormous toll in lives and personal property they may be important factors in the precipitation regimes of places they impact as they may bring much-needed precipitation to otherwise dry regions areas in their path can receive a year s worth of rainfall from a tropical cyclone passage large-scale geographical distribution 
+see also  
+on the large scale the highest precipitation amounts outside topography fall in the tropics closely tied to the  itself the ascending branch of the  mountainous locales near the equator in colombia are amongst the wettest places on earth north and south of this are regions of descending air that form  where precipitation is low  the land surface underneath is usually arid which forms most of the earth s deserts an exception to this rule is in hawaii where upslope flow due to the  lead to one of the wettest locations on earth otherwise the flow of the  into the rocky mountains lead to the wettest and at elevation snowiest locations within  in  during the wet season the flow of moist air into the  leads to some of the greatest rainfall amounts measured on earth in northeast  measurement 
+see also    and 
+
+
+
+
+standard rain gauge
+
+
+the standard way of measuring rainfall or snowfall is the standard rain gauge which can be found in 100mm  4in  plastic and 200mm  8in  metal varieties the inner cylinder is filled by 25mm  1in  of rain with overflow flowing into the outer cylinder plastic gauges have markings on the inner cylinder down to 0.25mm  0.01in  resolution while metal gauges require use of a stick designed with the appropriate 0.25mm  0.01in  markings after the inner cylinder is filled the amount inside it is discarded then filled with the remaining rainfall in the outer cylinder until all the fluid in the outer cylinder is gone adding to the overall total until the outer cylinder is empty these gauges are used in the winter by removing the funnel and inner cylinder and allowing snow and freezing rain to collect inside the outer cylinder some add anti-freeze to their gauge so they do not have to melt the snow or ice that falls into the gauge once the snowfall ice is finished accumulating or as 300mm  12in  is approached one can either bring it inside to melt or use lukewarm water to fill the inner cylinder with in order to melt the frozen precipitation in the outer cylinder keeping track of the warm fluid added which is subsequently subtracted from the overall total once all the ice snow is melted other types of gauges include the popular wedge gauge  the cheapest rain gauge and most fragile  the tipping bucket rain gauge and the weighing rain gauge the wedge and tipping bucket gauges will have problems with snow attempts to compensate for snow ice by warming the tipping bucket meet with limited success since snow may sublimate if the gauge is kept much above freezing weighing gauges with antifreeze should do fine with snow but again the funnel needs to be removed before the event begins for those looking to measure rainfall the most inexpensively a can that is cylindrical with straight sides will act as a rain gauge if left out in the open but its accuracy will depend on what ruler is used to measure the rain with any of the above rain gauges can be made at home with enough know-how when a precipitation measurement is made various networks exist across the united states and elsewhere where rainfall measurements can be submitted through the internet such as  or globe if a network is not available in the area where one lives the nearest local weather office will likely be interested in the measurement hydrometeor definition 
+a concept used in precipitation measurement is the hydrometeor bits of liquid or solid water in the atmosphere are known as hydrometeors formations due to condensation such as clouds  fog and mist are composed of hydrometeors all precipitation types are made up of hydrometeors by definition including virga which is precipitation which evaporates before reaching the ground particles blown from the earth s surface by wind such as blowing snow and blowing sea spray are also hydrometeors satellite estimates 
+although surface precipitation gauges are considered the standard for measuring precipitation there are many areas in which their use is not feasible this includes the vast expanses of ocean and remote land areas in other cases social technical or administrative issues prevent the dissemination of gauge observations as a result the modern global record of precipitation largely depends on satellite observations satellite sensors work by remotely sensing precipitationrecording various parts of the  that theory and practice show are related to the occurrence and intensity of precipitation the sensors are almost exclusively passive recording what they see similar to a camera in contrast to active sensors     that send out a signal and detect its impact on the area being observed satellite sensors now in practical use for precipitation fall into two categories thermal infrared   sensors record a channel around 11 micron wavelength and primarily give information about cloud tops due to the typical structure of the atmosphere cloud-top temperatures are approximately inversely related to cloud-top heights meaning colder clouds almost always occur at higher altitudes further cloud tops with a lot of small-scale variation are likely to be more vigorous than smooth-topped clouds various mathematical schemes or algorithms use these and other properties to estimate precipitation from the ir data the second category of sensor channels is in the  part of the electromagnetic spectrum the frequencies in use range from about 10 gigahertz to a few hundred ghz channels up to about 37ghz primarily provide information on the liquid hydrometeors  rain and drizzle  in the lower parts of clouds with larger amounts of liquid emitting higher amounts of microwave radiant energy channels above 37ghz display emission signals but are dominated by the action of solid hydrometeors  snow graupel etc  to scatter microwave radiant energy satellites such as the   trmm  and the   gpm  mission employ microwave sensors to form precipitation estimates additional sensor channels and products have been demonstrated to provide additional useful information including visible channels additional ir channels water vapor channels and atmospheric sounding retrievals however most precipitation data sets in current use do not employ these data sources 
+satellite data sets 
+the ir estimates have rather low skill at short time and space scales but are available very frequently  15 minutes or more often  from satellites in  earth orbit ir works best in cases of deep vigorous convectionsuch as the tropicsand becomes progressively less useful in areas where stratiform  layered  precipitation dominates especially in mid and high-latitude regions the more-direct physical connection between hydrometeors and microwave channels gives the microwave estimates greater skill on short time and space scales than is true for ir however microwave sensors fly only on low earth orbit satellites and there are few enough of them that the average time between observations exceeds three hours this several-hour interval is insufficient to adequately document precipitation because of the transient nature of most precipitation systems as well as the inability of a single satellite to appropriately capture the typical daily cycle of precipitation at a given location since the late 1990s several algorithms have been developed to combine precipitation data from multiple satellites  sensors seeking to emphasize the strengths and minimize the weaknesses of the individual input data sets the goal is to provide  best  estimates of precipitation on a uniform time space grid usually for as much of the globe as possible in some cases the long-term homogeneity of the dataset is emphasized which is the  standard in other cases the goal is producing the best instantaneous satellite estimate which is the high resolution precipitation product approach in either case of course the less-emphasized goal is also considered desirable one key result of the multi-satellite studies is that including even a small amount of surface gauge data is very useful for controlling the biases that are endemic to satellite estimates the difficulties in using gauge data are that 1  their availability is limited as noted above and 2  the best analyses of gauge data take two months or more after the observation time to undergo the necessary transmission assembly processing and quality control thus precipitation estimates that include gauge data tend to be produced further after the observation time than the no-gauge estimates as a result while estimates that include gauge data may provide a more accurate depiction of the  true  precipitation they are generally not suited for real or near-real-time applications the work described has resulted in a variety of datasets possessing different formats time space grids periods of record and regions of coverage input datasets and analysis procedures as well as many different forms of dataset version designators in many cases one of the modern multi-satellite data sets is the best choice for general use return period 
+see also  
+the likelihood or probability of an event with a specified intensity and duration is called the  or frequency the intensity of a storm can be predicted for any return period and storm duration from charts based on historic data for the location the term 1 in 10year storm describes a rainfall event which is rare and is only likely to occur once every 10years so it has a 10percent likelihood any given year the rainfall will be greater and the flooding will be worse than the worst storm expected in any single year the term 1 in 100year storm describes a rainfall event which is extremely rare and which will occur with a likelihood of only once in a century so has a 1percent likelihood in any given year the rainfall will be extreme and flooding to be worse than a 1 in 10 year event as with all probability events it is possible though unlikely to have two  1 in 100year storms  in a single year role in kppen climate classification 
+main article  
+
+
+
+
+updated kppen-geiger climate map
+
+
+
+
+the kppen classification depends on average monthly values of temperature and precipitation the most commonly used form of the kppen classification has five primary types labeled a through e specifically the primary types are a tropical  b dry  c mild mid-latitude  d cold mid-latitude  and e polar the five primary classifications can be further divided into secondary classifications such as            and  rain forests are characterized by high  with definitions setting minimum normal annual rainfall between 1,750 and 2,000mm  69 and 79in  a tropical savanna is a   located in  to semi climate regions of  and   with rainfall between 750 and 1,270mm  30 and 50in  a year they are widespread on africa and are also found in india the northern parts of south america  and australia the humid subtropical climate zone is where winter rainfall  and sometimes   is associated with large  that the  steer from west to east most summer rainfall occurs during  and from occasional  humid subtropical climates lie on the east side continents roughly between  20 and 40 degrees away from the equator an oceanic  or maritime  climate is typically found along the west coasts at the middle latitudes of all the world s continents bordering cool oceans as well as southeastern australia and is accompanied by plentiful precipitation year-round the mediterranean climate regime resembles the climate of the lands in the  parts of western north america parts of  and  in southwestern  and in parts of central  the climate is characterized by hot dry summers and cool wet winters a steppe is a dry  subarctic climates are cold with continuous  and little precipitation effect on agriculture 
+
+
+
+
+rainfall estimates for southern japan and the surrounding region from july 20 to 27 2009 
+
+precipitation especially rain has a dramatic effect on  all  need at least some water to survive therefore rain  being the most effective means of watering  is important to  while a regular rain pattern is usually vital to healthy  too much or too little rainfall can be harmful even devastating to   can kill crops and increase erosion while overly wet weather can cause harmful  growth  need varying amounts of rainfall to survive for example certain  require small amounts of water while tropical plants may need up to hundreds of inches of rain per year to survive in areas with wet and dry seasons  nutrients diminish and erosion increases during the wet season animals have adaptation and survival strategies for the wetter regime the previous dry season leads to food shortages into the wet season as the crops have yet to mature developing countries have noted that their populations show seasonal weight fluctuations due to food shortages seen before the first harvest which occurs late in the wet season changes due to global warming 
+see also  
+increasing temperatures tend to increase evaporation which leads to more precipitation precipitation has generally increased over land north of 30n from 1900 to 2005 but has declined over the tropics since the 1970s globally there has been no statistically significant overall trend in precipitation over the past century although trends have varied widely by region and over time eastern portions of north and south america northern europe and northern and central asia have become wetter the sahel the mediterranean southern africa and parts of southern asia have become drier there has been an increase in the number of heavy precipitation events over many areas during the past century as well as an increase since the 1970s in the prevalence of droughtsespecially in the tropics and subtropics changes in precipitation and evaporation over the oceans are suggested by the decreased salinity of mid and high-latitude waters  implying more precipitation  along with increased salinity in lower latitudes  implying less precipitation more evaporation or both  over the contiguous united states total annual precipitation increased at an average rate of 6.1 per century since 1900 with the greatest increases within the east north central climate region  11.6 per century  and the south  11.1  hawaii was the only region to show a decrease 9.25  changes due to urban heat island 
+see also  
+
+
+
+
+image of  showing temperature distribution with hot areas appearing white
+
+
+the urban heat island warms cities 0.6 to 5.6c  1.1 to 10.1f  above surrounding suburbs and rural areas this extra heat leads to greater upward motion which can induce additional shower and thunderstorm activity rainfall rates downwind of cities are increased between 48 and 116 partly as a result of this warming monthly rainfall is about 28 greater between 32 to 64 kilometres  20 to 40mi  downwind of cities compared with upwind some cities induce a total precipitation increase of 51 forecasting 
+main articles   and 
+
+
+
+
+example of a five-day rainfall forecast from the 
+
+
+the quantitative precipitation forecast  abbreviated qpf  is the expected amount of liquid precipitation accumulated over a specified time period over a specified area a qpf will be specified when a measurable precipitation type reaching a minimum threshold is forecast for any hour during a qpf valid period precipitation forecasts tend to be bound by synoptic hours such as 0000 0600 1200 and 1800  terrain is considered in qpfs by use of topography or based upon climatological precipitation patterns from observations with fine detail starting in the mid to late 1990s qpfs were used within hydrologic forecast models to simulate impact to rivers throughout the united states  show significant sensitivity to humidity levels within the  or in the lowest levels of the atmosphere which decreases with height qpf can be generated on a quantitative forecasting amounts or a qualitative forecasting the  basis radar imagery forecasting techniques show higher  than model forecasts within six to seven hours of the time of the radar image the forecasts can be verified through use of  measurements  estimates or a combination of both various skill scores can be determined to measure the value of the rainfall forecast see also 
+
+
+
+ the concept of rain-making bacteria  pre showers in the  states of  and  that help in the ripening of mangoes  an unusual  in which  falls while the sun is shining  an informal  term for various mixtures of    and  
+references 
+
+
+ karger dirk nikolaus  conrad olaf  bhner jrgen  kawohl tobias  kreft holger  soria-auza rodrigo w  zimmermann niklaus  linder h peter  michael kessler  2016-07-01   climatologies at high resolution for the earth land surface areas        glossary of meteorology  2009 retrieved 2009-01-02  scott sistek  december 26 2015    retrieved january 18 2016 ^   chowdhury s guide to planet earth  2005   wested retrieved 2006-10-24 ^   jim lochner  1998     retrieved 2009-01-16  emmanouil n anagnostou  2004   a convective stratiform precipitation classification algorithm for volume scanning weather radar observations   cambridge university press 11  4  291300      a.j dore  m mousavi-baygi  r.i smith  j hall  d fowler  t.w choularton  june 2006   a model of annual orographic precipitation and acid deposition and its application to snowdonia  atmospheric environment 40  18  33163326     ^   robert penrose pearce  2002   academic press p.66   robert a houze jr  1994-06-28   academic press p.348   jan jackson  2008    retrieved 2009-02-07  glossary of meteorology  june 2000    retrieved 2011-01-31  fmi  2007   zentralanstalt fr meteorologie und geodynamik retrieved 2009-02-07  glossary of meteorology  2009    retrieved 2008-12-27  te technology inc  2009   retrieved 2008-12-27  glossary of meteorology  2009    retrieved 2008-12-27  robert fovell  2004    pdf   retrieved 2009-02-07   office spokane washington  2009   retrieved 2009-01-02.cs1 maint  multiple names  authors list  
+ bart van den hurk   eleanor blyth  2008    pdf  knmi archived from   pdf  on 2009-02-25 retrieved 2009-01-02  h edward reiley  carroll l shry  2002   cengage learning p.40  retrieved 2011-01-31   jetstream  2008   retrieved 2009-01-02 ^   michael pidwirny  2008   physical geography retrieved 2009-01-01  paul sirvatka  2003    retrieved 2009-01-01    2009    retrieved 2008-12-27 ^     j s 0guntoyinbo and f 0 akintola  1983    pdf  iahs publication number 140 retrieved 2008-12-27 ^   robert a houze jr  1997   stratiform precipitation in regions of convection  a meteorological paradox   78  10  21792196      norman w junker  2008    retrieved 2009-02-07 ^      alaska air flight service station  2007-04-10    via the internet wayback machine archived from  on 2008-05-01 retrieved 2009-08-29    s  retrieved 2007-03-20  weatherquestions.com  retrieved 2007-12-08  glossary of meteorology  2009    retrieved 2009-07-15  ryan jewell   julian brimelow  2004-08-17    pdf  retrieved 2009-07-15  national severe storms laboratory  2007-04-23    retrieved 2009-07-15  julian c brimelow  gerhard w reuter   eugene r poolman  october 2002   modeling maximum hail size in alberta thunderstorms  weather and forecasting 17  5  10481062      jacque marshall  2000-04-10    retrieved 2009-07-15 ^   m klesius  2007   the mystery of snowflakes  national geographic 211  1  20   william j broad  2007-03-20   new york times retrieved 2009-07-12  jennifer e lawson  2001   portage   main press p.39  retrieved 2009-06-28  kenneth g libbrecht  2006-09-11    retrieved 2009-06-28  john roach  2007-02-13    news retrieved 2009-07-14  kenneth libbrecht  winter 20042005    pdf  american educator archived from   pdf  on 2008-11-28 retrieved 2009-07-14  glossary of meteorology  june 2000    retrieved 2010-01-21  kenneth g libbrecht  2001    pdf  engineering   science   1  12 retrieved 2010-01-21 ^   b geerts  2002    retrieved 2007-11-27  david roth  2006    pdf   retrieved 2006-10-22  glossary of meteorology  2009    retrieved 2009-01-02  toby n carlson  1991   routledge p.216  retrieved 2009-02-07  diana leone  2002   honolulu star-bulletin retrieved 2008-03-19  western regional climate center  2002   retrieved 2008-03-19  paul e lydolph  1985   rowman   littlefield p.333  retrieved 2009-01-02  michael a mares  1999    press p.252  retrieved 2009-01-02  adam ganson  2003    retrieved 2009-02-07  joan von ahn  joe sienkiewicz  greggory mcfadden  april 2005   mariners weather log voluntary observing ship program 49  1  retrieved 2009-07-07  owen hertzman  1988   three-dimensional kinematics of rainbands in midlatitude cyclones abstract  phd thesis     yuh-lang lin  2007   cambridge university press p.405  retrieved 2009-07-07  b geerts  1998    retrieved 2008-12-24  greg byrd  1998-06-03    archived from  on 2009-06-17 retrieved 2009-07-12  karl w birkeland   cary j mock  1996    pdf  mountain research and development international mountain society 16  3  281286    archived from   pdf  on 2009-01-15  glossary of meteorology  2009    retrieved 2008-12-27  costa rica guide  2005   toucanguides retrieved 2008-12-27  michael pidwirny  2008   physicalgeography.net retrieved 2008-12-27  elisabeth m benders-hyde  2003   blue planet biomes retrieved 2008-12-27  mei zheng  2000    retrieved 2008-12-27  s i efe  f e ogban  m j horsfall  e e akporhonor  2005    pdf  journal of applied scientific environmental management 9  1  191195  retrieved 2008-12-27  c d haynes  m g ridpath  m a j williams  1991   taylor   francis p.90  retrieved 2008-12-27 ^   marti j van liere eric-alain d ategbo jan hoorweg adel p den hartog and joseph g a j hautvast  1994   british journal of nutrition cambridge university press 72  3  479488  cs1 maint  multiple names  authors list  
+   2007    retrieved 2009-01-02    2005    retrieved 2006-05-02  jack williams  2005-05-17    retrieved 2009-02-07    2005-08-09    retrieved 2007-01-18  dr owen e thompson  1996    2009-03-05 at the  channel video productions retrieved on 2007-02-11  thinkquest team 26634  1999    2012-10-17 at the  oracle thinkquest education foundation retrieved on 2009-02-16   usgs real-time rainfall data at waialeale raingauge retrieved 2008-12-11    retrieved on 2008-02-29   office northern indiana  2009   retrieved 2009-01-02  chris lehmann  2009   central analytical laboratory retrieved 2009-01-02   office   2009   retrieved 2009-01-02    2009   retrieved 2009-01-01  discovery school  2009   discovery education archived from  on 2008-08-28 retrieved 2009-01-02   colorado climate center 2009 retrieved 2009-01-02  the globe program  2009   retrieved 2009-01-02    2009   retrieved 2009-01-01  glossary of meteorology  2009    retrieved 2009-07-16    2012   retrieved 2014-01-21  c kidd  g.j huffman  2011   global precipitation measurement   18  3  334353      f.j tapiador f.j turk w petersen a.y hou e garcia-ortega l.t machado c.f angelis p salio c kidd g.j hffman m de castro  2012   global precipitation measurement methods datasets and applications  atmospheric research 104-105  7097   cs1 maint  multiple names  authors list  
+   retrieved 2014-01-21  glossary of meteorology  june 2000    retrieved 2009-01-02  glossary of meteorology  june 2000    retrieved 2009-01-02  boulder area sustainability information network  2005   boulder community network retrieved 2009-01-02  peel m c and finlayson b l and mcmahon t a  2007   hydrol earth syst sci 11  5  16331644  cs1 maint  multiple names  authors list    direct   
+ susan woodward  1997-10-29    archived from  on 2008-02-25 retrieved 2008-03-14  susan woodward  2005-02-02    archived from  on 2008-02-25 retrieved 2008-03-16    encyclopdia britannica online 2008 retrieved 2008-05-14  michael ritter  2008-12-24    archived from  on 2008-10-14 retrieved 2008-03-16  lauren springer ogden  2008  plant-driven design timber press p.78   michael ritter  2008-12-24    archived from  on 2009-08-05 retrieved 2009-07-17  brynn schaffner   kenneth robinson  2003-06-06   west tisbury elementary school retrieved 2008-04-15  michael ritter  2008-12-24    archived from  on 2008-05-25 retrieved 2008-04-16    2010   commonwealth of australia archived from  on 2007-02-18 retrieved 2010-01-15  robert burns  2007-06-06    archived from  on 2010-06-20 retrieved 2010-01-15  james d mauseth  2006-07-07    retrieved 2010-01-15    1993   university of michigan press pp 388  retrieved on 2008-12-27  climate change division  2008-12-17    retrieved 2009-07-17  dale fuchs  2005-06-28   london   retrieved 2007-08-02    2002-06-18    archived from  on march 16 2010 retrieved 2009-07-17  jack s bushong  1999    pdf   retrieved 2008-12-31  daniel weygand  2008    pdf   western region retrieved 2008-12-31  noreen o schwein  2009    retrieved 2008-12-31  christian keil  andreas rpnack  george c craig   ulrich schumann  2008-12-31   geophysical research letters 35  9  l09812      p reggiani   a h weerts  2007   journal of hydrometeorology 9  1  7695     retrieved 2008-12-31  charles lin  2005    pdf  achieving technological innovation in flood forecasting project retrieved 2009-01-01 
+
+external links 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

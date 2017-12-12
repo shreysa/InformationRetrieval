@@ -1,0 +1,161 @@
+several terms redirect here for other uses see  and  not to be confused with  or  
+
+
+
+the apsides indicate the nearest and furthest points of an orbiting body around its host 
+
+
+
+
+
+
+
+example of periapsis and apoapsis with two large bodies in elliptical orbits around their center of mass
+
+
+an apsis     plural apsides  greek    is an extreme point in an object s  the word comes via latin from greek and is  with  for  about a larger body there are two apsides named with the prefixes peri  from   peri  meaning  near  and ap or apo  from    ap  meaning  away from  added to a reference to the thing being orbited 
+for a body orbiting the  the point of least distance is the    and the point of greatest distance is the    the terms become periastron and apastron when discussing orbits around other stars for any satellite of  including the  the point of least distance is the perigee   and greatest distance the apogee for objects in  orbit the point of least distance is the pericynthion   and the greatest distance the apocynthion   perilune and apolune are also used for any orbits around a center of mass there are the terms periapsis and apoapsis  or apapsis  pericenter and apocenter are equivalent alternatives 
+a straight line connecting the periapsis and apoapsis is the line of apsides this is the major axis of the  its greatest diameter for a two-body system the  of the system lies on this line at one of the two  of the ellipse when one body is sufficiently larger than the other it may be taken to be at this focus however whether or not this is the case both bodies are in  elliptical orbits each having one focus at the system s center of mass with their respective lines of apsides being of length inversely proportional to their masses historically in  apsides were measured from the center of the earth however in the case of the moon the center of mass of the earthmoon system or  as the common focus of both the moon s and earth s orbits about each other is about 75 of the way from earth s center to its surface in  the apsis technically refers to the distance measured between the  of the central and orbiting body however in the case of  the family of terms are commonly used to refer to the orbital  of the spacecraft from the surface of the central body  assuming a constant standard reference radius  
+
+
+contents
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+mathematical formulae 
+
+
+
+
+   point f is at the pericenter point h is at the apocenter and the red line between them is the line of apsides
+
+
+these  characterize the pericenter and apocenter of an orbit 
+
+pericenter  maximum speed  at minimum  pericenter  distance 
+apocenter  minimum speed  at maximum  apocenter  distance 
+
+while in accordance with   based on the conservation of   and the conservation of energy these two quantities are constant for a given orbit 
+
+ 
+ 
+
+where 
+
+a is the  equal to 
+ is the 
+e is the  defined as
+
+
+
+
+
+note that for conversion from heights above the surface to distances between an orbit and its primary the radius of the central body has to be added and conversely the  of the two limiting distances is the length of the semi-major axis a the  of the two distances is the length of the  b the geometric mean of the two limiting speeds is
+
+
+
+which is the speed of a body in a circular orbit whose radius is  terminology 
+the words  pericenter  and  apocenter  are often seen although periapsis apoapsis are preferred in technical usage various related terms are used for other  the gee  helion  and astron  and galacticon  forms are frequently used in the astronomical literature when referring to the earth sun stars and the galactic center respectively the suffix jove  is occasionally used for jupiter while saturnium  has very rarely been used in the last 50 years for saturn the gee  form is commonly used as a generic  closest approach to planet  term instead of specifically applying to the earth during the  the terms pericynthion and apocynthion  referencing cynthia an alternative name for the greek moon goddess   were used when referring to the  regarding black holes the term peri apomelasma  from a greek root  was used by physicist  in 1998 before peri aponigricon  from a latin  appeared in the scientific literature in 2002 terminology graph 
+the following suffixes are added to peri and apo to form the terms for the nearest and farthest orbital distances from these objects 
+
+perihelion and aphelion of the earth 
+
+for the orbit of the earth around the sun the time of apsis is often expressed in terms of a time relative to seasons since this determines the contribution of the elliptical orbit to seasonal variations the variation of the seasons is primarily controlled by the annual cycle of the elevation angle of the sun which is a result of the tilt of the axis of the earth measured from the  the earth s  and other orbital elements are not constant but vary slowly due to the perturbing effects of the planets and other objects in the solar system see  on a very long time scale the dates of the perihelion and of the aphelion progress through the seasons and they make one complete cycle in 22,000 to 26,000 years there is a corresponding movement of the position of the stars as seen from earth that is called the   this is closely related to the  
+currently the earth reaches perihelion in early january approximately 14 days after the  at perihelion the earth s center is about 69999832900000000000.98329   au  or 147,098,070km  91,402,500mi  from the sun s center the earth reaches aphelion currently in early july approximately 14 days after the  the aphelion distance between the earth s and sun s centers is currently about 70111520976511193971.01671au or 152,097,700km  94,509,100mi  astronomers commonly express the timing of perihelion relative to the  not in terms of days and hours but rather as an angle of orbital displacement the so-called  for the orbit of the earth this is called the longitude of perihelion and in 2000 was about 282.895 by the year 2010 this had advanced by a small fraction of a degree to about 283.067 the dates and times of the perihelions and aphelions for several past and future years are listed in the following table 
+
+planetary perihelion and aphelion 
+the following table shows the distances of the  and  from the sun at their perihelion and aphelion 
+the following chart shows the range of distances of the planets dwarf planets and  from the sun 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+distances of selected bodies of the  from the sun the left and right edges of each bar correspond to the  and  of the body respectively hence long bars denote high  the radius of the sun is 0.7 million km and the radius of jupiter  the largest planet  is 0.07 million km both too small to resolve on this image 
+the images below show the perihelion  green dot  and aphelion  red dot  points of the inner and outer planets 
+perihelion and aphelion points
+
+
+
+
+
+
+the perihelion and aphelion points of the  of the solar system
+
+
+
+
+
+
+
+
+
+the perihelion and aphelion points of the  of the solar system
+
+
+
+
+see also
+
+
+  dictionary.com  since the sun  in greek begins with a vowel  h is considered a vowel in greek  the final o in  apo  is omitted from the prefix the pronunciation  ap-helion  is given in many dictionaries  pronouncing the  p  and  h  in separate syllables however the pronunciation   is also common  e.g mcgraw hill dictionary of scientific and technical terms 5th edition 1994 p 114  since in late greek  p  from  followed by the  h  from  becomes phi  thus the greek word is   see for example walker john a key to the classical pronunciation of greek latin and scripture proper names townsend young 1859  page 26  many  dictionaries give both pronunciations
+^      nasa retrieved 30 may 2017   glossary retrieved october 16 2009  r schodel t ott r genzel r hofmann m lehnert a eckart n mouawad t alexander m.j reid r lenzen m hartung f lacombe d rouan e gendron g rousset a.-m lagrange w brandner n ageorges c lidman a.f.m moorwood j spyromilio n hubin and k.m menten  closest star seen orbiting the supermassive black hole at the centre of the milky way  nature 419 694696  17 october 2002      data.giss.nasa.gov   archived from  on 2009-04-29 retrieved 2012-07-09  calculated by solex 11 
+ nasa planetary comparison chart 
+
+
+external links 
+
+
+ photographic size comparison perseus.gr
+ photographic size comparison perseus.gr
+ usno.navy.mil
+
+
+
+
+
+
+
+

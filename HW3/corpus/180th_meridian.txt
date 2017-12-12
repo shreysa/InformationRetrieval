@@ -1,0 +1,54 @@
+ anti-meridian  redirects here for the brave saint saturn album see  for ante meridiem  am  the time before midday see  
+
+
+
+180th meridian
+
+
+
+
+
+
+
+the international date line zigzags around the 180th meridian 
+
+the 180th meridian or antimeridian is the  180 east or west of the  with which it forms a  dividing the earth into the  and  it is common to both east  and west longitude it is used as the basis for the  because it mostly passes through the open waters of the  however the meridian passes through  and  as well as  starting at the  and heading south to the  the 180th meridian passes through 
+
+
+
+
+
+
+
+
+
+180 meridian  
+
+
+the meridian also passes between  but not particularly close to 
+
+the  and the  of  
+between  and the  of  
+between the  and the  also of  
+the only place where roads cross this meridian and where there are buildings very close to it is in fiji software representation problems 
+many geographic software libraries or data formats project the world to a rectangle  very often this rectangle is split exactly at the 180th meridian this often makes it non-trivial to do simple tasks  like representing an area or a line  over the 180th meridian some examples 
+
+the  specification strongly suggests splitting geometries so that neither of their parts cross the antimeridian in  areas  like the boundary of russia  are split at the 180th meridian 
+see also
+
+
+
+ the word antimeridian can also mean the meridian opposite to any given meridian e.g  is the antimeridian of    
+
+
+
+
+
+
+
+
+
+
+
+
+

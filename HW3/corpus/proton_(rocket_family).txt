@@ -1,0 +1,77 @@
+
+proton  russian     formal designation  ur-500  is an  used for both commercial and russian government space launches the first proton  was launched in 1965 modern versions of the launch system are still in use as of 2017 making it one of the most successful heavy boosters in the history of spaceflight all protons are built at the  plant in moscow transported to the  brought to the launch pad horizontally and raised into vertical position for launch as with many soviet rockets the names of recurring payloads became associated with the proton the moniker  proton  originates from a series of  which were among the rocket s first payloads during the cold war it was designated the d-1 d-1e or sl-12 sl-13 by western intelligence agencies launch capacity to  is about 22.8   50,000lb  geostationary transfer capacity is about 6.3 tonnes  14,000lb   are marketed by   ils  the rocket is intended to be retired before 2030 in january 2017 the proton was temporarily grounded due to the manufacturer  having substituted a heat-resistant alloy in the engines with a cheaper metal 
+
+
+contents
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+history 
+proton initially started its life as a  super   it was designed to launch a 100  or larger   over a distance of 13,000km it was hugely oversized for an icbm and was never deployed in such a capacity it was eventually used as a space  it was the brainchild of  s design bureau as a foil to  s  rocket whose purpose was to send a two-man  spacecraft around the moon  korolev openly opposed proton and chelomei s other designs for their use of toxic propellants a rushed development program led to dozens of failures between 1965 and 1972 proton did not complete its state trials until 1977 at which point it was judged to have a higher than 90 reliability proton s design was kept secret until 1986 with the public being only shown the upper stages in film clips and photographs and the first time the complete vehicle was shown to the outside world happened during the televised launch of  proton launched the unmanned soviet circumlunar flights and was intended to have launched the first soviet  spaceflights before the united states flew the  mission proton launched the  space stations the  core segment and expansion modules and both the  and  modules of the  proton also launches commercial  most of them being managed by  the first ils proton launch was on 9 april 1996 with the launch of the    since 1994 proton has earned  4.3billion for the russian space industry and by 2011 this figure is expected to rise to  6billion proton 8k82k 
+main article  
+the   8k82k version is now usually called  proton k  it is fuelled by very toxic  and  these are  fuels which ignite on contact avoiding the need for an ignition system and can be stored at ambient temperatures this avoids the need for components that are tolerant of low temperatures and allows the rocket to remain on the pad indefinitely  other launchers with such capability include the u.s   and  the chinese  and  the soviet ukrainian  launchers the soviet russian  and  launchers and the european ariane 1 to  launchers  in contrast  need periodic replenishment as they boil off the fourth stage has multiple variants depending on the mission the simplest  was used for interplanetary missions blok d had no guidance module depending on the probe to control flight three different blok dm versions  dm dm2 and dm-2m  were for high earth orbits the blok d dm were unusual in that the fuel was stored in a toroidal tank around the engine and behind the oxidizer tank the initial proton tests in 196566 only used the first two stages of the booster the complete four-stage vehicle being flown for the first time in 1967 when the soviet space station program began in 1971 protons began being flown with the blok d removed for use as a heavy-lift leo launcher proton-k payloads including all of the soviet union s   almost all  modules  with the exception of the  which was launched on the united states   and the  and  modules of the  it was intended to launch the manned  prior to the cancellation of that programme although a few non-manned flights of spacecraft was fulfilled also it was intended for proposed in the 1970s  spaceplane that never realised 
+proton-m 
+main article  
+
+
+
+
+
+
+proton-m part being rotated to vertical in the background the mobile service tower can be observed
+
+
+
+
+the initial version of proton m could launch 33.2 tonnes  6,6007,100lb  into  or 5.5 tonnes  12,000lb  into a  it could place up to 22 tonnes  49,000lb  in low earth orbit with a 51.6-degree inclination the orbit of the international space station  iss  the proton m s improvements included lower stage modifications to reduce structural mass increase thrust and fully use propellants generally a     meaning breeze  storable propellant upper stage is used instead of the  or  stage removing the need for multiple fuel supplies and oxygen top-off due to boiling  the proton-m also flew with a blok-dm upper stage efforts were also made to reduce dependency on foreign  usually ukrainian  component suppliers proton launch vehicles and briz-m upper stages are designed and built by khrunichev state research and production space center  khrunichev  in moscow the majority owner of international launch services  ils  the center is home to all engineering assembly and test functions of proton production with the recent consolidation of the russian space enterprises khrunichev has direct oversight and control of up to 70 of all proton manufacturing from suppliers to manufacturers the consolidation directly supports khrunichevs ongoing efforts for vertical integration of proton production an enhanced variant the phase iii proton-m briz-m launch vehicle was flight proven on the russian federal dual mission of express am-44 and express md-1 in february 2009 and performed its first commercial launch in march 2010 with the echostar xiv satellite the proton-m briz-m phase iii configuration provides 6150kg of gto performance an increase of 1150kg over the original proton-m briz-m while maintaining the fundamental design configuration on 6 august 2012 the russian federal space agency lost a russian and an indonesian communications satellite in an attempt to launch them into orbit on a proton-m due to technical difficulties with the last stage on 2 july 2013 a proton-m launching three  navigation satellites experienced a failure reminiscent of the 1960s disasters shortly after liftoff when the booster crashed near lc-39 at baikonour ending a 30-year unbroken stretch without a first stage failure  all future proton flights were suspended pending investigation the accident was eventually determined to be caused by the rate gyro package having been installed upside-down due to the difficulty of installing the package incorrectly it was widely suspected that it had been done deliberately by a disgruntled or drunk worker at the khrunichev plant on 15 may 2014 a proton-m briz-m carrying an ekspress satellite suffered a third stage failure from a bad turbopump bearing debris fell in manchuria on 21 october another ekspress satellite was left in a useless orbit when the briz stage cut off 24 seconds too early on 16 may 2015 a  communications satellite failed to orbit due to another third stage malfunction the eighth proton failure since 2010 khrunichev has initiated development of a set of phase iv enhancements in order to keep pace with market demands and the mass growth trends of commercial satellites the implementation of phase iv proton briz-m enhancements were completed in 2016 the payload mass performance for phase iv has been increased to 6320kg to a reference gto orbit with 1500m s of residual delta v to gso 
+launches 
+main article  
+future developments 
+significant upgrades were temporarily put on hold following announcement of the new  launch vehicle the single largest upgrade was the kvrb stage this  stage would have greatly increased capacity the engine was developed successfully and the stage as a whole had progressed to hardware however as kvrb is noticeably larger than blok d the vehicle s aerodynamics flight control software and possibly electronics would have to be reevaluated in addition the launch pad can supply existing protons with common hypergolic fuels from single sources the upper stages in particular are fed by common loading pipes running along the rocket switching to a stage with different fuels requires the addition of extra support articles  switching to cryogens requires that such support articles top off the stage periodically 
+heavy variants of angara will be simpler and cheaper than proton  and like the  rocket will not use hypergolic fuels  instead it will use the same  fuel as that used on the   they will also be designed from the start to accept a  stage and will already have a lox supply at the pad  only a hydrogen supply will be called upon however delays in angara development mean that protons will continue to fly for some time 
+
+^   
+    international launch services   flickr 5 september 2005  clark stephen  june 9 2016   spaceflightnow.com   international launch services   anatoly zak   www.planetary.org retrieved 2017-01-26   spaceflight101.com retrieved 2017-02-24   international launch services   ilslaunch.com retrieved 13 september 2014   khruhichev 29 july 2010   ilslaunch.com retrieved 13 september 2014    pdf  4 march 2011 retrieved 13 september 2014   latimesblogs.latimes.com retrieved 13 september 2014   russian space web 2 july 2013   ilslaunch.com retrieved 13 september 2014 
+
+external links 
+
+
+ at 
+
+
+
+ astronautix 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,34 @@
+for other uses see  
+
+drizzle is a light liquid  consisting of liquid  drops smaller than those of   generally smaller than 0.5mm  0.02in  in diameter drizzle is normally produced by low   and  precipitation rates from drizzle are on the order of a millimetre per day or less at the ground owing to the small size of drizzle drops under many circumstances drizzle largely evaporates before reaching the surface and so may be undetected by observers on the ground the  code for drizzle is dz and for freezing drizzle is fzdz 
+
+
+contents
+
+
+
+
+
+
+
+
+
+
+
+effects 
+while most drizzle has only a minor immediate impact upon humans  can lead to treacherous conditions freezing drizzle occurs when supercooled drizzle drops land on a surface whose temperature is below freezing these drops immediately freeze upon impact leading to the buildup of sheet ice  sometimes called   on the surface of roads occurrence 
+drizzle tends to be the most frequent form of precipitation over large areas of the world s oceans particularly in the colder regions of the  these regions are dominated by shallow marine  and trade wind  clouds which exist entirely within the marine  despite the low rates of surface accumulation it has become apparent that drizzle actually exerts a major influence over the cloud structure coverage and radiative properties in these regions this has motivated scientists to design more sophisticated sensitive instruments such as high frequency  that can detect drizzle these studies have shown that the quantity of drizzle is strongly linked to cloud morphology and tends to be associated with updrafts within the marine  increased amounts of drizzle tend to be found in marine clouds that form in clean airmasses that have low concentrations of cloud droplets this interconnection between clouds and drizzle can be explored using high resolution numerical modelling such as  influence of aerosols 
+it has been hypothesized that increasing the amounts of  in the atmosphere through human activities may lead to a suppression of drizzle according to this hypothesis because drizzle can be an effective means of removing moisture from a cloud its suppression could help to increase the thickness coverage and longevity of marine  clouds this would lead to increased cloud  on the regional to global scale and a cooling effect on the atmosphere estimates using complex global  suggest that this effect may be partially masking the effects of  increases on the global surface temperature however it is not clear that the representation of the chemical and physical processes needed to accurately simulate the interaction between aerosols clouds and drizzle in our current climate models is sufficient to fully understand the global impacts of changes in particulates see also
+
+
+
+ national weather service observing handbook no 8 aviation weather observations for supplementary aviation weather reporting stations  sawrs  manual observations october 1996
+ spence charles f  2006    p.294  retrieved 13 october 2017  henson robert  guides rough  2007   penguin p.63  retrieved 13 october 2017   eurekalert.org 2005-06-30 retrieved 2013-08-25 
+
+
+external links 
+
+
+
+
+

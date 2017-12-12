@@ -1,0 +1,481 @@
+this page is about the current warming of the earth s climate system   can also refer to climate trends at any point in earth s history for other uses see  
+
+
+
+global mean surface-temperature change from 1880 to 2016 relative to the 19511980 mean the black line is the global annual mean and the red line is the five-year  line the blue  show a 95 confidence interval 
+
+global warming also referred to as climate change is the observed century-scale rise in the average temperature of the  s  and its related effects multiple lines of scientific evidence show that the climate system is warming many of the observed changes since the 1950s are unprecedented in the  which extends back to the mid-19th century and in   covering thousands of years in 2013 the   ipcc   concluded that  it is extremely likely that human influence has been the  of the observed warming since the mid-20th century  the largest human influence has been the emission of  such as   and   projections summarized in the report indicated that during the 21st century the global surface temperature is likely to rise a further 0.3 to 1.7c  0.5 to 3.1f  in the lowest  and 2.6 to 4.8c  4.7 to 8.6f  in the highest emissions scenario these findings have been recognized by the national science academies of the major industrialized nations and  future climate change and associated impacts will differ from  anticipated  include increasing global temperatures  changing  and  in the  warming is expected to be greater over land than over the oceans and  with the continuing   and  other likely changes include more frequent  events such as   heavy  with  and heavy     and  due to shifting temperature regimes effects significant to humans include the threat to  from decreasing crop yields and the  due to  because the climate system has a large   and greenhouse gases will remain in the atmosphere for a long time many of these effects will persist for not only decades or centuries but for tens of thousands of years to come possible societal responses to global warming include  by emissions reduction  to its effects building systems  to its effects and possible future  most countries are parties to the   unfccc  whose ultimate objective is to  parties to the unfccc have agreed that deep cuts in emissions are required and that global warming should be limited to well below 2.0c  3.6f  compared to pre-industrial levels with efforts made to limit warming to 1.5c  2.7f  public reactions to global warming and concern about its effects are also increasing a global 2015  report showed that a  of 54 of all respondents asked consider it  a very serious problem  significant regional differences exist with  and   whose economies are responsible for   among the least concerned 
+
+
+contents
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+observed temperature changes
+main article  
+
+
+
+
+annual  thin lines  and five-year lowess smooth  thick lines  for the temperature anomalies averaged over the earths land area and sea surface temperature anomalies  blue line  averaged over the part of the ocean that is free of ice at all times  open ocean  
+
+
+
+
+
+two millennia of mean surface temperatures according to different reconstructions from  each smoothed on a decadal scale with the  overlaid in black 
+
+in the period from 1880 to 2012 the global average  land and ocean  surface temperature has increased by 0.85  0.65 to 1.06  c multiple independently produced datasets confirm in the period from 1906 to 2005  rose by 70022738900000000000.740.18c the rate of warming almost doubled in the last half of that period  70022732799999999990.130.03cper decade against 70022732199999999990.070.02cper decade  although the popular press often reports the increase of the average near-surface atmospheric temperature as the measure of global warming most of the additional energy stored in the climate system since 1970 has gone into the oceans the rest has melted ice and warmed the continents and the  since 1979 the average temperature of the lower  has increased between 0.12 and 0.135c  0.216 and 0.243f perdecade  confirm  show the temperature to have been relatively stable over the  before 1850 with regionally varying fluctuations such as the  and the  the warming evident in the instrumental temperature record is consistent with a wide range of observations as documented by many independent scientific groups examples include  widespread melting of snow and land ice increased  increased  and the earlier  of spring events e.g the  of plants the  that these changes could have occurred by chance is virtually zero regional trends and short-term fluctuations
+temperature increases vary a lot across the globe since 1979 land temperatures have increased about twice as fast as ocean temperatures  70022733999999999990.25cper decade against 70022732799999999990.13cper decade  ocean temperatures increase more slowly than land temperatures because of the larger effective  of the oceans and because oceans lose more heat by evaporation since the  in the eighteenth century the temperature difference between the  has increased due to melting of sea ice and snow in the north in the past one hundred years average arctic temperatures have been increasing at almost twice the rate of the rest of the world  however arctic temperatures are also highly variable although more greenhouse gases are emitted in the northern than in the southern hemisphere this fact does not contribute to the difference in warming because the major greenhouse gases persist long enough to diffuse within as well as between the hemispheres the  of the oceans and the slow responses of other indirect effects occasion the climate to take centuries or longer to adjust to past changes in  one  study concluded that if greenhouse gases were stabilized at year 2000 levels surface temperatures would still increase by about one-half degree celsius and another found that if they were stabilized at 2005 levels surface warming could exceed a whole degree celsius some of this surface warming will be driven by past natural forcings which are still seeking  one study using a highly simplified climate model indicates these past natural forcings may account for as much as 64 of the committed 2050 surface warming and their influence will fade with time compared to the human contribution global temperature is subject to short-term fluctuations that overlay long-term trends and can temporarily mask them the relative stability in surface temperature from 2002 to 2009 which has since been dubbed the  by the media and some scientists is an example of such an episode 2015 updates to account for differing methods of measuring ocean surface temperature measurements show a positive trend over the recent decade warmest years vs overall trend
+sixteen of the seventeen warmest years on record have occurred since 2000 while record-breaking years attract considerable public interest individual years are less significant than the overall trend some climatologists have criticized the attention that the popular press gives to  warmest year  statistics in particular ocean oscillations such as the   enso  can cause temperatures of a given year to be abnormally warm or cold for reasons unrelated to the overall trend of climate change  stated  the long-term trends or the expected sequence of records are far more important than whether any single year is a record or not 
+initial causes of temperature changes  external forcings 
+
+
+
+
+co2 concentrations over the last 400,000 years 
+
+
+greenhouse effect schematic showing energy flows between space the atmosphere and earth s surface energy exchanges are expressed in watts per square metre  w m2  
+
+
+main article  
+by itself the climate system may generate random changes in global temperatures for years to decades at a time but long-term changes emanate only from so-called external forcings these forcings are  external  to the climate system but not necessarily external to earth examples of external forcings include changes in the composition of the atmosphere  e.g increased concentrations of     eruptions and  around the sun greenhouse gases
+main articles      and 
+see also   and 
+the greenhouse effect is the process by which  and  of  radiation by gases in a planet s  warm its lower atmosphere and surface it was proposed by  in 1824 discovered in 1860 by  was first investigated quantitatively by  in 1896 and its scientific description was developed in the 1930s through 1960s by  
+
+
+
+annual world greenhouse gas emissions in 2010 by sector 
+
+
+percentage share of global cumulative energy-related co2 emissions between 1751 and 2012 across different regions 
+
+
+on earth an atmosphere containing naturally occurring amounts of greenhouse gases causes air temperature near the surface to be about 33c  59f  warmer than it would be in their absence without the earth s atmosphere the earth s average temperature would be well below the freezing temperature of water the major greenhouse gases are  which causes about 3670 of the greenhouse effect    co2  which causes 926    ch4  which causes 49  and   o3  which causes 37 clouds also affect the radiation balance through  similar to greenhouse gases human activity since the industrial revolution has increased the amount of greenhouse gases in the atmosphere leading to increased  from co2 methane   and  according to work published in 2007 the  of co2 and methane had increased by 36 and 148 respectively since 1750 these levels are much higher than at any time during the last 800,000 years the period for which reliable data has been extracted from  less direct geological evidence indicates that co2 values higher than this were last seen about 20 million years ago  burning has produced about three-quarters of the increase in co2 from human activity over the past 20 years the rest of this increase is caused mostly by changes in land-use  another significant non-fuel source of anthropogenic co2 emissions is the  of  for  production a chemical process which releases co2 estimates of global co2 emissions in 2011 from fossil fuel combustion including cement production and  was 34.8 billion tonnes  9.5  0.5 pgc  an increase of 54 above emissions in 1990 coal burning was responsible for 43 of the total emissions oil 34 gas 18 cement 4.9 and gas flaring 0.7 in may 2013 it was reported that readings for co2 taken at the world s primary benchmark site in  surpassed 400  according to professor  this is likely the first time co2 levels have been this high for about 4.5 million years monthly global co2 concentrations exceeded 400 ppm in march 2015 probably for the first time in several million years on 12 november 2015  reported that human-made carbon dioxide  above levels not seen in hundreds of thousands of years  currently about half of the carbon dioxide released from the burning of fossil fuels is not absorbed by vegetation and the oceans and remains in the atmosphere 
+
+
+
+global  by country 
+
+over the last three decades of the twentieth century  per capita and  were the main drivers of increases in greenhouse gas emissions co2 emissions are continuing to rise due to the burning of fossil fuels and land-use change 71 emissions can be  attributions of emissions due to land-use change are subject to considerable uncertainty 289
+ estimates of changes in future emission levels of greenhouse gases have been projected that depend upon uncertain economic   and natural developments in most scenarios emissions continue to rise over the century while in a few emissions are reduced fossil fuel reserves are abundant and will not limit carbon emissions in the 21st century emission scenarios combined with modelling of the  have been used to produce estimates of how atmospheric concentrations of greenhouse gases might change in the future using the six ipcc   marker  scenarios models suggest that by the year 2100 the atmospheric concentration of co2 could range between 541 and 970 ppm this is 90250 above the concentration in the year 1750 the popular media and the public often confuse global warming with  i.e the destruction of  by  although there are a few  the relationship between the two is not strong reduced stratospheric ozone has had a slight cooling influence on surface temperatures while increased tropospheric ozone has had a somewhat larger warming effect aerosols and soot
+
+
+
+
+ can be seen as lines in these clouds over the atlantic ocean on the east coast of the united states atmospheric particles from these and other sources could have a large effect on climate through the aerosol indirect effect 
+
+ a gradual reduction in the amount of global direct  at the earth s surface was observed from 1961 until at least 1990  known as aerosols produced by volcanoes and human-made  are thought to be the main cause of this dimming they exert a cooling effect by increasing the reflection of incoming sunlight the effects of the products of fossil fuel combustion co2 and aerosols have partially offset one another in recent decades so that net warming has been due to the increase in non-co2 greenhouse gases such as methane radiative forcing due to aerosols is temporally limited due to the processes that remove aerosols from the atmosphere  gives tropospheric aerosols an  of only about a week while  aerosols can remain for a few years carbon dioxide has a lifetime of a century or more and as such changes in aerosols will only delay climate changes due to carbon dioxide  is second only to carbon dioxide for its contribution to global warming  contribution being estimated at 17 to 20 whereas carbon dioxide contributes 40 to 45 to global warming  in addition to their direct effect by scattering and absorbing solar radiation aerosols have indirect effects on the  sulfate aerosols act as  and thus lead to clouds that have more and smaller cloud droplets these clouds reflect solar radiation more efficiently than clouds with fewer and larger droplets a phenomenon known as the  this effect also causes droplets to be of more uniform size which reduces  and makes the cloud more reflective to incoming sunlight known as the  indirect effects are most noticeable in marine stratiform clouds and have very little radiative effect on convective clouds indirect effects of aerosols represent the largest uncertainty in radiative forcing  may either cool or warm earth s  depending on whether it is airborne or deposited atmospheric soot directly absorbs solar radiation which heats the atmosphere and cools the surface in isolated areas with high soot production such as rural india as much as 50 of surface warming due to greenhouse gases may be masked by  when deposited especially on glaciers or on ice in arctic regions the lower surface  can also directly heat the surface the influences of atmospheric particles including black carbon are most pronounced in the tropics and sub-tropics particularly in asia while the effects of greenhouse gases are dominant in the extratropics and southern hemisphere 
+
+
+
+changes in   tsi  and monthly  numbers since the mid-1970s 
+
+
+
+
+
+contribution of natural factors and human activities to  of climate change radiative forcing values are for the year 2005 relative to the pre-industrial era  1750  the contribution of solar irradiance to radiative forcing is 5 the value of the combined radiative forcing due to increases in the atmospheric concentrations of carbon dioxide  and nitrous oxide 
+
+solar activity
+main article  
+since 1978  has been measured by  these measurements indicate that the sun s radiative output has not increased since then so the warming that occurred in the past 40 years cannot be attributed to an increase in solar energy reaching the earth climate models have been used to examine the role of the sun in recent climate change models are unable to reproduce the rapid warming observed in recent decades when only taking into account variations in solar output and volcanic activity models are however able to simulate the observed 20th century changes in temperature when they include all of the most important external forcings consisting of both human influences and natural forcings another line of evidence for the sun s non-attributability is the differing temperature changes at different levels in the earth s atmosphere according to basic physical principles the greenhouse effect produces warming of the lower atmosphere  the troposphere  but cooling of the upper atmosphere  the stratosphere  if solar variations were responsible for the observed warming warming of both the troposphere and the stratosphere would be expected variations in earth s orbit
+main article  
+the tilt of the earths axis and the shape of its orbit around the sun vary slowly over tens of thousands of years this changes climate by changing the seasonal and latitudinal distribution of incoming  at earth s surface during the last few thousand years this phenomenon contributed to a slow cooling trend at high latitudes of the northern hemisphere during summer a trend that was reversed by greenhouse-gas-induced warming during the 20th century orbital cycles favorable for glaciation are not expected within the next 50,000 years feedback
+main articles   and 
+
+
+
+
+the dark ocean surface reflects only 6 percent of incoming solar radiation instead sea ice reflects 50 to 70 percent 
+
+the climate system includes a range of  which alter the response of the system to changes in external forcings positive feedbacks increase the response of the climate system to an initial forcing while negative feedbacks reduce it there are a range of feedbacks in the climate system including  changes in   snow and ice cover affect how much the earth s surface absorbs or reflects incoming sunlight  clouds and changes in the earth s carbon cycle  e.g the release of carbon from soil  the main negative feedback is the energy the earth s surface  into space as  according to the  if the   as measured in   doubles radiated energy increases by a factor of 16  2 to the 4th power  feedbacks are an important factor in determining the sensitivity of the climate system to increased atmospheric greenhouse gas concentrations other factors being equal a higher  means that more warming will occur for a given increase in greenhouse gas forcing uncertainty over the effect of feedbacks is a major reason why different climate models project different magnitudes of warming for a given forcing scenario more research is needed to understand the role of clouds and carbon cycle feedbacks in climate projections the ipcc projections previously mentioned span the  likely  range  greater than 66 probability based on expert judgement  for the selected emissions scenarios however the ipcc s projections do not reflect the full range of uncertainty the lower end of the  likely  range appears to be better constrained than the upper end an observation based study on future climate change on the  conducted since 1991 in harvard suggests release of about 190 petagrams of soil carbon the equivalent of the past two decades of greenhouse gas emissions from fossil fuel burning until 2100 from the top 1-meter of earth s soils due to changes in microbial communities under elevated temperatures climate models do not account for this possible feedback mechanism climate models
+
+
+
+
+calculations of global warming prepared in or before 2001 from a range of climate models under the  a2 emissions scenario which assumes no action is taken to reduce emissions and regionally divided economic development 
+
+
+projected change in annual mean surface air temperature from the late 20th century to the middle 21st century based on a medium   sres a1b  this scenario assumes that no future policies are adopted to limit greenhouse gas emissions image credit    
+
+
+main article  
+a  is a  of the physical chemical and biological processes that affect the climate system such models are based on scientific disciplines such as  and  as well as physical processes such as  the models may be used to predict a range of variables such as local air movement temperature clouds and other atmospheric properties  ocean temperature  and   ice cover on land and sea  the transfer of heat and moisture from soil and vegetation to the atmosphere  and chemical and biological processes among others although researchers attempt to include as many processes as possible simplifications of the actual climate system are inevitable because of the constraints of available computer power and limitations in knowledge of the climate system results from models can also vary due to different greenhouse gas inputs and the model s climate sensitivity for example the uncertainty in ipcc s 2007 projections is caused by  1  the use of multiple models with differing sensitivity to greenhouse gas concentrations  2  the use of differing estimates of humanity s future greenhouse gas emissions  3  any additional emissions from climate feedbacks that were not included in the models ipcc used to prepare its report i.e greenhouse gas releases from permafrost the models do not assume the climate will warm due to increasing levels of greenhouse gases instead the models predict how greenhouse gases will interact with radiative transfer and other physical processes warming or cooling is thus a result not an assumption of the models clouds and their effects are especially difficult to predict improving the models  representation of clouds is therefore an important topic in current research another prominent research topic is expanding and improving representations of the carbon cycle models are also used to help investigate the  by comparing the observed changes to those that the models project from various natural and human causes although these models do not unambiguously attribute the warming that occurred from approximately 1910 to 1945 to either natural variation or human effects they do indicate that the warming since 1970 is dominated by anthropogenic greenhouse gas emissions the physical realism of models is tested by examining their ability to simulate contemporary or past climates climate models produce a good match to observations of global temperature changes over the last century but do not simulate all aspects of climate not all  are accurately predicted by the climate models used by the ipcc observed  has been faster than that predicted precipitation increased proportionally to atmospheric humidity and hence significantly faster than global climate models predict since 1990 sea level has also risen considerably faster than models predicted it would observed and expected environmental effects
+main article  
+
+
+
+
+projections of global mean sea level rise by parris and others probabilities have not been assigned to these projections therefore none of these projections should be interpreted as a  best estimate  of future sea level rise image credit  noaa 
+
+anthropogenic forcing has likely contributed to some of the observed changes including sea level rise changes in climate   such as the number of warm and cold days   extent  and greening of the  during the 21st century  and snow cover are projected to continue their widespread retreat projections of declines in arctic sea ice vary recent projections suggest that arctic summers could be ice-free  defined as ice extent less than 1 million   as early as 20252030  detection  is the process of demonstrating that climate has changed in some defined  sense without providing a reason for that change detection does not imply attribution of the detected change to a particular cause  attribution  of causes of climate change is the process of establishing the most likely causes for the detected change with some defined level of confidence detection and attribution may also be applied to observed changes in physical ecological and social systems extreme weather
+main articles   and 
+see also  
+changes in regional climate are expected to include greater warming over land with most warming at high northern  and least warming over the  and parts of the north atlantic ocean future changes in  are expected to follow existing trends with reduced precipitation over  land areas and increased precipitation at subpolar latitudes and some  regions projections suggest a probable increase in the frequency and severity of some extreme weather events such as  a 2015 study published in  states 
+
+about 18 of the moderate daily precipitation extremes over land are attributable to the observed temperature increase since pre-industrial times which in turn primarily results from human influence for 2 c of warming the fraction of precipitation extremes attributable to human influence rises to about 40 likewise today about 75 of the moderate daily hot extremes over land are attributable to warming it is the most rare and extreme events for which the largest fraction is anthropogenic and that contribution increases nonlinearly with further warming 
+data analysis of extreme events from 1960 until 2010 suggests that droughts and heat waves appear simultaneously with increased frequency extremely wet or dry events within the  period have increased since 1980 sea level rise
+
+
+
+
+map of the earth with a six-metre sea level rise represented in red 
+
+main articles   and 
+
+
+
+
+sparse records indicate that glaciers have been retreating since the early 1800s in the 1950s measurements began that allow the monitoring of glacial mass balance reported to the   wgms  and the   nsidc  
+
+the sea level rise since 1993 has been estimated to have been on average 2.6mm and 2.9mm per year  0.4mm additionally sea level rise has accelerated from 1995 to 2015 over the 21st century the ipcc projects for a high emissions scenario that global mean  could rise by 5298cm the ipcc s projections are conservative and may underestimate future sea level rise other estimates suggest that for the same period global mean sea level could rise by 0.2 to 2.0 m  0.76.6ft  relative to mean sea level in 1992 widespread  would be expected if several degrees of warming is sustained for millennia for example sustained global warming of more than 2c  relative to pre-industrial levels  could lead to eventual sea level rise of around 1 to 4 m due to thermal expansion of sea water and the melting of glaciers and small  melting of the  could contribute an additional 4 to 7.5m over many thousands of years it has been estimated that we are already committed to a sea-level rise of approximately 2.3 metres for each degree of temperature rise within the next 2,000 years warming beyond the 2c target would potentially lead to rates of sea-level rise dominated by ice loss from  continued co2 emissions from fossil sources could cause additional tens of metres of sea level rise over the next millennia and eventually ultimately eliminate the entire antarctic ice sheet causing about 58 metres of sea level rise ecological systems
+main article  
+
+
+
+
+as the climate change melts sea ice the u.s geological survey projects that two-thirds of  will disappear by 2050 
+
+in terrestrial  the earlier timing of spring events as well as poleward and upward shifts in plant and animal ranges have been linked with high confidence to recent warming future climate change is expected to affect particular ecosystems including    and  it is expected that most ecosystems will be affected by higher atmospheric co2 levels combined with higher global temperatures overall it is expected that climate change will result in the  of many species and reduced diversity of ecosystems increases in atmospheric co2 concentrations have led to an increase in  dissolved co2 increases ocean acidity measured by lower  values between 1750 and 2000 surface-ocean ph has decreased by 0.1 from 8.2 to 8.1 surface-ocean ph has probably not been below 8.1 during the past 2 million years projections suggest that surface-ocean ph could decrease by an additional 0.30.4 units by 2100 future ocean acidification could threaten    and other  of value to society  is projected to increase  by 10 and triple suboxic waters  oxygen concentrations 98 less than the mean surface concentrations  for each 1c of upper ocean warming long-term effects
+main article  
+on the timescale of centuries to millennia the magnitude of global warming will be determined primarily by anthropogenic co2 emissions this is due to carbon dioxide s very long lifetime in the atmosphere stabilizing the global average temperature would require large reductions in co2 emissions as well as reductions in emissions of other greenhouse gases such as methane and nitrous oxide emissions of co2 would need to be reduced by more than 80 relative to their peak level even if this were achieved global average temperatures would remain close to their highest level for many centuries as of 2016 emissions of co2 from burning fossil fuels had stopped increasing but  reports they need to be  reduced to have a real impact on climate change  meanwhile this greenhouse gas continues to accumulate in the atmosphere in that context the  reported that scientific installations analyzing oceanic air detected the excess carbon dioxide in the atmosphere  rose at the highest rate on record in 2015 and 2016  it hs been suggested that this rise in co2 levels is the result of changing absorption patterns of the ocean and land surface in that they may have reached the limit of their ability to absorb carbon dioxide also co2 is not the only factor driving climate change concentrations of atmospheric methane another greenhouse gas rose dramatically between 20062016 for unknown reasons this undermines efforts to combat global warming and there is a risk of an uncontrollable  long-term effects also include a response from the earth s crust due to ice melting and deglaciation in a process called  when land masses are no longer depressed by the weight of ice this could lead to  and increased seismic and volcanic activities tsunamis could be generated by submarine landslides caused by warmer ocean water thawing ocean-floor permafrost or releasing  some world regions such as the french alps already show signs of an increase in landslide frequency large-scale and abrupt impacts
+main article  
+see also  
+climate change could result in global large-scale changes in  and  examples include the possibility for the  to slow or shutdown which in the instance of a shutdown would change weather in europe and north america considerably ocean acidification caused by increased atmospheric concentrations of carbon dioxide and the long-term melting of  which contributes to sea level rise some large-scale changes could occur  i.e over a short time period and might also be  examples of abrupt climate change are the rapid release of methane and carbon dioxide from  which would lead to amplified global warming or the  scientific understanding of abrupt climate change is generally poor the probability of abrupt change for some climate related feedbacks may be low factors that may increase the probability of abrupt climate change include higher magnitudes of global warming warming that occurs more rapidly and warming that is sustained over longer time periods observed and expected effects on social systems
+further information   and 
+see also  
+the  mostly due to warming or shifts in  patterns or both have been detected worldwide production of wheat and maize globally has been impacted by climate change while crop production has increased in some mid-latitude regions such as the uk and northeast china economic losses due to extreme weather events have increased globally there has been a shift from cold to heat-related mortality in some regions as a result of warming livelihoods of  have been altered by climate change and there is emerging evidence of climate change impacts on livelihoods of  in other regions regional impacts of climate change are now observable at more locations than before on all continents and across ocean regions the future social impacts of climate change will be uneven many risks are expected to increase with higher magnitudes of global warming all regions are at risk of experiencing negative impacts low-latitude less developed areas face the greatest risk a study from 2015 concluded that economic growth  gross domestic product  of poorer countries is much more impaired with projected future climate warming than previously thought a  of 56 studies concluded in 2014 that each degree of temperature rise will increase violence by up to 20 which includes fist fights violent crimes civil unrest or wars examples of impacts include 
+
+   will probably be negatively affected in low latitude countries while effects at northern latitudes may be positive or negative global warming of around 4.6c relative to pre-industrial levels could pose a large risk to global and regional food security   generally impacts will be more negative than positive impacts include  the effects of extreme weather leading to injury and loss of life  and indirect effects such as  brought on by  
+habitat inundation
+further information  
+see also  
+in small islands and   as a result of sea level rise is expected to threaten vital infrastructure and human settlements this could lead to issues of  in countries with low-lying areas such as  as well as  for populations in countries such as the  and  economy
+see also  
+estimates based on the ipcc a1b emission scenario from additional co2 and ch4 greenhouse gases released from permafrost estimate associated impact damages by us 43 trillion infrastructure
+continued permafrost degradation will likely result in unstable infrastructure in arctic regions or alaska before 2100 thus impacting roads pipelines and buildings as well as water distribution and cause  possible responses to global warming
+mitigation
+main article  
+
+
+
+
+the graph on the right shows three  pathways  to meet the unfccc s 2c target labelled  global technology   decentralized solutions  and  consumption change  each pathway shows how various measures  e.g improved energy efficiency increased use of renewable energy  could contribute to emissions reductions image credit  pbl  
+
+mitigation of climate change are actions to reduce greenhouse gas emissions or enhance the capacity of carbon sinks to absorb ghgs from the atmosphere there is a large potential for future reductions in emissions by a combination of activities including  and increased   the use of  technologies such as   and   and enhancing carbon sinks through for example  and preventing  a 2015 report by  concluded that transitioning to a  would yield positive return on investments near and long-term trends in the global energy system are inconsistent with limiting global warming at below 1.5 or 2c relative to pre-industrial levels pledges made as part of the  are broadly consistent with having a likely chance  66 to 100 probability  of limiting global warming  in the 21st century  at below 3c relative to pre-industrial levels in limiting warming at below 2c more stringent emission reductions in the near-term would allow for less rapid reductions after 2030 many integrated models are unable to meet the 2c target if pessimistic assumptions are made about the availability of mitigation technologies adaptation
+main article  
+other policy responses include  to climate change adaptation to climate change may be planned either in reaction to or anticipation of climate change or spontaneous i.e without government intervention planned adaptation is already occurring on a limited basis the barriers limits and costs of future adaptation are not fully understood a concept related to adaptation is  which is the ability of a system  human natural or managed  to adjust to climate change  including climate variability and extremes  to moderate potential damages to take advantage of opportunities or to cope with consequences unmitigated climate change  i.e future climate change without efforts to limit greenhouse gas emissions  would in the long term be likely to exceed the capacity of natural managed and human systems to adapt environmental organizations and public figures have emphasized changes in the climate and the risks they entail while promoting adaptation to changes in infrastructural needs and emissions reductions climate engineering
+main article  
+  sometimes called geoengineering or climate intervention  is the deliberate modification of the climate it has been investigated as a possible response to global warming e.g by nasa and the  techniques under research fall generally into the categories  and  although various other schemes have been suggested a study from 2014 investigated the most common climate engineering methods and concluded they are either ineffective or have potentially severe side effects and cannot be stopped without causing rapid climate change discourse about global warming
+political discussion
+main article  
+further information     and  sessions of 
+
+
+
+
+article 2 of the un framework convention refers explicitly to  stabilization of greenhouse gas concentrations  to stabilize the atmospheric concentration of co
+2 emissions worldwide would need to be dramatically reduced from their present level 
+
+most countries in the world are parties to the   unfccc  the ultimate objective of the convention is to prevent dangerous human interference of the climate system as stated in the convention this requires that ghg concentrations are stabilized in the atmosphere at a level where  can adapt naturally to climate change  is not threatened and  can proceed in a sustainable fashion the framework convention was agreed on in 1992 but global emissions have risen since then during negotiations the   a lobbying group in the united nations representing 133 developing nations 4 pushed for a mandate requiring developed countries to   the lead  in reducing their emissions this was justified on the basis that the developed world s emissions had contributed most to the  of ghgs in the atmosphere   i.e emissions per head of population  were still relatively low in developing countries and the emissions of developing countries would grow to meet their development needs 290
+this mandate was sustained in the  to the framework convention 290 which entered into legal effect in 2005 in ratifying the kyoto protocol most developed countries accepted legally binding commitments to limit their emissions these first-round commitments expired in 2012 united states president  rejected the treaty on the basis that  it exempts 80 of the world including major population centres such as china and india from compliance and would cause serious harm to the us economy 5
+at the  held in 2009 at  several unfccc parties produced the  parties associated with the accord  140 countries as of november 2010 9 aim to limit the future increase in global mean temperature to below 70022751499999999992c the 16th conference of the parties  cop16  was held at  in 2010 it produced an agreement not a binding treaty that the parties should take urgent action to reduce greenhouse gas emissions to meet a goal of limiting global warming to 70022751499999999992c above pre-industrial temperatures it also recognized the need to consider strengthening the goal to a global average rise of 70022746499999999991.5c scientific discussion
+see also   and 
+the discussion continues in scientific articles that are peer-reviewed and assessed by scientists who work in the relevant fields and participate in the  the  as of 2013 stated in the  is that it  is extremely likely that human influence has been the dominant cause of the observed warming since the mid-20th century  a 2008 report by the u.s  stated that most scientists by then agreed that observed warming in recent decades was primarily caused by human activities increasing the amount of  in the atmosphere in 2005 the  stated that while the overwhelming majority of scientists were in agreement on the main points some individuals and organizations opposed to the consensus on urgent action needed to reduce greenhouse gas emissions had tried to undermine the science and work of the ipcc national science academies have called on world leaders for policies to cut global emissions in the scientific literature there is a  in recent decades and that the trend is caused mainly by human-induced emissions of greenhouse gases no scientific body of national or international standing  discussion by the public and in popular media
+main articles    and 
+
+
+
+
+global warming was the cover story in this 2007 issue of  magazine
+
+
+the  refers to a variety of disputes substantially more pronounced in the  than in the scientific literature regarding the nature causes and consequences of global warming the disputed issues include the causes of increased  especially since the mid-20th century whether this warming trend is unprecedented or within normal climatic variations whether humankind has contributed significantly to it and whether the increase is completely or partially an artefact of poor measurements additional disputes concern estimates of climate sensitivity predictions of additional warming and what the consequences of global warming will be by 1990  think tanks had begun challenging the legitimacy of global warming as a social problem they  argued that  and asserted that proposed solutions would do more harm than good some people dispute aspects of climate change science organizations such as the   conservative commentators and some companies such as  have challenged ipcc climate change scenarios funded scientists who disagree with the scientific consensus and provided their own projections of the economic cost of stricter controls on the other hand some fossil fuel companies have scaled back their efforts in recent years or even called for policies to reduce global warming global oil companies have begun to acknowledge climate change exists and is caused by human activities and the burning of fossil fuels surveys of public opinion
+main article  
+the global warming problem came to international public attention in the late 1980s polling groups began to track opinions on the subject at first mainly in the united states the longest consistent polling by  in the us found relatively small deviations of 10 or so from 1998 to 2015 in opinion on the seriousness of global warming but with increasing polarization between those concerned and those unconcerned the first major worldwide poll conducted by gallup in 20082009 in 127 countries found that some 62 of people worldwide said they knew about global warming in the advanced countries of north america europe and japan 90 or more knew about it  97 in the u.s 99 in japan  in less developed countries especially in africa fewer than a quarter knew about it although many had noticed local weather changes among those who knew about global warming there was a wide variation between nations in belief that the warming was a result of human activities by 2010 with 111 countries surveyed gallup determined that there had been a substantial decrease since 20072008 in the number of americans and europeans who viewed global warming as a serious threat in the us just a little over half the population  53  viewed it as a serious concern for either themselves or their families  this was 10 points below the 2008 poll  63  latin america had the biggest rise in concern  73 said global warming was a serious threat to their families this global poll also found that people were more likely to attribute global warming to human activities than to natural causes except in the us where nearly half  47  of the population attributed global warming to natural causes a marchmay 2013 survey by  polled 39 countries about global threats according to 54 of those questioned global warming featured top of the perceived global threats in a january 2013 survey pew found that 69 of americans say there is solid evidence that the earth s average temperature has gotten warmer over the past few decades up six points since november 2011 and 12 points since 2009 a 2010 survey of 14 industrialized countries found that  about the danger of global warming was highest in australia norway new zealand and the united states in that order correlating positively with  etymology
+in the 1950s research suggested increasing temperatures and a 1952 newspaper reported  climate change  this phrase next appeared in a november 1957 report in  which described  s research into the effects of increasing human-caused co2 emissions on the   a large scale global warming with radical climate changes may result  both phrases were only used occasionally until 1975 when  published a scientific paper on the topic  climatic change  are we on the brink of a pronounced global warming  the phrase began to come into common use and in 1976  s statement that  a global warming up has started  was widely reported other studies such as a 1971  report referred to the human impact as  inadvertent climate modification  but an influential 1979  study headed by  followed broecker in using global warming for rising surface temperatures while describing the wider effects of increased co2 as climate change in 1986 and november 1987 nasa climate scientist  gave testimony to congress on global warming there were increasing heatwaves and drought problems in the summer of 1988 and when hansen testified in the senate on 23 june he sparked worldwide interest he said  global warming has reached a level such that we can ascribe with a high degree of confidence a cause and effect relationship between the greenhouse effect and the observed warming  public attention increased over the summer and global warming became the dominant popular term commonly used both by the press and in public discourse in a 2008 nasa article on usage  defined global warming as  the increase in earths average surface temperature due to rising levels of greenhouse gases  while climate change was  a long-term change in the earths climate or of a region on earth  as effects such as changing patterns of rainfall and rising sea levels would probably have more impact than temperatures alone he considered global climate change a more scientifically accurate term and like the  the nasa website would emphasize this wider context see also
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+notes
+
+
+
+ the 2001 joint statement was signed by the national academies of science of australia belgium brazil canada the caribbean the people s republic of china france germany india indonesia ireland italy malaysia new zealand sweden and the uk the 2005 statement added japan russia and the u.s the 2007 statement added mexico and south africa the  and the  have issued separate statements professional scientific societies include               stratigraphy commission       and   earth has already experienced almost 1 2 of the 2.0c  3.6f  described in the cancn agreement in the last 100 years earth s average surface temperature increased by about 0.8c  1.4f  with about two thirds of the increase occurring over just the last three decades  scientific journals use  global warming  to describe an increasing global average temperature just at earth s surface and most of these authorities further limit  global warming  to such increases caused by human activities or increasing greenhouse gases  the greenhouse effect produces an average worldwide temperature increase of about 33c  59f  compared to  predictions without the greenhouse effect not an average surface temperature of 33c  91f  the average worldwide surface temperature is about 14c  57f   a rise in temperature from 10 c to 20 c is not a doubling of   a rise from  273   10  k   283 k to  273   20  k   293 k is an increase of  293283 283   3.5 
+
+
+citations
+
+
+ gillis justin  2015-11-28   the new york times  retrieved 2017-08-07   oxford dictionaries   english retrieved 2017-08-07  hartmann d l  klein tank a m g  rusticucci m  2013    pdf  ipcc wgi ar5  report  p.198 evidence for a warming world comes from multiple independent climate indicators from high up in the atmosphere to the depths of the oceans they include changes in surface atmospheric and oceanic temperatures  glaciers  snow cover  sea ice  sea level and atmospheric water vapour scientists from all over the world have independently verified this evidence many times.cs1 maint  multiple names  authors list  
+ epa,oa us  us epa retrieved 2017-08-07 the u.s global change research program the national academy of sciences and the intergovernmental panel on climate change  ipcc  have each independently concluded that warming of the climate system in recent decades is  unequivocal  this conclusion is not drawn from any one source of data but is based on multiple lines of evidence including three worldwide temperature datasets showing nearly identical warming trends as well as numerous other independent indicators of global warming  e.g rising sea levels shrinking arctic sea ice    climate change  vital signs of the planet retrieved 2017-08-07    pdf  p.4 warming of the climate system is unequivocal and since the 1950s many of the observed changes are unprecedented over decades to millennia    pdf  p.17 it is extremely likely that human influence has been the dominant cause of the observed warming since the mid-20th century    pdf  pp.89 90    pdf  retrieved 6 january 2014  kirby alex  17 may 2001   bbc news retrieved 27 july 2011   climate change  vital signs of the planet retrieved 2017-08-07  california state of  www.opr.ca.gov archived from  on 7 august 2017 retrieved 7 august 2017    pdf  pp.4446  solomon et al   in   zeng ning  yoon jinho  2009-09-01   geophysical research letters 36  17  l17401       on snowfall 
+
+christopher joyce  15 february 2010   npr  1 march 2011  9 july 2010 retrieved 14 december 2014 
+
+ battisti david s  naylor rosamond l  2009-01-09   science 323  5911  240244       p.26
+ peter u  et al  clark et al 2016 consequences of twenty-first-century policy for multi-millennial climate and sea-level change   6  360369   cs1 maint  explicit use of et al  
+   unfccc   2011   unfccc secretariat   germany  unfccc most countries in the world are parties to the   unfccc  which has adopted the 70022751499999999992c limit as of 25 november 2011 there are 195 parties  194 states and 1 regional economic integration organization  the   to the unfccc   unfccc.int retrieved 2017-08-07 preventing dangerous human interference with the climate system is the ultimate aim of the unfccc    unfccc   2011    pdf  unfccc secretariat   germany  unfccc  3    deep cuts in global greenhouse gas emissions are required according to science and as documented in the fourth assessment report of the intergovernmental panel on climate change with a view to reducing global greenhouse gas emissions so as to hold the increase in global average temperature below 70022751499999999992c above preindustrial levels 
+  washington d.c  the national academies press 2011 p.15  the average temperature of the earth s surface increased by about 1.4f  0.8c  over the past 100 years with about 1.0f  0.6c  of this warming occurring over just the past three decades 
+
+sutter john d  berlinger joshua  12 december 2015   cnn cable news network turner broadcasting system inc retrieved 12 december 2015 vaughan a  12 december 2015   the guardian london and manchester uk archived from the original on 13 december 2015 retrieved 12 december 2015.cs1 maint  bot  original-url status unknown    archived  
+
+ stokes bruce  wike richard  carle jill  2015-11-05   pew research center s global attitudes project retrieved 2017-08-07    pdf  wgi ar5 ipcc ar5 2013 p.5   ipcc ar4 2007  rhein m  rintoul s.r  2013    pdf  ipcc wgi ar5  report  p.257 ocean warming dominates the global energy change inventory warming of the ocean accounts for about 93 of the increase in the earth s energy inventory between 1971 and 2010  high confidence  with warming of the upper  0 to 700 m  ocean accounting for about 64 of the total melting ice  including arctic sea ice ice sheets and glaciers  and warming of the continents and atmosphere account for the remainder of the change in energy    trend data at bottom of file  nsstc.uah.edu the national space science   technology center retrieved 3 february 2017   remss.com remote sensing systems retrieved 3 february 2017  jansen et al     24 may 2010 at the  in  ^     kennedy j.j  et al  2010   bull amer meteor soc 91  7  26  kennedy c  10 july 2012   noaa climate services portal    in 
+   in 
+ rosenzweig c  et al   in  p.99
+ trenberth et al    in   rowan t sutton  buwen dong  jonathan m gregory  2007   geophysical research letters 34  2  l02701     retrieved 19 september 2007  feulner georg  rahmstorf stefan  levermann anders  volkwardt silvia  march 2013   journal of climate 26  130325101629005     retrieved 25 april 2013  
+ ehhalt et al   23 january 2012 at the    9 april 2012 at the    17 january 2012 at the  in     washington warren m  collins william d  arblaster julie m  hu aixue  buja lawrence e  strand warren g  teng haiyan  18 march 2005    pdf  science 307  5716  17691772      retrieved 11 february 2007  t m l wigley  2005    pdf    even if atmospheric composition were fixed today global-mean temperature and sea level rise would continue due to oceanic thermal inertia these constant-composition  cc  commitments and their uncertainties are quantified constant-emissions  ce  commitments are also considered the cc warming commitment could exceed 1c the ce warming commitment is 2 to 6c by the year 2400      a breakdown of the natural and anthropogenic components of the cc commitment together with uncertainties arising from ocean mixing  kz  uncertainties is given in table s1 past natural forcing  inclusion of which is the default case here  has a marked effect the natural forcing component is surprisingly large 64 of the total commitment in 2050 reducing to 52 by 2400  england matthew  february 2014   recent intensification of wind-driven circulation in the pacific and the ongoing warming hiatus   4  222227      knight j  kenney j.j  folland c  harris g  jones g.s  palmer m  parker d  scaife a  stott p  august 2009    pdf  bull amer meteor soc 90  8  s75s79 retrieved 13 august 2011   uk met office archived from  on 9 december 2010 retrieved 20 march 2011  gavin schmidt  4 june 2015    noaa  4 june 2015    
+   22 january 2015   realclimate retrieved 4 september 2015  group  28 november 2004   realclimate  pew center on global climate change   center for climate and energy solutions  september 2006    pdf  arlington virginia usa  center for climate and energy solutions archived from   pdf  on 25 october 2012 p.2
+ brown patrick t  li wenhong  jiang jonathan h  su hui  2015-12-07   journal of climate 29  3  925940        p.9
+^   hegerl et al   in  pp.690691  recent estimates indicate a relatively small combined effect of natural forcings on the global mean temperature evolution of the second half of the 20th century with a small net cooling from the combined effects of solar and volcanic forcings  
+ tyndall john  1861   philosophical magazine 4 22  16994 27385 retrieved 8 may 2013    2008   the discovery of global warming american institute of physics retrieved 21 april 2009  callendar g s  1938   the artificial production of carbon dioxide and its influence on temperature  quarterly journal of the royal meteorological society doi  
+ the callendar effect  the life and work of guy stewart callendar  18981964  amer meteor soc boston 
+ le treut  et al    in    to emit 240 w m2 a surface would have to have a temperature of around 19c this is much colder than the conditions that actually exist at the earth s surface  the global mean surface temperature is about 14c  instead the necessary 19c is found at an altitude about 5 km above the surface 
+ blue jessica   retrieved 1 jan 2015  kiehl j.t    1997    pdf  bulletin of the american meteorological society 78  2  197208      archived from   pdf  on 24 june 2008 retrieved 21 april 2009    6 april 2005    retrieved 21 april 2009  russell randy  16 may 2007    windows to the universe retrieved 27 december 2009  epa  2007   climate change science program united states environmental protection agency archived from  on 10 may 2009 retrieved 21 april 2009  spahni renato  jrme chappellaz  thomas f stocker  laetitia loulergue  gregor hausammann  kenji kawamura  jacqueline flckiger  jakob schwander  dominique raynaud  valrie masson-delmotte  jean jouzel  november 2005   atmospheric methane and nitrous oxide of the late pleistocene from antarctic ice cores  science 310  5752  13171321       siegenthaler urs  et al  november 2005    pdf  science 310  5752  13131317      retrieved 25 august 2010  petit j r  et al  3 june 1999    pdf  nature 399  6735  429436     retrieved 27 december 2009  lthi d  le floch m  bereiter b  blunier t  barnola j m  siegenthaler u  raynaud d  jouzel j  fischer h  kawamura k  stocker t f  2008   high-resolution carbon dioxide concentration record 650,000800,000years before present  nature 453  7193  379382       pearson pn  palmer mr  2000   atmospheric carbon dioxide concentrations over the past 60 million years  nature 406  6797  695699     ipcc   7 march 2016 at the    18 january 2004 at the   in   ipcc  2007  ar4 climate change 2007  working group iii  mitigation of climate change section 7.4.5.1 
+ le qur c  andres r.j  boden t  conway t  houghton r.a  house j.i  marland g  peters g.p  van der werf g  ahlstrm a  andrew r.m  bopp l  canadell j.g  ciais p  doney s.c  enright c  friedlingstein p  huntingford c  jain a.k  jourdain c  kato e  keeling r.f  klein goldewijk k  levis s  levy p  lomas m  poulter b  raupach m.r  schwinger j  sitch s  stocker b.d  viovy n  zaehle s  zeng n  2 december 2012   the global carbon budget 19592011  earth system science data discussions 5  2  11071157   cs1 maint  multiple names  authors list  
+   10 may 2013 retrieved 27 may 2013  pilita clark  10 may 2013    retrieved 27 may 2013  registration required  help    7 july 2015  buis alan  ramsayer kate  rasmussen carol  12 november 2015    retrieved 13 november 2015  rogner h.-h et al   in  ^   nrc  2008    pdf  board on atmospheric sciences and climate us national academy of sciences p.2 retrieved 9 november 2010  world bank  2010   the international bank for reconstruction and development   the world bank 1818 h street nw washington d.c 20433    archived from  on 5 march 2010 retrieved 6 april 2010  banuri et al chapter 3  equity and social considerations section 3.3.3  patterns of greenhouse gas emissions and box 3.1  in  ^    liverman d.m  2008    pdf  journal of historical geography 35  2  279296   retrieved 10 may 2011  fisher et al   in   morita   in   rogner et al   in   ipcc   in   prentence et al    7 december 2009 at the  in   newell p.j 2000  climate for change  non-state actors and the global politics of greenhouse cambridge university press   talk of the nation  npr retrieved 27 december 2011  shindell drew  faluvegi greg  lacis andrew  hansen james  ruedy reto  aguilar elliot  2006   role of tropospheric ozone increases in 20th-century climate change   111  d8  d08302      solomon s  d qin  m manning  z chen  m marquis  k.b averyt  m tignor  h.l miller eds  2007   climate change 2007  working group i  the physical science basis   hansen j  sato m  ruedy r  lacis a  oinas v  2000   proc natl acad sci u.s.a 97  18  987580        ramanathan v  carmichael g  2008   global and regional climate changes due to black carbon  nature geoscience 1  4  221227      statement made by mark jacobson of the amosphere energy program at stanford university in the documentary  sea blind 
+ 
+ v ramanathan and g carmichael supra note 1 at 221     emissions of black carbon are the second strongest contribution to current global warming after carbon dioxide emissions  numerous scientists also calculate that black carbon may be second only to co2 in its contribution to climate change including tami c bond   haolin sun can reducing black carbon emissions counteract global warming environ sci techn  2005  at 5921  bc is the second or third largest individual warming agent following carbon dioxide and methane  and j hansen a brighter future 53 climate change 435  2002  available at   calculating the climate forcing of bc at 1.00.5 w m2   twomey s  1977   influence of pollution on shortwave albedo of clouds  j atmos sci 34  7  11491152       albrecht b  1989   aerosols cloud microphysics and fractional cloudiness  science 245  4923  12271239       ipcc   pp 291292 in   ramanathan v  chung c  kim d  bettge t  buja l  kiehl j t  washington w m  fu q  sikka d r  wild m  2005    full free text  proceedings of the national academy of sciences 102  15  53265333        ramanathan v  et al  2008    pdf  atmospheric brown clouds  regional assessment report with focus on asia united nations environment programme archived from   pdf  on 18 july 2011  ramanathan v  et al  2008    pdf  atmospheric brown clouds  regional assessment report with focus on asia united nations environment programme archived from   pdf  on 18 july 2011 ^   ipcc   figure spm.2 in   us environmental protection agency  2009   3.2.2 solar irradiance   endangerment and cause or contribute findings for greenhouse gases under section 202 a  of the clean air act epa s response to public comments us environmental protection agency  from the original on 16 june 2011 retrieved june 23 2011   p.6
+ hegerl et al   in   simmon r  d herring  november 2009   presentation library on the u.s national oceanic and atmospheric administration s climate services website  from the original on 3 july 2011 retrieved 23 june 2011  hegerl et al   in   randel william j    austin john  et al  2009   an update of observed stratospheric temperature trends  journal of geophysical research 114  d2  d02107       p.20
+ r.s bradley  k.r briffa  j cole  m.k hughes  t.j osborn  2003   the climate of the last millennium  in k.d alverson  r.s bradley  t.f pederson paleoclimate global change and the future springer pp.105141   kaufman d s  schneider d p  mckay n p  ammann c m  bradley r s  briffa k r  miller g h  otto-bliesner b l  overpeck j t  vinther b m  abbott m  axford m  bird y  birks b  bjune h j b  briner a e  cook j  chipman t  francus m  gajewski p  geirsdottir k  hu a  kutchko f s  lamoureux b  loso s  macdonald m  peros g  porinchu m  schiff d  seppa c  seppa h  arctic lakes 2k project members  2009   recent warming reverses long-term arctic cooling  science 325  5945  12361239        ucar 3 september 2009 archived from  on 27 april 2011 retrieved 8 june 2011  bello david  4 september 2009   scientific american retrieved 8 june 2011  mann m e  zhang z  hughes m k  bradley r s  miller s k  rutherford s  ni f  2008   proceedings of the national academy of sciences 105  36  132527        berger a  2002   climate  an exceptionally long interglacial ahead  science 297  5585  12878     masson-delmotte v.m  et al  2013   information from paleoclimate archives  in stocker t.f et al climate change 2013  the physical science basis contribution of working group i to the fifth assessment report of the intergovernmental panel on climate change cambridge university press pp.383464cs1 maint  uses editors parameter  
+  nsidc ^   jackson r  a jenkins  17 november 2012   earth science communications team at nasa s jet propulsion laboratory   california institute of technology  riebeek h  16 june 2011   earth observatory part of the eos project science office located at nasa goddard space flight center  us national research council  2003   ch 1 introduction   washington d.c usa  national academies press p.19
+ lindsey r  14 january 2009   earth observatory part of the eos project science office located at nasa goddard space flight center  us national research council  2006   ch 1 introduction to technical chapters   washington d.c usa  national academies press pp.2627
+ ams council  20 august 2012   boston massachusetts usa  ams    pdf  ipcc retrieved 1 november 2015 the following terms have been used to indicate the assessed likelihood of an outcome or a result  virtually certain 99100 probability very likely 90100 likely 66100 about as likely as not 3366 unlikely 033 very unlikely 010 exceptionally unlikely 01 additional terms  extremely likely  95100 more likely than not  50100 more unlikely than likely 0 50 and extremely unlikely 05  may also be used when appropriate ^     meehl g.a  et al  ch 10  global climate projections   in 
+  the washington post october 5 2017  melillo et al  2017   aaas cs1 maint  uses authors parameter   cs1 maint  explicit use of et al  
+ noaa  january 2007    pdf  gfdl climate modeling research highlights princeton new jersey usa  the national oceanic and atmospheric administration  noaa  geophysical fluid dynamics laboratory  gfdl  1  6  revision 2 february 2007 8 50.08 am  noaa geophysical fluid dynamics laboratory  gfdl   9 october 2012   noaa gfdl  ipcc    climate model  in   karl tr  et al eds  2009   global climate change   cambridge university press  archived from  on 15 september 2012  kevin schaefer  tingjun zhang  lori bruhwiler  andrew p barrett  2011   amount and timing of permafrost carbon release in response to climate warming  tellus series b 63  2  165180      hansen james  2000   climatic change  understanding global warming  in robert lanza  health press  new mexico  pp.173190  retrieved 18 august 2007  stocker et al   in   torn margaret  harte john  2006    pdf  geophysical research letters 33  10  l10703     retrieved 4 march 2007  harte john  saleska scott  shih tiffany  2006   environmental research letters 1  1  014001     retrieved 2 may 2007  scheffer marten  brovkin victor  cox peter  2006    pdf  geophysical research letters 33  10  l10702     retrieved 4 may 2007  randall et al  sec faq 8.1 in   ipcc  p 54 in   stroeve j  et al  2007   arctic sea ice decline  faster than forecast  geophysical research letters 34  9  l09501      wentz,fj  et al  2007   science 317  5835  2335       liepert beate g  previdi michael  2009   journal of climate 22  11  31563166     recently analyzed satellite-derived global precipitation datasets from 1987 to 2006 indicate an increase in global-mean precipitation of 1.1%1.4 decade1 this trend corresponds to a hydrological sensitivity  hs  of 7 k1 of global warming which is close to the clausiusclapeyron  cc  rate expected from the increase in saturation water vapor pressure with temperature analysis of two available global ocean evaporation datasets confirms this observed intensification of the atmospheric  the observed hydrological sensitivity over the past 20-yr period is higher by a factor of 5 than the average hs of 1.4 k1 simulated in state-of-the-art coupled atmosphereocean climate models for the twentieth and twenty-first centuries  rahmstorf s  cazenave a  church j a  hansen j e  keeling r f  parker d e  somerville r c j  4 may 2007   recent climate observations compared to projections  science 316  5825  709709      ^   4 global mean sea level rise scenarios in  main report in  p.12
+ executive summary in  p.1
+ hegerl g.c  et al   in 
+  national geographic retrieved 12 june 2010  meehl g.a  et al   in  p.776
+ meehl g.a  et al   in  pp.770 772
+ meehl g.a  et al   in  p.770
+ wang m  overland j e  2009   geophys res lett 36  7      retrieved 2 may 2011  met office  exeter uk  met office  ipcc    detection and attribution  in  see also hegerl et al  in   rosenzweig et al   in   ^   ipcc   in   noaa  february 2007    pdf  gfdl climate modeling research highlights princeton new jersey usa  national oceanic and atmospheric administration  noaa  geophysical fluid dynamics laboratory  gfdl  1  5  archived from   pdf  on 26 february 2013 p.1 revision 15 october 2008 4 47 16 pm   d future climate extremes impacts and disaster losses in  summary for policymakers   in  pp.913
+ justin gillis  27 april 2015   the new york times retrieved 27 april 2015 the bottom line is that things are not that complicated dr knutti said you make the world a degree or two warmer and there will be more hot days there will be more moisture in the atmosphere so that must come down somewhere  e m fischer  r knutti  27 april 2015    online  nature climate change 5  560564     retrieved 27 april 2015 we show that at the present-day warming of 0.85 c about 18 of the moderate daily precipitation extremes over land are attributable to the observed temperature increase since pre-industrial times which in turn primarily results from human influence  likewise today about 75 of the moderate daily hot extremes over land are attributable to warming   uci 2015   scientific american 2014  christopher s watson  neil j white  john a church  matt a king  reed j burgette  benoit legresy  11 may 2015   nature climate change 5  565568      churchs john  clark peter   pdf  ipcc working group i retrieved 21 january 2015  projections of future sea level rise  in  ch 7 sea level rise and the coastal environment in 
+^    box syn-1  sustained warming could lead to severe impacts  in  synopsis in 
+ anders levermann  peter u clark  ben marzeion  glenn a milne  david pollard  valentina radic  alexander robinson  13 june 2013   pnas 110  1374513750        ricarda winkelmann  anders levermann  andy ridgwell  ken caldeira  11 september 2015         retrieved 2017-10-16  ipcc   in   mammola stefano  goodacre sara l  isaia marco  2017-01-01   ecography  n an a     fischlin et al   in  executive summary not present in on-line text  see pdf  schneider et al   in  ^    ocean acidification in   in  pp.6970
+^   introduction in  p.142
+ ocean acidification in  executive summary in  p.14
+
+
+
+5 ocean acidification in  pp.7381
+
+
+
+ deutsch  et al  2011   climate-forced variability of ocean hypoxia  science 333  336339      ^      
+
+summary  in 
+faq 12.3 in   in  pp.8889  pp.9091 of pdf chapter 
+
+
+  in   in 
+  the economist 16 march 2016 retrieved 12 december 2016 ^   gillis justin  2017-06-26   the new york times  retrieved 2017-06-27   
+ bill mcguire  philosophical transactions a royal society 368  23112315      jrme lopez saez  christophe corona  markus stoffel  frdric berger  geology 41  619622      smith j.b  et al   in 
+ smith j b  schneider s h  oppenheimer m  yohe g w  hare w  mastrandrea m d  patwardhan a  burton i  corfee-morlot j  magadza c h d  fssel h.-m  pittock a b  rahman a  suarez a  van ypersele j.-p  17 march 2009   proceedings of the national academy of sciences 106  11  41337       ^   clark p.u  et al  december 2008   executive summary   reston virginia usa  u.s geological survey pp 17   4 may 2013 at the    bbc 22 february 2013 retrieved 24 february 2013  us national research council  2010   washington d.c usa  national academies press p.3 
+^   ipcc   in 
+ cramer w et al executive summary in    archived   pp.34 in 
+ faq 7 and 8 in    archived   pp.23 in 
+ oppenheimer m et al section 19.6.3  updating reasons for concern in    archived   pp.3946 in 
+ field c et al b-3  regional risks and potential for adaptation in    archived   pp.2730 in 
+ oppenheimer m et al section 19.6.3  updating reasons for concern in    archived   pp.4243 in 
+ dana nuccitelli  26 january 2015   the guardian  chris mooney  22 october 2014   the washington post  porter j.r et al executive summary in    archived   p.3 in 
+ reference temperature period converted from late-20th century to pre-industrial times  approximated in the source as 18501900  
+assessment box spm-1  p.14  and b-2 sectoral risks and potential for adaptation  food security and food production systems  p.18  in    archived   in 
+
+
+ smith k.r et al faq 11.2 in    archived   p.37 in 
+^   costello anthony  abbas mustafa  allen adriana  ball sarah  bell sarah  bellamy richard  friel sharon  groce nora  johnson anne  kett maria  lee maria  levy caren  maslin mark  mccoy david  mcguire bill  montgomery hugh  napier david  pagel christina  patel jinesh  de oliveira jose antonio puppim  redclift nanneke  rees hannah  rogger daniel  scott joanne  stephenson judith  twigg john  wolff jonathan  patterson craig  may 2009   the lancet 373  9676  16931733   ^   watts nick  adger w neil  agnolucci paolo  blackstock jason  byass peter  cai wenjia  chaytor sarah  colbourn tim  collins mat  cooper adam  cox peter m  depledge joanna  drummond paul  ekins paul  galaz victor  grace delia  graham hilary  grubb michael  haines andy  hamilton ian  hunter alasdair  jiang xujia  li moxuan  kelman ilan  liang lu  lott melissa  lowe robert  luo yong  mace georgina  maslin mark  nilsson maria  oreszczyn tadj  pye steve  quinn tara  svensdotter my  venevsky sergey  warner koko  xu bing  yang jun  yin yongyuan  yu chaoqing  zhang qiang  gong peng  montgomery hugh  costello anthony  november 2015   the lancet 386  10006  18611914    retrieved 4 january 2016  smith k.r et al section 11.4  direct impacts of climate and weather on health in    archived   pp.1013 in 
+ smith k.r et al section 11.6.1 nutrition in    archived   pp.1013 in 
+   synthesis report  mimura n  et al  2007   executive summary  in parry m.l et al  climate change 2007  impacts adaptation and vulnerability  contribution of working group ii to the fourth assessment report of the intergovernmental panel on climate change  ipcc  cambridge university press  cup  cambridge uk  print version  cup this version  ipcc website  retrieved 15 september 2011.cs1 maint  uses editors parameter  
+   pdf  may 2011 retrieved 13 april 2012  chris hope  kevin schaefer  2015   nature 6  5659       university of alaska fairbanks 2015  pbl netherlands environment agency  june 15 2012   figure 6.14 in  chapter 6  the energy and climate challenge  in van vuuren d  m kok   pdf   p.177 report no  500062001 
+  in 
+^     ipcc   in  ^   edenhofer o et al table ts.3 in    archived  in   p.68
+  the guardian 2015  clarke l et al executive summary in    archived  in   p.418
+^   spm4.1  long-term mitigation pathways in    archived  in   pp.1013
+ edenhofer o et al ts.3.1.2  short and long-term requirements of mitigation pathways in    archived  in   pp.5556
+ edenhofer o et al ts.3.1.3  costs investments and burden sharing in    archived  in   p.58
+ smit et al   in    appendix i glossary   in 
+  synthesis report   in 
+   press release   16 june 2009 retrieved 14 january 2016    pdf  nasa april 2007 archived from   pdf  on 31 may 2009 retrieved 23 may 2009    press release  the royal society 28 august 2009 retrieved 14 june 2011  p keller david  feng ellias y  oschlies andreas  january 2014   nature communications 5  3304       retrieved 31 march 2014 we find that even when applied continuously and at scales as large as currently deemed possible all methods are individually either relatively ineffective with limited  8  warming reductions or they have potentially severe side effects and cannot be stopped without causing rapid climate change  quoted in   synthesis of scientific-technical information relevant to interpreting article 2 of the un framework convention on climate change  paragraph 4.1 p 8   
+ granger morgan m  lead author  h dowlatabadi m henrion d keith r lempert s mcbride m small and t wilbanks  contributing authors   2009   non-technical summary  box nt.1 summary of climate change basics    pdf  washington d.c usa  national oceanic and atmospheric administration p.11 retrieved june 1 2011.cs1 maint  multiple names  authors list  
+ unfccc  n.d   unfccc website retrieved 18 may 2010  unfccc  n.d   unfccc website archived from  on 28 october 2005 retrieved 18 may 2010  rogner et al   in   raupach r  marland g  ciais p  le quere c  canadell g  klepper g  field b  jun 2007    free full text  proceedings of the national academy of sciences 104  24  1028810293        ^   dessai s  2001    pdf  tyndall centre working paper 12 tyndall centre website archived from   pdf  on 10 june 2012 retrieved 5 may 2010  grubb m  julyseptember 2003    pdf  world economics 4  3  144145 retrieved 25 march 2010 ^   unfccc  n.d   unfccc website retrieved 21 may 2011  mller benito  february 2010    pdf   p.i  retrieved 18 may 2010  rudd kevin  25 may 2015    retrieved 26 may 2015  united nations environment programme  november 2010   technical summary    pdf  unep website archived from   pdf  on 27 february 2017 retrieved 11 may 2011 this publication is also available in   25 november 2010 at the 
+ unfccc  30 march 2010    pdf  united nations office at geneva switzerland p.5 retrieved 17 may 2010    pdf  presidencia de la repblica mxico 11 december 2010 p.2 retrieved 12 january 2011  ipcc  detection and attribution of climate change it is extremely likely that human influence has been the dominant cause of the observed warming since the mid-20th century  page 15  and in this summary for policymakers the following terms have been used to indicate the assessed likelihood of an outcome or a result     extremely likely  95100  page 2  in  ^   royal society  13 april 2005   letter from the royal society  a guide to facts and fictions about climate change  misleading arguments  many scientists do not think that climate change is a problem some scientists have signed petitions stating that climate change is not a problem  there are some individuals and organisations some of which are funded by the us oil industry that seek to undermine the science of climate change and the work of the ipcc they appear motivated in their arguments by opposition to the united nations framework convention on climate change and the kyoto protocol which seek urgent action to tackle climate change through a reduction in greenhouse gas emissions   the economics of climate change the second report of the 20052006 session produced by the uk parliament house of lords economics affairs select committee uk parliament website retrieved 9 july 2011 this document is also available in 
+ academia brasileira de cincias  brazil  royal society of canada chinese academy of sciences acadmie des sciences  france  deutsche akademie der naturforscher leopoldina  germany  indian national science academy accademia nazionale dei lincei  italy  science council of japan academia mexicana de ciencias russian academy of sciences academy of science of south africa royal society  united kingdom  national academy of sciences  united states of america   may 2009    pdf  us national academies website retrieved 5 may 2010.cs1 maint  multiple names  authors list  
+ john cook  et al  13 april 2016   environmental research letters 11  4  048002     retrieved 21 july 2016.cs1 maint  explicit use of et al  
+ dimento joseph f c  doughman pamela m  2007  climate change  what it means for us our children and our grandchildren the mit press p.68   julie brigham-grette  et al  september 2006    pdf   87  36  364     retrieved 23 january 2007 the aapg stands alone among scientific societies in its denial of human-induced effects on global warming  boykoff m  boykoff j  july 2004   balance as bias  global warming and the us prestige press  global environmental change part a 14  2  125136      conway erik merchants of doubt  how a handful of scientists obscured the truth on issues from tobacco smoke to global warming  first ed  bloomsbury press   aaron m mccright and riley e dunlap  challenging global warming as a social problem  an analysis of the conservative movement s counter-claims  social problems november 2000 vol 47 issue 4 pp 499522 
+ weart s  july 2009   american institute of physics website retrieved 5 may 2010 
+sepp  n.d   science   environmental policy project  sepp  website archived from  on 11 may 2008 retrieved 5 may 2010 
+
+ begley sharon  13 august 2007   newsweek retrieved 13 august 2007  adams david  20 september 2006   the guardian london retrieved 9 august 2007   msnbc 12 january 2007 retrieved 2 may 2007  sandell clayton  3 january 2007   abc retrieved 27 april 2007   usa today  18 may 2007 retrieved 21 january 2010    press release  ceres 13 may 2004 retrieved 4 march 2010   environmental studies university of oshkosh  wisconsin retrieved 27 march 2016  weart s  february 2015   american institute of physics website retrieved 18 august 2015   gallup 2015 retrieved 18 august 2015  pelham brett  2009   gallup retrieved 18 august 2015  pugliese anita  20 april 2011   gallup retrieved 22 april 2011  ray julie  anita pugliese  22 april 2011   gallup.com retrieved 3 may 2011 people nearly everywhere including majorities in developed asia and latin america are more likely to attribute global warming to human activities rather than natural causes the u.s is the exception with nearly half  47   and the largest percentage in the world  attributing global warming to natural causes   pew research center for the people   the press  
+ tranter bruce  booth kate  july 2015   scepticism in a changing climate  a cross-national study  global environmental change 33  54164      february 2014   american institute of physics retrieved 12 may 2015 and 
+^      nasa 5 december 2008
+ weart spencer r  february 2014   american institute of physics retrieved 12 may 2015  u.s senate committee on energy and natural resources  greenhouse effect and global climate change part 2  100th cong 1st sess 23 june 1988 p 44 
+
+references
+
+
+good p  et al  2010    pdf  london uk  committee on climate change p.14 
+iap  june 2009   secretariat  twas  the academy of sciences for the developing world  trieste italy iea  2009    pdf  paris france  international energy agency  iea     2007  core writing team  pachauri r.k  reisinger a eds  contribution of working groups i ii and iii to the  of the intergovernmental panel on climate change ipcc  ipcc ar4 wg1  2007  solomon s  qin d  manning m  chen z  marquis m  averyt k.b  tignor m  miller h.l eds  contribution of working group i to the  of the intergovernmental panel on climate change cambridge university press   pb   
+ipcc ar4 wg2  2007  parry m.l  canziani o.f  palutikof j.p  van der linden p.j  hanson c.e eds  contribution of working group ii to the  of the intergovernmental panel on climate change cambridge university press   pb   
+ipcc ar4 wg3  2007  metz b  davidson o.r  bosch p.r  dave r  meyer l.a eds  contribution of working group iii to the  of the intergovernmental panel on climate change cambridge university press   pb   
+ipcc ar5 wg1  2013  stocker t.f  et al eds  cambridge university press 
+ipcc ar5 wg2 a  2014  field c.b  et al eds  cambridge university press archived from the original on 16 april 2014cs1 maint  bot  original-url status unknown    archived
+ipcc ar5 wg3  2014  edenhofer o  et al eds  cambridge university press archived from  on 27 november 2014 also available at  ipcc sar syr  1996   climate change 1995  a report of the intergovernmental panel on climate change   of the intergovernmental panel on climate change ipcc  the  full report  consisting of  the ipcc second assessment synthesis of scientific-technical information relevant to interpreting article 2 of the un framework convention on climate change  and the summaries for policymakers of the three working groups ipcc sar wg3  1996  bruce j.p  lee h  haites e.f eds climate change 1995  economic and social dimensions of climate change contribution of working group iii to the  of the intergovernmental panel on climate change cambridge university press   pb     ipcc srex  2012  field c.b et al eds  cambridge university press archived from  on 19 december 2012.cs1 maint  uses editors parameter    summary for policymakers  ipcc tar wg1  2001  houghton j.t  ding y  griggs d.j  noguer m  van der linden p.j  dai x  maskell k  johnson c.a eds  contribution of working group i to the  of the intergovernmental panel on climate change cambridge university press  archived from  on 30 march 2016  pb   
+ipcc tar wg2  2001  mccarthy j j  canziani o f  leary n a  dokken d j  white k s eds  contribution of working group ii to the  of the intergovernmental panel on climate change cambridge university press  archived from  on 14 may 2016  pb   
+ipcc tar wg3  2001  metz b  davidson o  swart r  pan j eds  contribution of working group iii to the  of the intergovernmental panel on climate change cambridge university press  archived from  on 27 february 2017  pb   
+this article incorporates from theus global change research program   document ncadac  11 january 2013   washington d.c usa
+usgcrp  2015   washington dc usa  u.s global change research program  usgcrp  retrieved 20 january 2014  national research council  2011   washington d.c usa  national academies press archived from  on 27 march 2014
+national research council  2010   washington d.c  the national academies press  archived from  on 29 may 2014 parris a  et al  6 december 2012    pdf  noaa climate program office report 
+unep  2010    pdf  nairobi kenya  united nations environment programme  unep  archived from   pdf  on 7 april 2015 
+this article incorporates from theus global change research program   document usgcrp  2009  karl t.r  melillo j  peterson t  hassol s.j eds  cambridge university press  public-domain status of this report can be found on p.4 of 
+us nrc  2008   washington d.c usa  national academy of sciences us nrc  2012   us national research council  us nrc  also available as 
+zeebe r.e  may 2012    pdf  annual review of earth and planetary sciences 40 pp.141165     
+
+further reading
+
+
+association of british insurers  june 2005    pdf  ammann caspar  et al  2007    pdf  proceedings of the national academy of sciences of the united states of america 104  10  37133718       simulations with only natural forcing components included yield an early 20th century peak warming of 70022733499999999990.2c  1950 ad  which is reduced to about half by the end of the century because of increased volcanism
+barnett tp  adam jc  lettenmaier dp  17 november 2005    abstract  nature 438  7066  303309      behrenfeld mj  o malley rt  siegel da  et al  7 december 2006    pdf  nature 444  7120  752755      archived from   pdf  on 15 april 2016 choi onelack  fisher ann  may 2005   the impacts of socioeconomic development and climate change on severe weather catastrophe losses  mid-atlantic region  mar  and the u.s  climate change 58  12  149170   dyurgerov mark b  meier mark f  2005    pdf  institute of arctic and alpine research occasional paper  58  emanuel ka  4 august 2005    pdf  nature 436  7051  686688        larissa nazarenko  reto ruedy  makiko sato  josh willis  anthony del genio  dorothy koch  andrew lacis  ken lo  surabi menon  tica novakov  judith perlwitz  gary russell  gavin a schmidt  nicholas tausnev  3 june 2005    pdf  science 308  5727  14311435      hausfather zeke   january 2017    climate scientist zeke hausfather details the findings of a new report that confirms  data about climate change 
+hinrichs kai-uwe  hmelo laura r  sylva sean p  21 february 2003   molecular fossil record of elevated methane levels in late pleistocene coastal waters  science 299  5610  12141217      hirsch tim  11 january 2006   bbc hoyt douglas v  schatten kenneth h  november 1993   a discussion of plausible solar irradiance variations 17001992  journal of geophysical research 98  a11  18,89518,906     ipcc tar syr  2001  watson r t  the core writing team eds  contribution of working groups i ii and iii to the  of the intergovernmental panel on climate change cambridge university press   pb   
+ivanova diana  stadler konstantin  steen-olsen kjartan  wood richard  vita gibran  tukker arnold  hertwich edgar g  18 december 2015   environmental impact assessment of household consumption   20  3  526536   jamet s  j corfee-morlot  7 april 2009   oecd economics department working papers oecd  691    paper at  karnaukhov a v  2001    pdf  biophysics 46  6  kenneth james p  14 february 2003   american geophysical union keppler frank  et al  18 january 2006   max planck society lean judith l  wang y.m  sheeley n.r  december 2002   the effect of increasing solar activity on the sun s total and open magnetic flux during multiple cycles  implications for solar forcing of climate  geophysical research letters 29  24  2224     lerner k lee  lerner k lee  wilmoth brenda  26 july 2006  environmental issues  essential primary sources thomson gale  mckibben bill  2011     muscheler r  joos f  mller sa  snowball i  28 july 2005    pdf  nature 436  7012  10841087      oerlemans j  29 april 2005    pdf  science 308  5722  675677      purse bv  mellor ps  rogers dj  samuel ar  mertens pp  baylis m  february 2005    abstract  nature reviews microbiology 3  2  171181    revkin andrew c  5 november 2005   the new york times   2005   retrieved 19 april 2009 roulstone ian  norbury john  2013   princeton university press  see chapter 8 
+  15 december 2005   new york  princeton university press  archived from  on 8 january 2006 ruddiman william f  1 august 2005  plows plagues and petroleum  how humans took control of climate new jersey  princeton university press  santer benjamin d  solomon susan  wentz frank j  fu qiang  po-chedley stephen  mears carl  painter jeffrey f  bonfils cline  24 may 2017    7  2336        2002   in   ed    1st ed cs1 maint  extra text  editors list     
+  usoskin ig  kromer b  schssler m  beer j  23 october 2004    pdf  nature 431  7012  10841087      solanki sami k  et al  28 july 2005    pdf  nature 436  7050  e4e5     sowers todd  10 february 2006   late quaternary atmospheric ch4 isotope record suggests marine clathrates are stable  science 311  5762  838840      svensmark henrik  et al  8 february 2007   experimental evidence for the role of ions in particle nucleation under atmospheric conditions  proceedings of the royal society a firstcite early online publishing 463  2078  385396     online version requires registration 
+walter km  zimov sa    verbyla d  chapin f s 3rd  7 september 2006   methane bubbling from siberian thaw lakes as a positive feedback to climate warming  nature 443  7107  7175      wang y.-m  lean j.l  sheeley n r  20 may 2005    pdf  astrophysical journal 625  1  522538     archived from   pdf  on 14 june 2007 wiens john j  8 december 2016    14  12  e2001104   wolf julie  asrar ghassem r  west tristram o  september 29 2017    12  16    retrieved september 29 2017 
+
+external links
+
+find more aboutglobal warmingat wikipedia s 
+
+ from wiktionary
+ from commons
+ from wikinews
+ from wikiquote
+ from wikisource
+ from wikibooks
+ from wikiversity
+
+
+
+
+research
+
+  global change research
+  u.s and global monthly state of the climate reports
+ repository for reports
+  free-access web resource
+  uk national weather service
+  edgcm   research-quality climate change simulator
+  develops and releases standardized models such as cmip3  ar4  and cmip5  ar5 
+
+educational
+
+
+  nasa jpl caltech
+  noaa
+  noaa
+  national snow and ice data center  nsidc 
+
+  ucar
+   december 13 2016 
+
+  video 
+  video 
+  video 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

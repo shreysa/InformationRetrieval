@@ -1,0 +1,160 @@
+
+
+
+
+annual  thin lines  and five-year lowess smooth  thick lines  for the temperature anomalies averaged over the earths land area and sea surface temperature anomalies  blue line  averaged over the part of the ocean that is free of ice at all times  open ocean  
+
+
+
+
+
+this is a daily global sea surface temperature  sst  data set produced on december 20th 2013 at 1-km resolution  also known as ultra-high resolution  by the jpl roms  regional ocean modeling system  group 
+
+
+
+
+
+weekly average sea surface temperature for the  during the first week of february 2011 during a period of  
+
+
+
+
+
+
+sea surface temperature and flows 
+
+sea surface temperature  sst  is the water  close to the  s surface the exact meaning of surface varies according to the measurement method used but it is between 1 millimetre  0.04in  and 20 metres  70ft  below the  surface  in the  are highly modified by sea surface temperatures within a short distance of the shore localized areas of heavy  can form in  downwind of warm water bodies within an otherwise cold air mass warm sea surface temperatures are known to be a cause of  over the  s oceans tropical cyclones can also cause a cool wake due to turbulent mixing of the upper 30 metres  100ft  of the ocean sst changes diurnally like the air above it but to a lesser degree there is less sst variation on breezy days than on calm days in addition  such as the   amo  can effect sst s on multi-decadal time scales a major impact results from the global  circulation which affects average sst significantly throughout most of the world s oceans coastal ssts can cause offshore winds to generate  which can significantly cool or warm nearby landmasses but shallower waters over a  are often warmer onshore winds can cause a considerable warm-up even in areas where upwelling is fairly constant such as the northwest coast of  its values are important within  as the sst influences the atmosphere above such as in the formation of  and  it is also used to calibrate measurements from  
+
+
+contents
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+measurement 
+
+
+
+
+temperature profile of the surface layer of the ocean  a  at night and  b  during the day
+
+
+there are a variety of techniques for measuring this parameter that can potentially yield different results because different things are actually being measured away from the immediate sea surface general temperature measurements are accompanied by a reference to the specific depth of measurement this is because of significant differences encountered between measurements made at different depths especially during the daytime when low wind speed and high sunshine conditions may lead to the formation of a warm layer at the ocean s surface and strong vertical temperature gradients  a diurnal   sea surface temperature measurements are confined to the top portion of the ocean known as the near-surface layer thermometers 
+sst was one of the first oceanographic variables to be measured  suspended a  from a ship while travelling between the  and  in his survey of the  in the late eighteenth century sst was later measured by dipping a  into a bucket of water that was manually drawn from the sea surface the first automated technique for determining sst was accomplished by measuring the temperature of water in the intake port of large ships which was underway by 1963 these observations have a warm bias of around 0.6c  1f  due to the heat of the engine room this bias has led to changes in the perception of  since 2000 fixed  measure the water temperature at a depth of 3 metres  9.8ft  measurements of sst have had inconsistencies over the last 130 years due to the way they were taken in the nineteenth century measurements were taken in a bucket off of a ship however there was a slight variation in temperature because of the differences in buckets samples were collected in either a wood or an uninsulated canvas bucket but the canvas bucket cooled quicker than the wood bucket the sudden change in temperature between 1940 and 1941 was the result of an undocumented change in procedure the samples were taken near the engine intake because it was too dangerous to use lights to take measurements over the side of the ship at night many different drifting buoys exist around the world that vary in design and the location of reliable temperature sensors varies these measurements are beamed to satellites for automated and immediate data distribution a large network of coastal buoys in u.s waters is maintained by the   ndbc  between 1985 and 1994 an extensive array of moored and drifting buoys was deployed across the equatorial pacific ocean designed to help monitor and predict the  phenomenon weather satellites 
+see also  
+
+
+
+
+20032011 sst based on  aqua data 
+
+weather satellites have been available to determine sea surface temperature information since 1967 with the first global composites created during 1970 since 1982  have been increasingly utilized to measure sst and have allowed its  and  variation to be viewed more fully satellite measurements of sst are in reasonable agreement with  temperature measurements the satellite measurement is made by sensing the ocean  in two or more wavelengths within the  part of the  or other parts of the spectrum which can then be empirically related to sst these wavelengths are chosen because they are 
+
+within the peak of the  expected from the earth and
+able to transmit adequately well through the 
+
+the satellite-measured sst provides both a  of the ocean and a high frequency of repeat views allowing the examination of basin-wide upper  dynamics not possible with ships or buoys   national aeronautic and space administration   sst satellites have been providing global sst data since 2000 available with a one-day lag noaa s  satellites are  above the western hemisphere which enables to them to deliver sst data on an hourly basis with only a few hours of lag time there are several difficulties with satellite-based absolute sst measurements first in infrared remote sensing methodology the radiation emanates from the  approximately the top 0.01  or less which may not represent the  of the upper meter of ocean due primarily to effects of solar surface heating during the daytime reflected radiation as well as sensible heat loss and surface evaporation all these factors make it somewhat difficult to compare satellite data to measurements from buoys or shipboard methods complicating ground truth efforts secondly the satellite cannot look through clouds creating a cool bias in satellite-derived ssts within cloudy areas however passive microwave techniques can accurately measure sst and penetrate cloud cover within atmospheric sounder channels on  which peak just above the ocean s surface knowledge of the sea surface temperature is important to their calibration local variation 
+see also  
+the sst has a  just like the earth s atmosphere above though to a lesser degree due to its greater specific heat on calm days the temperature can vary by 6c  10f  the temperature of the ocean at depth lags the earth s atmosphere temperature by 15 days per 10 metres  33ft  which means for locations like the  temperatures near its bottom reach a maximum in december and a minimum in may and june near the coastline offshore winds move the warm waters near the surface offshore and replace them with cooler water from below in the process known as  this pattern increases nutrients for marine life in the region offshore  freshwater flows over the top of the denser seawater which allows it to heat faster due to limited vertical mixing remotely sensed sst can be used to detect the surface temperature signature due to  in general an sst cooling is observed after the passing of a hurricane primarily as the result of mixed layer deepening and surface heat losses in the wake of several day long  outbreaks across the adjacent northern atlantic ocean sea surface temperatures are reduced 0.2 c to 0.4c  0.3 to 0.7f  other sources of short-term sst fluctuation include  rapid influxes of  fresh water and concentrated  blooms due to seasonal cycles or agricultural run-off atlantic multidecadal oscillation 
+the   amo  is important for how external forcings are linked with north atlantic ssts regional variation 
+
+
+
+
+the 1997 el nio observed by  the white areas off the tropical coasts of south and north america indicate the pool of warm water 
+
+main article  
+el nio is defined by prolonged differences in pacific ocean surface temperatures when compared with the average value the accepted definition is a warming or cooling of at least 0.5c  0.9f  averaged over the east-central tropical pacific ocean typically this anomaly happens at irregular intervals of 27 years and lasts nine months to two years the average period length is 5 years when this warming or cooling occurs for only seven to nine months it is classified as el nio la nia  conditions  when it occurs for more than that period it is classified as el nio la nia  episodes  the sign of an el nio in the sea surface temperature pattern is when warm water spreads from the west pacific and the  to the east pacific it takes the rain with it causing extensive drought in the western pacific and rainfall in the normally dry eastern pacific el nio s warm rush of nutrient-poor tropical water heated by its eastward passage in the equatorial current replaces the cold nutrient-rich surface water of the  when el nio conditions last for many months extensive ocean warming and the reduction in easterly trade winds limits upwelling of cold nutrient-rich deep water and its economic impact to local fishing for an international market can be serious importance to the earth s atmosphere 
+
+
+
+
+sea-effect snow bands near the 
+
+
+see also     and 
+sea surface temperature affects the behavior of the  above so their initialization into  is important while sea surface temperature is important for  it is also important in determining the formation of sea fog and sea breezes heat from underlying warmer waters can significantly modify an air mass over distances as short as 35 kilometres  22mi  to 40 kilometres  25mi  for example southwest of northern hemisphere  curved cyclonic flow bringing cold air across relatively warm water bodies can lead to narrow   or sea effect  bands those bands bring strong localized  often in the form of  since large water bodies such as lakes efficiently store heat that results in significant temperature differenceslarger than 13c  23f between the water surface and the air above because of this temperature difference warmth and moisture are transported upward condensing into vertically oriented clouds which produce snow showers the temperature decrease with height and cloud depth are directly affected by both the water temperature and the large-scale environment the stronger the temperature decrease with height the taller the clouds get and the greater the precipitation rate becomes tropical cyclones 
+
+
+
+
+seasonal peaks of tropical cyclone activity worldwide
+
+
+
+
+
+
+average equatorial pacific temperatures
+
+
+main articles   and 
+ocean temperature of at least 26.5  79.7  spanning through at minimum a 50 depth is one of the precursors needed to maintain a   a type of   these warm waters are needed to maintain the  that fuels tropical systems this value is well above 16.1c  60.9f  the long term global average surface temperature of the oceans however this requirement can be considered only a general baseline because it assumes that the ambient atmospheric environment surrounding an area of disturbed weather presents average conditions tropical cyclones have intensified when ssts were slightly below this standard temperature tropical cyclones are known to form even when normal conditions are not met for example cooler air temperatures at a higher altitude  e.g at the 500 level or 5.9km  can lead to tropical cyclogenesis at lower water temperatures as a certain  is required to force the atmosphere to be  enough for convection in a moist atmosphere this lapse rate is 6.5c km while in an atmosphere with less than 100  the required lapse rate is 9.8c km at the 500hpa level the air temperature averages 7c  18f  within the tropics but air in the tropics is normally dry at this height giving the air room to  or cool as it moistens to a more favorable temperature that can then support convection a wetbulb temperature at 500hpa in a tropical atmosphere of 13.2c  8.2f  is required to initiate convection if the water temperature is 26.5c  79.7f  and this temperature requirement increases or decreases proportionally by 1c in the sea surface temperature for each 1c change at 500hpa inside a  500hpa temperatures can fall as low as 30c  22f  which can initiate convection even in the driest atmospheres this also explains why moisture in the mid-levels of the  roughly at the 500hpa level is normally a requirement for development however when dry air is found at the same height temperatures at 500hpa need to be even colder as dry atmospheres require a greater lapse rate for instability than moist atmospheres at heights near the  the 30-year average temperature  as measured in the period encompassing 1961 through 1990  was 77c  132f  a recent example of a  that maintained itself over cooler waters was  of the  see also 
+
+
+
+ can occur during an increase of global or regional average sst
+ refers to a salinity difference often altered by temperature-dependent factors
+ with plots of sea temperature in the 
+  pdo 
+ which blooms at rates dependent on sea surface temperature
+ which affects sea surface evaporation and thus temperature
+ the group for high resolution sst
+
+
+
+
+
+references 
+
+
+ gerard d mccarthy ivan d haigh jol j.m hirschi jeremy p grist   david a smeed  27 may 2015   nature 521  508510    cs1 maint  uses authors parameter  
+^      vittorio barale  2010   springer p.263  retrieved 2011-01-09  alexander soloviev  roger lukas  2006    p.xi  retrieved 2011-02-10  william j emery  richard e thomson  2001   gulf professional publishing pp.2425  retrieved 2011-01-09  michael marshall  2010-11-16   new scientist retrieved 2011-01-29  burroughs william james  2007  climate change  a multidisciplinary approach  2 ed  cambridge  u.a  cambridge univ press   vittorio barale  2010   springer pp.237238  retrieved 2011-01-09  lance f bosart william a sprigg national research council  1998  the meteorological buoy and coastal marine automated network for the united states national academies press p.11cs1 maint  multiple names  authors list  
+ k a browning  robert j gurney  1999    p.62  retrieved 2011-01-09  p krishna rao w l smith and r koffler  january 1972    pdf   100  1  1014     retrieved 2011-01-09.cs1 maint  multiple names  authors list  
+ national research council  u.s  nii 2000 steering committee  1997   national academies p.2 retrieved 2011-01-09  w j emery  d j baldwin  peter schlssel   r w reynolds  2001-02-15    pdf   106  c2  2387     retrieved 2011-01-09 ^   john maurer  october 2002    retrieved 2011-01-09  c m kishtawal  2005-08-06    pdf  satellite remote sensing and gis applications in agricultural meteorology  73 retrieved 2011-01-27  robert harwood  1971-09-16   mapping the atmosphere from space  new scientist 51  769  623  david e alexander  rhodes whitmore fairbridge  1999   springer p.510  retrieved 2011-01-27  ian stuart robinson  2004   springer p.279  retrieved 2011-01-09  john siegenthaler  2003   cengage learning p.84  retrieved 2011-01-09  peter o zavialov  2005    p.27  retrieved 2011-01-09   bnsc via the internet wayback machine 2008-04-24 archived from  on 2008-04-24 retrieved 2011-01-09  rainer feistel  gnther nausch  norbert wasmund  2008   john wiley and sons p.258  retrieved 2011-01-09  earth observatory  2005    archived from  on 2006-09-30 retrieved 2006-04-26  nidia martnez avellaneda  2010   grin verlag p.72  retrieved 2011-01-27  boyle edward a  lloyd keigwin  5 november 1987    pdf  nature 330  6143  3540     retrieved 10 february 2011  beaugrand grgory  keith m brander  j alistair lindley  sami souissi  philip c reid  11 december 2003   nature 426  6967  661664      retrieved 10 february 2011  beman j michael  kevin r arrigo  pamela a matson  10 march 2005   nature 434  7030  211214      retrieved 10 february 2011  mads faurschou knudsen bo holm jacobsen marit-solveig seidenkrantz   jesper olsen  25 february 2014   nature 5     cs1 maint  uses authors parameter  
+  nasa jpl    2005-12-19    retrieved 2009-07-26    june 2009   national oceanic and atmospheric administration retrieved 2009-07-26  ww2010  1998-04-28   university of illinois at urbana-champaign retrieved 2009-07-17  jun inoue masayuki kawashima yasushi fujiyoshi and masaaki wakatsuchi  october 2005   boundary-layer meteorology 117  1  111129    cs1 maint  multiple names  authors list  
+ b geerts  1998    retrieved 2008-12-24  greg byrd  1998-06-03    archived from  on 2009-06-17 retrieved 2009-07-12    2011    retrieved 2011-01-27  webster pj  gale group  matt menne  march 15 2000    retrieved 2006-10-19  kushnir yochanan  2000    retrieved 24 september 2010  john m wallace   peter v hobbs  1977  atmospheric science  an introductory survey academic press inc pp.7677    2000   storms  pp.22041 retrieved 2006-10-19  dian j gaffen-seidel rebecca j ross and james k angell  november 2000    archived from  on may 8 2006 retrieved 2006-10-19  lixion avila  2005-12-03   national hurricane center retrieved 2010-12-14 
+
+
+dash p  ignatov a  kihai y  sapper j  2010   the sst quality monitor  squam  journal of atmospheric and oceanic technology 27  11  18991917     
+external links 
+
+
+ sst quality monitor  a near real-time global qc tool for monitoring time-series stability   cross-platform consistency of satellite sst 
+ in situ sst quality monitor  a near real-time quality control   monitoring system for in situ sst measured by ships and buoys 
+ monitoring of ir clear-sky radiances over oceans for sst
+
+this article incorporates from websites or documents of the  
+
+
+
+
+
+
+
+
+
+
+
+

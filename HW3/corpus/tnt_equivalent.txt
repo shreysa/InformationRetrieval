@@ -1,0 +1,88 @@
+ kiloton  redirects here for the similarly named weight measurements see  
+
+
+
+
+diagram of explosive yield vs  height illustrating the difference between 22 kiloton  and 15 megaton  explosions 
+
+
+tnt equivalent is a convention for expressing energy typically used to describe the energy released in an explosion the  ton of tnt  is a  defined by that convention to be 4.184  which is the approximate energy released in the  of a   1,000 kilograms or one megagram  of  the convention intends to compare the destructiveness of an event with that of conventional  of which tnt is a typical example although other conventional explosives such as  contain more energy 
+
+
+contents
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+kiloton and megaton 
+the  kiloton  of   is a unit of energy equal to 4.184  the  megaton  of tnt  is a unit of energy equal to 4.184  the kiloton and megaton of tnt have traditionally been used to describe the energy output and hence the destructive power of a  the tnt equivalent appears in various  and has been used to characterize the energy released in such other highly destructive events as an  historical derivation of the value 
+a gram of  releases 26736702j   upon explosion the energy liberated by one gram of tnt was arbitrarily defined as a matter of convention to be 4184j which is exactly one  an explosive s energy is normally expressed as the  produced by its detonation which for tnt has been accurately measured as 4686j g from a large sample of air blast experiments and theoretically calculated to be 4853j g the measured pure  output of a gram of tnt is only 2724j  but this is not the important value for explosive blast effect calculations alternative tnt equivalency can be calculated as a function of when in the detonation the value is measured and which property is being compared a kiloton of tnt can be visualized as a cube of tnt 8.46 metres  27.8ft  on a side 
+conversion to other units 
+1 ton tnt equivalent is approximately 
+
+1.0109 
+4.184109 
+3.96831106 
+3.08802109 
+1.162103 
+
+examples 
+further information  
+
+relative effectiveness factor 
+the relative effectiveness factor  re factor  relates an explosive s demolition power to that of tnt in units of the tnt equivalent kg  tnte kg  the re factor is the relative mass of tnt to which an explosive is equivalent  the greater the re the more powerful the explosive this enables engineers to determine the proper masses of different explosives when applying blasting formulas developed specifically for tnt for example if a timber-cutting formula calls for a charge of 1kg of tnt then based on  s re factor of 2.38 it would take only 1.0 2.38  or 0.42  kg of it to do the same job using  engineers would need 1.0 1.66  or 0.60  kg to obtain the same effects as 1kg of tnt with  or  they would require 1.0 0.74  or 1.35  kg or 1.0 0.42  or 2.38  kg respectively re factor examples 
+
+  tbx  thermobaric explosives  or ebx  enhanced blast explosives  in a small confined space may have over twice the power of destruction the total power of aluminized mixtures strictly depends on the condition of explosions nuclear examples
+
+
+
+
+
+
+
+ a unit of energy almost exactly 10 tonnes of tnt
+
+
+
+references 
+
+
+  unitconversion.org   unitconversion.org    august 10 2016 at the    in 
+ cooper paul w  1996  explosives engineering new york  wiley-vch p.406   muller richard a  20012002   chapter 1 energy power and explosions    archived from  on 2007-05-28  sorin bastea laurence e fried kurt r glaesemann w michael howard p clark souers peter a vitello cheetah 5.0 user s manual lawrence livermore national laboratory 2007  maienschein jon l  2002    pdf   technical report  lawrence livermore national laboratory ucrl-jc-147683  maienschein jon l  2002  tnt equivalency of different explosives  estimation for calculating load limits in heaf firing tanks  technical report  lawrence livermore national laboratory empe-02-22  cunningham bruce j  2001  c-4 tnt equivalency  technical report  lawrence livermore national laboratory empe-01-81   arcblasts.com  atassi basma  sirgany sarah  narayan chandrika  december 13 2016    retrieved 5 april 2017   thomas f homer-dixon p 249  tech reps inc albuquerque nm  1986    pdf     2009-10-06 retrieved 2009-10-21  calculated from 2007 value of 936 kwh monthly usage 
+  the world factbook  archived from  on 2012-01-28 retrieved 2009-10-22  calculated from 2007 value of 3,892,000,000,000 kwh annual usage 
+   august 2001 retrieved 2009-06-30 cites 6e14 watts continuous  borowski stanley k  march 1996    pdf  23rd joint propulsion conference nasa glenn research center      see   september 7 2016 at the    december 16 2008 at the    june 17 2016 at the  all from carey sublette s nuclear weapon archive   fas.org   armscontrol.org    13 june 2016  kristensen hans m  norris robert s  may 3 2016   72  3  125134    via taylor and francis nejm  
+ 
+ 
+  earthquake.usgs.gov archived from  on 13 march 2011 retrieved 13 march 2011  maselli a  melandri a  nava l  mundell c g  kawai n  campana s  covino s  cummings j r  cusumano g  evans p a  ghirlanda g  ghisellini g  guidorzi c  kobayashi s  kuin p  laparola v  mangano v  oates s  sakamoto t  serino m  virgili f  zhang b b  barthelmy s  beardmore a  bernardini m g  bersier d  burrows d  calderone g  capalbi m  chiang j  2013   grb 130427a  a nearby ordinary monster  science 343  6166  4851     us army fm 3-34.214  explosives and demolition 2007 page 12   
+ 
+
+
+
+thompson a  taylor b.n  july 2008   nist special publication 811 national institute of standards and technology version 3.2 
+rhodes richard  2012    25th anniversary ed  simon   schuster  cooper paul w  1996  explosives engineering new york  wiley-vch 
+hq department of the army  2004   field manual 5-25  explosives and demolitions washington d.c  pentagon publishing pp.8384 
+ alexandria va  globalsecurity.org retrieved september 1 2010
+urbaski tadeusz  1985   chemistry and technology of explosives volumes iiv  second ed  oxford  pergamon
+jrg mathieu and hans stucki  2004   international standard serial number  identifier issn  military high explosives chimia explosives  58 no 6 ed  schweizerische chemische gesellschaft pp.383389
+ the national academies press nap.edu 2004
+
+
+
+
+
+
+
+

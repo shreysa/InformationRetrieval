@@ -1,0 +1,110 @@
+Sources and Sinks
+-----------------
+Source Ratio : 0.000000
+Sink Ratio   : 0.006000
+
+PageRank results
+----------------
+[0] | PR: 0.053355 | Digital_object_identifier 
+[1] | PR: 0.051909 | International_Standard_Book_Number 
+[2] | PR: 0.032169 | Bibcode 
+[3] | PR: 0.031421 | PubMed_Identifier 
+[4] | PR: 0.022164 | Canada 
+[5] | PR: 0.017076 | United_States_dollar 
+[6] | PR: 0.010541 | United_States 
+[7] | PR: 0.005918 | Earth 
+[8] | PR: 0.005228 | Puerto_Rico 
+[9] | PR: 0.004937 | Atlantic_Ocean 
+[10] | PR: 0.004924 | Virginia 
+[11] | PR: 0.004790 | NASA 
+[12] | PR: 0.004150 | Colombia 
+[13] | PR: 0.003979 | National_Oceanic_and_Atmospheric_Administration 
+[14] | PR: 0.003831 | International_Space_Station 
+[15] | PR: 0.003820 | North_Carolina 
+[16] | PR: 0.003760 | Maryland 
+[17] | PR: 0.003740 | New_York_(state) 
+[18] | PR: 0.003727 | Ontario 
+[19] | PR: 0.003694 | Brazil 
+[20] | PR: 0.003631 | Florida 
+[21] | PR: 0.003604 | Washington,_D.C. 
+[22] | PR: 0.003589 | Tropical_cyclone 
+[23] | PR: 0.003400 | Pennsylvania 
+[24] | PR: 0.003363 | Meteorology 
+[25] | PR: 0.003359 | United_States_Geological_Survey 
+[26] | PR: 0.003231 | New_Jersey 
+[27] | PR: 0.003163 | Argentina 
+[28] | PR: 0.003047 | Water 
+[29] | PR: 0.003001 | Rhode_Island 
+[30] | PR: 0.002932 | President_of_the_United_States 
+[31] | PR: 0.002854 | South_Carolina 
+[32] | PR: 0.002823 | East_Coast_of_the_United_States 
+[33] | PR: 0.002806 | New_England 
+[34] | PR: 0.002797 | New_York_City 
+[35] | PR: 0.002789 | Maine 
+[36] | PR: 0.002781 | Tornado 
+[37] | PR: 0.002718 | Delaware 
+[38] | PR: 0.002694 | West_Virginia 
+[39] | PR: 0.002678 | United_States_Navy 
+[40] | PR: 0.002632 | Wind 
+[41] | PR: 0.002621 | Michigan 
+[42] | PR: 0.002603 | Space_Shuttle 
+[43] | PR: 0.002602 | Turks_and_Caicos_Islands 
+[44] | PR: 0.002599 | Temperature 
+[45] | PR: 0.002561 | Sun 
+[46] | PR: 0.002538 | Atlantic_Canada 
+[47] | PR: 0.002481 | Ocean 
+[48] | PR: 0.002452 | Vanuatu 
+[49] | PR: 0.002418 | Atmospheric_pressure 
+
+Num incoming links results
+--------------------------
+[0] | num_incoming_links: 579 | International_Standard_Book_Number
+[1] | num_incoming_links: 543 | Digital_object_identifier
+[2] | num_incoming_links: 364 | Bibcode
+[3] | num_incoming_links: 284 | PubMed_Identifier
+[4] | num_incoming_links: 261 | United_States
+[5] | num_incoming_links: 242 | Tropical_cyclone
+[6] | num_incoming_links: 208 | Earth
+[7] | num_incoming_links: 192 | Extratropical_cyclone
+[8] | num_incoming_links: 173 | NASA
+[9] | num_incoming_links: 165 | Atlantic_Ocean
+[10] | num_incoming_links: 164 | National_Oceanic_and_Atmospheric_Administration
+[11] | num_incoming_links: 162 | Pascal_(unit)
+[12] | num_incoming_links: 156 | Storm_surge
+[13] | num_incoming_links: 152 | Canada
+[14] | num_incoming_links: 149 | Bar_(unit)
+[15] | num_incoming_links: 146 | United_States_dollar
+[16] | num_incoming_links: 145 | National_Hurricane_Center
+[17] | num_incoming_links: 145 | Hurricane_Isabel
+[18] | num_incoming_links: 143 | Water
+[19] | num_incoming_links: 140 | Inch_of_mercury
+[20] | num_incoming_links: 136 | Tornado
+[21] | num_incoming_links: 131 | Florida
+[22] | num_incoming_links: 129 | Hurricane_Katrina
+[23] | num_incoming_links: 126 | Cyclone
+[24] | num_incoming_links: 125 | Wind_shear
+[25] | num_incoming_links: 124 | National_Weather_Service
+[26] | num_incoming_links: 124 | Saffir%E2%80%93Simpson_scale
+[27] | num_incoming_links: 121 | Hurricane_Wilma
+[28] | num_incoming_links: 119 | Wind
+[29] | num_incoming_links: 119 | North_Carolina
+[30] | num_incoming_links: 116 | Meteorology
+[31] | num_incoming_links: 115 | Hurricane_Sandy
+[32] | num_incoming_links: 112 | Hurricane_Rita
+[33] | num_incoming_links: 112 | International_Space_Station
+[34] | num_incoming_links: 112 | Climate
+[35] | num_incoming_links: 111 | Tropical_wave
+[36] | num_incoming_links: 111 | Hurricane_Andrew
+[37] | num_incoming_links: 110 | Ocean
+[38] | num_incoming_links: 110 | Hurricane_Ivan
+[39] | num_incoming_links: 109 | Eye_(cyclone)
+[40] | num_incoming_links: 109 | Hurricane_Mitch
+[41] | num_incoming_links: 109 | Drought
+[42] | num_incoming_links: 108 | Thunderstorm
+[43] | num_incoming_links: 107 | Virginia
+[44] | num_incoming_links: 107 | Hurricane_Camille
+[45] | num_incoming_links: 107 | Hurricane_Allen
+[46] | num_incoming_links: 107 | Atmospheric_pressure
+[47] | num_incoming_links: 106 | List_of_retired_Atlantic_hurricane_names
+[48] | num_incoming_links: 106 | Hurricane_Felix
+[49] | num_incoming_links: 106 | Hurricane_Gilbert

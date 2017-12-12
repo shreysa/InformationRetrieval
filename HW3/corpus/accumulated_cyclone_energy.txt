@@ -1,0 +1,97 @@
+accumulated cyclone energy  ace  is a measure used by the   noaa  to express the activity of individual  and entire tropical cyclone seasons particularly the north   it uses an approximation of the wind energy used by a tropical system over its lifetime and is calculated every six hours the ace of a season is the sum of the aces for each storm and takes into account the number strength and duration of all the  in the season the highest ace calculated for a single storm is 82 for  in 2006 
+
+
+contents
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+calculation 
+the ace of a season is calculated by summing the squares of the estimated maximum sustained velocity of every active tropical storm  wind speed 35 knots  65 km h 40 mph  or higher  at six-hour intervals since the calculation is sensitive to the starting point of the six-hour intervals the convention is to use 00 00 06 00 12 00 and 18 00  if any storms of a season happen to cross years the storm s ace counts for the previous year the numbers are usually divided by 10,000 to make them more manageable one unit of ace equals 1042 and for use as an index the unit is assumed thus 
+
+
+
+where vmax is estimated sustained wind speed in   is proportional to the square of velocity and by adding together the energy per some interval of time the accumulated energy is found as the duration of a storm increases more values are summed and the ace also increases such that longer-duration storms may accumulate a larger ace than more-powerful storms of lesser duration although ace is a value proportional to the energy of the system it is not a direct calculation of energy  the mass of the moved air and therefore the size of the storm would show up in a real energy calculation  a related quantity is hurricane destruction potential  hdp  which is ace but only calculated for the time where the system is a hurricane competing measurement metrics 
+ace focuses upon the most intense winds concentrated in a storm s center whereas the actual destructive power of a storm depends upon the total area impacted with damaging winds waves and storm surge the metric integrated kinetic energy  ike  developed in 2007 more accurately reflects the destructive potential it examines the kinetic energy that forces a storm surge and creates high waves as well as the horizontal wind loads over the full storm this metric yields a time specific value for a storm and doesn t account for the destruction caused by a storm over its entire life therefore in 2013 the researchers at the university of florida created a metric called track integrated kinetic energy  tike  tike expands the concept by accumulating ike over the lifespan of an individual tropical cyclone and a total value for all named tropical cyclones in the season 
+atlantic basin ace
+
+
+
+
+atlantic basin cyclone intensity by accumulated cyclone energy timeseries 1850-2014
+
+
+a season s ace is used by noaa and others to categorize the hurricane season into 3 groups by its activity measured over the period 19512000 for the atlantic basin the  annual index was 87.5 and the  annual index was 93.2 the noaa categorization system divides seasons into 
+
+above-normal season  an ace value above 111  120 of the 19812010 median  provided at least two of the following three parameters are also exceeded  number of tropical storms  12 hurricanes  6 and major hurricanes  2 near-normal season  neither above-normal nor below normal
+below-normal season  an ace value below 66  71.4 of the 19812010 median  or none of the following three parameters are exceeded  number of tropical storms  9 hurricanes  4 and major hurricanes  1 
+according to the noaa categorization system for the atlantic the most recent above-normal season is the  the most recent near-normal season is the  and the most recent below normal season is the  hyperactivity 
+the term hyperactive is used by goldenberg et al  2001  based on a different weighting algorithm  reference link is broken need new citatation  which places more weight on major hurricanes but typically equating to an ace of about 153  175 of the 19512000 median  or more individual storms 
+the highest ever ace estimated for a single storm in the atlantic is 73.6 for the  in  this single storm had an ace higher than many whole atlantic storm seasons other atlantic storms with high aces include  in  with an ace of 70.4  in  with an ace of 66.6 the  with an ace of 63.5  in  with an ace of 63.3 and the  with an ace of 59.8 the highest ace of a tropical storm was  of  which attained an ace of 9.6 the highest ace of a category 1hurricane was  of  which attained an ace of 26.3 the lowest ace of a tropical storm was  of  which was a tropical storm for only six hours and had an ace of 0.1 the lowest ace of any hurricane was the  of  which was only active for one day and had an ace of just 1.2 the lowest ace of a major hurricane  category3 or higher  was  s  and  s  each with an ace of 5.3 the only years since  to feature two storms with an ace index of over 40 points have been   and  and the only year to feature three storms is  
+the following table shows those storms in the atlantic basin from 19502017 that have attained over 40 points of ace 
+atlantic hurricane seasons 18512017 
+ace data for the atlantic hurricane season is less reliable prior to the modern satellite era but noaa has analyzed the best available information dating back to 1851 the  is considered the highest ace on record with a total of 259 for the current season or the season that just ended the ace is preliminary based on national hurricane center bulletins which may later be revised hyperactive
+above normal
+below normal
+
+east pacific ace 
+accumulated cyclone energy is also used in the eastern and central pacific ocean data on ace is considered reliable starting with the  the season with the highest ace since 1971 is the  the  has the lowest ace the most recent above-normal season is the  the most recent near-normal season is the  and the most recent below normal season is the  the 35year median 19712005 is 115 x 104 kn2  100 in the epac zone east of 140w 13 in the cpac zone  the mean is 130  112   18  the  unofficial  categorization of seasons for this table is based  on that used in the atlantic basin 
+
+above-normal season  an ace value above 135  117 of the median  provided at least two of the following three parameters exceed the long-term average  number of tropical storms  16  hurricanes  9  and major hurricanes  4  near-normal season  neither above-normal nor below normal
+below-normal season  an ace value below 86  75 of the median 
+
+
+
+
+
+observed monthly values for the  index 1900present 
+
+
+historical east pacific seasonal activity 19812015 
+
+
+above normal
+below normal
+
+see also
+
+
+ mark saunders  adam lea  2007    pdf  tropical storm risk archived from   pdf  on 2007-11-29 retrieved 2013-09-01  
+ bell gd halpert ms schnell rc et al  2000    pdf  bulletin of the american meteorological society 81  6  1328      
+ climate prediction center  may 22 2014   united states national oceanic and atmospheric administration retrieved june 5 2014  goldberg sb landsea cw mestas-nuez am gray wm  july 2001    pdf  science 293  5529  4749      
+ 
+  hurricane research division  database  miami fl  national hurricane center april 11 2017 retrieved november 9 2017 ^    policlimate retrieved 7 august 2017   noaa retrieved 28 september 2017  
+
+
+external links 
+
+
+
+
+
+
+
+
+
+
+
+
+
