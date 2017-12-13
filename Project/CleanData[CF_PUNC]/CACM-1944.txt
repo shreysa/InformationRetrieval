@@ -1,1 +1,0 @@
-students t-distribution algorithm 344 s14 cacm January, 1969 Levine, D. A. students t-Distribution, t-test small-sample statistics distribution function 5.12 5.5 ca690105 jb february 20, 1978 11:56 am

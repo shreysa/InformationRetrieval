@@ -1,1 +1,0 @@
-matrix inversion algorithm 58 cacm May, 1961 Cohen, D. ca610506 jb march 16, 1978 11:03 pm

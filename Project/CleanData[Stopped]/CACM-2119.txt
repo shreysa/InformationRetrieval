@@ -1,1 +1,0 @@
-derivatives algorithm 282 s22 cacm January, 1970 Gautschi, W. Klein, B. J. recursive computation successive derivatives error control 5.11 5.12 ca700112 jb february 14, 1978 1:45 pm

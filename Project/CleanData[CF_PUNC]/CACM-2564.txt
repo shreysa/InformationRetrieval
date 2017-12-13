@@ -1,1 +1,0 @@
-hidden-line plotting program algorithm r420 cacm December, 1974 Ellis, T. M. R. ca741210 jb january 13, 1978 3:45 pm

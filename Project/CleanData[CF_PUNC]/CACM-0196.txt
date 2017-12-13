@@ -1,1 +1,0 @@
-report on the algorithmic language algol 60 Naur, P. Backus, J. cacm May, 1960 ca600501 jb march 22, 1978 1:34 pm

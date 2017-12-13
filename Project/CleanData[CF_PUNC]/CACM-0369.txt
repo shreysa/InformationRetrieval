@@ -1,1 +1,0 @@
-crout with pivoting algorithm 16 cacm March, 1961 thacher jr H. C. ca610313 jb march 17, 1978 12:32 am

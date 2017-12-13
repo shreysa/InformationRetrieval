@@ -1,1 +1,0 @@
-pseudo-random numbers algorithm 266 g5 cacm September, 1966 Hill, I. D. Pike, M. C. ca660909i jb march 23, 1978 6:46 pm

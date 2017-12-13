@@ -1,1 +1,0 @@
-evaluation of determinant algorithm 41 cacm April, 1961 Solomon, J. G. ca610408 jb march 17, 1978 12:04 am

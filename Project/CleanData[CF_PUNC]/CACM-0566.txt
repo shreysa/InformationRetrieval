@@ -1,1 +1,0 @@
-matrix inversion algorithm 58 cacm June, 1962 Conger, R. A. ca620619 jb march 17, 1978 9:19 pm

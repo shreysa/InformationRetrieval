@@ -1,1 +1,0 @@
-algorithms reveal properties floating point arithmetic units cacm May, 1974 Gentleman, W. M. Marovich, S. B. floating-point arithmetic high-level languages philosophy language design 4.9 5.19 ca740506 jb january 17, 1978 4:04 pm

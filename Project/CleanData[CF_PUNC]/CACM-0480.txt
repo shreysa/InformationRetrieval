@@ -1,1 +1,0 @@
-quick calculation of jacobian elliptic functions corrigendum cacm September, 1962 Salzer, H. E. ca620912 jb march 17, 1978 7:28 pm

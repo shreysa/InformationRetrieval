@@ -1,1 +1,0 @@
-abscissas weights romberg quadrature algorithm 281 d1 cacm April, 1966 Welsch, J. H. ca660403c jb march 23, 1978 7:17 pm

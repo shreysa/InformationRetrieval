@@ -1,1 +1,0 @@
-a machine method for square-root computation cacm January, 1958 Bemer, R. W. ca580101 jb march 22, 1978 9:27 pm

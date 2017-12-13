@@ -1,1 +1,0 @@
-multiple-precision arithmetic exact calculation 3-j 6-j 9-j symbols paper system general-purpose multiple-precision fixed-point routines subroutines calculate exactly quantum-mechanical 3-j 6-j 9-j symbols large arguments cacm November, 1964 Maer, R. M. Redlich, M. G. ca641103 jb march 9, 1978 4:13 pm

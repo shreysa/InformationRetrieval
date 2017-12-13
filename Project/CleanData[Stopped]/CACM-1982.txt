@@ -1,1 +1,0 @@
-modified havie integration algorithm 400 d1 cacm October, 1970 Wallick, G. C. numerical integration havie integration romberg quadrature modified romberg-quadrature trapezoid values rectangle values 5.16 ca701008 jb february 10, 1978 9:22

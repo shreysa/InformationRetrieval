@@ -1,1 +1,0 @@
-generation of permutations in lexicographical order algorithm 202 cacm September, 1963 Shen, M. K. ca630911 jb march 13, 1978 7:31 pm

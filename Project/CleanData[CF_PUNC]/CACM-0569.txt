@@ -1,1 +1,0 @@
-binomial coefficients algorithm 19 cacm June, 1962 Steck, B. ca620616 jb march 17, 1978 9:22 pm

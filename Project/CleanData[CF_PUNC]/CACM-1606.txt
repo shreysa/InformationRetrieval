@@ -1,1 +1,0 @@
-chi-squared integral algorithm 299 s15 cacm April, 1967 Hill, I. D. Pike, M. C. ca670408a jb february 28, 1978 11:10 am

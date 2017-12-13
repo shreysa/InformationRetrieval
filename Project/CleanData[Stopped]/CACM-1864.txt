@@ -1,1 +1,0 @@
-generation hilbert derived test matrix algorithm 274 f1 cacm July, 1969 Boothroyd, J. test matrix hilbert matrix 5.14 ca690716 jb february 15, 1978 6:25 pm

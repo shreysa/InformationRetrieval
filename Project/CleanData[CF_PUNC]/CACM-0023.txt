@@ -1,1 +1,0 @@
-binary and truth-function operations on a decimal computer with an extract command cacm May, 1958 Kautz, W. H. ca580505 jb march 22, 1978 9:12 pm

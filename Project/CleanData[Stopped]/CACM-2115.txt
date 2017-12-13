@@ -1,1 +1,0 @@
-fortran tausworthe pseudorandom number generator cacm January, 1970 Payne, W. H. random numbers pseudorandom numbers shift register sequences 5.5 ca700116 jb february 14, 1978 1:06 pm

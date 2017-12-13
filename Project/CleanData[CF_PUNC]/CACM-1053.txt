@@ -1,1 +1,0 @@
-design and implementation of a general-purpose input routine a general-purpose input routine is discussed and advocated for FORTRAN. the philosophy of such programs is examined and exemplified cacm June, 1964 Hassitt, A. ca640614 jb march 9, 1978 9:27 pm

@@ -1,1 +1,0 @@
-generation of partitions in part-count form algorithm 95 cacm June, 1962 Stockmal, F. ca620607 jb march 17, 1978 9:32 pm

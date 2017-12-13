@@ -1,1 +1,0 @@
-exact probabilities for r x c contingency tables algorithm r434 cacm June, 1974 Boulton, D. M. ca740611 jb january 17, 1978 2:56 pm

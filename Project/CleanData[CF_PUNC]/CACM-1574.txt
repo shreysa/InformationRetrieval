@@ -1,1 +1,0 @@
-normal curve integral algorithm 304 s15 cacm June, 1967 Hill, I. D. Joyce, S. A. ca670607b jb march 23, 1978 3:27 pm

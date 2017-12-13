@@ -1,1 +1,0 @@
-modified hankel function algorithm 163 cacm April, 1963 Fettis, H. E. ca630406 jb march 14, 1978 12:26 pm

@@ -1,1 +1,0 @@
-fitting data to one exponential algorithm 375 e2 cacm February, 1970 Spath, H. nonlinear least squares fit 5.15 ca700213 jb february 14, 1978 9:49 pm

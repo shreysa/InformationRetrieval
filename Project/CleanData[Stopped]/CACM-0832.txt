@@ -1,1 +1,0 @@
-curve fitting constraints algorithm 74 cacm June, 1963 Isoda, K. ca630617 jb march 14, 1978 10:08

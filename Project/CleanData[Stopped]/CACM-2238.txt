@@ -1,1 +1,0 @@
-squares surface fit algorithm r176 cacm December, 1972 Schuegraf, E. ca721217 jb january 27, 1978 8:59

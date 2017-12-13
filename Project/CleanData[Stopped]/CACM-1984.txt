@@ -1,1 +1,0 @@
-tableless date conversion algorithm 398 cacm October, 1970 Stone, R. A. date calendar 5.9 ca701006 jb february 10, 1978 9:25

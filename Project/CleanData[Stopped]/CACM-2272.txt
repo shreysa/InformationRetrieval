@@ -1,1 +1,0 @@
-sorting natural selection family sorting algorithms proposed members make fuller memory space yield longer sorted strings extensive simulation results presented implications applications discussed cacm October, 1972 Frazer, W. D. Wong, C. K. algorithms sorting replacement selection expected string length 5.31 ca721006 jb january 27, 1978 2:54 pm

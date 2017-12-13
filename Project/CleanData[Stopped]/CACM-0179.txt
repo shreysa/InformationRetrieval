@@ -1,1 +1,0 @@
-evaluation legendre polynomial pnx recursion algorithm cacm June, 1960 Galler, G. M. ca600611 jb march 20, 1978 9:35 pm

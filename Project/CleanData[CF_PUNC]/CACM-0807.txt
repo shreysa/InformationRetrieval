@@ -1,1 +1,0 @@
-reversion of series algorithm 193 cacm July, 1963 Fettis, H. E. ca630717 jb march 14, 1978 8:22 am

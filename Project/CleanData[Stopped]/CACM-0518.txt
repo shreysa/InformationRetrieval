@@ -1,1 +1,0 @@
-magic square odd order algorithm 118 cacm August, 1962 Collison, D. M. ca620810 jb march 17, 1978 9:45 pm

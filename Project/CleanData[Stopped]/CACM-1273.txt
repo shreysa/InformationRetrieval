@@ -1,1 +1,0 @@
-remark romberg quadrature modified form romberg quadrature sensitive accumulation rounding errors customary cacm April, 1965 Krasun, A. M. Prager, W. ca650418 jb march 7, 1978 3:27 pm

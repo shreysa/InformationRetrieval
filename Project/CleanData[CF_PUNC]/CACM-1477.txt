@@ -1,1 +1,0 @@
-euler a generalization of algol and its formal definition part ii cacm February, 1966 Wirth, N. Weber, H. ca660207 jb march 3, 1978 3:10 pm

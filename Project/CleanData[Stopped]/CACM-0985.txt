@@ -1,1 +1,0 @@
-report subset algol 60 ifip cacm October, 1964 ca641017 jb march 9, 1978 4:33 pm

@@ -1,1 +1,0 @@
-number of restricted partitions of n algorithm 262 a1 cacm August, 1965 McKay,J K. S. ca650805 jb march 6, 1978 8:26 pm

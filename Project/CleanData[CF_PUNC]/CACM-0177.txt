@@ -1,1 +1,0 @@
-solution of polynomial equation by bairstow hitchcock Method, A. A. grau communications acm February, 1960 algorithm cacm June, 1960 thacher jr H. C. ca600613 jb march 20, 1978 9:31 pm

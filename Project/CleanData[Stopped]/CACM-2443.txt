@@ -1,1 +1,0 @@
-generation permutations lexicographic order algorithm r323 cacm September, 1973 Roy, M. K. ca730912 jb january 23, 1978 8:39

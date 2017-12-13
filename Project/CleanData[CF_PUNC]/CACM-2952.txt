@@ -1,1 +1,0 @@
-functions realizable with word-parallel logical and twos-complement addition instructions cacm June, 1977 Warren, H. S. jr boolean functions twos-complement sign propagation 4.0 6.32 ca770611 jb december 28, 1977 12:45 pm

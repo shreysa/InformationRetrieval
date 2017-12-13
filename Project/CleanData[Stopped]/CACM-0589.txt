@@ -1,1 +1,0 @@
-evaluation fresnel cosine integral algorithm 90 cacm May, 1962 Cundiff, J. L. ca620516 jb march 20, 1978 1:35 pm

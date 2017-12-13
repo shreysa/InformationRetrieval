@@ -1,1 +1,0 @@
-symmetric Polynomials, algorithm 305 c1 cacm April, 1968 McKay, S. symmetric polynomials symmetric sum unitary symmetric functions schur functions 5.39 ca680412 jb february 23, 1978 10:19

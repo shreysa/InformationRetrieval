@@ -1,1 +1,0 @@
-proof correctness calendar program formal specification simple calendar program derivation proof correctness program sketched specification easy understand correctness manifest humans cacm October,1979 Lamport, L. program specification program verification inductive assertions 5.24 ca791003 db january 16, 1980 5:02 pm

@@ -1,1 +1,0 @@
-the use of threaded lists in constructing a combined algol and machine-like assembly processor cacm January, 1961 evans jr A. Perlis, A. J. van Zoeren, H. ca610108 jb march 17, 1978 1:20 am

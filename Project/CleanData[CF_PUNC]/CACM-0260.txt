@@ -1,1 +1,0 @@
-interpolation by aitken algorithm 70 cacm November, 1961 Mifsud, C. J. ca611108 jb march 15, 1978 10:53 pm

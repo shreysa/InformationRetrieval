@@ -1,1 +1,0 @@
-tape splitting in an iterative program cacm February, 1962 Weisert, C. ca620207 jb march 20, 1978 3:46 pm

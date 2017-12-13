@@ -1,1 +1,0 @@
-t-test probabilities algorithm s14 cacm February, 1968 Morris, J. t-test students t-statistic distribution function 5.5 ca680203 jb february 23, 1978 1:33 pm

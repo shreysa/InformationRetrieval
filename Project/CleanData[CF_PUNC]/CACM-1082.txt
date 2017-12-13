@@ -1,1 +1,0 @@
-gamma function with controlled accuracy algorithm 225 cacm May, 1964 Cyvin, S. J. Cyvin, B. N. ca640507 jb march 9, 1978 11:59 pm

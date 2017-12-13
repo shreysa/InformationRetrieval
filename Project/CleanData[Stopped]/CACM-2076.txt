@@ -1,1 +1,0 @@
-cubic splines uniform meshes simple procedure presented constructing cubic splines periodic nonperiodic uniform meshes arcs cubics suffice construct basis cardinal splines algorithm requires minimal storage computation permits easy trade-off cacm April, 1970 Nilson, E. N. simple spline representation cardinal splines uniform mesh splines 5.13 ca700408 jb february 13, 1978 2:51 pm

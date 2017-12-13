@@ -1,1 +1,0 @@
-coloring polygonal regions algorithm 364 z cacm December, 1969 Herriot, R. G. coloring polygonal regions coloring planar surfaces drawing pictures shading enclosed regions 4.9 ca691208 jb february 15, 1978 2:27 pm

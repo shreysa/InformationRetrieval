@@ -1,1 +1,0 @@
-subprograms curve fitting splines tension e2 algorithm a476 cacm April, 1974 Cline, A. K. interpolation splines contouring curve fitting 5.13 8.2 ca740415 jb january 17, 1978 4:48 pm

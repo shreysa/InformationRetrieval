@@ -1,1 +1,0 @@
-calculation of fourier integrals algorithm r418 cacm June, 1974 Piessens, R. ca740607 jb january 17, 1978 3:01 pm

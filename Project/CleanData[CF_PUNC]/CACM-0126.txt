@@ -1,1 +1,0 @@
-least squares fit by orthogonal polynomials algorithm 28 cacm November, 1960 Mackinney, J. G. ca601109 jb march 20, 1978 7:08 pm

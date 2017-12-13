@@ -1,1 +1,0 @@
-a note on the lu factorization of a symmetric matrix cacm May, 1975 Evans, D. J. Hatzopoulos, M. symmetric matrices factorization test matrices matrix inversion separable systems 5.14 ca750509 jb january 9, 1978 2:26 pm

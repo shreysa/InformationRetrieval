@@ -1,1 +1,0 @@
-calculation of confluent divided differences algorithm 167 cacm September, 1963 thacher jr H. C. ca630923 jb march 13, 1978 7:17 pm

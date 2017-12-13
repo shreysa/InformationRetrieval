@@ -1,1 +1,0 @@
-bandsolve algorithm r195 cacm December, 1972 Schuegraf, E. ca721218 dmm february 2, 1978 1:39 pm

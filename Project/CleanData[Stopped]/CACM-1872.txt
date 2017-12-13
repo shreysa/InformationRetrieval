@@ -1,1 +1,0 @@
-chebyshev interpolation quadrature formulas high degree errata cacm July, 1969 Salzer, H. E. ca690708 jb february 17, 1978 9:01

@@ -1,1 +1,0 @@
-rational interpolation continued fractions algorithm 18 cacm August, 1962 thacher jr H. C. ca620813 jb march 17, 1978 9:41 pm

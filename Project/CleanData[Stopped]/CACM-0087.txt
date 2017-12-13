@@ -1,1 +1,0 @@
-note method generating points uniformly n-dimensional spheres cacm April, 1959 Muller, M. E. ca590405 jb march 22, 1978 7:04 pm

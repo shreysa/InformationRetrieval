@@ -1,1 +1,0 @@
-solution overdetermined system equations l1 norm f4 algorithm a478 cacm June, 1974 Barrodale, I. Roberts, F. D. K. l1 approximation l1 norm overdetermined system equations linear programming simplex method 5.13 5.41 ca740604 jb january 17, 1978 3:25 pm

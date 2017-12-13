@@ -1,1 +1,0 @@
-expected time bounds selection selection algorithm presented shown efficient average theoretically practically number comparisons select ith smallest numbers nminin-ion lower bound 9 percent formula derived cacm March, 1975 Floyd, R. W. Rivest, R. L. selection computational complexity medians tournaments quantiles 5.30 5.39 ca750304 jb january 9, 1978 4:52 pm

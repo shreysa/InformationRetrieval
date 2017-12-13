@@ -1,1 +1,0 @@
-comments bit-sequencing ascii serial-by-bit data transmission cacm August, 1964 Bemer, R. W. Booth, J. ca640813 jb march 9, 1978 6:45 pm

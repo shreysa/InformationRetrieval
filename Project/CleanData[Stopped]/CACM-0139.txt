@@ -1,1 +1,0 @@
-binomial coefficients algorithm 19 cacm October, 1960 Kenyon, R. R. ca601009 jb march 20, 1978 8:14 pm

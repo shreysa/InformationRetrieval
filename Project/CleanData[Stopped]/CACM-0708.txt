@@ -1,1 +1,0 @@
-evaluation fresnel integrals algorithm 88, 89, 90 cacm October, 1963 Gray, M. D. ca631017jb march 13, 1978 5:45 pm

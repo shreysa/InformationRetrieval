@@ -1,1 +1,0 @@
-legendre functions kind real imaginary arguments algorithm 47 cacm August, 1963 George, R. ca630820 jb march 13, 1978 8:26 pm

@@ -1,1 +1,0 @@
-crout with pivoting algorithm 16 cacm September, 1960 Forsythe, G. E. ca600905 jb march 20, 1978 8:47 pm

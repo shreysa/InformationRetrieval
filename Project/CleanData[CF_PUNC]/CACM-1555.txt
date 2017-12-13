@@ -1,1 +1,0 @@
-symmetric polynomials algorithm 305 c1 cacm July, 1967 Bratley, P. McKay, J. K. S. ca670711a jb february 28, 1978 8:26 am

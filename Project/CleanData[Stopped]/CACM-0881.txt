@@ -1,1 +1,0 @@
-calculation confluent divided differences algorithm 167 cacm April, 1963 Kahan, W. Farkas, I. ca630410 jb march 14, 1978 12:21 pm

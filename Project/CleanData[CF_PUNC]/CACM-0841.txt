@@ -1,1 +1,0 @@
-shuttle sort algorithm 175 cacm June, 1963 Shaw, C. J. Trimble, T. N. ca630608 jb march 14, 1978 10:20 am

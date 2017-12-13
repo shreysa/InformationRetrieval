@@ -1,1 +1,0 @@
-multi-dimensional least-squares polynomial curve fitting cacm September, 1959 Lesh, F. H. ca590907 jb march 22, 1978 4:44 pm

@@ -1,1 +1,0 @@
-multiple-precision binary-to-decimal integer conversion addition subtraction cacm August, 1963 Keyes, D. F. Moore, D. P. ca630806 jb march 13, 1978 8:42 pm

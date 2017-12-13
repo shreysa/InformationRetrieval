@@ -1,1 +1,0 @@
-jacobi algorithm 85 cacm August, 1963 Naur, P. ca630824 jb march 13, 1978 8:21 pm

@@ -1,1 +1,0 @@
-note dangling algol 60 revisions algol 60 proposed eliminate ambiguous statements add convenience language discussion background problem sketch proof ambiguities removed included cacm August, 1963 kaupe jr A. F. ca630837 jb march 13, 1978 8:06 pm

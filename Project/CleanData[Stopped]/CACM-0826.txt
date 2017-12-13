@@ -1,1 +1,0 @@
-remarks fortran subroutines time series analysis cacm June, 1963 Bennett, C. M. ca630623 jb march 14, 1978 10:00

@@ -1,1 +1,0 @@
-incomplete beta ratio algorithm 179 s14 cacm June, 1967 Pike, M. C. Hill, I. D. ca670607c jb march 23, 1978 3:29 pm

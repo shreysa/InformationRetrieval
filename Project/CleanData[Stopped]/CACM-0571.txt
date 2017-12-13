@@ -1,1 +1,0 @@
-permutation lexicographical order algorithm 102 cacm June, 1962 Schrack, G. F. Shimrat, M. ca620614 jb march 17, 1978 9:25 pm

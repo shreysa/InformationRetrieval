@@ -1,1 +1,0 @@
-generation random permutations algorithm 362 g6 cacm November, 1969 Robson, J. M. permutation random permutation transposition 5.5 ca691110 jb february 15, 1978 12:15 pm

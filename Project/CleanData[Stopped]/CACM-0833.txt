@@ -1,1 +1,0 @@
-reduction symmetric bandmatrix triple diagonal form cacm June, 1963 Schwartz, H. R. ca630616jb march 14, 1978 10:09

@@ -1,1 +1,0 @@
-interpolation smooth curve fitting based local procedures e2 algorithm a433 cacm October, 1972 Akima, H. interpolation polynomial slope curve smooth curve fitting 5.13 ca721008 jb january 27, 19782:49 pm

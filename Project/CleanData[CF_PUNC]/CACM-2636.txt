@@ -1,1 +1,0 @@
-generation of random correlated normal variables algorithm r425 cacm June, 1974 Page, R. L. ca740610 jb january 17, 1978 2:57 pm

@@ -1,1 +1,0 @@
-hermite interpolation algorithm 210 cacm October, 1963 Dwyer, T. A. ca631025 jb march 13, 1978 5:27 pm

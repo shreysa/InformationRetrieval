@@ -1,1 +1,0 @@
-minit algorithm linear programming algorithm 333 cacm July, 1969 Messham, D. K. linear programming dual simplex method primal problem dual problem 5.41 ca690717 jb february 15, 1978 6:23 pm

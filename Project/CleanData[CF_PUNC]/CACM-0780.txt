@@ -1,1 +1,0 @@
-algorithm 42 invert alg107 gausss Method, alg120 inversion ii and gjr cacm August, 1963 Naur, P. ca630818 jb march 13, 1978 8:29 pm

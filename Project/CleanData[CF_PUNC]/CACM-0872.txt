@@ -1,1 +1,0 @@
-adaptive numerical integration by simpsons rule algorithm 145 cacm April, 1963 McKeeman, W. M. ca630419 jb march 14, 1978 11:49 am

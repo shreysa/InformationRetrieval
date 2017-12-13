@@ -1,1 +1,0 @@
-comment deadlock prevention method cacm September, 1972 Parnas, D. L. Habermann, A. N. multiprogramming time-sharing scheduling resource allocation deadlock interlock lockout deadly embrace knotting 3.72 4.32 6.20 ca720910 jb january 27, 1978 4:16 pm

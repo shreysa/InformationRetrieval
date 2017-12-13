@@ -1,1 +1,0 @@
-eigenvalues real symmetric matrix qr method algorithm 253 f2 cacm June, 1967 Welsch, J. H. ca670607d jb march 23, 1978 3:30 pm
